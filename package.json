@@ -1,5 +1,11 @@
 {
+  "scripts": {
+    "migrate:users:dry-run": "node scripts/migrate-users-to-firestore.js --dry-run",
+    "migrate:users": "node scripts/migrate-users-to-firestore.js"
+  },
   "dependencies": {
-    "firebase": "^12.13.0"
+    "@libsql/client": "^0.17.3",
+    "firebase": "^12.13.0",
+    "firebase-admin": "^13.10.0"
   }
 }

@@ -1,1 +1,5 @@
 node_modules/
+migration-export/
+.env
+service-account*.json
+firebase-service-account*.json

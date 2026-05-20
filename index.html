@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Users</title>
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="toolbar" aria-label="User controls">
+        <div class="title-group">
+          <p class="kicker">Firestore</p>
+          <h1>المستخدمون</h1>
+        </div>
+
+        <div class="actions">
+          <label class="search-box">
+            <span>بحث</span>
+            <input id="searchInput" type="search" placeholder="اسم، هاتف، نشاط، مفتاح..." autocomplete="off" />
+          </label>
+
+          <label class="select-box">
+            <span>نوع الحساب</span>
+            <select id="accountFilter">
+              <option value="all">الكل</option>
+              <option value="buyer">مشتري</option>
+              <option value="merchant">تاجر</option>
+              <option value="delivery">توصيل</option>
+              <option value="admin">إدارة</option>
+            </select>
+          </label>
+
+          <button id="refreshButton" class="icon-button" type="button" title="تحديث البيانات" aria-label="تحديث البيانات">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M21 12a9 9 0 0 1-15.2 6.5M3 12A9 9 0 0 1 18.2 5.5" />
+              <path d="M21 3v6h-6M3 21v-6h6" />
+            </svg>
+          </button>
+        </div>
+      </section>
+
+      <section class="stats-grid" aria-label="Statistics">
+        <article>
+          <span>المستخدمون</span>
+          <strong id="usersCount">0</strong>
+        </article>
+        <article>
+          <span>أرقام التواصل</span>
+          <strong id="contactsCount">0</strong>
+        </article>
+        <article>
+          <span>توكنات الإشعار</span>
+          <strong id="tokensCount">0</strong>
+        </article>
+        <article>
+          <span>التخصصات</span>
+          <strong id="specialtiesCount">0</strong>
+        </article>
+      </section>
+
+      <section class="content-grid">
+        <div class="table-panel">
+          <div class="table-status">
+            <span id="statusText">جار تحميل البيانات...</span>
+            <span id="visibleCount"></span>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>المستخدم</th>
+                  <th>الهاتف</th>
+                  <th>النشاط</th>
+                  <th>نوع الحساب</th>
+                  <th>تواصل</th>
+                  <th>تخصصات</th>
+                  <th></th>
+                </tr>
+              </thead>
+              <tbody id="usersTable"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <aside class="details-panel" aria-label="User details">
+          <div id="emptyDetails" class="empty-state">
+            <strong>اختر مستخدمًا</strong>
+            <span>ستظهر البيانات المرتبطة هنا.</span>
+          </div>
+          <div id="userDetails" class="details-body" hidden></div>
+        </aside>
+      </section>
+    </main>
+
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>
