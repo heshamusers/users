@@ -29,7 +29,7 @@ Every database command is structured as a standard HTTP request (`GET`, `POST`, 
 
 ## 2. Predefined Commands & API Endpoints
 
-Below are the exact HTTP configurations and cURL command examples representing the pre-defined operations for the five database collections.
+Below are the exact HTTP configurations and cURL command examples representing the pre-defined operations for the six database collections.
 
 ### A. Users Collection (`/users`)
 *Stores core user profiles. The document ID is the unique `user_key` (e.g., `dl14v1k7`).*
@@ -134,6 +134,37 @@ Below are the exact HTTP configurations and cURL command examples representing t
 * **Command: Get All Notification Tokens**
   ```bash
   curl -X GET "https://firestore.googleapis.com/v1/projects/users-baad9/databases/(default)/documents/user_tokens"
+  ```
+
+---
+
+### F. Merchant Ratings Collection (`/merchant_ratings_v2`)
+*Stores merchant rating records. Each document contains `merchant_user_key`, `actor_user_key`, `actor_name`, `rating`, `note`, `created_at`, and `updated_at`.*
+
+* **Command: Get All Merchant Ratings**
+  ```bash
+  curl -X GET "https://firestore.googleapis.com/v1/projects/users-baad9/databases/(default)/documents/merchant_ratings_v2"
+  ```
+
+* **Command: Create/Update Merchant Rating**
+  ```bash
+  curl -X PATCH "https://firestore.googleapis.com/v1/projects/users-baad9/databases/(default)/documents/merchant_ratings_v2/mrt_example_1" \
+       -H "Content-Type: application/json" \
+       -d '{
+         "fields": {
+           "id": { "stringValue": "mrt_example_1" },
+           "merchant_user_key": { "stringValue": "merchant_user_key" },
+           "actor_user_key": { "stringValue": "rater_user_key" },
+           "actor_name": { "stringValue": "Rater Name" },
+           "rating": { "integerValue": "5" },
+           "note": { "stringValue": "Excellent merchant" }
+         }
+       }'
+  ```
+
+* **Command: Delete Merchant Rating**
+  ```bash
+  curl -X DELETE "https://firestore.googleapis.com/v1/projects/users-baad9/databases/(default)/documents/merchant_ratings_v2/mrt_example_1"
   ```
 
 ---
