@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "db:backup": "node backup.js"
+  },
   "dependencies": {
     "firebase": "^12.13.0"
   }

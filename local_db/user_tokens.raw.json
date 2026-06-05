@@ -1,0 +1,1093 @@
+[
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/12097",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-01-08 20:30:01"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "user_key": {
+        "stringValue": "q2pnmi"
+      },
+      "id": {
+        "integerValue": "12097"
+      },
+      "fcm_token": {
+        "stringValue": "c1dvb7qnSmOBRUIB3NN1jt:APA91bGwMegKYwPDjjFbiHcHxGzZZgQPV5Xm-aahQ0q6yr-Ela9qqEuO8SCd07fMrAsRxjF4SbwJFzVTFLD9PlDFAPKsoWa0MLOC0Ix1rkzyyrwAfvc9BdY"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:50.197Z"
+            },
+            "source": {
+              "stringValue": "turso"
+            },
+            "table": {
+              "stringValue": "user_tokens"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:50.348671Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/12100",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-01-08 22:35:04"
+      },
+      "user_key": {
+        "stringValue": "b59c02"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "id": {
+        "integerValue": "12100"
+      },
+      "fcm_token": {
+        "stringValue": "fv26sdigSgykE-TJJP3GpZ:APA91bHirW0Ciq_2wn0raMr212YhTOcNuVONa13XjZ2GyVsT7lNqGanhFahnSk88ZXbjT23LDopFgweyGwI28GMQeYSfgDnqxjxKzMEX7s4kALjZU7cOzUg"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "source": {
+              "stringValue": "turso"
+            },
+            "table": {
+              "stringValue": "user_tokens"
+            },
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:50.401Z"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:50.555182Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/12488",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-01-09 21:43:32"
+      },
+      "id": {
+        "integerValue": "12488"
+      },
+      "user_key": {
+        "stringValue": "7an5m8"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "fcm_token": {
+        "stringValue": "fi-pYFe-RjGcPnqD0FSISA:APA91bHUXTyMVMp8NAB37uTBAovlKA0MMCwHSS6Vspf9KRnS3epECm7xe_qe_lwKSBkt-zZKcGtIGFVVnv_hjeSWmllQSOJy6_5b-A7-bl0hFjVEQwuKTQQ"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:50.608Z"
+            },
+            "table": {
+              "stringValue": "user_tokens"
+            },
+            "source": {
+              "stringValue": "turso"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:50.767520Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/12643",
+    "fields": {
+      "id": {
+        "integerValue": "12643"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "user_key": {
+        "stringValue": "ow0bj2"
+      },
+      "created_at": {
+        "stringValue": "2026-01-09 23:52:02"
+      },
+      "fcm_token": {
+        "stringValue": "ddiVOC2uTIu-n2ssz_1Sx7:APA91bHRuoc8Chj-znylywTxLD1Zo_KXFlQC26Bt95xzH0OsirWwdZWCRFMOL1YlesZ78JPcWUdQ_1tPKNxuvgRheZ_S4PP69GLnYsKfJ88ltqunjyUOJGA"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "table": {
+              "stringValue": "user_tokens"
+            },
+            "source": {
+              "stringValue": "turso"
+            },
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:50.820Z"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:50.974717Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/12744",
+    "fields": {
+      "id": {
+        "integerValue": "12744"
+      },
+      "user_key": {
+        "stringValue": "h149hi9e"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "created_at": {
+        "stringValue": "2026-01-10 12:51:17"
+      },
+      "fcm_token": {
+        "stringValue": "ffU6o5quR9u9uvPKKYSnm-:APA91bHs1M8xOyH5M_FTXOt1a-CRLy6XmsblQPb86NUNQ5ON6-ZCLRGYpmgLEKm4QgrIyzn610q3V0M9SEwp_CLFAulye9gJBM9nmkUAaQm1Na2FsWa4Tr0"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "table": {
+              "stringValue": "user_tokens"
+            },
+            "source": {
+              "stringValue": "turso"
+            },
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:51.028Z"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:51.185502Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/12747",
+    "fields": {
+      "fcm_token": {
+        "stringValue": "eE_niEAVRq-4wxDkhrfK19:APA91bHPugnEx6OwvDXWq32zdFWfYtuxipHC_ZnxYNmXwLh6pqhzcRU9YJlEgAunIW0aepoi6ZrnNZU3ovf9EGxd9oM8DqIFCda4CuMj9-RIoADdBkacomM"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:51.239Z"
+            },
+            "table": {
+              "stringValue": "user_tokens"
+            },
+            "source": {
+              "stringValue": "turso"
+            }
+          }
+        }
+      },
+      "created_at": {
+        "stringValue": "2026-01-10 19:23:22"
+      },
+      "user_key": {
+        "stringValue": "4hw5su"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "id": {
+        "integerValue": "12747"
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:51.400284Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/12756",
+    "fields": {
+      "id": {
+        "integerValue": "12756"
+      },
+      "user_key": {
+        "stringValue": "olxdyf"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "created_at": {
+        "stringValue": "2026-01-10 22:16:10"
+      },
+      "fcm_token": {
+        "stringValue": "cgu1DdmDRDuXj7TyjSYxUo:APA91bFfywekgr7fd4KunqPn0KHgw3NOvccKHJTYR4Lv79rSBlGEig1byEc2Fufjr5pQGu-fZwWXDXyXqWBZTJBKf9CxEjVrSwFU4YH9tz0rjBffhkPvvUw"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:51.454Z"
+            },
+            "table": {
+              "stringValue": "user_tokens"
+            },
+            "source": {
+              "stringValue": "turso"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:51.608707Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/13688",
+    "fields": {
+      "fcm_token": {
+        "stringValue": "fcVMoy1KRceU2mKO9Lszhp:APA91bEwfGGPPhstn2XFHsPTQ76NGp_xZ3gERo6VdVvsAzdZud_6Cj42E-eFE1Me6xU8UdI1ssOCPZ6H2rFH3yiQXg_Z9v5Loz4ozwzudnnKeqVev3jMCd4"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:51.662Z"
+            },
+            "table": {
+              "stringValue": "user_tokens"
+            },
+            "source": {
+              "stringValue": "turso"
+            }
+          }
+        }
+      },
+      "created_at": {
+        "stringValue": "2026-01-19 17:18:48"
+      },
+      "user_key": {
+        "stringValue": "laji9w"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "id": {
+        "integerValue": "13688"
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:51.815795Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/13690",
+    "fields": {
+      "fcm_token": {
+        "stringValue": "dq5t4rXbRFWg-v_H2ulNbU:APA91bEUOUnm1PWOZygMyhL1qX8_oHWxIxrL9msvYiE50owd6Lknqe08Rj1dtJGP4zD0tWU-uY7Y0kLFviayjlMQtZHM6GDv8EP8I6llpH8LlmqinNcSA4M"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "table": {
+              "stringValue": "user_tokens"
+            },
+            "source": {
+              "stringValue": "turso"
+            },
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:51.868Z"
+            }
+          }
+        }
+      },
+      "created_at": {
+        "stringValue": "2026-01-19 20:18:10"
+      },
+      "id": {
+        "integerValue": "13690"
+      },
+      "user_key": {
+        "stringValue": "fyrknc"
+      },
+      "platform": {
+        "stringValue": "android"
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:52.020774Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/13691",
+    "fields": {
+      "fcm_token": {
+        "stringValue": "eZGTVP8zTWKKv235LFj1tS:APA91bFSKVYcz_zpON-9PinJRpuiEwG8hjNEwlh5BTTYpZnyCHU2B4UzjR_9nSrhNaMEIqRfaGAK6j8u9xjPyQWXrkNATKw0W6Uf14nMnw96ISi9EJiG8Ok"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:52.073Z"
+            },
+            "table": {
+              "stringValue": "user_tokens"
+            },
+            "source": {
+              "stringValue": "turso"
+            }
+          }
+        }
+      },
+      "created_at": {
+        "stringValue": "2026-01-20 16:10:27"
+      },
+      "user_key": {
+        "stringValue": "8jrs71"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "id": {
+        "integerValue": "13691"
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:52.226694Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/13752",
+    "fields": {
+      "id": {
+        "integerValue": "13752"
+      },
+      "user_key": {
+        "stringValue": "b2u6ks"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "created_at": {
+        "stringValue": "2026-01-22 14:31:29"
+      },
+      "fcm_token": {
+        "stringValue": "cudxX0vVTuevvxQfV5vMtM:APA91bFcH_e3JtrkhK2UmsFjgHsOpMIvj6AGVeXnJljRSfLwK_OnOB3viYzsuW0a04qzniepwZizoFfYVsVY8SEnjgvR_mjhNTy_GRxt4ewNfHpqlsqgB3I"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:52.279Z"
+            },
+            "source": {
+              "stringValue": "turso"
+            },
+            "table": {
+              "stringValue": "user_tokens"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:52.435120Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/14530",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-01-26 16:21:09"
+      },
+      "platform": {
+        "stringValue": "web"
+      },
+      "user_key": {
+        "stringValue": "dp2en5"
+      },
+      "id": {
+        "integerValue": "14530"
+      },
+      "fcm_token": {
+        "stringValue": "fWOLd0VuexyfbhpIJM8aF-:APA91bHYYtnifZbL0VeYeB7E5ESnCjru3EmI_Dlk5DZM4BS7Gejl7J-qTaPem5oq-H9azFpHIiapqflMbkgIG4lpVQQEfY-YgCOwSaymjAL9UjLR7ABh0z0"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:52.489Z"
+            },
+            "source": {
+              "stringValue": "turso"
+            },
+            "table": {
+              "stringValue": "user_tokens"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:52.645910Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/17992",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-03-21 15:57:33"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "user_key": {
+        "stringValue": "qy79r49s"
+      },
+      "id": {
+        "integerValue": "17992"
+      },
+      "fcm_token": {
+        "stringValue": "fvmd0g5QQBidPUfV4btoXi:APA91bEwiyvFPh8_k_TPudtOtVD6Hj1QeX-TYkJwQGFX5ejZ3wQc5OzO5m6XmqiPXZJdFF4HTeKDpLZVeO-xMow2Xfglsn2sfqQFhZB0dDlWvy_mh0-Hdx4"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "table": {
+              "stringValue": "user_tokens"
+            },
+            "source": {
+              "stringValue": "turso"
+            },
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:52.699Z"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:52.854797Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/18489",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-03-29 00:42:13"
+      },
+      "id": {
+        "integerValue": "18489"
+      },
+      "user_key": {
+        "stringValue": "otd7o3"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "fcm_token": {
+        "stringValue": "ctu_JpesT7mzn6P_H0fzgF:APA91bGLLuY95oAcaUXB0NNthEaJZa8tLAi7ARtuRAWdu1yv1FrcflHt_p0H3uTqNxdsuNQsvPh3KtQuj3hxiIXgNiq71h84IbqU7eoFs96xc4nexgKppdQ"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:52.908Z"
+            },
+            "source": {
+              "stringValue": "turso"
+            },
+            "table": {
+              "stringValue": "user_tokens"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:53.061798Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/19892",
+    "fields": {
+      "fcm_token": {
+        "stringValue": "c8sTJtpZRvetury5UTWqMe:APA91bGlddRR6N3nowVGxgNEvR8EZZIMnQbmUkZ5bUeMb4ZKDRLpbrC6ybdt-iFQLLfW0k1lM_DObJGy9lQPueL1lQBTsTHXL-VKpKuy9PBXwnWpJz_3l7I"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:53.114Z"
+            },
+            "source": {
+              "stringValue": "turso"
+            },
+            "table": {
+              "stringValue": "user_tokens"
+            }
+          }
+        }
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "user_key": {
+        "stringValue": "q62uuv"
+      },
+      "id": {
+        "integerValue": "19892"
+      },
+      "created_at": {
+        "stringValue": "2026-05-02 15:59:08"
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:53.269308Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/6015",
+    "fields": {
+      "fcm_token": {
+        "stringValue": "cmeTitUbThyrir27MqGgqD:APA91bFhsJKLHJ8ZoisUpA6uaqwH04aQvJOKPkaPqWQRPhShHef7eWa6_5n1tf00dJmsacV-vgOcyspWKgKvFMDjUJ-_K_ex9E2XG_NjCgcchg0p009auMQ"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:49.548Z"
+            },
+            "table": {
+              "stringValue": "user_tokens"
+            },
+            "source": {
+              "stringValue": "turso"
+            }
+          }
+        }
+      },
+      "id": {
+        "integerValue": "6015"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "user_key": {
+        "stringValue": "cti783"
+      },
+      "created_at": {
+        "stringValue": "2025-12-27 10:55:47"
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:49.723922Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/6858",
+    "fields": {
+      "created_at": {
+        "stringValue": "2025-12-29 19:53:59"
+      },
+      "id": {
+        "integerValue": "6858"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "user_key": {
+        "stringValue": "1t19rx"
+      },
+      "fcm_token": {
+        "stringValue": "fd5efLWYTwaQRnS7LuQdUe:APA91bHpCMrVTcXEPhyo_tWKopxtFyvChKAonA6I5W4ofq0D03T4tDNXEVKZRqArqQ3WwlESE6-pQkJW-1erliH3qN4n1z63t81ETwkDBovTJsXEHKmmwUc"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "table": {
+              "stringValue": "user_tokens"
+            },
+            "source": {
+              "stringValue": "turso"
+            },
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:49.777Z"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:49.932213Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/7606",
+    "fields": {
+      "fcm_token": {
+        "stringValue": "edmYsff4Nu8WAEf3PmrK82:APA91bFpVJ0XxgzWkzM2wc___oIiFrb5ZAzrQhrEknaFFw3FFOE_AiDf5if3gALMWXY_H8acQrOTA7fn6ZHkL5f7VPGNhSWf_egjDsFx7A26Qk6MpbCE1BA"
+      },
+      "_legacy": {
+        "mapValue": {
+          "fields": {
+            "migratedAt": {
+              "stringValue": "2026-05-21T02:26:49.985Z"
+            },
+            "source": {
+              "stringValue": "turso"
+            },
+            "table": {
+              "stringValue": "user_tokens"
+            }
+          }
+        }
+      },
+      "id": {
+        "integerValue": "7606"
+      },
+      "user_key": {
+        "stringValue": "zxxu28"
+      },
+      "platform": {
+        "stringValue": "web"
+      },
+      "created_at": {
+        "stringValue": "2025-12-31 17:28:02"
+      }
+    },
+    "createTime": "2026-05-20T04:31:03.777340Z",
+    "updateTime": "2026-05-21T02:26:50.144205Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_194a704f-3865-41c8-8f84-16975c1410a2",
+    "fields": {
+      "id": {
+        "stringValue": "token_194a704f-3865-41c8-8f84-16975c1410a2"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      },
+      "created_at": {
+        "stringValue": "2026-06-04T22:47:33.971Z"
+      },
+      "fcm_token": {
+        "stringValue": "fWK99RwCQo-vLbYBJs5o1p:APA91bHufBQNAUVjSkfTU-KOBonFGJlTbl4Gzzc1dXcNcQAYvKMqiJ0cT5YClpV-3oe9jPIlkeQ0yfaKQbHrOqrj233n6wjBEPIAAFzmbCSQI-CmPyj0nxY"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T22:47:33.971Z"
+      }
+    },
+    "createTime": "2026-06-04T22:47:35.990006Z",
+    "updateTime": "2026-06-04T22:47:35.990006Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_19bade07-0a3b-4622-83a0-38e8d310354e",
+    "fields": {
+      "fcm_token": {
+        "stringValue": "dVqC32UnSCWjCUVwAHAHtW:APA91bEoJKIsyfZxNJrN-jctswyb2RjS38uN_J6gvHEhpakNfz-0uxEbLjkaJHJiXtkyjc4aMF01y2RiH5SDX7uJS_EEfJQ6oO5G06dMULF5iICVSrRX4-s"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-05T04:35:11.745Z"
+      },
+      "created_at": {
+        "stringValue": "2026-06-05T04:35:11.745Z"
+      },
+      "user_key": {
+        "stringValue": "4yku8b"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "id": {
+        "stringValue": "token_19bade07-0a3b-4622-83a0-38e8d310354e"
+      }
+    },
+    "createTime": "2026-06-05T03:36:12.028609Z",
+    "updateTime": "2026-06-05T03:36:12.028609Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_44d23137-af2b-49bd-afd2-619911a9eeea",
+    "fields": {
+      "user_key": {
+        "stringValue": "m9wzzm"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "id": {
+        "stringValue": "token_44d23137-af2b-49bd-afd2-619911a9eeea"
+      },
+      "created_at": {
+        "stringValue": "2026-06-04T17:43:46.023Z"
+      },
+      "fcm_token": {
+        "stringValue": "dd176RDNRpW58eQKdeWIsR:APA91bHVpVgmLCiPYCocoYtOlboQvJR6AZhHV1e_7B1Nb06AHdl7mcRJ7dW5Ybi9NioOBSrGEvuGCQLmSPGB3aabJLEw9KlVnKs_C5cbEAviSy4NIYQdMhI"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T17:43:46.023Z"
+      }
+    },
+    "createTime": "2026-06-04T17:43:46.625095Z",
+    "updateTime": "2026-06-04T17:43:46.625095Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_44e59196-0e5b-40fe-be54-a9b9002ebd76",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-06-04T22:47:33.972Z"
+      },
+      "id": {
+        "stringValue": "token_44e59196-0e5b-40fe-be54-a9b9002ebd76"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      },
+      "fcm_token": {
+        "stringValue": "fWK99RwCQo-vLbYBJs5o1p:APA91bHufBQNAUVjSkfTU-KOBonFGJlTbl4Gzzc1dXcNcQAYvKMqiJ0cT5YClpV-3oe9jPIlkeQ0yfaKQbHrOqrj233n6wjBEPIAAFzmbCSQI-CmPyj0nxY"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T22:47:33.972Z"
+      }
+    },
+    "createTime": "2026-06-04T22:47:35.992546Z",
+    "updateTime": "2026-06-04T22:47:35.992546Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_49294ce7-cc52-4aec-84ea-dec92d346e90",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-06-04T17:43:46.024Z"
+      },
+      "user_key": {
+        "stringValue": "m9wzzm"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "id": {
+        "stringValue": "token_49294ce7-cc52-4aec-84ea-dec92d346e90"
+      },
+      "fcm_token": {
+        "stringValue": "dd176RDNRpW58eQKdeWIsR:APA91bHVpVgmLCiPYCocoYtOlboQvJR6AZhHV1e_7B1Nb06AHdl7mcRJ7dW5Ybi9NioOBSrGEvuGCQLmSPGB3aabJLEw9KlVnKs_C5cbEAviSy4NIYQdMhI"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T17:43:46.024Z"
+      }
+    },
+    "createTime": "2026-06-04T17:43:46.736125Z",
+    "updateTime": "2026-06-04T17:43:46.736125Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_4eec6275-f7d6-48d4-8901-1f8ca434952d",
+    "fields": {
+      "id": {
+        "stringValue": "token_4eec6275-f7d6-48d4-8901-1f8ca434952d"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "created_at": {
+        "stringValue": "2026-06-04T22:47:33.984Z"
+      },
+      "fcm_token": {
+        "stringValue": "fWK99RwCQo-vLbYBJs5o1p:APA91bHufBQNAUVjSkfTU-KOBonFGJlTbl4Gzzc1dXcNcQAYvKMqiJ0cT5YClpV-3oe9jPIlkeQ0yfaKQbHrOqrj233n6wjBEPIAAFzmbCSQI-CmPyj0nxY"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T22:47:33.984Z"
+      }
+    },
+    "createTime": "2026-06-04T22:47:35.999999Z",
+    "updateTime": "2026-06-04T22:47:35.999999Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_6986dd87-04ba-4c09-b615-350da2acef8f",
+    "fields": {
+      "fcm_token": {
+        "stringValue": "fWK99RwCQo-vLbYBJs5o1p:APA91bHufBQNAUVjSkfTU-KOBonFGJlTbl4Gzzc1dXcNcQAYvKMqiJ0cT5YClpV-3oe9jPIlkeQ0yfaKQbHrOqrj233n6wjBEPIAAFzmbCSQI-CmPyj0nxY"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T22:47:33.979Z"
+      },
+      "created_at": {
+        "stringValue": "2026-06-04T22:47:33.979Z"
+      },
+      "id": {
+        "stringValue": "token_6986dd87-04ba-4c09-b615-350da2acef8f"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      }
+    },
+    "createTime": "2026-06-04T22:47:35.992311Z",
+    "updateTime": "2026-06-04T22:47:35.992311Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_75111ec0-7340-4c36-b4ba-93582b948473",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-06-05T04:35:11.957Z"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "user_key": {
+        "stringValue": "4yku8b"
+      },
+      "id": {
+        "stringValue": "token_75111ec0-7340-4c36-b4ba-93582b948473"
+      },
+      "fcm_token": {
+        "stringValue": "dVqC32UnSCWjCUVwAHAHtW:APA91bEoJKIsyfZxNJrN-jctswyb2RjS38uN_J6gvHEhpakNfz-0uxEbLjkaJHJiXtkyjc4aMF01y2RiH5SDX7uJS_EEfJQ6oO5G06dMULF5iICVSrRX4-s"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-05T04:35:11.957Z"
+      }
+    },
+    "createTime": "2026-06-05T03:36:12.247409Z",
+    "updateTime": "2026-06-05T03:36:12.247409Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_75c2ff9a-ce33-4b7b-8a1e-e011a5987a2c",
+    "fields": {
+      "platform": {
+        "stringValue": "android"
+      },
+      "user_key": {
+        "stringValue": "wtlrmg"
+      },
+      "id": {
+        "stringValue": "token_75c2ff9a-ce33-4b7b-8a1e-e011a5987a2c"
+      },
+      "created_at": {
+        "stringValue": "2026-06-04T22:35:17.168Z"
+      },
+      "fcm_token": {
+        "stringValue": "dlMejQkhR3uV4XeGvoXNn7:APA91bHL0CvOT2X6lImQcr7uEBp_TKOos4gBUckEGul3ZOsimDjkmOdK8CAU9FAyeKTon2AAE6985wPVXQ8ArvvP83W1ugfRkIMHkI7Pkh5xnD2XAt1ZkoQ"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T22:35:17.168Z"
+      }
+    },
+    "createTime": "2026-06-04T21:36:14.830482Z",
+    "updateTime": "2026-06-04T21:36:14.830482Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_8010a89e-3ead-4e79-b4f5-37a27bd3ebe2",
+    "fields": {
+      "fcm_token": {
+        "stringValue": "eBiQX9m6RcOqwfDWCg9t8q:APA91bGXCAeTDKlstDTxtaCvMp3WPSQalicBtPfRAjYQUlCYGwmFRcVgRa1FfKOxevovE11CAF9UnK2M5LpPu16F04QMBApTCbtGUoD5NkWmXt_2sjz9rPY"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-05T05:34:24.933Z"
+      },
+      "created_at": {
+        "stringValue": "2026-06-05T05:34:24.933Z"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "user_key": {
+        "stringValue": "682dri6b"
+      },
+      "id": {
+        "stringValue": "token_8010a89e-3ead-4e79-b4f5-37a27bd3ebe2"
+      }
+    },
+    "createTime": "2026-06-05T05:34:24.206486Z",
+    "updateTime": "2026-06-05T05:34:24.206486Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_84d5b983-a367-4da5-bacb-4de533f84dda",
+    "fields": {
+      "fcm_token": {
+        "stringValue": "dlMejQkhR3uV4XeGvoXNn7:APA91bHL0CvOT2X6lImQcr7uEBp_TKOos4gBUckEGul3ZOsimDjkmOdK8CAU9FAyeKTon2AAE6985wPVXQ8ArvvP83W1ugfRkIMHkI7Pkh5xnD2XAt1ZkoQ"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T22:35:16.997Z"
+      },
+      "id": {
+        "stringValue": "token_84d5b983-a367-4da5-bacb-4de533f84dda"
+      },
+      "user_key": {
+        "stringValue": "wtlrmg"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "created_at": {
+        "stringValue": "2026-06-04T22:35:16.997Z"
+      }
+    },
+    "createTime": "2026-06-04T21:36:14.659672Z",
+    "updateTime": "2026-06-04T21:36:14.659672Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_a31d5d88-ccf4-4a3a-b5da-8804e4692e95",
+    "fields": {
+      "platform": {
+        "stringValue": "android"
+      },
+      "user_key": {
+        "stringValue": "4yku8b"
+      },
+      "id": {
+        "stringValue": "token_a31d5d88-ccf4-4a3a-b5da-8804e4692e95"
+      },
+      "created_at": {
+        "stringValue": "2026-06-05T04:35:11.934Z"
+      },
+      "fcm_token": {
+        "stringValue": "dVqC32UnSCWjCUVwAHAHtW:APA91bEoJKIsyfZxNJrN-jctswyb2RjS38uN_J6gvHEhpakNfz-0uxEbLjkaJHJiXtkyjc4aMF01y2RiH5SDX7uJS_EEfJQ6oO5G06dMULF5iICVSrRX4-s"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-05T04:35:11.934Z"
+      }
+    },
+    "createTime": "2026-06-05T03:36:12.228142Z",
+    "updateTime": "2026-06-05T03:36:12.228142Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_b86aa26c-95bd-4f09-9b4d-e99f50eca0c1",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-06-05T04:35:11.930Z"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "user_key": {
+        "stringValue": "4yku8b"
+      },
+      "id": {
+        "stringValue": "token_b86aa26c-95bd-4f09-9b4d-e99f50eca0c1"
+      },
+      "fcm_token": {
+        "stringValue": "dVqC32UnSCWjCUVwAHAHtW:APA91bEoJKIsyfZxNJrN-jctswyb2RjS38uN_J6gvHEhpakNfz-0uxEbLjkaJHJiXtkyjc4aMF01y2RiH5SDX7uJS_EEfJQ6oO5G06dMULF5iICVSrRX4-s"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-05T04:35:11.930Z"
+      }
+    },
+    "createTime": "2026-06-05T03:36:12.249127Z",
+    "updateTime": "2026-06-05T03:36:12.249127Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_bde8a01f-67bf-4b25-b198-5b42b2c01c9c",
+    "fields": {
+      "fcm_token": {
+        "stringValue": "dlMejQkhR3uV4XeGvoXNn7:APA91bHL0CvOT2X6lImQcr7uEBp_TKOos4gBUckEGul3ZOsimDjkmOdK8CAU9FAyeKTon2AAE6985wPVXQ8ArvvP83W1ugfRkIMHkI7Pkh5xnD2XAt1ZkoQ"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T22:35:17.219Z"
+      },
+      "user_key": {
+        "stringValue": "wtlrmg"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "id": {
+        "stringValue": "token_bde8a01f-67bf-4b25-b198-5b42b2c01c9c"
+      },
+      "created_at": {
+        "stringValue": "2026-06-04T22:35:17.219Z"
+      }
+    },
+    "createTime": "2026-06-04T21:36:14.882050Z",
+    "updateTime": "2026-06-04T21:36:14.882050Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_e0300aa3-ac23-4b04-b874-f3cbea108202",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-06-04T22:47:34.122Z"
+      },
+      "id": {
+        "stringValue": "token_e0300aa3-ac23-4b04-b874-f3cbea108202"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "fcm_token": {
+        "stringValue": "fWK99RwCQo-vLbYBJs5o1p:APA91bHufBQNAUVjSkfTU-KOBonFGJlTbl4Gzzc1dXcNcQAYvKMqiJ0cT5YClpV-3oe9jPIlkeQ0yfaKQbHrOqrj233n6wjBEPIAAFzmbCSQI-CmPyj0nxY"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T22:47:34.122Z"
+      }
+    },
+    "createTime": "2026-06-04T22:47:36.116249Z",
+    "updateTime": "2026-06-04T22:47:36.116249Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_f4b54a7a-8bb2-48ee-9cea-55ef415340c5",
+    "fields": {
+      "fcm_token": {
+        "stringValue": "fWK99RwCQo-vLbYBJs5o1p:APA91bHufBQNAUVjSkfTU-KOBonFGJlTbl4Gzzc1dXcNcQAYvKMqiJ0cT5YClpV-3oe9jPIlkeQ0yfaKQbHrOqrj233n6wjBEPIAAFzmbCSQI-CmPyj0nxY"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T22:47:34.132Z"
+      },
+      "created_at": {
+        "stringValue": "2026-06-04T22:47:34.132Z"
+      },
+      "platform": {
+        "stringValue": "android"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      },
+      "id": {
+        "stringValue": "token_f4b54a7a-8bb2-48ee-9cea-55ef415340c5"
+      }
+    },
+    "createTime": "2026-06-04T22:47:36.117519Z",
+    "updateTime": "2026-06-04T22:47:36.117519Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_tokens/token_f9868a46-207a-468d-88d3-360e8ec9b0fb",
+    "fields": {
+      "platform": {
+        "stringValue": "android"
+      },
+      "user_key": {
+        "stringValue": "wtlrmg"
+      },
+      "id": {
+        "stringValue": "token_f9868a46-207a-468d-88d3-360e8ec9b0fb"
+      },
+      "created_at": {
+        "stringValue": "2026-06-04T22:35:17.222Z"
+      },
+      "fcm_token": {
+        "stringValue": "dlMejQkhR3uV4XeGvoXNn7:APA91bHL0CvOT2X6lImQcr7uEBp_TKOos4gBUckEGul3ZOsimDjkmOdK8CAU9FAyeKTon2AAE6985wPVXQ8ArvvP83W1ugfRkIMHkI7Pkh5xnD2XAt1ZkoQ"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T22:35:17.222Z"
+      }
+    },
+    "createTime": "2026-06-04T21:36:14.880331Z",
+    "updateTime": "2026-06-04T21:36:14.880331Z"
+  }
+]

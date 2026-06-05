@@ -1,0 +1,6424 @@
+[
+  {
+    "_docId": "011vw3",
+    "business_category": {
+      "5": [
+        "1",
+        "2"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T23:51:26.696Z",
+    "Address": "ش الجيش بجوار ميدان الترعه امام اول السور",
+    "Password": "1170",
+    "system_role": "user",
+    "limitPackage": null,
+    "created_at": "2026-02-24T23:51:26.696Z",
+    "id": 146,
+    "business_name": "عبد المبدي للموبيليات",
+    "featured_items_data": null,
+    "location": "29.9918951, 32.4843479",
+    "is_delivery_eligible": 0,
+    "user_key": "011vw3",
+    "user_image": {
+      "cover": "cover_011vw3_0_1771977084708.webp",
+      "avatar": "avatar_011vw3_1771977083809.webp",
+      "covers": [
+        "cover_011vw3_0_1771977084708.webp"
+      ]
+    },
+    "account_type": 33,
+    "updated_at": "2026-02-24T23:51:26.696Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:12.397Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "username": "عبد المبدي للموبيليات",
+    "business_whatsapp": "+201000565489",
+    "phone": "+201000565489",
+    "links": {
+      "telegram": "",
+      "x": "",
+      "tiktok": "https://www.tiktok.com/@abd_el_mobdy?_r=1&_t=ZS-94CXuCO6rrR",
+      "facebook": "https://www.facebook.com/share/1ECGqmL3XR/",
+      "instagram": "",
+      "website": ""
+    },
+    "settings": {
+      "productRatingMode": "stars_comments",
+      "isDelivered": 0,
+      "ratingMode": "stars_comments",
+      "productRatingEnabled": true,
+      "ratingEnabled": true
+    },
+    "business_bio": "مفهوم جديد للاثاث"
+  },
+  {
+    "_docId": "10vj2l",
+    "business_name": "بيتزا الشيخ",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "location": "29.9917662, 32.4844323",
+    "featured_items_data": null,
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:08.531Z"
+    },
+    "user_key": "10vj2l",
+    "is_delivery_eligible": 0,
+    "business_bio": null,
+    "business_whatsapp": "+201016215132",
+    "_firestore_id": "10vj2l",
+    "last_login_at": "2026-05-24T13:19:55.918Z",
+    "business_sub_categories": null,
+    "limitPackage": 0,
+    "Password": "1154",
+    "id": 127,
+    "updated_at": "2026-05-24T13:19:55.918Z",
+    "account_type": 33,
+    "user_image": {
+      "covers": [
+        "cover_10vj2l_0_1771629226497.webp",
+        "cover_10vj2l_1_1771629227226.webp",
+        "cover_10vj2l_2_1771629227865.webp"
+      ],
+      "avatar": "avatar_10vj2l_1771629106866.webp",
+      "cover": "cover_10vj2l_0_1771629226497.webp"
+    },
+    "links": {
+      "instagram": "",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/183eraDQw6/",
+      "tiktok": "",
+      "x": "",
+      "telegram": ""
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "phone": "+201016215132",
+    "username": "بيتزا الشيخ",
+    "business_category": {
+      "2": [
+        "1",
+        "2"
+      ]
+    },
+    "Address": "الامل خلف مسجد المصطفى سوق الامل",
+    "system_role": "user"
+  },
+  {
+    "_docId": "1ehs5b",
+    "Address": "مساكن شل الجديده خلف سوبر ماركت الشيخ محمود",
+    "system_role": "user",
+    "Password": "158158ar",
+    "limitPackage": 0,
+    "business_category": {
+      "1": [
+        "1",
+        "3",
+        "4",
+        "6"
+      ],
+      "46": []
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T22:49:09.696Z",
+    "is_delivery_eligible": 1,
+    "user_image": {
+      "cover": "cover_1ehs5b_0_1771973818219.webp",
+      "avatar": "avatar_1ehs5b_1771973817222.webp",
+      "covers": [
+        "cover_1ehs5b_0_1771973818219.webp"
+      ]
+    },
+    "user_key": "1ehs5b",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:25:55.860Z"
+    },
+    "updated_at": "2026-04-06T12:46:39.830Z",
+    "account_type": 33,
+    "username": "Roro store",
+    "business_whatsapp": "+201228976257",
+    "phone": "+201285309816",
+    "links": {
+      "facebook": "https://www.facebook.com/share/18JFK4qFvc/",
+      "instagram": "",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "tiktok": ""
+    },
+    "settings": {
+      "productRatingEnabled": true,
+      "ratingMode": "stars_comments",
+      "ratingEnabled": true,
+      "productRatingMode": "stars_comments",
+      "isDelivered": 0
+    },
+    "business_bio": "ستور كامل للملابس الاطفالى والحريمى و الاكسسوارات",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 66,
+    "business_name": "Roro Store",
+    "featured_items_data": {
+      "featured_ids": [
+        "n129vj"
+      ]
+    },
+    "location": "29.9735448, 32.5260543"
+  },
+  {
+    "_docId": "1t19rx",
+    "business_name": null,
+    "id": 45,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "location": "29.9682236, 32.5133124",
+    "featured_items_data": null,
+    "updated_at": "2026-04-06T12:46:27.447Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:53.874Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "account_type": 33,
+    "user_image": null,
+    "user_key": "1t19rx",
+    "is_delivery_eligible": 0,
+    "business_bio": null,
+    "phone": "+201000023586",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_whatsapp": "+201000023586",
+    "username": "تجارة درويش للجملة",
+    "business_category": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "Address": "Hfnxnx",
+    "limitPackage": null,
+    "Password": "1111",
+    "system_role": "user"
+  },
+  {
+    "_docId": "1v376q",
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "1": [
+        "6"
+      ]
+    },
+    "Password": "1136",
+    "system_role": "user",
+    "limitPackage": 0,
+    "Address": "اونلاين",
+    "featured_items_data": null,
+    "location": "29.9919022, 32.4843418",
+    "business_name": "Dona Accessories",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 108,
+    "business_bio": null,
+    "username": "Dona",
+    "business_whatsapp": "+201030039179",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "instagram": "",
+      "website": "",
+      "facebook": "",
+      "tiktok": "",
+      "x": "",
+      "telegram": ""
+    },
+    "phone": "+201030039179",
+    "updated_at": "2026-04-06T12:46:35.360Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:03.076Z"
+    },
+    "account_type": 33,
+    "is_delivery_eligible": 0,
+    "user_image": "avatar_1v376q_1771391166094.webp",
+    "user_key": "1v376q"
+  },
+  {
+    "_docId": "1wv5xk",
+    "business_category": null,
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "Address": "Gggggg",
+    "limitPackage": null,
+    "Password": "5555",
+    "system_role": "user",
+    "id": 46,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": null,
+    "location": "29.9918775, 32.4845796",
+    "featured_items_data": null,
+    "user_key": "1wv5xk",
+    "user_image": null,
+    "is_delivery_eligible": 0,
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:27.626Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:54.106Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "phone": "+201234567890",
+    "business_whatsapp": "+201234567890",
+    "username": "Ggg",
+    "business_bio": null
+  },
+  {
+    "_docId": "23ekhz",
+    "business_category": {
+      "5": [
+        "1",
+        "2"
+      ]
+    },
+    "last_login_at": "2026-02-24T23:28:13.427Z",
+    "business_sub_categories": null,
+    "Address": "السلام 2 بجوار بجوار منتزة بدر",
+    "limitPackage": null,
+    "Password": "1169",
+    "system_role": "user",
+    "business_name": "MAZZAR FURNITURE",
+    "id": 145,
+    "created_at": "2026-02-24T23:28:13.427Z",
+    "location": "29.9918998, 32.484356",
+    "featured_items_data": null,
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:12.171Z"
+    },
+    "updated_at": "2026-02-24T23:28:13.427Z",
+    "account_type": 33,
+    "user_key": "23ekhz",
+    "user_image": {
+      "avatar": "avatar_23ekhz_1771975689994.webp",
+      "cover": "cover_23ekhz_0_1771975691091.webp",
+      "covers": [
+        "cover_23ekhz_0_1771975691091.webp",
+        "cover_23ekhz_1_1771975691643.webp"
+      ]
+    },
+    "is_delivery_eligible": 0,
+    "business_bio": "صرح الاثاث الدمياطى الاول فى السويس",
+    "phone": "+201005337695",
+    "links": {
+      "tiktok": "https://www.tiktok.com/@mazzar.furniture?_r=1&_t=ZS-94CWW1Q0RLI",
+      "x": "",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/mazzar.furniture?igsh=dG1mcmZ6aHh5Mmc=",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/1AzF48Ponf/"
+    },
+    "settings": {
+      "productRatingMode": "stars_comments",
+      "isDelivered": 0,
+      "ratingMode": "stars_comments",
+      "productRatingEnabled": true,
+      "ratingEnabled": true
+    },
+    "username": "Taha Mazzar",
+    "business_whatsapp": "+201005337695"
+  },
+  {
+    "_docId": "2gj6t8",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 118,
+    "business_name": "شهراذاد",
+    "featured_items_data": null,
+    "location": "29.9924704, 32.4844036",
+    "is_delivery_eligible": 0,
+    "user_key": "2gj6t8",
+    "user_image": "avatar_2gj6t8_1771410377638.webp",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:36.959Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:05.220Z"
+    },
+    "username": "Sharzad",
+    "business_whatsapp": "+201281285883",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "tiktok": "",
+      "x": "",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/shahrazad_event_planner/",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/1GcASQjXjX/"
+    },
+    "phone": "+201281285883",
+    "business_bio": "تنظيم المناسبات افراح وخطوبة  و بوكيهات الافراح",
+    "business_category": {
+      "17": [
+        "8",
+        "1",
+        "2"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "Address": "اونلاين",
+    "system_role": "user",
+    "Password": "1146",
+    "limitPackage": 0
+  },
+  {
+    "_docId": "3hpji2",
+    "Address": "اونلاين",
+    "system_role": "user",
+    "Password": "1160",
+    "limitPackage": null,
+    "business_category": {
+      "4": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "is_delivery_eligible": 0,
+    "user_image": {
+      "covers": [
+        "cover_3hpji2_0_1771891356802.webp"
+      ],
+      "avatar": "avatar_3hpji2_1771891355514.webp",
+      "cover": "cover_3hpji2_0_1771891356802.webp"
+    },
+    "user_key": "3hpji2",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:10.148Z"
+    },
+    "updated_at": "2026-02-24T19:12:46.103Z",
+    "account_type": 33,
+    "username": "مامت نغم",
+    "business_whatsapp": "+201026599618",
+    "phone": "+201026599618",
+    "links": {
+      "instagram": "",
+      "website": "",
+      "facebook": "https://www.facebook.com/groups/971864704256057/?ref=share&mibextid=NSMWBT",
+      "tiktok": "",
+      "x": "",
+      "telegram": ""
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_bio": "منتجات مغربيه وسودانيه",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 136,
+    "business_name": "مامت نغم للمنتجات المغربيه والسودانيه",
+    "featured_items_data": null,
+    "location": "29.9918996, 32.4843613"
+  },
+  {
+    "_docId": "3iztcc",
+    "Address": "٥ شارع عمر مكرم السويس",
+    "limitPackage": 0,
+    "system_role": "user",
+    "Password": "31174",
+    "business_category": {
+      "1": [
+        "6"
+      ],
+      "13": [
+        "2"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "user_image": "avatar_3iztcc_1771408842222.webp",
+    "user_key": "3iztcc",
+    "is_delivery_eligible": 0,
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:25:59.142Z"
+    },
+    "updated_at": "2026-04-06T12:46:31.032Z",
+    "account_type": 33,
+    "phone": "+201004446705",
+    "links": {
+      "tiktok": "",
+      "x": "",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/anaqty_handmade_accessories?igsh=dHVlODRubG1yNw==",
+      "website": "",
+      "facebook": "https://www.facebook.com/groups/236685703205237/?ref=share&mibextid=NSMWBT"
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "username": "Heba khamis",
+    "business_whatsapp": "+201004446705",
+    "business_bio": "اكسسوريز هاند ميد من اجود خامات النحاس والفضه",
+    "id": 82,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "Heba Khamis اكسسويز",
+    "location": "29.9649125, 32.5500864",
+    "featured_items_data": null
+  },
+  {
+    "_docId": "3l6yxe",
+    "Password": "1111",
+    "system_role": "user",
+    "limitPackage": null,
+    "Address": "السلام",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": {
+      "46": []
+    },
+    "business_whatsapp": "+20122222222222",
+    "username": "Hال",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "phone": "+20122222222222",
+    "business_bio": null,
+    "is_delivery_eligible": 1,
+    "user_key": "3l6yxe",
+    "user_image": null,
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:39.648Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:52.507Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "featured_items_data": null,
+    "location": "29.96291615690681, 32.55008697509766",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 39,
+    "business_name": null
+  },
+  {
+    "_docId": "3w2tzf",
+    "is_delivery_eligible": 0,
+    "user_key": "3w2tzf",
+    "user_image": "avatar_3w2tzf_1771391676720.webp",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:35.532Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:03.288Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "username": "Nobian skin care",
+    "business_whatsapp": "+201003292471",
+    "phone": "+201003292471",
+    "links": {
+      "facebook": "https://www.facebook.com/share/1CKdL5vwhP/",
+      "instagram": "",
+      "website": "",
+      "telegram": "",
+      "tiktok": "",
+      "x": ""
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_bio": "خصم خاص لمستخدم التطبيق",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 109,
+    "business_name": "Nobian Skin Care",
+    "featured_items_data": null,
+    "location": "29.9919088, 32.4843365",
+    "Address": "اول شارع النيل فوق كازيون",
+    "Password": "1137",
+    "system_role": "user",
+    "limitPackage": 0,
+    "business_category": {
+      "1": [
+        "1",
+        "4",
+        "6"
+      ],
+      "4": [
+        "1",
+        "2",
+        "3"
+      ],
+      "6": [
+        "7"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z"
+  },
+  {
+    "_docId": "48yerm",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:25:59.354Z"
+    },
+    "updated_at": "2026-04-06T12:46:31.452Z",
+    "account_type": 33,
+    "user_key": "48yerm",
+    "user_image": "avatar_48yerm_1771371832274.webp",
+    "is_delivery_eligible": 0,
+    "business_bio": null,
+    "links": {
+      "tiktok": "",
+      "x": "",
+      "telegram": "",
+      "instagram": "",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/1K3qSiHwcx/"
+    },
+    "settings": {
+      "isDelivered": 1
+    },
+    "phone": "+201068800672",
+    "username": "Elmarwa elg",
+    "business_whatsapp": "+201068800672",
+    "business_name": "المروة للاجهزة الكهربائية",
+    "id": 84,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "location": "29.9919098, 32.4843804",
+    "featured_items_data": null,
+    "Address": "الاربعين ش الجيش امام اول السور",
+    "limitPackage": 0,
+    "Password": "1113",
+    "system_role": "user",
+    "business_category": {
+      "3": [
+        "8"
+      ]
+    },
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null
+  },
+  {
+    "_docId": "4bej4a",
+    "business_sub_categories": null,
+    "last_login_at": "2026-04-10T11:25:02.030Z",
+    "business_category": null,
+    "limitPackage": 0,
+    "Password": "1111",
+    "system_role": "user",
+    "Address": "الابيبايباي",
+    "location": "29.964127969535635, 32.548542022705085",
+    "featured_items_data": null,
+    "id": 155,
+    "created_at": "2026-04-10T11:25:02.030Z",
+    "business_name": null,
+    "phone": "+201026546556",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_whatsapp": "+2010265465599",
+    "username": "ليسليبل",
+    "business_bio": null,
+    "user_image": {
+      "covers": [],
+      "cover": null,
+      "avatar": "avatar_4bej4a_1775820300935.webp"
+    },
+    "user_key": "4bej4a",
+    "is_delivery_eligible": 0,
+    "account_type": 1,
+    "updated_at": "2026-04-10T11:25:02.030Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:14.357Z",
+      "table": "users",
+      "source": "turso"
+    }
+  },
+  {
+    "_docId": "4dpz993e",
+    "account_type": 33,
+    "updated_at": "2026-06-02T19:54:06.194Z",
+    "user_image": null,
+    "username": "mira hossam",
+    "phone": "+201280936579",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "id": 4,
+    "Address": "السلام",
+    "system_role": "user",
+    "business_category": null,
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:50.354Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "is_delivery_eligible": 0,
+    "user_key": "4dpz993e",
+    "business_bio": null,
+    "business_whatsapp": "+201280936579",
+    "business_name": null,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "featured_items_data": null,
+    "location": "29.9918726, 32.4845646",
+    "Password": "1111",
+    "limitPackage": 1000,
+    "_firestore_id": "4dpz993e",
+    "last_login_at": "2026-06-02T19:54:06.194Z",
+    "business_sub_categories": null
+  },
+  {
+    "_docId": "4hw5su",
+    "business_category": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "Address": "الجناين العمده بجوار دار مناسبات العمده",
+    "system_role": "user",
+    "Password": "2003",
+    "limitPackage": 0,
+    "business_name": null,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 72,
+    "featured_items_data": null,
+    "location": "29.979562, 32.5416934",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:29.754Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:25:57.205Z"
+    },
+    "is_delivery_eligible": 0,
+    "user_key": "4hw5su",
+    "user_image": null,
+    "business_bio": null,
+    "username": "محمود ناصر",
+    "business_whatsapp": "+201024323794",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": null,
+    "phone": "+201024323794"
+  },
+  {
+    "_docId": "4mzddx",
+    "Address": "Gdfvccc",
+    "limitPackage": null,
+    "Password": "1111",
+    "system_role": "user",
+    "business_category": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "account_type": 1,
+    "updated_at": "2026-02-24T19:12:46.103Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:09.217Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "user_key": "4mzddx",
+    "user_image": {
+      "covers": [],
+      "avatar": "avatar_4mzddx_1771798115600.webp",
+      "cover": null
+    },
+    "is_delivery_eligible": 0,
+    "business_bio": null,
+    "phone": "+101010101010",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": null,
+    "business_whatsapp": "+101010101010",
+    "username": "Gdfvcc",
+    "business_name": null,
+    "id": 132,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "location": "29.96827285440123, 32.513389410983415",
+    "featured_items_data": null
+  },
+  {
+    "_docId": "4t1lql",
+    "featured_items_data": null,
+    "location": "29.9918568, 32.484853",
+    "business_name": "Nanosa Mody",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 123,
+    "business_bio": "خصم خاص لمستخدم التطبيق",
+    "username": "Nanosa mody",
+    "business_whatsapp": "+201550782176",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "telegram": "",
+      "tiktok": "",
+      "x": "",
+      "facebook": "https://www.facebook.com/share/1ZoTQExcjN/",
+      "instagram": "",
+      "website": ""
+    },
+    "phone": "+201550782176",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:37.838Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:07.603Z"
+    },
+    "is_delivery_eligible": 0,
+    "user_key": "4t1lql",
+    "user_image": "avatar_4t1lql_1771413788449.webp",
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "1": [
+        "6",
+        "1",
+        "4"
+      ]
+    },
+    "system_role": "user",
+    "Password": "1151",
+    "limitPackage": 0,
+    "Address": "اونلاين"
+  },
+  {
+    "_docId": "4yku8b",
+    "isDelivered": 0,
+    "limitPackage": 0,
+    "Password": "1111",
+    "Address": "",
+    "phones": [
+      {
+        "is_primary": true,
+        "has_whatsapp": true,
+        "number": "+201026546551"
+      }
+    ],
+    "last_login_at": "2026-06-05T03:45:27.483Z",
+    "discountPercent": 0,
+    "settings": "{\"isDelivered\":0}",
+    "phone": "+201026546551",
+    "username": "١٢ 12",
+    "business_whatsapp": "+201026546551",
+    "account_type": 1,
+    "updated_at": "2026-06-05T03:45:27.483Z",
+    "user_key": "4yku8b",
+    "user_image": "{\"avatar\":null,\"covers\":[],\"cover\":null}",
+    "location": "",
+    "id": 1780631127484,
+    "created_at": "2026-06-05T03:45:27.483Z"
+  },
+  {
+    "_docId": "59dic3",
+    "username": "Hesham101",
+    "business_whatsapp": "+2010265465500",
+    "phone": "+2010265465500",
+    "links": null,
+    "settings": {
+      "isDelivered": 1
+    },
+    "business_bio": null,
+    "is_delivery_eligible": 0,
+    "user_key": "59dic3",
+    "user_image": null,
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:26.808Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:25:52.955Z"
+    },
+    "featured_items_data": null,
+    "location": "29.96136099851553, 32.51690592084043",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 41,
+    "business_name": null,
+    "Password": "1111",
+    "system_role": "user",
+    "limitPackage": 500,
+    "Address": "المميز",
+    "business_sub_categories": null,
+    "last_login_at": "2026-03-18T18:24:36.190Z",
+    "business_category": null
+  },
+  {
+    "_docId": "5nn9xn",
+    "is_delivery_eligible": 0,
+    "user_key": "5nn9xn",
+    "user_image": "avatar_5nn9xn_1771407891644.webp",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:36.632Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:04.774Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "username": "Carizma Accessories",
+    "business_whatsapp": "+201023222582",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "tiktok": "",
+      "x": "",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/carizma_accessories?igsh=MTFybmFyN3A4OTQ3bw==",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/1WVoyvvT4V/"
+    },
+    "phone": "+201023222582",
+    "business_bio": "اكسسوارات هاند ميد من افضل خامات النحاس والفضه",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 116,
+    "business_name": "Carizma Accessories",
+    "featured_items_data": null,
+    "location": "29.9919012, 32.4843384",
+    "Address": "مول خان الخليلى القاهرة",
+    "system_role": "user",
+    "Password": "1144",
+    "limitPackage": 0,
+    "business_category": {
+      "1": [
+        "6"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z"
+  },
+  {
+    "_docId": "62y8vm",
+    "business_bio": "خصم خاص لمستخدم التطبيق",
+    "phone": "+201283163023",
+    "links": {
+      "x": "",
+      "tiktok": "",
+      "telegram": "",
+      "instagram": "",
+      "website": "",
+      "facebook": "https://www.facebook.com/groups/304023260044706/?ref=share&mibextid=NSMWBT"
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "username": "Bery",
+    "business_whatsapp": "+201283163023",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:36.340Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:04.345Z"
+    },
+    "user_key": "62y8vm",
+    "user_image": "avatar_62y8vm_1771406544116.webp",
+    "is_delivery_eligible": 0,
+    "location": "29.9919012, 32.4843326",
+    "featured_items_data": null,
+    "business_name": "استوكات بيرى استيراد",
+    "id": 114,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "limitPackage": 0,
+    "Password": "1142",
+    "system_role": "user",
+    "Address": "اونلاين",
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "1": [
+        "5"
+      ],
+      "2": [
+        "3",
+        "8"
+      ],
+      "4": [
+        "4"
+      ]
+    }
+  },
+  {
+    "_docId": "682dri6b",
+    "featured_items_data": "{\"featured_ids\":[\"21np1x\"],\"pharmacy_featured_ids\":[{\"id\":\"302001\",\"type\":\"catalog\",\"subId\":\"302\",\"source\":\"pharmacy\"},{\"id\":\"101002\",\"type\":\"catalog\",\"subId\":\"101\",\"source\":\"pharmacy\"},{\"id\":\"PHARM_PROD_1779427970571\",\"type\":\"merchant\",\"subId\":\"101\",\"source\":\"pharmacy\"},{\"id\":\"102003\",\"type\":\"catalog\",\"subId\":\"102\",\"source\":\"pharmacy\"},{\"id\":\"PHARM_PROD_1780023702038\",\"type\":\"merchant\",\"subId\":\"CUST_1780023484025\",\"source\":\"pharmacy\"}]}",
+    "location": "29.98346433381288, 32.54219055175782",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "اسم النشاط التحاري",
+    "business_whatsapp": "+201026546550",
+    "business_bio": "ببذه مختصره 2\n\nوسف النساط 1 وسف النساط 1 وسف النساط 1 وسف النساط 1 وسف النساط 1 وسف النساط 1 وسف النساط 1 وسف النساط 1 وسفلاؤءلاءؤلاء النساط 1 وسف النساط 1 وسف النساط 1 وسف النساط 1 وسف النساط 1 وسف النساط 1 وسف النساط 1 وسف النساط 1 وسف النساط 1 وسف النساط 1",
+    "address": "بجوار بتروجت",
+    "is_delivery_eligible": 1,
+    "user_key": "682dri6b",
+    "platform": null,
+    "primary_phone": "+201026546550",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:25:51.281Z"
+    },
+    "whatsapp_phone": "+201026546550",
+    "business_sub_categories": null,
+    "last_login_at": "2026-06-05T07:04:00.244Z",
+    "discountPercent": 0,
+    "_firestore_id": "682dri6b",
+    "Password": "1111",
+    "limitPackage": 0,
+    "normalized_business_category": "{\"12\":[\"1\",\"4\",\"5\"],\"20\":[\"316\",\"317\",\"325\",\"326\",\"327\",\"328\"],\"45\":[\"1\"]}",
+    "id": 6,
+    "ratings": [],
+    "username": "هشام جابر حسن",
+    "links": "{}",
+    "settings": "{\"locations\":[{\"id\":\"loc_1776741667906_nyiihz\",\"coords\":\"29.98346433381288, 32.54219055175782\",\"address\":\"بجوار بتروجت\",\"is_primary\":true},{\"id\":\"loc_1779332791919_mwwatf\",\"coords\":\"29.97589181524426, 32.5492286682129\",\"address\":\"ابياي\",\"is_primary\":false}],\"isDelivered\":false,\"deliveryMode\":\"platform\",\"deliveryProviderKey\":\"pngukw\",\"limitPackage\":1000,\"discountPercent\":0,\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\"}",
+    "phone": "+201026546550",
+    "user_image": "{\"avatar\":\"avatar_682dri6b_1771062596827.webp\",\"covers\":[\"cover_682dri6b_0_1776704098534.webp\",\"cover_682dri6b_1_1774024741897.webp\",\"cover_682dri6b_2_1774024742248.webp\"],\"cover\":\"cover_682dri6b_0_1776704098534.webp\"}",
+    "account_type": 32,
+    "updated_at": "2026-06-05T07:04:00.244Z",
+    "fcm_token": null,
+    "phone_link": "tel:+201026546550",
+    "business_category": "{\"1\":[\"1\",\"13\",\"2\"],\"7\":[\"1\"],\"20\":[\"302\"],\"44\":[\"1\"]}",
+    "system_role": "super_admin",
+    "specialty_profile": {
+      "primaryMainCategoryId": "20",
+      "hasSellableSpecialties": true,
+      "accountType": 32,
+      "version": 1,
+      "nonDeliveryMainCategoryIds": [
+        "12",
+        "20",
+        "45"
+      ],
+      "subCategoryIds": [
+        "1",
+        "4",
+        "5",
+        "316",
+        "317",
+        "325",
+        "326",
+        "327",
+        "328",
+        "1"
+      ],
+      "isBuyer": false,
+      "categoryMap": {
+        "12": [
+          "1",
+          "4",
+          "5"
+        ],
+        "20": [
+          "316",
+          "317",
+          "325",
+          "326",
+          "327",
+          "328"
+        ],
+        "45": [
+          "1"
+        ]
+      },
+      "canDeliver": false,
+      "hasBusinessSpecialties": true,
+      "settings": {
+        "productRatingEnabled": true,
+        "ratingEnabled": true,
+        "deliveryMode": "platform",
+        "ratingMode": "stars_comments",
+        "deliveryProviderKey": "3l6yxe",
+        "limitPackage": 1000,
+        "productRatingMode": "stars_comments",
+        "isDelivered": false,
+        "locations": [
+          {
+            "id": "loc_1776741667906_nyiihz",
+            "is_primary": true,
+            "coords": "29.98346433381288, 32.54219055175782",
+            "address": "بجوار بتروجت"
+          },
+          {
+            "id": "loc_1779332791919_mwwatf",
+            "is_primary": false,
+            "coords": "29.97589181524426, 32.5492286682129",
+            "address": "ابياي"
+          }
+        ]
+      },
+      "isServiceProvider": true,
+      "entries": [
+        {
+          "subId": "1",
+          "mainId": "12"
+        },
+        {
+          "mainId": "12",
+          "subId": "4"
+        },
+        {
+          "mainId": "12",
+          "subId": "5"
+        },
+        {
+          "mainId": "20",
+          "subId": "316"
+        },
+        {
+          "mainId": "20",
+          "subId": "317"
+        },
+        {
+          "subId": "325",
+          "mainId": "20"
+        },
+        {
+          "mainId": "20",
+          "subId": "326"
+        },
+        {
+          "mainId": "20",
+          "subId": "327"
+        },
+        {
+          "mainId": "20",
+          "subId": "328"
+        },
+        {
+          "subId": "1",
+          "mainId": "45"
+        }
+      ],
+      "mainCategoryIds": [
+        "12",
+        "20",
+        "45"
+      ]
+    },
+    "phones": [
+      {
+        "has_whatsapp": true,
+        "number": "+201026546550",
+        "is_primary": true,
+        "type": "mobile"
+      },
+      {
+        "number": "+201241049090",
+        "has_whatsapp": true,
+        "is_primary": false,
+        "type": "mobile"
+      }
+    ],
+    "Address": "بجوار بتروجت",
+    "can_deliver": 0
+  },
+  {
+    "_docId": "6e1qm3",
+    "Password": "1130",
+    "system_role": "user",
+    "limitPackage": 0,
+    "Address": "السلام ٢ شارع ابراهيم نافع مساكن النور امام مسجد نبى الله داوود",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": {
+      "12": [
+        "4",
+        "1",
+        "7"
+      ]
+    },
+    "business_whatsapp": "+201012598491",
+    "username": "Dr Gehad Alasra",
+    "phone": "+201012598491",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "telegram": "",
+      "x": "",
+      "tiktok": "",
+      "facebook": "https://www.facebook.com/share/1DN41RvSaF/",
+      "instagram": "https://www.instagram.com/drgehadalasra?igsh=MWY3Zzd3dG52Z3JvbA==",
+      "website": ""
+    },
+    "business_bio": "خصم خاص لمستخدم التطبيق\nكل اللي هتحتاجه لحيوانك الأليف هتلاقيه في مركز بيطري العصرة وبس 🙀🙀 !!\n\nجهزنالك فرعنا في الملاحة الجديدة بكل حاجة بتدور عليها تخص حيوانك الأليف 🐕‍🦺\n\nمنتجات متنوعة، جودة مضمونة، وأسعار تناسب الكل 🐾\n\nمستنينكم 🩷\n\n📍السلام ٢ شارع إبراهيم نافع، مساكن النور – أمام مسجد نبي الله داوود\n📍الملاحة الجديدة بجوار شركة آل عنان\n\n#alasra_vet_center\n#treat_with_love",
+    "is_delivery_eligible": 0,
+    "user_key": "6e1qm3",
+    "user_image": "avatar_6e1qm3_1771387054342.webp",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:34.330Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:01.755Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "featured_items_data": null,
+    "location": "29.9919051, 32.4843479",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 102,
+    "business_name": "مركز العصرة البيطرى"
+  },
+  {
+    "_docId": "6gni7h",
+    "user_key": "6gni7h",
+    "user_image": "avatar_6gni7h_1771390320599.webp",
+    "is_delivery_eligible": 0,
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:02.635Z"
+    },
+    "updated_at": "2026-04-06T12:46:35.054Z",
+    "account_type": 33,
+    "phone": "+201007047527",
+    "links": {
+      "x": "",
+      "tiktok": "",
+      "telegram": "",
+      "instagram": "",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/1Dh3vEGw9J/"
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "username": "Abary",
+    "business_whatsapp": "+201007047527",
+    "business_bio": "🔥 3bari Store – عباري ستور 🔥\n\nلو بتدور على عطر يسيب أثر… ويفضل ثابت معاك طول اليوم \n\n✨يبقى لازم تجرب عالم العطور في عباري ستور 👌\n✨ بيرفيوم أورچينال\n✨ أفضل تشكيلة زيوت عطرية شرقي & غربي\n✨ ثبات عالي وانتعاش يدوم\n✨ أحجام وأشكال تناسب كل الأذواق\n✨ أقوى العروض والخصومات\n✨ خبرة في العطور بأفضل جودة × سعر\n\n📏 الأحجام المتاحة:\n20 مل – 30 مل – 50 مل – 70 مل – 100 مل\n📞 للطلب والاستفسار:\n01007047527\n✨ عباري ستور… عطر يحكي عنك ✨",
+    "id": 106,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "Abari perfume Store",
+    "location": "29.991899, 32.4843367",
+    "featured_items_data": null,
+    "Address": "اونلاين",
+    "limitPackage": 0,
+    "Password": "1134",
+    "system_role": "user",
+    "business_category": {
+      "4": [
+        "4"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z"
+  },
+  {
+    "_docId": "6np115hz",
+    "location": "29.9923386, 32.4839204",
+    "featured_items_data": null,
+    "id": 5,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "Sameh Barber shop",
+    "phone": "+201208761619",
+    "links": {
+      "instagram": "",
+      "website": "",
+      "facebook": "",
+      "tiktok": "",
+      "x": "",
+      "telegram": ""
+    },
+    "settings": {
+      "isDelivered": 1
+    },
+    "username": "سامح سامح",
+    "business_whatsapp": "+201208761619",
+    "business_bio": null,
+    "user_image": {
+      "covers": [],
+      "avatar": null,
+      "cover": null
+    },
+    "user_key": "6np115hz",
+    "is_delivery_eligible": 0,
+    "account_type": 33,
+    "updated_at": "2026-02-24T19:12:46.103Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:50.592Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": {
+      "4": [
+        "11",
+        "10"
+      ],
+      "6": [
+        "7"
+      ]
+    },
+    "limitPackage": null,
+    "Password": "00000",
+    "system_role": "user",
+    "Address": "كوافير سامح للرجال السلام ٢ بجوار مسجد الرحمه"
+  },
+  {
+    "_docId": "77xuzx",
+    "account_type": 33,
+    "updated_at": "2026-02-24T19:12:46.103Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:10.363Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "is_delivery_eligible": 0,
+    "user_image": {
+      "covers": [
+        "cover_77xuzx_0_1771892004171.webp",
+        "cover_77xuzx_1_1771892004797.webp",
+        "cover_77xuzx_2_1771892005319.webp"
+      ],
+      "avatar": "avatar_77xuzx_1771892003394.webp",
+      "cover": "cover_77xuzx_0_1771892004171.webp"
+    },
+    "user_key": "77xuzx",
+    "business_bio": "منتجات طبيعية و مستحضرات تجميل للعناية بالبشرة والشعر  و الجسم",
+    "username": "Dr Hadeer",
+    "business_whatsapp": "+201146726505",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "instagram": "https://www.instagram.com/alhemdancosmetics5?igsh=MTF5dm1mZTB0dWYxNw==",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/18N6vbKVai/",
+      "tiktok": "https://www.tiktok.com/@alhemdancosmetics?_r=1&_t=ZS-94AshufIuYu",
+      "x": "",
+      "telegram": ""
+    },
+    "phone": "+201146726505",
+    "business_name": "EL HEMDAN COSMETICS",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 137,
+    "featured_items_data": null,
+    "location": "29.9918966, 32.4843536",
+    "Address": "اونلاين",
+    "Password": "1161",
+    "system_role": "user",
+    "limitPackage": null,
+    "business_category": {
+      "4": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "8"
+      ]
+    },
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null
+  },
+  {
+    "_docId": "7an5m8",
+    "business_category": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "Address": "السلام 1 شارع عمر بن الخطاب خلف كافيه ركنه",
+    "Password": "chusco2020",
+    "system_role": "user",
+    "limitPackage": 1000,
+    "business_name": null,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 70,
+    "featured_items_data": null,
+    "location": "30.004884883705227, 32.487992788828706",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:29.442Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:56.781Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "is_delivery_eligible": 0,
+    "user_key": "7an5m8",
+    "user_image": null,
+    "business_bio": null,
+    "business_whatsapp": "+201000859724",
+    "username": "Chusco trade",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": null,
+    "phone": "+201000859724"
+  },
+  {
+    "_docId": "7cmuvz",
+    "phone": "+201005502921",
+    "links": {
+      "website": "",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/share/1CTiLzV3pA/",
+      "tiktok": "https://www.tiktok.com/@sherif.eladl0?_r=1&_t=ZS-941S8iXaaCi",
+      "x": "",
+      "telegram": ""
+    },
+    "settings": {
+      "isDelivered": 0,
+      "productRatingMode": "stars_comments",
+      "ratingEnabled": true,
+      "productRatingEnabled": true,
+      "ratingMode": "stars_comments"
+    },
+    "username": "Sherif el adl",
+    "business_whatsapp": "+201005502921",
+    "business_bio": "🌙✨ اشتريها لنفسك… أو خلي حد يفتكرك بيها سنين ✨🌙\n\nمش كل هدية بتعيش…\nبس الخشب الطبيعي بيعيش 💛\n\nمنتجات Sherif El-Adl معمولـة من شجر طبيعي مُعالج بعناية\nعشان يقاوم الرطوبة ويعيش سنين طويلة من غير ما يتأثر 👌🪵\n\nيعني مش قطعة موسم…\nدي قطعة تفضل في بيتك… وتبقى جزء من تفاصيله ✨\n\n🌿 الخشب الطبيعي بيدي إحساس بالدفا\n🌿 بيضيف طاقة إيجابية وهدوء للمكان\n🌿 بيخلي أي ركن أبسط… أرقى\n\nسواء هتحطيها في بيتك:\n✔️ على سفرة رمضان\n✔️ في المطبخ\n✔️ في ركن القعدة\n✔️ على مكتبك\n\nأو تاخديها هدية في زيارة…\nوتبقى هدية قيمة، شيك، ومختلفة\nتفضل موجودة… وتفكرهم بيكي كل يوم 💛\n\n✨ متاح حفر ليزر لكتابة اسم، جملة خاصة، أو تاريخ مميز يخليها قطعة لا تُنسى\n \nكل قطعة هاند ميد\nكل قطعة ليها روح\nوكل قطعة مميزة ومش شبه أي حاجة تانية ✨\n\nرمضان تفاصيل…\nوخلي تفاصيل بيتك طبيعية ودافية 🌙\n\nللطلب ابعتلنا رسالة دلوقتي قبل نفاذ الكميات",
+    "user_key": "7cmuvz",
+    "user_image": {
+      "covers": [
+        "cover_7cmuvz_0_1771983420668.webp",
+        "cover_7cmuvz_1_1771983421775.webp",
+        "cover_7cmuvz_2_1771983422654.webp"
+      ],
+      "cover": "cover_7cmuvz_0_1771983420668.webp",
+      "avatar": "avatar_7cmuvz_1771983765938.webp"
+    },
+    "is_delivery_eligible": 1,
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:07.355Z"
+    },
+    "updated_at": "2026-04-06T12:46:40.401Z",
+    "account_type": 33,
+    "location": "29.9918978, 32.4843368",
+    "featured_items_data": null,
+    "id": 122,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "Wild craft by sherif el adl",
+    "limitPackage": 0,
+    "Password": "1150",
+    "system_role": "user",
+    "Address": "اونلاين",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-25T01:36:04.436Z",
+    "business_category": {
+      "5": [
+        "7"
+      ],
+      "13": [
+        "6"
+      ],
+      "46": []
+    }
+  },
+  {
+    "_docId": "7m7fiy",
+    "business_name": "Omnia Store",
+    "id": 143,
+    "created_at": "2026-02-24T23:05:29.959Z",
+    "location": "29.9919045, 32.4843643",
+    "featured_items_data": null,
+    "account_type": 33,
+    "updated_at": "2026-02-24T23:05:29.959Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:11.729Z"
+    },
+    "user_key": "7m7fiy",
+    "user_image": {
+      "avatar": "avatar_7m7fiy_1771974326951.webp",
+      "cover": "cover_7m7fiy_0_1771974327964.webp",
+      "covers": [
+        "cover_7m7fiy_0_1771974327964.webp"
+      ]
+    },
+    "is_delivery_eligible": 0,
+    "business_bio": "ملابس نسائية",
+    "phone": "+201005510834",
+    "settings": {
+      "ratingEnabled": true,
+      "productRatingEnabled": true,
+      "ratingMode": "stars_comments",
+      "isDelivered": 0,
+      "productRatingMode": "stars_comments"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/groups/554811188002386/?ref=share&mibextid=NSMWBT",
+      "website": "",
+      "instagram": "",
+      "telegram": "",
+      "tiktok": "",
+      "x": ""
+    },
+    "business_whatsapp": "+201005510834",
+    "username": "Omnia Store",
+    "business_category": {
+      "1": [
+        "1",
+        "4"
+      ]
+    },
+    "last_login_at": "2026-02-24T23:05:29.959Z",
+    "business_sub_categories": null,
+    "Address": "Hhhhh",
+    "limitPackage": null,
+    "Password": "1167",
+    "system_role": "user"
+  },
+  {
+    "_docId": "86zfzu",
+    "username": "Kashkha",
+    "business_whatsapp": "+201055341221",
+    "phone": "+201055341221",
+    "links": {
+      "telegram": "",
+      "tiktok": "",
+      "x": "",
+      "facebook": "https://www.facebook.com/share/18E1k7WmrJ/",
+      "instagram": "",
+      "website": "https://linktr.ee/KASHKHA1?utm_source=qr_code"
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_bio": "خصم خاص لمستخدم التطبيق \n\nيلا تعالو الحقو هدوم العيد 🫶🏻\nالعنوان شوروم سلوى علي في وش مكتبه الكيال عماره التأمينات فوق القهوه ❤️",
+    "is_delivery_eligible": 0,
+    "user_key": "86zfzu",
+    "user_image": "avatar_86zfzu_1771384029659.webp",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:33.835Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:01.118Z"
+    },
+    "featured_items_data": null,
+    "location": "29.9918847, 32.4843538",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 99,
+    "business_name": "كشخة للملابس والازياء الخليجى",
+    "Password": "1128",
+    "system_role": "user",
+    "limitPackage": 0,
+    "Address": "السويس شو رووم سلوى على فى وش مكتبة الكيال",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": {
+      "1": [
+        "1",
+        "4"
+      ]
+    }
+  },
+  {
+    "_docId": "8ga4jn",
+    "business_category": {
+      "1": [
+        "1",
+        "3",
+        "12"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-25T02:59:04.049Z",
+    "Address": "السويس مول الدور الثالث علوى",
+    "system_role": "user",
+    "Password": "1173",
+    "limitPackage": null,
+    "created_at": "2026-02-25T00:41:53.220Z",
+    "id": 149,
+    "business_name": "Koky Brand",
+    "featured_items_data": null,
+    "location": "29.9918931, 32.4843558",
+    "is_delivery_eligible": 0,
+    "user_key": "8ga4jn",
+    "user_image": {
+      "covers": [
+        "cover_8ga4jn_0_1771980111412.webp"
+      ],
+      "avatar": "avatar_8ga4jn_1771980110676.webp",
+      "cover": "cover_8ga4jn_0_1771980111412.webp"
+    },
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:13.062Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "updated_at": "2026-02-25T02:59:04.049Z",
+    "account_type": 33,
+    "username": "Koky Brand",
+    "business_whatsapp": "+201124288001",
+    "phone": "+201061652396",
+    "links": {
+      "tiktok": "https://www.tiktok.com/@kooke.ali5?_r=1&_t=ZS-94CbwKr0vky",
+      "x": "",
+      "telegram": "",
+      "website": "",
+      "instagram": "https://www.instagram.com/kokybrand_25?igsh=MTNtbHZjNWhrejQ4dg==",
+      "facebook": "https://www.facebook.com/share/14WtU1stjp3/"
+    },
+    "settings": {
+      "isDelivered": 0,
+      "productRatingMode": "stars_comments",
+      "ratingEnabled": true,
+      "ratingMode": "stars_comments",
+      "productRatingEnabled": true
+    },
+    "business_bio": "ستوكات برندات حريمى وبناتى"
+  },
+  {
+    "_docId": "8jrs71",
+    "location": "29.9606421, 32.5445546",
+    "featured_items_data": null,
+    "business_name": null,
+    "id": 79,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_bio": null,
+    "phone": "+201022434348",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "username": "مطعم فارس",
+    "business_whatsapp": "+201022434348",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:30.564Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:25:58.504Z"
+    },
+    "user_key": "8jrs71",
+    "user_image": null,
+    "is_delivery_eligible": 0,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": null,
+    "limitPackage": 0,
+    "Password": "fares",
+    "system_role": "user",
+    "Address": "السويس شارع المحافظة إشارة كاستلو"
+  },
+  {
+    "_docId": "99rrqq",
+    "last_login_at": "2026-04-17T05:37:15.970Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "4": [
+        "1"
+      ]
+    },
+    "Password": "1111",
+    "system_role": "user",
+    "limitPackage": 994,
+    "Address": "يليليسليسليس",
+    "featured_items_data": null,
+    "location": "29.959063682558284, 32.55197525024415",
+    "business_name": "سايسايبسا",
+    "created_at": "2026-04-17T05:37:15.970Z",
+    "id": 162,
+    "business_bio": "سيليسليسليسليسلسي",
+    "username": "لارؤءلاءؤلاءؤلا",
+    "business_whatsapp": "+201026546558",
+    "phone": "+201026546558",
+    "links": {},
+    "settings": {
+      "ratingEnabled": true,
+      "ratingMode": "stars_comments",
+      "productRatingEnabled": true,
+      "isDelivered": 0,
+      "locations": [
+        {
+          "address": "يليليسليسليس",
+          "coords": "29.959063682558284, 32.55197525024415",
+          "is_primary": true,
+          "id": "loc_1776404163898_5h33h3"
+        }
+      ],
+      "productRatingMode": "stars_comments"
+    },
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:15.624Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "updated_at": "2026-04-17T05:37:15.970Z",
+    "account_type": 33,
+    "is_delivery_eligible": 0,
+    "user_key": "99rrqq",
+    "user_image": {
+      "covers": [],
+      "cover": null,
+      "avatar": null
+    }
+  },
+  {
+    "_docId": "9jqfgx",
+    "Password": "P@ss_dWP8m8HB",
+    "system_role": null,
+    "limitPackage": 0,
+    "Address": null,
+    "last_login_at": "2026-05-22T03:43:45.875Z",
+    "business_category": null,
+    "username": "register_user_gbI3UR",
+    "business_whatsapp": "+201004489275",
+    "phone": "+201004489275",
+    "links": null,
+    "settings": "{\"isDelivered\":0,\"locations\":[]}",
+    "business_bio": null,
+    "user_key": "9jqfgx",
+    "user_image": "{\"avatar\":null,\"covers\":[],\"cover\":null}",
+    "account_type": 1,
+    "updated_at": "2026-05-22T03:43:45.875Z",
+    "featured_items_data": null,
+    "location": null,
+    "created_at": "2026-05-22T03:43:45.875Z",
+    "id": 1779421425875,
+    "business_name": null
+  },
+  {
+    "_docId": "9k7voc",
+    "Address": "الباابا",
+    "Password": "1111",
+    "system_role": "user",
+    "limitPackage": 0,
+    "business_category": null,
+    "business_sub_categories": null,
+    "last_login_at": "2026-04-10T11:31:52.029Z",
+    "is_delivery_eligible": 0,
+    "user_key": "9k7voc",
+    "user_image": {
+      "avatar": "avatar_9k7voc_1775820710794.webp",
+      "cover": null,
+      "covers": []
+    },
+    "account_type": 1,
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:14.570Z"
+    },
+    "updated_at": "2026-04-10T11:31:52.029Z",
+    "business_whatsapp": "+45545454545",
+    "username": "ثقثقثق",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": null,
+    "phone": "+2010265465560",
+    "business_bio": null,
+    "created_at": "2026-04-10T11:31:52.029Z",
+    "id": 156,
+    "business_name": null,
+    "featured_items_data": null,
+    "location": "29.95087592499687, 32.550773620605476"
+  },
+  {
+    "_docId": "9udgon",
+    "Address": "عنوان مُعدل Jut4qx1zYI",
+    "Password": "P@ss_BovDwgiH",
+    "system_role": null,
+    "limitPackage": 0,
+    "business_category": null,
+    "last_login_at": "2026-05-22T03:43:32.606Z",
+    "user_key": "9udgon",
+    "user_image": "{\"avatar\":\"avatar_9udgon_1779421409695.webp\",\"covers\":[\"cover_9udgon_0_1779421410458.webp\",\"cover_9udgon_1_1779421410961.webp\",\"cover_9udgon_2_1779421411370.webp\"],\"cover\":\"cover_9udgon_0_1779421410458.webp\"}",
+    "updated_at": "2026-05-22T03:43:32.606Z",
+    "account_type": 1,
+    "username": "register_user_c5EmEc",
+    "business_whatsapp": "+201022868649",
+    "links": null,
+    "settings": "{\"isDelivered\":0,\"locations\":[{\"id\":\"loc_fcbce604-c5ef-4ac9-81da-2db1a23e364d\",\"coords\":\"31.2001, 29.9187\",\"address\":\"عنوان مُعدل Jut4qx1zYI\",\"is_primary\":true}]}",
+    "phone": "+201022868649",
+    "business_bio": null,
+    "created_at": "2026-05-22T03:43:32.606Z",
+    "id": 1779421412606,
+    "business_name": null,
+    "featured_items_data": null,
+    "location": "31.2001, 29.9187"
+  },
+  {
+    "_docId": "9updjg",
+    "account_type": 33,
+    "updated_at": "2026-06-04T18:47:24.403Z",
+    "user_image": "{\"avatar\":\"avatar_9updjg_1780598842193.webp\",\"covers\":[\"cover_9updjg_0_1780598843306.webp\",\"cover_9updjg_1_1780598843721.webp\"],\"cover\":\"cover_9updjg_0_1780598843306.webp\"}",
+    "user_key": "9updjg",
+    "business_bio": "حلويات شرقيه",
+    "business_whatsapp": "+201005191322",
+    "username": "hossam",
+    "phone": "+201005191322",
+    "settings": "{\"isDelivered\":1,\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\",\"locations\":[{\"id\":\"loc_1780598452162_fbr13h\",\"coords\":\"29.9918608, 32.4843733\",\"address\":\"السلام\",\"is_primary\":true}],\"deliveryMode\":\"self\",\"deliveryProviderKey\":\"\",\"discountPercent\":25}",
+    "links": "{\"facebook\":\"https://www.facebook.com/share/17itUgG24A/\",\"instagram\":\"https://www.instagram.com/alarabiya?igsh=MTZxajBhdncwZ3B5Mg==\",\"tiktok\":\"https://www.tiktok.com/@liali_case_egy?_r=1&_t=ZS-96w9OVomuf6\"}",
+    "business_name": "ام منه",
+    "created_at": "2026-06-04T18:47:24.403Z",
+    "id": 1780598844403,
+    "location": "29.9918608, 32.4843733",
+    "Address": "السلام",
+    "phones": [
+      {
+        "number": "+201005191322",
+        "has_whatsapp": true,
+        "is_primary": true
+      }
+    ],
+    "isDelivered": 1,
+    "Password": "1111",
+    "limitPackage": 0,
+    "business_category": "{\"46\":[]}",
+    "discountPercent": 25,
+    "last_login_at": "2026-06-04T18:47:24.403Z"
+  },
+  {
+    "_docId": "9vjh7w",
+    "business_bio": "يسليسليسليسلسيلسيل\n\nليسللسليسليسلسيلسيل",
+    "business_whatsapp": "+201036987412",
+    "username": "ليسيلسيل",
+    "phone": "+201036987412",
+    "links": "{}",
+    "settings": "{\"isDelivered\":0,\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\",\"locations\":[{\"id\":\"loc_1779332996129_vczcje\",\"coords\":\"29.957216890090063, 32.48382568359376\",\"address\":\"لاءؤلاءؤلا\",\"is_primary\":true}],\"deliveryMode\":\"platform\",\"deliveryProviderKey\":\"682dri6b\"}",
+    "account_type": 33,
+    "updated_at": "2026-05-21T03:10:31.671Z",
+    "user_image": "{\"avatar\":null,\"covers\":[],\"cover\":null}",
+    "user_key": "9vjh7w",
+    "featured_items_data": null,
+    "location": "29.957216890090063, 32.48382568359376",
+    "business_name": "اليسالسيلسيلسيلس",
+    "created_at": "2026-05-21T03:10:31.671Z",
+    "id": 1779333031688,
+    "Password": "1111",
+    "system_role": null,
+    "limitPackage": 0,
+    "Address": "لاءؤلاءؤلا",
+    "last_login_at": "2026-05-21T03:10:31.671Z",
+    "business_category": "{\"1\":[\"13\"]}"
+  },
+  {
+    "_docId": "a1owql",
+    "Address": "السلام 2 بجوار كازيون شارع المركز الطبى",
+    "Password": "2025",
+    "system_role": "user",
+    "limitPackage": null,
+    "business_category": null,
+    "last_login_at": "2026-04-20T05:21:55.094Z",
+    "business_sub_categories": null,
+    "account_type": 33,
+    "updated_at": "2026-04-20T05:21:55.094Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:25:54.341Z"
+    },
+    "is_delivery_eligible": 0,
+    "user_key": "a1owql",
+    "user_image": null,
+    "business_bio": null,
+    "username": "Radwa Esmail",
+    "business_whatsapp": "+201201353576",
+    "phone": "+201201353576",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_name": null,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 47,
+    "featured_items_data": null,
+    "location": "29.991888, 32.4843442"
+  },
+  {
+    "_docId": "aj7g2x",
+    "id": 148,
+    "created_at": "2026-02-25T00:16:36.762Z",
+    "business_name": "نور هاند ميد",
+    "location": "29.9918961, 32.4843612",
+    "featured_items_data": null,
+    "user_key": "aj7g2x",
+    "user_image": {
+      "covers": [
+        "cover_aj7g2x_0_1771978591378.webp",
+        "cover_aj7g2x_1_1771978592108.webp",
+        "cover_aj7g2x_2_1771978593280.webp"
+      ],
+      "cover": "cover_aj7g2x_0_1771978591378.webp",
+      "avatar": "avatar_aj7g2x_1771978590151.webp"
+    },
+    "is_delivery_eligible": 0,
+    "account_type": 33,
+    "updated_at": "2026-02-25T00:16:36.762Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:12.837Z"
+    },
+    "links": {
+      "instagram": "",
+      "website": "",
+      "facebook": "https://www.facebook.com/groups/839617892896249/?ref=share&mibextid=NSMWBT",
+      "x": "",
+      "tiktok": "",
+      "telegram": ""
+    },
+    "settings": {
+      "ratingEnabled": true,
+      "ratingMode": "stars_comments",
+      "productRatingEnabled": true,
+      "isDelivered": 0,
+      "productRatingMode": "stars_comments"
+    },
+    "phone": "+201210732232",
+    "business_whatsapp": "+201210732232",
+    "username": "Noor",
+    "business_bio": "شغل هاند ميد",
+    "business_category": {
+      "13": [
+        "3",
+        "8"
+      ],
+      "17": [
+        "1"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-25T00:16:36.762Z",
+    "Address": "Online",
+    "limitPackage": null,
+    "Password": "1172",
+    "system_role": "user"
+  },
+  {
+    "_docId": "b2u6ks",
+    "business_category": null,
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "Address": "مساكن شباب اكتوبر",
+    "system_role": "user",
+    "Password": "1234",
+    "limitPackage": 0,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 80,
+    "business_name": null,
+    "featured_items_data": null,
+    "location": "29.9714231, 32.5177356",
+    "is_delivery_eligible": 0,
+    "user_image": null,
+    "user_key": "b2u6ks",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:58.713Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "updated_at": "2026-04-06T12:46:30.719Z",
+    "account_type": 33,
+    "username": "هند",
+    "business_whatsapp": "+201007324432",
+    "phone": "+201007324432",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_bio": null
+  },
+  {
+    "_docId": "b59c02",
+    "business_category": null,
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "Address": "الحريه بعد لفظ الجلاله",
+    "limitPackage": 0,
+    "Password": "khaled",
+    "system_role": "user",
+    "id": 64,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": null,
+    "location": "29.9811832, 32.479913",
+    "featured_items_data": null,
+    "user_key": "b59c02",
+    "user_image": null,
+    "is_delivery_eligible": 0,
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:28.747Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:25:55.648Z"
+    },
+    "phone": "+201210440495",
+    "links": null,
+    "settings": {
+      "isDelivered": 1
+    },
+    "username": "Khaled hassan",
+    "business_whatsapp": "+201210440495",
+    "business_bio": null
+  },
+  {
+    "_docId": "c22lew",
+    "business_name": "FLUFFORA",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 135,
+    "featured_items_data": null,
+    "location": "29.9918981, 32.4843587",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:09.898Z"
+    },
+    "updated_at": "2026-02-24T19:12:46.103Z",
+    "account_type": 33,
+    "is_delivery_eligible": 0,
+    "user_key": "c22lew",
+    "user_image": {
+      "avatar": "avatar_c22lew_1771890291673.webp",
+      "cover": "cover_c22lew_0_1771890292828.webp",
+      "covers": [
+        "cover_c22lew_0_1771890292828.webp",
+        "cover_c22lew_1_1771890293707.webp",
+        "cover_c22lew_2_1771890294830.webp"
+      ]
+    },
+    "business_bio": "مفارش و مكرميه هاند ميد",
+    "username": "Fluffora",
+    "business_whatsapp": "+201120569841",
+    "phone": "+2011120569841",
+    "links": {
+      "facebook": "https://www.facebook.com/share/1ahPeF3iMz/",
+      "instagram": "https://www.instagram.com/fluffora_112?igsh=djJldnpmNmcxcWcz",
+      "website": "",
+      "telegram": "",
+      "tiktok": "https://www.tiktok.com/@fluffora.lb?_r=1&_t=ZS-94AqIhyafB7",
+      "x": ""
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_category": {
+      "5": [
+        "5",
+        "12"
+      ],
+      "13": [
+        "3",
+        "8"
+      ]
+    },
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "Address": "اونلاين",
+    "Password": "1159",
+    "system_role": "user",
+    "limitPackage": null
+  },
+  {
+    "_docId": "c3c2rx",
+    "username": "صضصضصضص",
+    "business_whatsapp": null,
+    "phone": "010232323232323",
+    "links": null,
+    "settings": {
+      "isDelivered": 1
+    },
+    "business_bio": null,
+    "is_delivery_eligible": 0,
+    "user_image": null,
+    "user_key": "c3c2rx",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:30.872Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:25:58.930Z"
+    },
+    "featured_items_data": null,
+    "location": "29.961601666666667, 32.516601333333334",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 81,
+    "business_name": null,
+    "Password": "1111",
+    "system_role": "user",
+    "limitPackage": 0,
+    "Address": "ثصثص ضثضث",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": null
+  },
+  {
+    "_docId": "c4jlna",
+    "business_name": "Girly Store",
+    "id": 105,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "location": "29.9918998, 32.4843406",
+    "featured_items_data": null,
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:40.240Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:02.412Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "user_key": "c4jlna",
+    "user_image": {
+      "covers": [
+        "cover_c4jlna_0_1771982176522.webp",
+        "cover_c4jlna_1_1771982177856.webp",
+        "cover_c4jlna_2_1771982179133.webp"
+      ],
+      "avatar": "avatar_c4jlna_1771389745441.webp",
+      "cover": "cover_c4jlna_0_1771982176522.webp"
+    },
+    "is_delivery_eligible": 1,
+    "business_bio": "خصم خاص لمستخدم التطبيق \nشنط واحذية و اكسسوارات",
+    "settings": {
+      "productRatingMode": "stars_comments",
+      "isDelivered": 0,
+      "ratingMode": "stars_comments",
+      "productRatingEnabled": true,
+      "ratingEnabled": true
+    },
+    "links": {
+      "telegram": "",
+      "x": "",
+      "tiktok": "",
+      "facebook": "https://www.facebook.com/share/1CYYQPhCUt/",
+      "instagram": "https://www.instagram.com/girly_store220?igsh=NGtxY2ZlMzN5ZDVx&utm_source=qr",
+      "website": ""
+    },
+    "phone": "+201090768282",
+    "business_whatsapp": "+201090768282",
+    "username": "Girly Store",
+    "business_category": {
+      "1": [
+        "5",
+        "6"
+      ],
+      "46": []
+    },
+    "last_login_at": "2026-02-25T01:44:14.797Z",
+    "business_sub_categories": null,
+    "Address": "الصباح بجوار مدرسة الصباح التجارية بنات خلف مسجد حمزة",
+    "limitPackage": 0,
+    "system_role": "user",
+    "Password": "1133"
+  },
+  {
+    "_docId": "cti783",
+    "limitPackage": null,
+    "Password": "hyyh",
+    "system_role": "user",
+    "Address": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": null,
+    "business_bio": null,
+    "phone": "+201067715900",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "username": "Hala Saad",
+    "business_whatsapp": "+201067715900",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:26.643Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:52.740Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "user_key": "cti783",
+    "user_image": null,
+    "is_delivery_eligible": 0,
+    "location": null,
+    "featured_items_data": null,
+    "business_name": null,
+    "id": 40,
+    "created_at": "2026-02-24T19:12:46.102Z"
+  },
+  {
+    "_docId": "cu0emh",
+    "featured_items_data": null,
+    "location": "29.9919129, 32.4843765",
+    "business_name": "معامل مكه للتحاليل الطبية",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 86,
+    "business_bio": "خصم 20% على جميع التحاليل \nلمستخدم التطبيق",
+    "username": "Dr Ayman",
+    "business_whatsapp": "+201224167471",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "x": "",
+      "tiktok": "",
+      "telegram": "",
+      "instagram": "",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/1DhVcm4qTW/"
+    },
+    "phone": "+201224167471",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:31.757Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:25:59.782Z"
+    },
+    "is_delivery_eligible": 0,
+    "user_key": "cu0emh",
+    "user_image": "avatar_cu0emh_1771372887001.webp",
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "20": [
+        "203"
+      ]
+    },
+    "system_role": "user",
+    "Password": "1115",
+    "limitPackage": 0,
+    "Address": "الاربعين شارع الدمرانى"
+  },
+  {
+    "_docId": "cv7yiz",
+    "Address": "24 اكتوبر عماره ٢٣ب",
+    "limitPackage": 0,
+    "system_role": "user",
+    "Password": "12345",
+    "business_category": null,
+    "last_login_at": "2026-05-09T14:22:22.376Z",
+    "business_sub_categories": null,
+    "updated_at": "2026-05-09T14:22:22.376Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:15.203Z"
+    },
+    "account_type": 1,
+    "user_key": "cv7yiz",
+    "user_image": {
+      "avatar": "avatar_cv7yiz_1776286479542.webp",
+      "cover": null,
+      "covers": []
+    },
+    "is_delivery_eligible": 0,
+    "business_bio": null,
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "phone": "+201270374052",
+    "username": "روفيدا",
+    "business_whatsapp": "+201270374052",
+    "business_name": null,
+    "id": 160,
+    "created_at": "2026-04-15T20:54:42.220Z",
+    "location": "29.9708734, 32.5185909",
+    "featured_items_data": null
+  },
+  {
+    "_docId": "dl14v1k7",
+    "limitPackage": 0,
+    "Password": "1111",
+    "_firestore_id": "dl14v1k7",
+    "business_sub_categories": null,
+    "last_login_at": "2026-06-04T22:46:51.354Z",
+    "user_key": "dl14v1k7",
+    "is_delivery_eligible": 0,
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:49.261Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "business_whatsapp": "+201024182175",
+    "business_bio": "Suez Bazaar",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "Suez Bazaar",
+    "location": "29.9637687, 32.5568947",
+    "featured_items_data": {
+      "featured_ids": []
+    },
+    "Address": "السلام ٢ بجوار سوبر ماركت كازيون",
+    "system_role": "admin",
+    "business_category": {
+      "7": [
+        "1"
+      ],
+      "16": [
+        "1",
+        "7",
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "44": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "user_image": {
+      "covers": [
+        "cover_dl14v1k7_0_1771703160766.webp"
+      ],
+      "avatar": "avatar_dl14v1k7_1771368673556.webp",
+      "cover": "cover_dl14v1k7_0_1771703160766.webp"
+    },
+    "account_type": 33,
+    "updated_at": "2026-06-04T22:46:51.354Z",
+    "links": {
+      "instagram": "https://www.instagram.com/hossam_darwish83?igsh=MXRvd3dkcGx2dmtzeA==",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/1GPFd2hgDQ/",
+      "tiktok": "https://www.tiktok.com/@hossamdarwish1?_r=1&_t=ZS-941Wk2RDX08",
+      "x": "",
+      "telegram": ""
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "phone": "+201024182175",
+    "username": "Hossam darwish",
+    "id": 2
+  },
+  {
+    "_docId": "dp2en5",
+    "featured_items_data": null,
+    "location": "29.97865424595801, 32.54324734210969",
+    "business_name": null,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 67,
+    "business_bio": null,
+    "username": "مؤسسه الفتح القانونيه",
+    "business_whatsapp": "+201005852443",
+    "phone": "+201005852443",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:29.124Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:25:56.116Z"
+    },
+    "is_delivery_eligible": 0,
+    "user_key": "dp2en5",
+    "user_image": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": null,
+    "Password": "AbdallaFathi2233",
+    "system_role": "user",
+    "limitPackage": 0,
+    "Address": "ميدان السادات- الترعه -الأربعين-امام كشري هند وبجوار نور للبصريات"
+  },
+  {
+    "_docId": "ek59s9",
+    "Address": "منتصف شارع صدقى بجوار مسجد جليدان",
+    "Password": "1140",
+    "system_role": "user",
+    "limitPackage": 0,
+    "business_category": {
+      "5": [
+        "12"
+      ]
+    },
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "updated_at": "2026-04-06T12:46:36.018Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:03.922Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "account_type": 33,
+    "is_delivery_eligible": 0,
+    "user_key": "ek59s9",
+    "user_image": "avatar_ek59s9_1771393422737.webp",
+    "business_bio": "خصم خاص لمستخدم التطبيق",
+    "business_whatsapp": "+201281824220",
+    "username": "Almomen",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/share/1NoXapNpHi/",
+      "instagram": "",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "tiktok": ""
+    },
+    "phone": "+201281824220",
+    "business_name": "المؤمن للاستيراد والتصدير والمفروشات بالجملة",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 112,
+    "featured_items_data": null,
+    "location": "29.9919004, 32.4843402"
+  },
+  {
+    "_docId": "ektvax",
+    "Address": "الملاحة الجديدة ابراج المحروسة برج رويال بلازا الدور الثالث",
+    "limitPackage": 0,
+    "system_role": "user",
+    "Password": "1119",
+    "business_category": {
+      "20": [
+        "202"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "user_image": "avatar_ektvax_1771377361852.webp",
+    "user_key": "ektvax",
+    "is_delivery_eligible": 0,
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:00.224Z"
+    },
+    "updated_at": "2026-04-06T12:46:32.398Z",
+    "account_type": 33,
+    "phone": "+201024560626",
+    "links": {
+      "tiktok": "",
+      "x": "",
+      "telegram": "",
+      "instagram": "",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/1DFZoHvadH/"
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "username": "Sama Scan",
+    "business_whatsapp": "+201024560626",
+    "business_bio": "خصم 25% لمستخدم التطبيق \n\n🔹 جميع خدماتنا محمولة وتصل لحد باب بيتك أو شركتك أو عيادة طبيبك الخاص\nبدقة عالية وأحدث الأجهزة الطبية 👌\n\n✨ خدماتنا تشمل:\n\n🔸 السونار:\n▪ سونار على البطن والحوض\n▪ سونار على المفاصل وجميع أجزاء الجسم\n▪ سونار على الحمل\n▪ دوبلر على الجنين\n▪ دوبلر على الشرايين والأوردة\n▪ سونار على الثديين والأنسجة الرخوة والغدد\n\n🔸 الأشعة:\n▪ أشعة X-Ray ديجيتال على الصدر للكبار والصغار\n▪ أشعة X-Ray ديجيتال على جميع أجزاء الجسم\n▪ متابعة الكسور وما بعد العمليات\n\n🔸 الفحوصات الوظيفية:\n▪ رسم عصب وعضلات\n▪ رسم قلب\n▪ موجات فوق صوتية على القلب\n\n🎯 دقة عالية – نتائج موثوقة – راحة تامة للمريض\n🌟 خصم خاص لأصحاب الأمراض المزمنة وذوي التحدي\nSama Scan – سما سكان\nتشخيص أدق… ويوصلك لحد عندك 🩻💙\n🩺سما سكان معاك في اي مكان ♥️",
+    "id": 91,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "سما سكان للاشعة والاشعة المنزلية",
+    "location": "29.9918425, 32.4846654",
+    "featured_items_data": null
+  },
+  {
+    "_docId": "fc5qrr",
+    "business_category": {
+      "4": [
+        "1",
+        "2"
+      ],
+      "6": [
+        "7"
+      ]
+    },
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "Address": "السويس",
+    "limitPackage": null,
+    "Password": "1164",
+    "system_role": "user",
+    "business_name": "Dr Shimaa Abdou",
+    "id": 140,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "location": "29.9918964, 32.4843498",
+    "featured_items_data": null,
+    "updated_at": "2026-02-24T19:12:46.103Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:11.063Z"
+    },
+    "account_type": 33,
+    "user_key": "fc5qrr",
+    "user_image": {
+      "covers": [
+        "cover_fc5qrr_0_1771897873296.webp",
+        "cover_fc5qrr_1_1771897873834.webp"
+      ],
+      "avatar": "avatar_fc5qrr_1771897872473.webp",
+      "cover": "cover_fc5qrr_0_1771897873296.webp"
+    },
+    "is_delivery_eligible": 0,
+    "business_bio": "مستحضرات تجميل وعناية بالبشرة والشعر",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "telegram": "",
+      "tiktok": "",
+      "x": "",
+      "facebook": "https://www.facebook.com/share/1C9dnmZbQ7/",
+      "website": "",
+      "instagram": "https://www.instagram.com/shimaaabdou142?igsh=NjNwajN4eTZobGll"
+    },
+    "phone": "+201234567899",
+    "business_whatsapp": "+201234567899",
+    "username": "Dr Shimaa"
+  },
+  {
+    "_docId": "fk7qdh",
+    "system_role": "user",
+    "Password": "111797",
+    "limitPackage": null,
+    "Address": "مساكن 24أكتوبر عمارة 23بشقه 8",
+    "last_login_at": "2026-04-10T09:18:51.115Z",
+    "business_sub_categories": null,
+    "business_category": null,
+    "business_bio": null,
+    "username": "هويدا غريب سعد الدين",
+    "business_whatsapp": "+201060699509",
+    "phone": "+201060699509",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:13.931Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "updated_at": "2026-04-10T09:18:51.115Z",
+    "account_type": 1,
+    "is_delivery_eligible": 0,
+    "user_image": {
+      "avatar": null,
+      "cover": null,
+      "covers": []
+    },
+    "user_key": "fk7qdh",
+    "featured_items_data": null,
+    "location": "29.9708117, 32.518647",
+    "business_name": null,
+    "created_at": "2026-04-03T17:42:02.721Z",
+    "id": 153
+  },
+  {
+    "_docId": "fkpzkp",
+    "Address": "عنوان",
+    "limitPackage": 0,
+    "system_role": "user",
+    "Password": "1111",
+    "business_category": null,
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "user_key": "fkpzkp",
+    "user_image": null,
+    "is_delivery_eligible": 0,
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:28.247Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:54.985Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": null,
+    "phone": "+1010265465509",
+    "username": "hesham `105",
+    "business_whatsapp": "+1010265465509",
+    "business_bio": null,
+    "id": 52,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": null,
+    "location": "29.970082714105935, 32.53463745117188",
+    "featured_items_data": null
+  },
+  {
+    "_docId": "for2dd",
+    "Password": "1166",
+    "system_role": "user",
+    "limitPackage": null,
+    "Address": "مول السويس الدور الارضى",
+    "business_sub_categories": null,
+    "last_login_at": "2026-04-11T17:43:30.514Z",
+    "business_category": {
+      "20": [
+        "204"
+      ]
+    },
+    "username": "صيدلية النجار",
+    "business_whatsapp": "+201019771151",
+    "phone": "+201019771151",
+    "settings": {
+      "ratingMode": "stars_comments",
+      "productRatingEnabled": true,
+      "ratingEnabled": true,
+      "productRatingMode": "stars_comments",
+      "isDelivered": 0
+    },
+    "links": {
+      "tiktok": "",
+      "x": "",
+      "telegram": "",
+      "website": "",
+      "instagram": "https://www.instagram.com/elnagar.pharmacies.suez123?igsh=ZWk0dTc0c2h4dGN4",
+      "facebook": "https://www.facebook.com/share/1JwiVnsPBK/"
+    },
+    "business_bio": "ادوية ومستحضرات تجميل",
+    "is_delivery_eligible": 0,
+    "user_image": {
+      "cover": "cover_for2dd_0_1771973179597.webp",
+      "avatar": "avatar_for2dd_1771973178735.webp",
+      "covers": [
+        "cover_for2dd_0_1771973179597.webp"
+      ]
+    },
+    "user_key": "for2dd",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:11.499Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "updated_at": "2026-05-15T03:54:42.289Z",
+    "account_type": 33,
+    "featured_items_data": {
+      "pharmacy_featured_ids": [
+        {
+          "id": "PHARM_PROD_1777966711514",
+          "subId": "101",
+          "source": "pharmacy",
+          "type": "merchant"
+        },
+        {
+          "source": "pharmacy",
+          "id": "PHARM_PROD_1776540485831",
+          "subId": "CUST_1776532534146",
+          "type": "merchant"
+        },
+        {
+          "source": "pharmacy",
+          "id": "101001",
+          "subId": "101",
+          "type": "catalog"
+        }
+      ]
+    },
+    "location": "29.9918947, 32.4843512",
+    "created_at": "2026-02-24T22:46:21.490Z",
+    "id": 142,
+    "business_name": "صيدلية النجار"
+  },
+  {
+    "_docId": "fsjhoo",
+    "account_type": 33,
+    "updated_at": "2026-05-01T02:50:22.359Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:18.667Z"
+    },
+    "user_image": {
+      "cover": null,
+      "avatar": null,
+      "covers": []
+    },
+    "user_key": "fsjhoo",
+    "is_delivery_eligible": 0,
+    "business_bio": "بياياايابيايبابيا",
+    "phone": "+201252525252",
+    "links": {},
+    "settings": {
+      "deliveryMode": "platform",
+      "productRatingMode": "stars_comments",
+      "locations": [
+        {
+          "coords": "29.96412710451809, 32.55317687988282",
+          "id": "loc_1777569462349_6d4nwf",
+          "is_primary": true,
+          "address": "اباباباباباب"
+        }
+      ],
+      "isDelivered": 0,
+      "productRatingEnabled": true,
+      "ratingMode": "stars_comments",
+      "ratingEnabled": true,
+      "deliveryProviderKey": "sub1zi"
+    },
+    "username": "اليسليلؤ",
+    "business_whatsapp": "+201252525252",
+    "business_name": "بايايايا",
+    "id": 323,
+    "created_at": "2026-05-01T02:50:22.359Z",
+    "location": "29.96412710451809, 32.55317687988282",
+    "featured_items_data": null,
+    "Address": "اباباباباباب",
+    "limitPackage": 0,
+    "system_role": "user",
+    "Password": "1111",
+    "business_category": {
+      "1": [
+        "1"
+      ]
+    },
+    "last_login_at": "2026-05-01T02:50:22.359Z",
+    "business_sub_categories": null
+  },
+  {
+    "_docId": "ft9ti2",
+    "id": 75,
+    "account_type": 33,
+    "updated_at": "2026-06-04T22:59:18.565Z",
+    "user_image": null,
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "phone": "+201055555555",
+    "username": "Elzeny Delivery",
+    "business_category": {
+      "46": []
+    },
+    "Address": "العب ابايت العب",
+    "system_role": "user",
+    "business_name": null,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "location": "29.9884373, 32.5135622",
+    "featured_items_data": null,
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:57.631Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "user_key": "ft9ti2",
+    "is_delivery_eligible": 1,
+    "business_bio": null,
+    "business_whatsapp": "+201055555555",
+    "_firestore_id": "ft9ti2",
+    "last_login_at": "2026-06-04T22:59:18.565Z",
+    "business_sub_categories": null,
+    "limitPackage": 0,
+    "Password": "123456"
+  },
+  {
+    "_docId": "fyrknc",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 78,
+    "business_name": null,
+    "featured_items_data": null,
+    "location": "29.9663808, 32.5413319",
+    "is_delivery_eligible": 0,
+    "user_key": "fyrknc",
+    "user_image": null,
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:30.417Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:25:58.289Z"
+    },
+    "username": "هاف مليون",
+    "business_whatsapp": "+201026917107",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": null,
+    "phone": "+201026917107",
+    "business_bio": null,
+    "business_category": null,
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "Address": "الملاحه الجديده برج المصطفي",
+    "Password": "Mohamed7111",
+    "system_role": "user",
+    "limitPackage": 0
+  },
+  {
+    "_docId": "gax4e1",
+    "Address": "Fasel",
+    "Password": "00000000",
+    "system_role": "user",
+    "limitPackage": null,
+    "business_category": {
+      "46": []
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "is_delivery_eligible": 1,
+    "user_key": "gax4e1",
+    "user_image": {
+      "avatar": null,
+      "cover": null,
+      "covers": []
+    },
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:40.742Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:09.666Z"
+    },
+    "username": "Elzeny test 2",
+    "business_whatsapp": "+2015555555555",
+    "phone": "+2015555555555",
+    "links": {
+      "tiktok": "",
+      "x": "",
+      "telegram": "",
+      "instagram": "",
+      "website": "",
+      "facebook": ""
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_bio": null,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 134,
+    "business_name": null,
+    "featured_items_data": null,
+    "location": "29.9884419, 32.5135606"
+  },
+  {
+    "_docId": "h149hi9e",
+    "location": null,
+    "featured_items_data": null,
+    "business_name": null,
+    "id": 8,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_bio": null,
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "phone": "+201229952679",
+    "username": "نصره صبحي",
+    "business_whatsapp": "+201229952679",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:25:51.801Z"
+    },
+    "updated_at": "2026-04-06T12:46:25.994Z",
+    "account_type": 33,
+    "user_key": "h149hi9e",
+    "user_image": null,
+    "is_delivery_eligible": 0,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": null,
+    "limitPackage": null,
+    "Password": "25663",
+    "system_role": "user",
+    "Address": "السويس الملاحه القديمه بيوتي سنتر سلمي"
+  },
+  {
+    "_docId": "h3pfg0",
+    "featured_items_data": null,
+    "location": "29.964425975762712, 32.54991531372071",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 44,
+    "business_name": null,
+    "username": "تجارة درويش للجملة",
+    "business_whatsapp": "+201000656565",
+    "phone": "+201000656565",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_bio": null,
+    "is_delivery_eligible": 0,
+    "user_key": "h3pfg0",
+    "user_image": null,
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:25:53.639Z"
+    },
+    "updated_at": "2026-04-06T12:46:27.293Z",
+    "account_type": 33,
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": null,
+    "Password": "1111",
+    "system_role": "user",
+    "limitPackage": null,
+    "Address": "العناون بالتفصيل"
+  },
+  {
+    "_docId": "haxnnu",
+    "last_login_at": "2026-04-17T20:25:32.667Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "2": [
+        "1"
+      ]
+    },
+    "system_role": "user",
+    "Password": "1111",
+    "limitPackage": 0,
+    "Address": "يبيبيب",
+    "featured_items_data": null,
+    "location": "29.97365794666065, 32.556266784667976",
+    "business_name": "بييبيبيبي",
+    "created_at": "2026-04-17T20:25:32.667Z",
+    "id": 165,
+    "business_bio": "يببيبيبيبيب",
+    "username": "بؤيببب",
+    "business_whatsapp": "+201033333333",
+    "settings": {
+      "ratingMode": "stars_comments",
+      "productRatingEnabled": true,
+      "ratingEnabled": true,
+      "productRatingMode": "stars_comments",
+      "locations": [
+        {
+          "address": "يبيبيب",
+          "is_primary": true,
+          "id": "loc_1776457515115_17cqop",
+          "coords": "29.97365794666065, 32.556266784667976"
+        }
+      ],
+      "isDelivered": 0
+    },
+    "links": {},
+    "phone": "+201033333333",
+    "account_type": 33,
+    "updated_at": "2026-04-17T20:25:32.667Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:16.276Z"
+    },
+    "is_delivery_eligible": 0,
+    "user_image": {
+      "avatar": null,
+      "cover": null,
+      "covers": []
+    },
+    "user_key": "haxnnu"
+  },
+  {
+    "_docId": "hdeh3x",
+    "Address": "اونلاين",
+    "Password": "1132",
+    "system_role": "user",
+    "limitPackage": 0,
+    "business_category": {
+      "2": [
+        "3"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "is_delivery_eligible": 0,
+    "user_key": "hdeh3x",
+    "user_image": "avatar_hdeh3x_1771388315358.webp",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:02.194Z"
+    },
+    "updated_at": "2026-04-06T12:46:34.722Z",
+    "account_type": 33,
+    "username": "Candy online shop",
+    "business_whatsapp": "+201050982376",
+    "phone": "+201050982376",
+    "links": {
+      "tiktok": "",
+      "x": "",
+      "telegram": "",
+      "website": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_bio": null,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 104,
+    "business_name": null,
+    "featured_items_data": null,
+    "location": "29.9919018, 32.4843457"
+  },
+  {
+    "_docId": "i4g4z7",
+    "business_name": null,
+    "created_at": "2026-04-16T08:57:14.072Z",
+    "id": 161,
+    "featured_items_data": null,
+    "location": null,
+    "updated_at": "2026-04-16T08:57:14.072Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:15.412Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "account_type": 1,
+    "is_delivery_eligible": 0,
+    "user_key": "i4g4z7",
+    "user_image": {
+      "covers": [],
+      "cover": null,
+      "avatar": null
+    },
+    "business_bio": null,
+    "username": "صثصثصث",
+    "business_whatsapp": "+201026546559",
+    "settings": {
+      "isDelivered": 0,
+      "locations": []
+    },
+    "links": null,
+    "phone": "+201026546559",
+    "business_category": null,
+    "last_login_at": "2026-04-16T08:57:14.072Z",
+    "business_sub_categories": null,
+    "Address": null,
+    "system_role": "user",
+    "Password": "1111",
+    "limitPackage": 0
+  },
+  {
+    "_docId": "iws87w",
+    "location": "29.9668, 32.5498",
+    "featured_items_data": null,
+    "id": 169,
+    "created_at": "2026-04-25T05:55:40.452Z",
+    "business_name": null,
+    "settings": {
+      "isDelivered": 0,
+      "locations": [
+        {
+          "address": "العنوان الأول utR8lsY6Ac",
+          "is_primary": true,
+          "id": "loc_e48f9dcd-e542-43ce-9679-31c9b9228654",
+          "coords": "29.9668, 32.5498"
+        }
+      ]
+    },
+    "phone": "+201036525887",
+    "links": null,
+    "business_whatsapp": "+201036525887",
+    "username": "register_user_30Eox3",
+    "business_bio": null,
+    "user_image": {
+      "covers": [],
+      "avatar": null,
+      "cover": null
+    },
+    "user_key": "iws87w",
+    "is_delivery_eligible": 0,
+    "account_type": 1,
+    "updated_at": "2026-04-25T05:55:40.452Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:17.146Z"
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-04-25T05:55:40.452Z",
+    "business_category": null,
+    "limitPackage": 0,
+    "system_role": "user",
+    "Password": "P@ss_GxsyUXl6",
+    "Address": "العنوان الأول utR8lsY6Ac"
+  },
+  {
+    "_docId": "j0cggl",
+    "Password": "1138",
+    "system_role": "user",
+    "limitPackage": 0,
+    "Address": "اونلاين",
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "1": [
+        "1",
+        "4",
+        "9"
+      ],
+      "5": [
+        "4"
+      ]
+    },
+    "business_bio": "خصم خاص لمستخدم التطبيق",
+    "business_whatsapp": "+201126492913",
+    "username": "Om aya",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "facebook": "",
+      "instagram": "",
+      "website": "",
+      "telegram": "",
+      "tiktok": "",
+      "x": ""
+    },
+    "phone": "+201126492913",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:35.680Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:03.498Z"
+    },
+    "is_delivery_eligible": 0,
+    "user_key": "j0cggl",
+    "user_image": null,
+    "featured_items_data": null,
+    "location": "29.9919051, 32.4843355",
+    "business_name": "ام ايه عالم سمسم",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 110
+  },
+  {
+    "_docId": "jiyevi",
+    "business_name": "Memo Store",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 120,
+    "featured_items_data": null,
+    "location": "29.9919235, 32.4840499",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:37.275Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:06.398Z"
+    },
+    "is_delivery_eligible": 0,
+    "user_key": "jiyevi",
+    "user_image": "avatar_jiyevi_1771411905660.webp",
+    "business_bio": "ملابس و اكسسورات وشنط نسائية \nخصم خاص لمستخدم التطبيق",
+    "business_whatsapp": "+201080800631",
+    "username": "Memo Stor",
+    "phone": "+201080800631",
+    "links": {
+      "x": "",
+      "tiktok": "",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/memostore.eg?igsh=bWpjdGE2dTNxeWNk",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/17bgRsDxRk/"
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_category": {
+      "1": [
+        "1",
+        "5",
+        "6"
+      ]
+    },
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "Address": "السويس شارع راتب امام كوافير محمد عادل",
+    "Password": "1148",
+    "system_role": "user",
+    "limitPackage": 0
+  },
+  {
+    "_docId": "jufqqo",
+    "featured_items_data": null,
+    "location": "29.9918983, 32.4843574",
+    "business_name": "قاعة Grand House",
+    "created_at": "2026-02-24T22:37:25.033Z",
+    "id": 141,
+    "business_bio": "اجمل واشيك قاعة تفتخر بها امام المدعوين",
+    "username": "Grand House قاعة",
+    "business_whatsapp": "+201050788606",
+    "settings": {
+      "ratingEnabled": true,
+      "ratingMode": "stars_comments",
+      "productRatingEnabled": true,
+      "isDelivered": 0,
+      "productRatingMode": "stars_comments"
+    },
+    "links": {
+      "instagram": "https://www.instagram.com/grand_housse?igsh=ZGxrdWxqeHFid3d5",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/17RkdYZySP/",
+      "tiktok": "",
+      "x": "",
+      "telegram": ""
+    },
+    "phone": "+201050788606",
+    "account_type": 33,
+    "updated_at": "2026-02-24T22:39:10.940Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:11.276Z"
+    },
+    "is_delivery_eligible": 0,
+    "user_image": {
+      "covers": [
+        "cover_jufqqo_0_1771972643238.webp"
+      ],
+      "cover": "cover_jufqqo_0_1771972643238.webp",
+      "avatar": "avatar_jufqqo_1771972641942.webp"
+    },
+    "user_key": "jufqqo",
+    "last_login_at": "2026-02-24T22:37:25.033Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "17": [
+        "8"
+      ]
+    },
+    "Password": "1165",
+    "system_role": "user",
+    "limitPackage": null,
+    "Address": "السلام 2 بجوار منتزه بدر"
+  },
+  {
+    "_docId": "k1902fmw",
+    "business_category": null,
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "Address": "Suez",
+    "limitPackage": null,
+    "Password": "121982",
+    "system_role": "user",
+    "id": 7,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": null,
+    "location": null,
+    "featured_items_data": null,
+    "user_image": null,
+    "user_key": "k1902fmw",
+    "is_delivery_eligible": 0,
+    "updated_at": "2026-04-06T12:46:25.838Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:25:51.563Z"
+    },
+    "account_type": 33,
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": null,
+    "phone": "+201070606712",
+    "username": "Reda elmasry",
+    "business_whatsapp": "+201070606712",
+    "business_bio": null
+  },
+  {
+    "_docId": "kdw15e",
+    "last_login_at": "2026-04-25T05:56:32.252Z",
+    "business_sub_categories": null,
+    "business_category": null,
+    "Password": "P@ss_9tmpIes6",
+    "system_role": "user",
+    "limitPackage": 0,
+    "Address": "العنوان الأول P0BH4BOSUb",
+    "featured_items_data": null,
+    "location": "29.9668, 32.5498",
+    "business_name": null,
+    "created_at": "2026-04-25T05:56:32.252Z",
+    "id": 170,
+    "business_bio": null,
+    "business_whatsapp": "+201085164453",
+    "username": "register_user_D2G9M0",
+    "settings": {
+      "isDelivered": 0,
+      "locations": [
+        {
+          "coords": "29.9668, 32.5498",
+          "id": "loc_9b484ebe-c281-4354-bd50-3190dfc5f11f",
+          "is_primary": true,
+          "address": "العنوان الأول P0BH4BOSUb"
+        }
+      ]
+    },
+    "phone": "+201085164453",
+    "links": null,
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:17.359Z"
+    },
+    "updated_at": "2026-04-25T05:56:32.252Z",
+    "account_type": 1,
+    "is_delivery_eligible": 0,
+    "user_image": {
+      "cover": null,
+      "avatar": null,
+      "covers": []
+    },
+    "user_key": "kdw15e"
+  },
+  {
+    "_docId": "l48ta4",
+    "limitPackage": 0,
+    "Password": "1156",
+    "system_role": "user",
+    "Address": "كورنيش السويس داخل منتج لوسيندا",
+    "business_sub_categories": null,
+    "last_login_at": "2026-04-20T05:35:08.567Z",
+    "business_category": {
+      "2": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/share/18Hx46tG1R/",
+      "instagram": "https://www.instagram.com/zad.restaurant.cafe?igsh=M2FpcGMxNTd3djF3",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "tiktok": "https://vt.tiktok.com/ZSmaoNynk/"
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "phone": "+201286751951",
+    "business_whatsapp": "+201286751951",
+    "username": "ZAD",
+    "business_bio": "ذاد حكاية مطعم وكافية هاتعيش فيه تجربة فريدة تجمع بين حسن الضيافة والطعم المميز مع اطلاله ساحرة",
+    "user_key": "l48ta4",
+    "user_image": {
+      "cover": "cover_l48ta4_0_1771632286449.webp",
+      "avatar": "avatar_l48ta4_1771632285160.webp",
+      "covers": [
+        "cover_l48ta4_0_1771632286449.webp",
+        "cover_l48ta4_1_1771632287475.webp"
+      ]
+    },
+    "is_delivery_eligible": 0,
+    "account_type": 33,
+    "updated_at": "2026-04-20T05:35:08.567Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:08.988Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "location": "29.9918892, 32.4843812",
+    "featured_items_data": null,
+    "id": 129,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "Zad Restaurrant"
+  },
+  {
+    "_docId": "laji9w",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": null,
+    "limitPackage": 0,
+    "Password": "0109090455",
+    "system_role": "user",
+    "Address": "كموند سيتى هوم شارع سيتى هوم",
+    "location": "29.9632681, 32.525667",
+    "featured_items_data": null,
+    "id": 77,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": null,
+    "phone": "+201001639707",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "username": "ابو عابد للسيارات",
+    "business_whatsapp": "+201001639707",
+    "business_bio": null,
+    "user_key": "laji9w",
+    "user_image": null,
+    "is_delivery_eligible": 0,
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:30.261Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:58.075Z",
+      "table": "users",
+      "source": "turso"
+    }
+  },
+  {
+    "_docId": "liyjr3",
+    "business_name": null,
+    "created_at": "2026-03-07T18:24:08.846Z",
+    "id": 151,
+    "featured_items_data": null,
+    "location": "29.9918836, 32.4844242",
+    "account_type": 1,
+    "updated_at": "2026-03-07T18:24:08.846Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:13.510Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "is_delivery_eligible": 0,
+    "user_key": "liyjr3",
+    "user_image": {
+      "cover": null,
+      "avatar": null,
+      "covers": []
+    },
+    "business_bio": null,
+    "username": "Hhh",
+    "business_whatsapp": "+201251913222",
+    "phone": "+201251913222",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_category": null,
+    "last_login_at": "2026-03-07T18:24:08.846Z",
+    "business_sub_categories": null,
+    "Address": "Hhhhhhhhh",
+    "Password": "1111",
+    "system_role": "user",
+    "limitPackage": null
+  },
+  {
+    "_docId": "lwsedz",
+    "limitPackage": 1525,
+    "Password": "1111",
+    "system_role": "user",
+    "Address": "يسيسيسيثثصث",
+    "last_login_at": "2026-04-17T14:35:38.779Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "3": [
+        "1"
+      ]
+    },
+    "business_bio": "صثصثصثصثصثصثصث\n\nصثصثصث",
+    "settings": {
+      "productRatingEnabled": true,
+      "ratingMode": "stars_comments",
+      "ratingEnabled": true,
+      "productRatingMode": "stars_comments",
+      "locations": [
+        {
+          "id": "loc_1776436538429_4zy77w",
+          "is_primary": true,
+          "coords": "29.991266763675057, 30.146484375000004",
+          "address": "يسيسيسيثثصث"
+        }
+      ],
+      "isDelivered": 1
+    },
+    "links": {},
+    "phone": "+2010265589620",
+    "business_whatsapp": "+2010265589620",
+    "username": "يسبيسبيسبيسب",
+    "account_type": 33,
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:15.836Z"
+    },
+    "updated_at": "2026-04-17T14:35:38.779Z",
+    "user_image": {
+      "cover": null,
+      "avatar": null,
+      "covers": []
+    },
+    "user_key": "lwsedz",
+    "is_delivery_eligible": 0,
+    "location": "29.991266763675057, 30.146484375000004",
+    "featured_items_data": null,
+    "business_name": "صسثقصثصث",
+    "id": 163,
+    "created_at": "2026-04-17T14:35:38.779Z"
+  },
+  {
+    "_docId": "lzl9vm",
+    "business_name": "Messi Store",
+    "id": 128,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "location": "29.9918924, 32.4844324",
+    "featured_items_data": null,
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:38.800Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:08.764Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "user_key": "lzl9vm",
+    "user_image": {
+      "avatar": "avatar_lzl9vm_1771630893422.webp",
+      "cover": "cover_lzl9vm_0_1771630894347.webp",
+      "covers": [
+        "cover_lzl9vm_0_1771630894347.webp"
+      ]
+    },
+    "is_delivery_eligible": 0,
+    "business_bio": "خصم خاص لمستخدم التطبيق\nملابس واحذية رياضية \nالعنوان السويس اول شارع يمين لشارع الشهداء من ناحية شارع المحافظة خلف بيتزا هت",
+    "phone": "+201000000000",
+    "links": {
+      "telegram": "",
+      "x": "",
+      "tiktok": "",
+      "facebook": "https://www.facebook.com/share/1Drtqs3mXq/",
+      "instagram": "",
+      "website": ""
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "username": "Messi Store",
+    "business_whatsapp": "+00000000000",
+    "business_category": {
+      "1": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "7",
+        "9",
+        "12"
+      ]
+    },
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "Address": "السويس اول يمين من شارع الشهداء من شارع المحافظة خلف بيتزا هت",
+    "limitPackage": 0,
+    "Password": "1155",
+    "system_role": "user"
+  },
+  {
+    "_docId": "m4y6bx",
+    "phone": "+201118491826",
+    "links": {
+      "tiktok": "",
+      "x": "",
+      "telegram": "",
+      "instagram": "",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/1HY6C1VkKV/"
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "username": "Nora Eccoway",
+    "business_whatsapp": "+201118491826",
+    "business_bio": null,
+    "user_key": "m4y6bx",
+    "user_image": "avatar_m4y6bx_1771387777416.webp",
+    "is_delivery_eligible": 0,
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:34.549Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:01.979Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "location": "29.991903, 32.4843382",
+    "featured_items_data": null,
+    "id": 103,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "Eco Kaizen منتجات يابانية",
+    "limitPackage": 0,
+    "Password": "1131",
+    "system_role": "user",
+    "Address": "اونلاين",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": {
+      "4": [
+        "1",
+        "5"
+      ],
+      "5": [
+        "10",
+        "9"
+      ]
+    }
+  },
+  {
+    "_docId": "m9wzzm",
+    "business_category": null,
+    "Address": "Mmmmmm mm",
+    "system_role": "user",
+    "id": 159,
+    "updated_at": "2026-06-04T17:13:35.553Z",
+    "account_type": 1,
+    "user_image": {
+      "covers": [],
+      "cover": null,
+      "avatar": "avatar_m9wzzm_1776240322399.webp"
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": null,
+    "phone": "+201121623340",
+    "username": "Amany Mahmoued",
+    "_firestore_id": "m9wzzm",
+    "last_login_at": "2026-06-04T17:13:35.553Z",
+    "business_sub_categories": null,
+    "limitPackage": 0,
+    "Password": "Hesham0000",
+    "business_name": null,
+    "created_at": "2026-04-15T08:05:23.762Z",
+    "location": "29.9626251, 32.4734372",
+    "featured_items_data": null,
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:14.995Z"
+    },
+    "user_key": "m9wzzm",
+    "is_delivery_eligible": 0,
+    "business_bio": null,
+    "business_whatsapp": "+201121623340"
+  },
+  {
+    "_docId": "mf6x0b",
+    "Password": "1162",
+    "system_role": "user",
+    "limitPackage": 50,
+    "Address": "اونلاين",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": {
+      "2": [
+        "9"
+      ],
+      "4": [
+        "3",
+        "2",
+        "1"
+      ]
+    },
+    "username": "قطفة و عصرة",
+    "business_whatsapp": "+201220626797",
+    "phone": "+201220626797",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/share/1HaGiDbXoi/",
+      "instagram": "https://www.instagram.com/qatfawasra?igsh=MWxmazB2b2M0b2RtcA==",
+      "website": "",
+      "telegram": "",
+      "tiktok": "",
+      "x": ""
+    },
+    "business_bio": "زيوت خام طبيعية معصورة على البارد",
+    "is_delivery_eligible": 0,
+    "user_image": {
+      "avatar": "avatar_mf6x0b_1771894903432.webp",
+      "cover": "cover_mf6x0b_0_1771894904587.webp",
+      "covers": [
+        "cover_mf6x0b_0_1771894904587.webp",
+        "cover_mf6x0b_1_1771894905156.webp",
+        "cover_mf6x0b_2_1771894905706.webp"
+      ]
+    },
+    "user_key": "mf6x0b",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:10.584Z"
+    },
+    "updated_at": "2026-02-24T19:12:46.103Z",
+    "account_type": 33,
+    "featured_items_data": null,
+    "location": "29.9918982, 32.4843467",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 138,
+    "business_name": "قطفة و عصرة"
+  },
+  {
+    "_docId": "mre5av",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:26.963Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:53.194Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "is_delivery_eligible": 0,
+    "user_key": "mre5av",
+    "user_image": null,
+    "business_bio": null,
+    "username": "الوو",
+    "business_whatsapp": "+201051913222",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": null,
+    "phone": "+201051913222",
+    "business_name": null,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 42,
+    "featured_items_data": null,
+    "location": "29.9919006, 32.4844097",
+    "Address": "السلام",
+    "system_role": "user",
+    "Password": "1111",
+    "limitPackage": null,
+    "business_category": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null
+  },
+  {
+    "_docId": "mwj4y3",
+    "business_sub_categories": null,
+    "last_login_at": "2026-05-21T00:21:09.741Z",
+    "business_category": null,
+    "limitPackage": 0,
+    "system_role": "user",
+    "Password": "2762001",
+    "Address": "ش النيل",
+    "location": "29.9798418, 32.5489627",
+    "featured_items_data": null,
+    "id": 363,
+    "created_at": "2026-05-21T00:21:09.741Z",
+    "business_name": null,
+    "settings": {
+      "isDelivered": 0,
+      "locations": [
+        {
+          "coords": "29.9798418, 32.5489627",
+          "id": "loc_2423292c-2aba-4ea9-bf6e-9ddf16641dae",
+          "is_primary": true,
+          "address": "ش النيل"
+        }
+      ]
+    },
+    "links": null,
+    "phone": "+201030324384",
+    "username": "israa Sayed",
+    "business_whatsapp": "+201030324384",
+    "business_bio": null,
+    "user_image": {
+      "avatar": null,
+      "cover": null,
+      "covers": []
+    },
+    "user_key": "mwj4y3",
+    "is_delivery_eligible": 0,
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:19.766Z"
+    },
+    "updated_at": "2026-05-21T00:21:09.741Z",
+    "account_type": 1
+  },
+  {
+    "_docId": "mxcu1c",
+    "last_login_at": "2026-05-22T03:44:53.776Z",
+    "business_category": "{\"services\":[\"repair\"]}",
+    "limitPackage": 150,
+    "Password": "ServicePass123",
+    "system_role": null,
+    "Address": "عنوان مُعدل jV8ENUXXhJ",
+    "location": "31.2001, 29.9187",
+    "featured_items_data": null,
+    "id": 1779421493776,
+    "created_at": "2026-05-22T03:44:53.776Z",
+    "business_name": "نشاط ee41cL",
+    "settings": "{\"isDelivered\":1,\"ratingEnabled\":true,\"ratingMode\":\"stars_only\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_only\",\"locations\":[{\"id\":\"loc_1779421470703_3nucnd\",\"coords\":\"31.2001, 29.9187\",\"address\":\"عنوان مُعدل jV8ENUXXhJ\",\"is_primary\":true},{\"id\":\"loc_1779421471769_8rtcgw\",\"coords\":\"30.0444, 31.2357\",\"address\":\"العنوان الثاني Us1FQieX71\",\"is_primary\":false}],\"deliveryMode\":\"self\",\"deliveryProviderKey\":\"\"}",
+    "links": "{\"facebook\":[\"https://facebook.com/suezbazaar.audit\",\"https://facebook.com/suezbazaar.audit.2\"],\"instagram\":[\"https://instagram.com/suezbazaar.audit\",\"https://instagram.com/suezbazaar.audit.2\"],\"tiktok\":\"https://tiktok.com/@suezbazaar.audit\",\"telegram\":\"https://t.me/suezbazaar_audit\",\"x\":\"https://x.com/suezbazaar_audit\",\"website\":[\"https://example.com\",\"https://example.org\"]}",
+    "phone": "+201061159916",
+    "username": "register_user_vd0d5J",
+    "business_whatsapp": "+201061159916",
+    "business_bio": "خدمة مميزة fxzgF\n\nوصف تفصيلي للنشاط g3LXJF4K3JmWnhnXThiIkgO1g",
+    "user_key": "mxcu1c",
+    "user_image": "{\"avatar\":\"avatar_mxcu1c_1779421490595.webp\",\"covers\":[\"cover_mxcu1c_0_1779421491231.webp\",\"cover_mxcu1c_1_1779421492940.webp\",\"cover_mxcu1c_2_1779421493328.webp\"],\"cover\":\"cover_mxcu1c_0_1779421491231.webp\"}",
+    "updated_at": "2026-05-22T03:44:53.776Z",
+    "account_type": 33
+  },
+  {
+    "_docId": "my2okf",
+    "location": "29.971126405882256, 32.554550170898445",
+    "featured_items_data": null,
+    "business_name": "1111111111111",
+    "id": 167,
+    "created_at": "2026-04-19T20:00:13.787Z",
+    "business_bio": "11111111111111\n\n1111111111",
+    "settings": {
+      "ratingMode": "stars_comments",
+      "productRatingEnabled": true,
+      "ratingEnabled": true,
+      "productRatingMode": "stars_comments",
+      "locations": [
+        {
+          "address": "111111111",
+          "id": "loc_1776628757878_vuxdmp",
+          "is_primary": true,
+          "coords": "29.971126405882256, 32.554550170898445"
+        }
+      ],
+      "isDelivered": 0
+    },
+    "phone": "+20102326226535",
+    "links": {},
+    "business_whatsapp": "+20102326226535",
+    "username": "يبيبيبيب",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:16.700Z"
+    },
+    "updated_at": "2026-04-19T20:00:13.787Z",
+    "account_type": 33,
+    "user_key": "my2okf",
+    "user_image": {
+      "covers": [
+        "cover_my2okf_0_1776628802083.webp",
+        "cover_my2okf_1_1776628802542.webp",
+        "cover_my2okf_2_1776628802979.webp"
+      ],
+      "avatar": "avatar_my2okf_1776628801357.webp",
+      "cover": "cover_my2okf_0_1776628802083.webp"
+    },
+    "is_delivery_eligible": 0,
+    "last_login_at": "2026-04-19T20:00:13.787Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "2": [
+        "1"
+      ]
+    },
+    "limitPackage": 111,
+    "system_role": "user",
+    "Password": "1111",
+    "Address": "111111111"
+  },
+  {
+    "_docId": "nnhoch",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": {
+      "4": [],
+      "5": [
+        "4",
+        "9",
+        "8"
+      ]
+    },
+    "limitPackage": 0,
+    "Password": "1135",
+    "system_role": "user",
+    "Address": "اخر ش ابو العنين بجوار قسم السويس امام قصر محمد على",
+    "location": "29.9919004, 32.4843505",
+    "featured_items_data": null,
+    "id": 107,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "البغدادى للادوات المنزليه الحديثة",
+    "phone": "+201003451188",
+    "links": {
+      "facebook": "https://www.facebook.com/share/1CJhVEysvv/",
+      "instagram": "",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "tiktok": ""
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "username": "البغدادى",
+    "business_whatsapp": "+201003451188",
+    "business_bio": "خصم خاص لمستخدم التطبيق",
+    "user_key": "nnhoch",
+    "user_image": "avatar_nnhoch_1771390732327.webp",
+    "is_delivery_eligible": 0,
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:02.861Z"
+    },
+    "updated_at": "2026-04-06T12:46:35.201Z",
+    "account_type": 33
+  },
+  {
+    "_docId": "nskjkj",
+    "business_bio": "نبذة مختصرة\n\nوصف النشاط",
+    "links": {},
+    "phone": "+201011111111",
+    "settings": {
+      "productRatingMode": "stars_only",
+      "locations": [
+        {
+          "address": "اكتب العنوان",
+          "is_primary": true,
+          "id": "loc_1776653430578_rqpmth",
+          "coords": "29.95960325706943, 32.55210399627686"
+        }
+      ],
+      "isDelivered": 1,
+      "ratingMode": "stars_only",
+      "productRatingEnabled": true,
+      "ratingEnabled": true
+    },
+    "business_whatsapp": "+201011111111",
+    "username": "aaaa",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:16.922Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "account_type": 33,
+    "updated_at": "2026-04-20T02:52:45.035Z",
+    "user_image": {
+      "covers": [
+        "cover_nskjkj_0_1776653440546.webp",
+        "cover_nskjkj_1_1776653440899.webp",
+        "cover_nskjkj_2_1776653441378.webp"
+      ],
+      "cover": "cover_nskjkj_0_1776653440546.webp",
+      "avatar": "avatar_nskjkj_1776653439657.webp"
+    },
+    "user_key": "nskjkj",
+    "is_delivery_eligible": 0,
+    "location": "29.95960325706943, 32.55210399627686",
+    "featured_items_data": null,
+    "business_name": "اسم النشاط التجاري",
+    "id": 168,
+    "created_at": "2026-04-20T02:50:41.733Z",
+    "limitPackage": 1000,
+    "system_role": "user",
+    "Password": "1111",
+    "Address": "اكتب العنوان",
+    "last_login_at": "2026-04-20T02:52:45.035Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "1": [
+        "13"
+      ]
+    }
+  },
+  {
+    "_docId": "nwo9hn",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": {
+      "4": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "limitPackage": 0,
+    "Password": "1139",
+    "system_role": "user",
+    "Address": "اونلاين",
+    "location": "29.9918983, 32.4843308",
+    "featured_items_data": null,
+    "id": 111,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "Black And Rose",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "tiktok": "",
+      "x": "",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/blackandrose21?igsh=ODk4enp4bG9jYmYw",
+      "website": "",
+      "facebook": ""
+    },
+    "phone": "+201001981491",
+    "business_whatsapp": "+201001981491",
+    "username": "Black and Rose",
+    "business_bio": "خصم خاص لمستخدم التطبيق",
+    "user_key": "nwo9hn",
+    "user_image": "avatar_nwo9hn_1771393102520.webp",
+    "is_delivery_eligible": 0,
+    "updated_at": "2026-04-06T12:46:35.841Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:03.708Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "account_type": 33
+  },
+  {
+    "_docId": "o11ihj",
+    "business_bio": "ءءءءءءءءءءءءءءءءءءءءءءءءءء\n\nءءءءءءءءءءءءءءءءءءءءءء",
+    "phone": "+2010555555555",
+    "links": {
+      "facebook": [
+        "http://127.0.0.1:5504/pages/register/register.html#register-step-rating",
+        "http://127.0.0.1:5504/pages/register/register.html#register-step-rating"
+      ]
+    },
+    "settings": {
+      "ratingEnabled": true,
+      "productRatingEnabled": true,
+      "ratingMode": "stars_comments",
+      "isDelivered": 0,
+      "locations": [
+        {
+          "is_primary": true,
+          "id": "loc_1776455955235_5cqmoc",
+          "coords": "29.972018430252213, 32.55283355712891",
+          "address": "يبيبيب"
+        }
+      ],
+      "productRatingMode": "stars_only"
+    },
+    "username": "555555",
+    "business_whatsapp": "+2010555555555",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:16.050Z"
+    },
+    "updated_at": "2026-04-17T20:03:11.711Z",
+    "account_type": 33,
+    "user_key": "o11ihj",
+    "user_image": {
+      "cover": "cover_o11ihj_0_1776456075961.webp",
+      "avatar": "avatar_o11ihj_1776456075184.webp",
+      "covers": [
+        "cover_o11ihj_0_1776456075961.webp",
+        "cover_o11ihj_1_1776456076420.webp",
+        "cover_o11ihj_2_1776456076931.webp"
+      ]
+    },
+    "is_delivery_eligible": 0,
+    "location": "29.972018430252213, 32.55283355712891",
+    "featured_items_data": null,
+    "business_name": "ءءءءءءءءءءءءءءءء",
+    "id": 164,
+    "created_at": "2026-04-17T20:01:16.554Z",
+    "limitPackage": 2000,
+    "Password": "1111",
+    "system_role": "user",
+    "Address": "يبيبيب",
+    "last_login_at": "2026-04-17T20:03:11.711Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "3": [
+        "1"
+      ]
+    }
+  },
+  {
+    "_docId": "o69jdw",
+    "Password": "1158",
+    "system_role": "user",
+    "limitPackage": null,
+    "Address": "السلام 1شارع مدرسة سويز هيلز",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": {
+      "4": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "8"
+      ]
+    },
+    "username": "نتائج الطبيعة",
+    "business_whatsapp": "+201010582488",
+    "phone": "+201010582488",
+    "links": {
+      "instagram": "https://www.instagram.com/nature__results?igsh=MWo1MWM2eHBnNGZtbw==",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/17zkpYBHmc/",
+      "x": "",
+      "tiktok": "https://www.tiktok.com/@naturalresult?_r=1&_t=ZS-94Ap6oj0tm9",
+      "telegram": ""
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_bio": "خبرة اكتر من 25 ستة فى التجميل الطبيعى",
+    "is_delivery_eligible": 0,
+    "user_key": "o69jdw",
+    "user_image": {
+      "avatar": "avatar_o69jdw_1771889248319.webp",
+      "cover": "cover_o69jdw_0_1771889249801.webp",
+      "covers": [
+        "cover_o69jdw_0_1771889249801.webp",
+        "cover_o69jdw_1_1771889250610.webp"
+      ]
+    },
+    "account_type": 33,
+    "updated_at": "2026-02-24T19:12:46.103Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:09.429Z"
+    },
+    "featured_items_data": null,
+    "location": "29.9918904, 32.4843577",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 133,
+    "business_name": "NATURAL RESULTS"
+  },
+  {
+    "_docId": "okswky",
+    "last_login_at": "2026-02-24T23:14:54.649Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "5": [
+        "4"
+      ]
+    },
+    "limitPackage": null,
+    "system_role": "user",
+    "Password": "1168",
+    "Address": "السويس مول السويس",
+    "location": "29.9918925, 32.4843517",
+    "featured_items_data": null,
+    "business_name": "DARAK",
+    "id": 144,
+    "created_at": "2026-02-24T23:14:54.649Z",
+    "business_bio": "ادوات منزلية حديثة",
+    "phone": "+201097779300",
+    "links": {
+      "instagram": "",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/1GU7pdYp9a/",
+      "tiktok": "",
+      "x": "",
+      "telegram": ""
+    },
+    "settings": {
+      "productRatingEnabled": true,
+      "ratingMode": "stars_comments",
+      "ratingEnabled": true,
+      "productRatingMode": "stars_comments",
+      "isDelivered": 0
+    },
+    "username": "Ahmed Darak",
+    "business_whatsapp": "+201097779300",
+    "account_type": 33,
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:11.943Z"
+    },
+    "updated_at": "2026-02-24T23:14:54.649Z",
+    "user_image": {
+      "covers": [
+        "cover_okswky_0_1771974890154.webp",
+        "cover_okswky_1_1771974891091.webp",
+        "cover_okswky_2_1771974891977.webp"
+      ],
+      "cover": "cover_okswky_0_1771974890154.webp",
+      "avatar": "avatar_okswky_1771974889195.webp"
+    },
+    "user_key": "okswky",
+    "is_delivery_eligible": 0
+  },
+  {
+    "_docId": "olxdyf",
+    "location": "30.0013734, 32.4997512",
+    "featured_items_data": null,
+    "business_name": null,
+    "id": 73,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_bio": null,
+    "phone": "+201203154027",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "username": "Shrief",
+    "business_whatsapp": "+201203154027",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:29.930Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:25:57.418Z"
+    },
+    "user_key": "olxdyf",
+    "user_image": null,
+    "is_delivery_eligible": 0,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": null,
+    "limitPackage": 0,
+    "Password": "S33h77@00",
+    "system_role": "user",
+    "Address": "السلام ١ خلف المعهد الهندسي اعلى زاوية الشهداء"
+  },
+  {
+    "_docId": "on0cj9",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 113,
+    "business_name": "ماسكرا",
+    "featured_items_data": null,
+    "location": "29.991899, 32.4843257",
+    "is_delivery_eligible": 0,
+    "user_image": "avatar_on0cj9_1771400642393.webp",
+    "user_key": "on0cj9",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:04.133Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "updated_at": "2026-04-06T12:46:36.149Z",
+    "account_type": 33,
+    "username": "Mascara",
+    "business_whatsapp": "+201012260103",
+    "phone": "+201012260103",
+    "links": {
+      "instagram": "",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/1G5LcjVJcv/",
+      "tiktok": "",
+      "x": "",
+      "telegram": ""
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_bio": "خصم خاص لمستخدم التطبيق \nميك اب - اسبلاشات - منتجات عناية بالبشرة والجسم \nكورى - اماراتى -براندات اوريجينال",
+    "business_category": {
+      "4": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "Address": "السويس شو رووم سلوى على امام مكتبة الكيال بجوار دار مناسبات السويس",
+    "system_role": "user",
+    "Password": "1141",
+    "limitPackage": 0
+  },
+  {
+    "_docId": "otd7o3",
+    "location": "29.96814, 32.5128935",
+    "featured_items_data": null,
+    "id": 152,
+    "created_at": "2026-03-28T21:08:13.166Z",
+    "business_name": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "facebook": "",
+      "instagram": "",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "tiktok": ""
+    },
+    "phone": "+201020508085",
+    "username": "حسام",
+    "business_whatsapp": "+201024182175",
+    "business_bio": "تتتتتتتتتتتتتتتتتتتتتت",
+    "user_image": {
+      "avatar": "avatar_otd7o3_1774733545692.webp",
+      "cover": null,
+      "covers": []
+    },
+    "user_key": "otd7o3",
+    "is_delivery_eligible": 0,
+    "account_type": 1,
+    "updated_at": "2026-03-29T00:42:00.851Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:13.721Z"
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-03-29T00:42:00.851Z",
+    "business_category": {
+      "2": [
+        "1",
+        "2"
+      ]
+    },
+    "limitPackage": null,
+    "Password": "5555",
+    "system_role": "user",
+    "Address": "السلام"
+  },
+  {
+    "_docId": "ow0bj2",
+    "business_category": null,
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "Address": "مساكن شل القديمه محل عطاره الغريب بسور نادي التنميه",
+    "Password": "158158ar",
+    "system_role": "user",
+    "limitPackage": 0,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 71,
+    "business_name": null,
+    "featured_items_data": null,
+    "location": "29.9735026, 32.5260414",
+    "is_delivery_eligible": 0,
+    "user_key": "ow0bj2",
+    "user_image": null,
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:29.592Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:25:56.992Z"
+    },
+    "username": "عطاره الغريب",
+    "business_whatsapp": "+201228976257",
+    "phone": "+201228976257",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_bio": null
+  },
+  {
+    "_docId": "oyeggx",
+    "business_bio": "ابباباباباباباب\n\nبابابابابا",
+    "business_whatsapp": "+204252525776",
+    "username": "ليليسلسيلسيل",
+    "phone": "+204252525776",
+    "links": {
+      "facebook": "https://www.facebook.com/p/%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3%D9%89-%D9%84%D9%84%D8%B5%D9%8A%D8%A7%D9%86%D8%A9-100063737122111/"
+    },
+    "settings": {
+      "productRatingEnabled": true,
+      "ratingMode": "stars_only",
+      "deliveryProviderKey": "gax4e1",
+      "ratingEnabled": true,
+      "deliveryMode": "platform",
+      "productRatingMode": "stars_comments",
+      "isDelivered": 0,
+      "locations": [
+        {
+          "address": "باابابابابا",
+          "coords": "29.966063130814355, 32.556781768798835",
+          "id": "loc_1777609109450_70s1xz",
+          "is_primary": true
+        }
+      ]
+    },
+    "updated_at": "2026-05-01T04:19:11.246Z",
+    "account_type": 33,
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:18.879Z"
+    },
+    "is_delivery_eligible": 0,
+    "user_image": {
+      "avatar": null,
+      "cover": null,
+      "covers": []
+    },
+    "user_key": "oyeggx",
+    "featured_items_data": null,
+    "location": "29.966063130814355, 32.556781768798835",
+    "business_name": "اباباا",
+    "created_at": "2026-05-01T04:19:11.246Z",
+    "id": 325,
+    "Password": "1111",
+    "system_role": "user",
+    "limitPackage": 100,
+    "Address": "باابابابابا",
+    "last_login_at": "2026-05-01T04:19:11.246Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "1": [
+        "1"
+      ]
+    }
+  },
+  {
+    "_docId": "p7qfix",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": null,
+    "Password": "1111",
+    "system_role": "user",
+    "limitPackage": null,
+    "Address": "السلام",
+    "featured_items_data": null,
+    "location": "29.9918806, 32.4845975",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 43,
+    "business_name": null,
+    "business_whatsapp": "+2012222222222",
+    "username": "Hhhh",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": null,
+    "phone": "+2012222222222",
+    "business_bio": null,
+    "is_delivery_eligible": 0,
+    "user_key": "p7qfix",
+    "user_image": null,
+    "updated_at": "2026-04-06T12:46:27.132Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:25:53.426Z"
+    },
+    "account_type": 33
+  },
+  {
+    "_docId": "pngukw",
+    "id": 55,
+    "user_image": "{\"avatar\":\"avatar_pngukw_1771628438918.webp\",\"covers\":[\"cover_pngukw_0_1771628068353.webp\",\"cover_pngukw_1_1771628069055.webp\",\"cover_pngukw_2_1771628069455.webp\"],\"cover\":\"cover_pngukw_0_1771628068353.webp\"}",
+    "updated_at": "2026-06-04T23:02:14.074Z",
+    "account_type": 32,
+    "settings": "{\"locations\":[{\"id\":\"loc_1779646511634_em02el\",\"coords\":\"29.9884554, 32.5135612\",\"address\":\"فيصل. السوبس\",\"is_primary\":true}],\"isDelivered\":false,\"deliveryMode\":\"platform\",\"deliveryProviderKey\":\"ft9ti2\",\"limitPackage\":0,\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\"}",
+    "phone": "+201065753990",
+    "links": "{}",
+    "username": "Mohamed Elzeny",
+    "business_category": "{\"3\":[\"2\",\"4\",\"5\",\"11\"]}",
+    "phones": [
+      {
+        "is_primary": true,
+        "number": "+201065753990",
+        "has_whatsapp": true,
+        "type": "mobile"
+      }
+    ],
+    "Address": "فيصل. السوبس",
+    "system_role": "admin",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "الزيني",
+    "location": "29.9884554, 32.5135612",
+    "featured_items_data": null,
+    "user_key": "pngukw",
+    "is_delivery_eligible": 0,
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:55.199Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "business_whatsapp": "+201065753990",
+    "business_bio": "كل اللي هتحتاجه موجود عندنا",
+    "address": "فيصل. السوبس",
+    "_firestore_id": "pngukw",
+    "business_sub_categories": null,
+    "last_login_at": "2026-06-04T23:02:14.074Z",
+    "limitPackage": 10,
+    "Password": "1111"
+  },
+  {
+    "_docId": "prod_seller_1yHcElNf",
+    "location": "29.9668, 32.5498",
+    "featured_items_data": null,
+    "business_name": "Product Seller vVT7C",
+    "id": 1779421475383,
+    "created_at": "2026-05-22T03:44:35.383Z",
+    "business_bio": "Product seller bio F5HwbLoGKI",
+    "phone": "+201064868919",
+    "links": "{}",
+    "settings": "{\"locations\":[{\"id\":\"loc_WqSevbKL\",\"coords\":\"29.9668, 32.5498\",\"address\":\"Product live address EP6CJC\",\"is_primary\":true}],\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\",\"isDelivered\":1}",
+    "username": "product_seller_ea5zyJ",
+    "business_whatsapp": "+201064868919",
+    "account_type": 33,
+    "updated_at": "2026-05-22T03:44:44.799Z",
+    "user_image": "{\"avatar\":null,\"covers\":[],\"cover\":null}",
+    "user_key": "prod_seller_1yHcElNf",
+    "last_login_at": "2026-05-22T03:44:44.799Z",
+    "business_category": "{\"1\":[\"1\",\"2\"],\"3\":[\"5\",\"8\"],\"6\":[\"4\",\"7\"],\"46\":[\"1\"]}",
+    "_firestore_id": "prod_seller_1yHcElNf",
+    "limitPackage": 100,
+    "Password": "ProductPass123",
+    "system_role": null,
+    "Address": "Product live address EP6CJC"
+  },
+  {
+    "_docId": "prod_seller_VGnEuMSH",
+    "business_bio": "Product seller bio r1jhzVE9ME",
+    "business_whatsapp": "+201091549047",
+    "username": "product_seller_KKE1ra",
+    "settings": "{\"locations\":[{\"id\":\"loc_i3sBYtJh\",\"coords\":\"29.9668, 32.5498\",\"address\":\"Product live address N0u7zI\",\"is_primary\":true}],\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\",\"isDelivered\":1}",
+    "links": "{}",
+    "phone": "+201091549047",
+    "updated_at": "2026-05-22T03:45:45.900Z",
+    "account_type": 33,
+    "user_key": "prod_seller_VGnEuMSH",
+    "user_image": "{\"avatar\":null,\"covers\":[],\"cover\":null}",
+    "featured_items_data": null,
+    "location": "29.9668, 32.5498",
+    "business_name": "Product Seller foPYz",
+    "created_at": "2026-05-22T03:45:39.868Z",
+    "id": 1779421539868,
+    "system_role": null,
+    "Password": "ProductPass123",
+    "limitPackage": 100,
+    "Address": "Product live address N0u7zI",
+    "last_login_at": "2026-05-22T03:45:45.900Z",
+    "_firestore_id": "prod_seller_VGnEuMSH",
+    "business_category": "{\"1\":[\"1\",\"2\"],\"3\":[\"5\",\"8\"],\"6\":[\"4\",\"7\"],\"46\":[\"1\"]}"
+  },
+  {
+    "_docId": "prod_seller_a46iQxtS",
+    "last_login_at": "2026-05-22T03:45:22.259Z",
+    "_firestore_id": "prod_seller_a46iQxtS",
+    "business_category": "{\"1\":[\"1\",\"2\"],\"3\":[\"5\",\"8\"],\"6\":[\"4\",\"7\"],\"46\":[\"1\"]}",
+    "Password": "ProductPass123",
+    "system_role": null,
+    "limitPackage": 100,
+    "Address": "Product live address q6LHiO",
+    "featured_items_data": null,
+    "location": "29.9668, 32.5498",
+    "business_name": "Product Seller E8y4V",
+    "created_at": "2026-05-22T03:45:15.020Z",
+    "id": 1779421515020,
+    "business_bio": "Product seller bio zlSnPZ0k7i",
+    "business_whatsapp": "+201066877665",
+    "username": "product_seller_KWiSKd",
+    "settings": "{\"locations\":[{\"id\":\"loc_qLqk96UD\",\"coords\":\"29.9668, 32.5498\",\"address\":\"Product live address q6LHiO\",\"is_primary\":true}],\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\",\"isDelivered\":1}",
+    "phone": "+201066877665",
+    "links": "{}",
+    "account_type": 33,
+    "updated_at": "2026-05-22T03:45:22.259Z",
+    "user_image": "{\"avatar\":null,\"covers\":[],\"cover\":null}",
+    "user_key": "prod_seller_a46iQxtS"
+  },
+  {
+    "_docId": "prod_seller_ubQaIbs8",
+    "id": 1779421497708,
+    "created_at": "2026-05-22T03:44:57.708Z",
+    "business_name": "Product Seller X1pOo",
+    "location": "29.9668, 32.5498",
+    "featured_items_data": null,
+    "user_key": "prod_seller_ubQaIbs8",
+    "user_image": "{\"avatar\":null,\"covers\":[],\"cover\":null}",
+    "updated_at": "2026-05-22T03:45:03.128Z",
+    "account_type": 33,
+    "settings": "{\"locations\":[{\"id\":\"loc_mr8Vn1Km\",\"coords\":\"29.9668, 32.5498\",\"address\":\"Product live address ceoFmE\",\"is_primary\":true}],\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\",\"isDelivered\":1}",
+    "phone": "+201000804865",
+    "links": "{}",
+    "business_whatsapp": "+201000804865",
+    "username": "product_seller_80z5QM",
+    "business_bio": "Product seller bio fwmvm2aFeQ",
+    "business_category": "{\"1\":[\"1\",\"2\"],\"3\":[\"5\",\"8\"],\"6\":[\"4\",\"7\"],\"46\":[\"1\"]}",
+    "_firestore_id": "prod_seller_ubQaIbs8",
+    "last_login_at": "2026-05-22T03:45:03.128Z",
+    "Address": "Product live address ceoFmE",
+    "limitPackage": 100,
+    "system_role": null,
+    "Password": "ProductPass123"
+  },
+  {
+    "_docId": "prof_6oUtIjEt",
+    "user_key": "prof_6oUtIjEt",
+    "user_image": "{\"avatar\":null,\"covers\":[],\"cover\":null}",
+    "account_type": 1,
+    "updated_at": "2026-05-22T03:43:58.560Z",
+    "links": "{}",
+    "phone": "+201099402697",
+    "settings": "{\"locations\":[{\"id\":\"loc_ezYtsPH9\",\"coords\":\"31.2001, 29.9187\",\"address\":\"عنوان مُعدل aKKjjROPFb\",\"is_primary\":true},{\"id\":\"loc_1779421426886_79gdlx\",\"coords\":\"30.0444, 31.2357\",\"address\":\"العنوان الثاني Us47CL2tFr\",\"is_primary\":false}],\"isDelivered\":false,\"deliveryMode\":\"platform\",\"deliveryProviderKey\":\"\",\"limitPackage\":0,\"ratingEnabled\":false,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":false,\"productRatingMode\":\"stars_comments\"}",
+    "username": "profile_buyer_5AUm9x_edited",
+    "business_whatsapp": "+201099402697",
+    "address": "عنوان مُعدل aKKjjROPFb",
+    "business_bio": "",
+    "id": 1779421409425,
+    "created_at": "2026-05-22T03:43:29.410Z",
+    "business_name": "",
+    "location": "31.2001, 29.9187",
+    "featured_items_data": null,
+    "phones": [
+      {
+        "number": "+201099402697",
+        "has_whatsapp": true,
+        "is_primary": true,
+        "type": "mobile"
+      }
+    ],
+    "Address": "عنوان مشتري nS73iF",
+    "limitPackage": 0,
+    "Password": "BuyerProfilePass123",
+    "system_role": null,
+    "business_category": "{}",
+    "_firestore_id": "prof_6oUtIjEt",
+    "last_login_at": "2026-05-22T03:43:57.845Z"
+  },
+  {
+    "_docId": "prof_FMyHwsQ0",
+    "business_name": "نشاط 4KlKyU",
+    "id": 1779421450078,
+    "created_at": "2026-05-22T03:44:10.078Z",
+    "location": "31.2001, 29.9187",
+    "featured_items_data": null,
+    "account_type": 32,
+    "updated_at": "2026-05-22T03:44:47.945Z",
+    "user_image": "{\"avatar\":null,\"covers\":[],\"cover\":null}",
+    "user_key": "prof_FMyHwsQ0",
+    "business_bio": "خدمة مميزة e30lJ\n\nوصف تفصيلي للنشاط 4evbToRLQdk599ZvOdmeteax1",
+    "address": "عنوان مُعدل dmGsyFlRrc",
+    "phone": "+201025766329",
+    "links": "{\"facebook\":[\"https://facebook.com/suezbazaar.audit\",\"https://facebook.com/suezbazaar.audit.2\"],\"instagram\":[\"https://instagram.com/suezbazaar.audit\",\"https://instagram.com/suezbazaar.audit.2\"],\"tiktok\":\"https://tiktok.com/@suezbazaar.audit\",\"telegram\":\"https://t.me/suezbazaar_audit\",\"x\":\"https://x.com/suezbazaar_audit\",\"website\":[\"https://example.com\",\"https://example.org\"]}",
+    "settings": "{\"locations\":[{\"id\":\"loc_zdkmLxPC\",\"coords\":\"31.2001, 29.9187\",\"address\":\"عنوان مُعدل dmGsyFlRrc\",\"is_primary\":true},{\"id\":\"loc_1779421468920_2pkjc9\",\"coords\":\"30.0444, 31.2357\",\"address\":\"العنوان الثاني ndmrZpwcFg\",\"is_primary\":false}],\"isDelivered\":true,\"deliveryMode\":\"self\",\"deliveryProviderKey\":\"\",\"limitPackage\":150,\"ratingEnabled\":true,\"ratingMode\":\"stars_only\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_only\"}",
+    "business_whatsapp": "+201025766329",
+    "username": "profile_service_sFLtUG_edited",
+    "business_category": "{\"services\":[\"repair\"]}",
+    "_firestore_id": "prof_FMyHwsQ0",
+    "last_login_at": "2026-05-22T03:44:47.256Z",
+    "Address": "عنوان خدمة 3sq6k7",
+    "phones": [
+      {
+        "type": "mobile",
+        "number": "+201025766329",
+        "has_whatsapp": true,
+        "is_primary": true
+      }
+    ],
+    "limitPackage": 75,
+    "Password": "ServiceProfilePass123",
+    "system_role": null
+  },
+  {
+    "_docId": "prof_FxpsJYoU",
+    "last_login_at": "2026-04-25T19:15:14.276Z",
+    "business_sub_categories": null,
+    "business_category": {},
+    "limitPackage": 0,
+    "system_role": "user",
+    "Password": "BuyerProfilePass123",
+    "Address": "العنوان الثاني NF35lpRvFq",
+    "location": "30.0444, 31.2357",
+    "featured_items_data": null,
+    "business_name": "",
+    "id": 219,
+    "created_at": "2026-04-25T19:14:55.098Z",
+    "business_bio": "",
+    "links": {},
+    "phone": "+201092696678",
+    "settings": {
+      "limitPackage": 0,
+      "productRatingMode": "stars_comments",
+      "isDelivered": false,
+      "locations": [
+        {
+          "coords": "29.9668, 32.5498",
+          "id": "loc_zsr5ex1M",
+          "is_primary": false,
+          "address": "العنوان الأول TWANLGckUl"
+        },
+        {
+          "is_primary": true,
+          "id": "loc_1777144508849_mymvxt",
+          "coords": "30.0444, 31.2357",
+          "address": "العنوان الثاني NF35lpRvFq"
+        }
+      ],
+      "ratingMode": "stars_comments",
+      "productRatingEnabled": false,
+      "ratingEnabled": false
+    },
+    "business_whatsapp": "+201092696678",
+    "username": "profile_buyer_mCyCJz_edited",
+    "updated_at": "2026-04-25T19:15:14.673Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:17.576Z"
+    },
+    "account_type": 1,
+    "user_key": "prof_FxpsJYoU",
+    "user_image": {
+      "avatar": null,
+      "cover": null,
+      "covers": []
+    },
+    "is_delivery_eligible": 0
+  },
+  {
+    "_docId": "prof_Jqc9Sjez",
+    "last_login_at": "2026-05-22T03:45:05.349Z",
+    "_firestore_id": "prof_Jqc9Sjez",
+    "business_category": "{}",
+    "system_role": null,
+    "Password": "ProfilePass123",
+    "limitPackage": 0,
+    "Address": "عنوان مشتري uzySkm",
+    "featured_items_data": null,
+    "location": "29.9668, 32.5498",
+    "created_at": "2026-05-22T03:45:00.752Z",
+    "id": 1779421500752,
+    "business_name": null,
+    "business_whatsapp": "+201091738540",
+    "username": "profile_buyer_z4x4BL",
+    "settings": "{\"locations\":[{\"id\":\"loc_odeHH4SH\",\"coords\":\"29.9668, 32.5498\",\"address\":\"عنوان مشتري uzySkm\",\"is_primary\":true}],\"isDelivered\":0,\"limitPackage\":0,\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\"}",
+    "phone": "+201091738540",
+    "links": "{}",
+    "business_bio": null,
+    "user_image": "{\"avatar\":null,\"covers\":[],\"cover\":null}",
+    "user_key": "prof_Jqc9Sjez",
+    "updated_at": "2026-05-22T03:45:05.349Z",
+    "account_type": 1
+  },
+  {
+    "_docId": "prof_PPg7YUES",
+    "account_type": 1,
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:17.800Z"
+    },
+    "updated_at": "2026-04-25T19:15:20.869Z",
+    "is_delivery_eligible": 0,
+    "user_key": "prof_PPg7YUES",
+    "user_image": {
+      "cover": null,
+      "avatar": null,
+      "covers": []
+    },
+    "business_bio": "",
+    "username": "profile_buyer_33gc1j",
+    "business_whatsapp": "+201052481037",
+    "links": {},
+    "phone": "+201052481037",
+    "settings": {
+      "ratingEnabled": false,
+      "productRatingEnabled": false,
+      "ratingMode": "stars_comments",
+      "locations": [
+        {
+          "address": "العنوان الأول 2kmODcT9Zy",
+          "id": "loc_tt0A72pg",
+          "is_primary": true,
+          "coords": "29.9668, 32.5498"
+        }
+      ],
+      "isDelivered": false,
+      "productRatingMode": "stars_comments",
+      "limitPackage": 0
+    },
+    "business_name": "",
+    "created_at": "2026-04-25T19:15:16.124Z",
+    "id": 220,
+    "featured_items_data": null,
+    "location": "29.9668, 32.5498",
+    "Address": "العنوان الأول 2kmODcT9Zy",
+    "Password": "ProfilePass123",
+    "system_role": "user",
+    "limitPackage": 0,
+    "business_category": {},
+    "last_login_at": "2026-04-25T19:15:17.665Z",
+    "business_sub_categories": null
+  },
+  {
+    "_docId": "prof_VCbSn2sL",
+    "Password": "ProfilePass123",
+    "system_role": null,
+    "limitPackage": 0,
+    "Address": "عنوان مشتري yAqI8V",
+    "last_login_at": "2026-05-22T03:45:13.724Z",
+    "_firestore_id": "prof_VCbSn2sL",
+    "business_category": "{}",
+    "business_whatsapp": "+201048116800",
+    "username": "profile_buyer_LisR6Z",
+    "links": "{}",
+    "settings": "{\"locations\":[{\"id\":\"loc_pbaMaGSi\",\"coords\":\"29.9668, 32.5498\",\"address\":\"عنوان مشتري yAqI8V\",\"is_primary\":true}],\"isDelivered\":0,\"limitPackage\":0,\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\"}",
+    "phone": "+201048116800",
+    "business_bio": null,
+    "user_image": "{\"avatar\":null,\"covers\":[],\"cover\":null}",
+    "user_key": "prof_VCbSn2sL",
+    "updated_at": "2026-05-22T03:45:13.724Z",
+    "account_type": 1,
+    "featured_items_data": null,
+    "location": "29.9668, 32.5498",
+    "created_at": "2026-05-22T03:45:07.147Z",
+    "id": 1779421507147,
+    "business_name": null
+  },
+  {
+    "_docId": "prof_YTiiPnHC",
+    "limitPackage": 75,
+    "system_role": "user",
+    "Password": "ProfilePass123",
+    "Address": "عنوان خدمة eMgKzh",
+    "last_login_at": "2026-04-26T04:48:14.939Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "services": [
+        "repair"
+      ]
+    },
+    "business_bio": "Baseline tagline 2VwS\n\nBaseline bio xwnWqfZH",
+    "links": {
+      "website": [
+        "https://baseline.example.com"
+      ],
+      "facebook": [
+        "https://facebook.com/profile.baseline"
+      ]
+    },
+    "phone": "+201070093910",
+    "settings": {
+      "productRatingMode": "stars_comments",
+      "limitPackage": 75,
+      "isDelivered": 1,
+      "locations": [
+        {
+          "address": "عنوان خدمة eMgKzh",
+          "id": "loc_Gy2FfAYo",
+          "is_primary": true,
+          "coords": "29.9668, 32.5498"
+        }
+      ],
+      "ratingMode": "stars_comments",
+      "productRatingEnabled": true,
+      "ratingEnabled": true
+    },
+    "business_whatsapp": "+201070093910",
+    "username": "profile_service_akeZDO",
+    "account_type": 33,
+    "updated_at": "2026-04-26T04:48:14.939Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:18.233Z"
+    },
+    "user_key": "prof_YTiiPnHC",
+    "user_image": {
+      "cover": null,
+      "avatar": null,
+      "covers": []
+    },
+    "is_delivery_eligible": 0,
+    "location": "29.9668, 32.5498",
+    "featured_items_data": null,
+    "business_name": "Baseline Biz nkCYC",
+    "id": 281,
+    "created_at": "2026-04-26T04:48:02.578Z"
+  },
+  {
+    "_docId": "prof_bwQTodtc",
+    "account_type": 1,
+    "updated_at": "2026-04-25T19:16:44.080Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:18.011Z"
+    },
+    "is_delivery_eligible": 0,
+    "user_image": {
+      "cover": null,
+      "avatar": null,
+      "covers": []
+    },
+    "user_key": "prof_bwQTodtc",
+    "business_bio": "",
+    "username": "profile_buyer_jRBGvC_edited",
+    "business_whatsapp": "+201024343263",
+    "settings": {
+      "locations": [
+        {
+          "address": "العنوان الأول I1azvZAZu8",
+          "is_primary": false,
+          "id": "loc_UQOSzlOC",
+          "coords": "29.9668, 32.5498"
+        },
+        {
+          "address": "العنوان الثاني PkBqFhT7cq",
+          "coords": "30.0444, 31.2357",
+          "is_primary": true,
+          "id": "loc_1777144598282_4mfr9n"
+        }
+      ],
+      "isDelivered": false,
+      "productRatingMode": "stars_comments",
+      "limitPackage": 0,
+      "ratingEnabled": false,
+      "productRatingEnabled": false,
+      "ratingMode": "stars_comments"
+    },
+    "links": {},
+    "phone": "+201024343263",
+    "business_name": "",
+    "created_at": "2026-04-25T19:16:25.684Z",
+    "id": 223,
+    "featured_items_data": null,
+    "location": "30.0444, 31.2357",
+    "Address": "العنوان الثاني PkBqFhT7cq",
+    "system_role": "user",
+    "Password": "BuyerProfilePass123",
+    "limitPackage": 0,
+    "business_category": {},
+    "last_login_at": "2026-04-25T19:16:43.674Z",
+    "business_sub_categories": null
+  },
+  {
+    "_docId": "prof_iUtv1Md0",
+    "Address": "عنوان خدمة 8AJbEJ",
+    "phones": [
+      {
+        "number": "+201018649733",
+        "has_whatsapp": true,
+        "is_primary": true,
+        "type": "mobile"
+      }
+    ],
+    "system_role": null,
+    "Password": "ProfilePass123",
+    "limitPackage": 75,
+    "_firestore_id": "prof_iUtv1Md0",
+    "business_category": "{\"services\":[\"repair\"]}",
+    "last_login_at": "2026-05-22T03:44:57.728Z",
+    "account_type": 32,
+    "updated_at": "2026-05-22T03:44:59.847Z",
+    "user_key": "prof_iUtv1Md0",
+    "user_image": "{\"avatar\":null,\"covers\":[],\"cover\":null}",
+    "business_bio": "خدمة مميزة WIprB\n\nBaseline bio lPPYnLmI",
+    "address": "العنوان الأول CkHkScopmA",
+    "username": "profile_service_O5WiNw",
+    "business_whatsapp": "+201018649733",
+    "phone": "+201018649733",
+    "links": "{\"facebook\":\"https://facebook.com/profile.baseline\",\"website\":\"https://baseline.example.com\"}",
+    "settings": "{\"locations\":[{\"id\":\"loc_sPcTbJnO\",\"coords\":\"29.9668, 32.5498\",\"address\":\"العنوان الأول CkHkScopmA\",\"is_primary\":true}],\"isDelivered\":true,\"deliveryMode\":\"self\",\"deliveryProviderKey\":\"\",\"limitPackage\":75,\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\"}",
+    "business_name": "نشاط IVVwoB",
+    "created_at": "2026-05-22T03:44:50.511Z",
+    "id": 1779421490511,
+    "featured_items_data": null,
+    "location": "29.9668, 32.5498"
+  },
+  {
+    "_docId": "prof_lu9SSJll",
+    "featured_items_data": null,
+    "location": "29.9668, 32.5498",
+    "created_at": "2026-05-22T03:44:01.113Z",
+    "id": 1779421441113,
+    "business_name": null,
+    "business_whatsapp": "+201091800395",
+    "username": "profile_buyer_7ANhP5",
+    "settings": "{\"locations\":[{\"id\":\"loc_8KKath3T\",\"coords\":\"29.9668, 32.5498\",\"address\":\"عنوان مشتري jPlpTV\",\"is_primary\":true}],\"isDelivered\":0,\"limitPackage\":0,\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\"}",
+    "phone": "+201091800395",
+    "links": "{}",
+    "business_bio": null,
+    "user_image": "{\"avatar\":null,\"covers\":[],\"cover\":null}",
+    "user_key": "prof_lu9SSJll",
+    "updated_at": "2026-05-22T03:44:08.237Z",
+    "account_type": 1,
+    "last_login_at": "2026-05-22T03:44:08.237Z",
+    "_firestore_id": "prof_lu9SSJll",
+    "business_category": "{}",
+    "system_role": null,
+    "Password": "ProfilePass123",
+    "limitPackage": 0,
+    "Address": "عنوان مشتري jPlpTV"
+  },
+  {
+    "_docId": "q2pnmi",
+    "featured_items_data": null,
+    "location": "29.974399786179973, 32.554550170898445",
+    "business_name": null,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 63,
+    "business_bio": null,
+    "username": "Gdd ddsc",
+    "business_whatsapp": "+201884855455488",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "phone": "+201884855455488",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:25:55.412Z"
+    },
+    "updated_at": "2026-04-06T12:46:28.553Z",
+    "account_type": 33,
+    "is_delivery_eligible": 0,
+    "user_key": "q2pnmi",
+    "user_image": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": null,
+    "Password": "1111",
+    "system_role": "user",
+    "limitPackage": 0,
+    "Address": "Vdgddcdv"
+  },
+  {
+    "_docId": "q62uuv",
+    "limitPackage": 0,
+    "system_role": "user",
+    "Password": "Essa2002",
+    "Address": "شارع الورش- بمركز طبي جمعية الولجا - الالبان القديمة",
+    "last_login_at": "2026-05-02T17:25:32.082Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "20": [
+        "204"
+      ]
+    },
+    "business_bio": "صيدلية و تركيبات طبيعية للعناية الشخصية",
+    "links": {},
+    "phone": "+201090944055",
+    "settings": {
+      "ratingMode": "stars_comments",
+      "productRatingEnabled": true,
+      "deliveryProviderKey": "",
+      "ratingEnabled": true,
+      "productRatingMode": "stars_comments",
+      "deliveryMode": "self",
+      "isDelivered": 1,
+      "locations": [
+        {
+          "coords": "29.9889454, 32.541961",
+          "is_primary": true,
+          "id": "loc_1777736393160_rmgvkv",
+          "address": "شارع الورش- بمركز طبي جمعية الولجا - الالبان القديمة"
+        }
+      ]
+    },
+    "username": "صيدلية محمد حمدي عيسى",
+    "business_whatsapp": "+201090944055",
+    "updated_at": "2026-05-02T17:25:32.082Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:19.329Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "account_type": 33,
+    "user_key": "q62uuv",
+    "user_image": {
+      "covers": [],
+      "cover": null,
+      "avatar": null
+    },
+    "is_delivery_eligible": 0,
+    "location": "29.9889454, 32.541961",
+    "featured_items_data": null,
+    "business_name": "صيدلية دكتور محمد حمدي عيسى",
+    "id": 327,
+    "created_at": "2026-05-02T15:42:27.890Z"
+  },
+  {
+    "_docId": "q7uz7a",
+    "featured_items_data": {
+      "featured_ids": [
+        "gqofjg"
+      ]
+    },
+    "location": "29.991897, 32.4844315",
+    "business_name": "Pets Go",
+    "created_at": "2026-03-07T17:19:50.262Z",
+    "id": 150,
+    "business_bio": "\"Compassionate care for your pets - always with a tail wagging in joy!\"",
+    "business_whatsapp": "+201554830166",
+    "username": "Pets go",
+    "settings": {
+      "ratingMode": "stars_comments",
+      "productRatingEnabled": true,
+      "ratingEnabled": true,
+      "productRatingMode": "stars_comments",
+      "isDelivered": 0
+    },
+    "links": {
+      "telegram": "",
+      "x": "",
+      "tiktok": "",
+      "facebook": "https://www.facebook.com/share/1DPQjZPvYq/",
+      "instagram": "https://www.instagram.com/pets____go?igsh=YmFqbnd4YTZ1Y3Y=",
+      "website": ""
+    },
+    "phone": "+201141464546",
+    "account_type": 33,
+    "updated_at": "2026-04-20T18:00:02.717Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:13.285Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "is_delivery_eligible": 0,
+    "user_key": "q7uz7a",
+    "user_image": {
+      "cover": "cover_q7uz7a_0_1772904222585.webp",
+      "avatar": "avatar_q7uz7a_1772903989276.webp",
+      "covers": [
+        "cover_q7uz7a_0_1772904222585.webp",
+        "cover_q7uz7a_1_1772904223679.webp",
+        "cover_q7uz7a_2_1772904224176.webp"
+      ]
+    },
+    "last_login_at": "2026-03-07T18:25:50.979Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "12": [
+        "4",
+        "1",
+        "7",
+        "5",
+        "6"
+      ]
+    },
+    "Password": "1174",
+    "system_role": "user",
+    "limitPackage": null,
+    "Address": "السلام ١ ش ابو بكر الصديق بجوار مدرسة مصطفى مشرفه"
+  },
+  {
+    "_docId": "qgrlqy",
+    "business_category": {
+      "1": [
+        "5"
+      ],
+      "13": [
+        "3"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "Address": "اونلاين",
+    "Password": "1149",
+    "system_role": "user",
+    "limitPackage": 0,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 121,
+    "business_name": "هاند ميد تيسير الصاوى",
+    "featured_items_data": null,
+    "location": "29.9918936, 32.4843415",
+    "is_delivery_eligible": 0,
+    "user_key": "qgrlqy",
+    "user_image": "avatar_qgrlqy_1771412637305.webp",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:37.435Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:07.102Z"
+    },
+    "username": "Tayser El sawy",
+    "business_whatsapp": "+201030706536",
+    "phone": "+201030706536",
+    "links": {
+      "instagram": "https://www.instagram.com/tayseer_elsawy?igsh=MXh0Nm1sOTdobThtaw==",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/1895PYdWeZ/",
+      "tiktok": "",
+      "x": "",
+      "telegram": ""
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_bio": "شنط هاند ميد  اميجرومى \nمتخصصة فى فن الكروشية الهاند ميد \nاقدم قطع فريدة بجودة عالية \nواهتمام بادق التفاصيل"
+  },
+  {
+    "_docId": "qpfdyp",
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "3": [
+        "8"
+      ]
+    },
+    "limitPackage": 0,
+    "Password": "1114",
+    "system_role": "user",
+    "Address": "شارع الجيش برج لولوة الروضه امام دار مناسات السويس",
+    "location": "29.9918909, 32.4844474",
+    "featured_items_data": null,
+    "business_name": "حجاج جروب للاجهزة المنزلية والاكترونية",
+    "id": 85,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_bio": null,
+    "settings": {
+      "isDelivered": 1
+    },
+    "links": {
+      "telegram": "",
+      "tiktok": "",
+      "x": "",
+      "facebook": "https://www.facebook.com/share/1AU5Z7d3AU/",
+      "instagram": "https://www.instagram.com/hagaggroup?igsh=MWE1ZWFrZzE1cHpyYw==",
+      "website": "https://hagag-group.shop/?fbclid=IwdGRjcAQB3ntleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR6bLd8KNbD4iiYlyqI6pwyi_7R_hb-72SgyKtVuX36bJf_Y_8HSorQaT7WJoA_aem_bgnqW6dB8Q1hmapfCGbKqQ"
+    },
+    "phone": "+201111154062",
+    "business_whatsapp": "+201111154062",
+    "username": "Hagag",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:31.601Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:59.566Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "user_key": "qpfdyp",
+    "user_image": "avatar_qpfdyp_1771372390050.webp",
+    "is_delivery_eligible": 0
+  },
+  {
+    "_docId": "qy79r49s",
+    "Address": "السلام 2 شارع المركز الطبى بجوار كازيون",
+    "limitPackage": 1400,
+    "Password": "1111",
+    "system_role": "user",
+    "business_category": null,
+    "business_sub_categories": null,
+    "last_login_at": "2026-03-21T20:08:17.999Z",
+    "user_image": {},
+    "user_key": "qy79r49s",
+    "is_delivery_eligible": 0,
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:52.037Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "updated_at": "2026-04-06T12:46:26.155Z",
+    "account_type": 33,
+    "phone": "+201277760715",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": null,
+    "username": "Malika hossam",
+    "business_whatsapp": "+201277760715",
+    "business_bio": null,
+    "id": 25,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": null,
+    "location": "29.9918923, 32.4843382",
+    "featured_items_data": {
+      "featured_ids": [
+        "5xt81f",
+        "aqoeqy",
+        "g2b9ix"
+      ]
+    }
+  },
+  {
+    "_docId": "sh3raq",
+    "featured_items_data": null,
+    "location": "29.9918989, 32.4843496",
+    "business_name": "Abdelrahman Gallery",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 96,
+    "business_bio": "🔥 نفسك تغيّري شكل بيتك بسهولة؟\nAbdelrahman Gallery\nتفاصيل بسيطة… بس تأثيرها يغيّر إحساس المكان كله 👑✨\n\n🖼️ تابلوهات وبراويز مختارة بذوق عالي\nجودة تليق بذوقك\nوسعر يخليك تاخدي أكتر من قطعة وانتِ مطمّنة 🔥\n\nلو بتحبي الديكور اللي يلفت من أول نظرة\nاختيارك الصح هو عبدالرحمن جاليري ✔️\n\n🚚 متاح شحن لجميع المحافظات\n📍 السويس – مول السويس – الدور التاني",
+    "business_whatsapp": "+201029202934",
+    "username": "Abd Elrahman gallery",
+    "phone": "+201029202934",
+    "links": {
+      "website": "",
+      "instagram": "https://www.instagram.com/abdelrahman.mana_95?igsh=OTYzYm10anE0MGYx",
+      "facebook": "https://www.facebook.com/share/1WkrKWjirV/",
+      "tiktok": "",
+      "x": "",
+      "telegram": ""
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "updated_at": "2026-04-06T12:46:33.271Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:00.458Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "account_type": 33,
+    "is_delivery_eligible": 0,
+    "user_image": "avatar_sh3raq_1771381663652.webp",
+    "user_key": "sh3raq",
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "13": [
+        "1"
+      ]
+    },
+    "Password": "1125",
+    "system_role": "user",
+    "limitPackage": 0,
+    "Address": "السويس مول السويس الدور التانى"
+  },
+  {
+    "_docId": "spmjg8",
+    "business_bio": "خصم خاص لمستخدم التطبيق",
+    "links": {
+      "telegram": "",
+      "tiktok": "",
+      "x": "",
+      "facebook": "",
+      "instagram": "",
+      "website": ""
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "phone": "+201018018872",
+    "username": "Fatma Abdo",
+    "business_whatsapp": "+201018018872",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:01.332Z"
+    },
+    "updated_at": "2026-04-06T12:46:34.007Z",
+    "account_type": 33,
+    "user_key": "spmjg8",
+    "user_image": "avatar_spmjg8_1771385832541.webp",
+    "is_delivery_eligible": 0,
+    "location": "29.9918993, 32.4843377",
+    "featured_items_data": null,
+    "business_name": "فاطمة عبدة لجميع انواع التوابل",
+    "id": 100,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "limitPackage": 0,
+    "Password": "1129",
+    "system_role": "user",
+    "Address": "اونلاين",
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "2": [
+        "7"
+      ]
+    }
+  },
+  {
+    "_docId": "sub1zi",
+    "id": 322,
+    "created_at": "2026-04-30T17:18:44.861Z",
+    "business_name": "اياييايا",
+    "location": "29.96412710451809, 32.55317687988282",
+    "featured_items_data": null,
+    "user_key": "sub1zi",
+    "user_image": {
+      "covers": [],
+      "cover": null,
+      "avatar": null
+    },
+    "is_delivery_eligible": 0,
+    "account_type": 33,
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:18.455Z"
+    },
+    "updated_at": "2026-04-30T17:18:44.861Z",
+    "phone": "+2012525252525",
+    "settings": {
+      "deliveryMode": "platform",
+      "productRatingMode": "stars_comments",
+      "isDelivered": 0,
+      "locations": [
+        {
+          "address": "اباباباباباب",
+          "coords": "29.96412710451809, 32.55317687988282",
+          "is_primary": true,
+          "id": "loc_1777569462349_6d4nwf"
+        }
+      ],
+      "productRatingEnabled": true,
+      "ratingMode": "stars_comments",
+      "ratingEnabled": true,
+      "deliveryProviderKey": "pngukw"
+    },
+    "links": {},
+    "username": "اليسليليل",
+    "business_whatsapp": "+2012525252525",
+    "business_bio": "ايياياياياياياياي",
+    "business_category": {
+      "2": [
+        "1"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-04-30T17:18:44.861Z",
+    "Address": "اباباباباباب",
+    "limitPackage": 0,
+    "system_role": "user",
+    "Password": "1111"
+  },
+  {
+    "_docId": "t6wman",
+    "Address": "العنوان الأول 9J3TIVHtix",
+    "Password": "ServicePass123",
+    "system_role": null,
+    "limitPackage": 0,
+    "business_category": "{\"services\":[\"repair\"]}",
+    "last_login_at": "2026-05-22T03:45:31.723Z",
+    "user_image": "{\"avatar\":null,\"covers\":[],\"cover\":null}",
+    "user_key": "t6wman",
+    "account_type": 33,
+    "updated_at": "2026-05-22T03:45:31.723Z",
+    "business_whatsapp": "+201081732402",
+    "username": "register_user_k3ElbV",
+    "phone": "+201081732402",
+    "links": "{}",
+    "settings": "{\"isDelivered\":1,\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\",\"locations\":[{\"id\":\"loc_1779421529430_39gnk8\",\"coords\":\"29.9668, 32.5498\",\"address\":\"العنوان الأول 9J3TIVHtix\",\"is_primary\":true}],\"deliveryMode\":\"self\",\"deliveryProviderKey\":\"\"}",
+    "business_bio": "خدمة مميزة 7nf1y",
+    "created_at": "2026-05-22T03:45:31.723Z",
+    "id": 1779421531723,
+    "business_name": "نشاط ttD6TU",
+    "featured_items_data": null,
+    "location": "29.9668, 32.5498"
+  },
+  {
+    "_docId": "tdeggy",
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "1": [
+        "1",
+        "4"
+      ]
+    },
+    "Password": "1143",
+    "system_role": "user",
+    "limitPackage": 0,
+    "Address": "اونلاين",
+    "featured_items_data": null,
+    "location": "29.9919039, 32.4843364",
+    "business_name": "Smarty Hijab",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 115,
+    "business_bio": "ملابس محجبات \nخصم خاص لمستخدم التطبيق",
+    "username": "Smarty Hijab",
+    "business_whatsapp": "+201055659223",
+    "phone": "+201055659223",
+    "links": {
+      "telegram": "",
+      "tiktok": "https://www.tiktok.com/@somayasaied813?_r=1&_t=ZS-941LRARB5i0",
+      "x": "",
+      "facebook": "https://www.facebook.com/share/1AYxqusCpG/",
+      "website": "",
+      "instagram": "https://www.instagram.com/smartyhijab?igsh=MWtlb2JldWRreGVt"
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:36.472Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:04.560Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "is_delivery_eligible": 0,
+    "user_image": "avatar_tdeggy_1771407541392.webp",
+    "user_key": "tdeggy"
+  },
+  {
+    "_docId": "u9boqg",
+    "business_category": {
+      "20": [
+        "202",
+        "203"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "Address": "السويس ش الجيش والملاحة برج رويال بلازا",
+    "limitPackage": 0,
+    "Password": "1147",
+    "system_role": "user",
+    "id": 119,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "Meeza Scan",
+    "location": "29.9917129, 32.4848339",
+    "featured_items_data": null,
+    "user_key": "u9boqg",
+    "user_image": "avatar_u9boqg_1771411088420.webp",
+    "is_delivery_eligible": 0,
+    "updated_at": "2026-04-06T12:46:37.110Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:06.157Z"
+    },
+    "account_type": 33,
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "telegram": "",
+      "x": "",
+      "tiktok": "",
+      "facebook": "https://www.facebook.com/share/18LouGdnLy/",
+      "instagram": "",
+      "website": ""
+    },
+    "phone": "+201000601314",
+    "business_whatsapp": "+201000601314",
+    "username": "Meeza Scan",
+    "business_bio": "للاشعة و التحاليل الطبية المتطورة \nخصم 20% لمستخدم التطبيق"
+  },
+  {
+    "_docId": "uaugvf",
+    "limitPackage": 0,
+    "system_role": "user",
+    "Password": "2762001",
+    "Address": null,
+    "last_login_at": "2026-05-21T00:16:05.200Z",
+    "business_sub_categories": null,
+    "business_category": null,
+    "business_bio": null,
+    "settings": {
+      "isDelivered": 0,
+      "locations": []
+    },
+    "links": null,
+    "phone": "+201012677267",
+    "username": "israa Sayed",
+    "business_whatsapp": "+201012677267",
+    "account_type": 1,
+    "updated_at": "2026-05-21T00:16:05.200Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:19.551Z"
+    },
+    "user_image": {
+      "cover": null,
+      "avatar": null,
+      "covers": []
+    },
+    "user_key": "uaugvf",
+    "is_delivery_eligible": 0,
+    "location": null,
+    "featured_items_data": null,
+    "business_name": null,
+    "id": 362,
+    "created_at": "2026-05-21T00:16:05.200Z"
+  },
+  {
+    "_docId": "uue3t3",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": {
+      "1": [
+        "1",
+        "3"
+      ]
+    },
+    "Password": "1153",
+    "system_role": "user",
+    "limitPackage": 0,
+    "Address": "مول السويس اخر دور",
+    "featured_items_data": null,
+    "location": "29.9918928, 32.4843369",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 125,
+    "business_name": "Koky Brand",
+    "business_whatsapp": "+201124288001",
+    "username": "Koky Brand",
+    "phone": "+201124288001",
+    "links": {
+      "tiktok": "",
+      "x": "",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/kokybrand_25?igsh=MTNtbHZjNWhrejQ4dg==",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/1DEBa6HTaP/"
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_bio": "خصم خاص لمستخدمى التطبيق",
+    "is_delivery_eligible": 0,
+    "user_image": "avatar_uue3t3_1771414910326.webp",
+    "user_key": "uue3t3",
+    "updated_at": "2026-04-06T12:46:38.239Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:08.067Z"
+    },
+    "account_type": 33
+  },
+  {
+    "_docId": "uv8a4o",
+    "featured_items_data": null,
+    "location": "29.9918979, 32.4843528",
+    "business_name": "Dodo Accessores",
+    "created_at": "2026-02-25T00:05:47.395Z",
+    "id": 147,
+    "business_bio": "Accessores",
+    "business_whatsapp": "+201033095920",
+    "username": "Mona",
+    "links": {
+      "telegram": "",
+      "tiktok": "",
+      "x": "",
+      "facebook": "https://www.facebook.com/share/184EhNqs8f/",
+      "instagram": "",
+      "website": ""
+    },
+    "settings": {
+      "productRatingMode": "stars_comments",
+      "isDelivered": 0,
+      "productRatingEnabled": true,
+      "ratingMode": "stars_comments",
+      "ratingEnabled": true
+    },
+    "phone": "+201033095920",
+    "account_type": 33,
+    "updated_at": "2026-02-25T00:05:47.395Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:12.621Z"
+    },
+    "is_delivery_eligible": 0,
+    "user_key": "uv8a4o",
+    "user_image": {
+      "covers": [
+        "cover_uv8a4o_0_1771977945252.webp"
+      ],
+      "avatar": "avatar_uv8a4o_1771977944250.webp",
+      "cover": "cover_uv8a4o_0_1771977945252.webp"
+    },
+    "last_login_at": "2026-02-25T00:05:47.395Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "3": [
+        "3"
+      ]
+    },
+    "Password": "1171",
+    "system_role": "user",
+    "limitPackage": null,
+    "Address": "اونلاين"
+  },
+  {
+    "_docId": "uy9kwv",
+    "Address": "اونلاين",
+    "system_role": "user",
+    "Password": "1163",
+    "limitPackage": null,
+    "business_category": {
+      "4": [
+        "4"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "is_delivery_eligible": 0,
+    "user_key": "uy9kwv",
+    "user_image": {
+      "covers": [
+        "cover_uy9kwv_0_1771896580902.webp",
+        "cover_uy9kwv_1_1771896581457.webp"
+      ],
+      "avatar": "avatar_uy9kwv_1771896579926.webp",
+      "cover": "cover_uy9kwv_0_1771896580902.webp"
+    },
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:26:10.830Z"
+    },
+    "updated_at": "2026-02-24T19:12:46.103Z",
+    "account_type": 33,
+    "username": "فراولة",
+    "business_whatsapp": "+201144472245",
+    "phone": "+201144472245",
+    "links": {
+      "tiktok": "",
+      "x": "",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/farida_mohamed_89871?igsh=MW9jeGVjZHF5MWl0Zg==",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/1HihGSo52X/"
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_bio": "منتجات نوبية وسودانية\n\nافخم انواع البخور والعطور",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 139,
+    "business_name": "فراولة",
+    "featured_items_data": null,
+    "location": "29.9918959, 32.4843576"
+  },
+  {
+    "_docId": "v7iayi",
+    "Address": "4444444444444",
+    "limitPackage": 444444,
+    "system_role": "user",
+    "Password": "1111",
+    "business_category": {
+      "2": [
+        "1"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-04-19T19:55:35.292Z",
+    "user_image": {
+      "cover": "cover_v7iayi_0_1776628534839.webp",
+      "avatar": "avatar_v7iayi_1776628534168.webp",
+      "covers": [
+        "cover_v7iayi_0_1776628534839.webp"
+      ]
+    },
+    "user_key": "v7iayi",
+    "is_delivery_eligible": 0,
+    "account_type": 33,
+    "updated_at": "2026-04-19T19:55:35.292Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:16.488Z"
+    },
+    "settings": {
+      "productRatingEnabled": true,
+      "ratingMode": "stars_only",
+      "ratingEnabled": true,
+      "productRatingMode": "stars_only",
+      "isDelivered": 0,
+      "locations": [
+        {
+          "address": "4444444444444",
+          "coords": "29.954280057056348, 32.52227783203126",
+          "id": "loc_1776628475060_nk2lda",
+          "is_primary": true
+        }
+      ]
+    },
+    "phone": "+2010266623232",
+    "links": {},
+    "business_whatsapp": "+2010266623232",
+    "username": "+201026546550",
+    "business_bio": "44444444444444444\n\n44444444444444",
+    "id": 166,
+    "created_at": "2026-04-19T19:55:35.292Z",
+    "business_name": "44444444444444",
+    "location": "29.954280057056348, 32.52227783203126",
+    "featured_items_data": null
+  },
+  {
+    "_docId": "v8p7jb",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": {
+      "5": [
+        "12",
+        "5"
+      ],
+      "13": [
+        "3",
+        "8"
+      ]
+    },
+    "Password": "1126",
+    "system_role": "user",
+    "limitPackage": 0,
+    "Address": "شارع النمسا بجوار محل ال سند للملابس البيتى",
+    "featured_items_data": null,
+    "location": "29.9919037, 32.4843419",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 97,
+    "business_name": "SAND للمفروشات",
+    "business_whatsapp": "+201067668152",
+    "username": "Sand للمفروشات",
+    "links": {
+      "tiktok": "",
+      "x": "",
+      "telegram": "",
+      "instagram": "",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/1EY9iyEQRu/"
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "phone": "+201009118411",
+    "business_bio": "✨عند Sanad-للمفروشات 💪 وبس #تجهيز #العرايس  #فرش #صالون #انتريه #سفره #مكرميه #كوشن #البوهيمي #كوشن_رمضان \n#دلعي_بيتك\n📦 متوفر جملة وقطاعي\n🚚 توصيل لجميع المحافظات\n\n📍 العنوان: منتصف شارع النمسا — بجوار Egypt Gold للدهب — وأمام محل السند لملابس الحج والعمرة\n📞 للطلبات والاستفسار والتصميم الخاص: 01019455874\n\n#مكرمية\n#جداربات_مكرمية\n#ديكور_منزلي\n#ديكور_مودرن\n#Handmade\n#جمله\n#توصيل_لجميع_المحافظات\n#السويس",
+    "is_delivery_eligible": 0,
+    "user_key": "v8p7jb",
+    "user_image": "avatar_v8p7jb_1771382420440.webp",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:33.495Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:00.683Z"
+    }
+  },
+  {
+    "_docId": "vw8m8t",
+    "is_delivery_eligible": 0,
+    "user_image": null,
+    "user_key": "vw8m8t",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:26.341Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:25:52.265Z"
+    },
+    "username": "مفروشات البيت المصري",
+    "business_whatsapp": "+201050161661",
+    "phone": "+201050161661",
+    "links": null,
+    "settings": {
+      "isDelivered": 0
+    },
+    "business_bio": null,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 38,
+    "business_name": null,
+    "featured_items_data": null,
+    "location": null,
+    "Address": null,
+    "Password": "Mohamednsreen@292021",
+    "system_role": "user",
+    "limitPackage": null,
+    "business_category": null,
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z"
+  },
+  {
+    "_docId": "w434wx",
+    "featured_items_data": null,
+    "location": "30.00433131761339, 32.48732109098001",
+    "business_name": null,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 69,
+    "business_bio": null,
+    "business_whatsapp": "+201210101041",
+    "username": "Chusco suez",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": null,
+    "phone": "+201210101041",
+    "updated_at": "2026-04-06T12:46:29.287Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:25:56.561Z"
+    },
+    "account_type": 33,
+    "is_delivery_eligible": 0,
+    "user_key": "w434wx",
+    "user_image": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": null,
+    "Password": "chusco12345",
+    "system_role": "user",
+    "limitPackage": 0,
+    "Address": "مدينة السلام 1 شارع عمر بن الخطاب خلف كافيه ركنه"
+  },
+  {
+    "_docId": "w9opmy",
+    "limitPackage": 0,
+    "system_role": "user",
+    "Password": "1145",
+    "Address": "خاف الرخاوى الجديد السويس شارع صلاح الدين",
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "1": [
+        "3",
+        "6"
+      ]
+    },
+    "business_bio": "ارقى ملابس الاطفال \nالسويس خلف ش صلاح الدين \nخلف الرخاوى الجديد",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/share/1AnvyV1cbL/",
+      "instagram": "",
+      "website": "",
+      "telegram": "",
+      "tiktok": "",
+      "x": ""
+    },
+    "phone": "+201019992354",
+    "username": "Fun Kids",
+    "business_whatsapp": "+201019992354",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:36.800Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:04.984Z"
+    },
+    "user_key": "w9opmy",
+    "user_image": "avatar_w9opmy_1771409359599.webp",
+    "is_delivery_eligible": 0,
+    "location": "29.9919016, 32.4843363",
+    "featured_items_data": null,
+    "business_name": "Fun kids لارقى الملابس والاكسسوارات الاطفال",
+    "id": 117,
+    "created_at": "2026-02-24T19:12:46.102Z"
+  },
+  {
+    "_docId": "wjo9v8",
+    "location": "29.9919084, 32.4843469",
+    "featured_items_data": null,
+    "business_name": "معامل بيولاب للتحاليل الطبية",
+    "id": 88,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_bio": "خصم 25% \nلمستخدم التطبيق \n\n\n\n\nفرع السويس - برج بلير\nالفرع الجديد السلام 2 - ش ابراهيم نافع بجوار سوبر ماركت المصطفى\n  الفرع الرئيسي - ش احمد عرابي برج الاطباء الدور الرابع \n فرع أول السور - فوق جمعية جهينة \nفرع المحروسة- اعلى مستشفى قناة السويس\nفرع السلام1- شارع عثمان اعلى فايف ستارز\nفرع قرية العمدة - امام مدرسة الشهيد سعيد البشاتلي",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "instagram": "",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/1AU9x87pVC/",
+      "tiktok": "",
+      "x": "",
+      "telegram": ""
+    },
+    "phone": "+201015071223",
+    "username": "Dr Mohamed Zaky",
+    "business_whatsapp": "+201124564023",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:31.914Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:25:59.995Z"
+    },
+    "user_key": "wjo9v8",
+    "user_image": "avatar_wjo9v8_1771374805774.webp",
+    "is_delivery_eligible": 0,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "20": [
+        "203"
+      ]
+    },
+    "limitPackage": 0,
+    "Password": "1116",
+    "system_role": "user",
+    "Address": "فرع السويس - برج بلير الفرع الجديد السلام 2 - ش ابراهيم نافع بجوار سوبر ماركت المصطفى   الفرع الرئيسي - ش احمد عرابي برج الاطباء الدور الرابع   فرع أول السور - فوق جمعية جهينة  فرع المحروسة- اعلى مستشفى قناة السويس فرع السلام1- شارع عثمان اعلى فايف ستارز فرع قرية العمدة - امام مدرسة الشهيد سعيد البشاتل"
+  },
+  {
+    "_docId": "wn7gtc",
+    "limitPackage": 0,
+    "Password": "1127",
+    "system_role": "user",
+    "Address": "شارع طلعت حرب خلف قسم السويس",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": {
+      "1": [
+        "5"
+      ]
+    },
+    "phone": "+201222991149",
+    "links": {
+      "telegram": "",
+      "x": "",
+      "tiktok": "",
+      "facebook": "https://www.facebook.com/share/1a9DhV2v3W/",
+      "instagram": "",
+      "website": ""
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "username": "Koko shoes store",
+    "business_whatsapp": "+201222991149",
+    "business_bio": "العنوان شارع طلعت حرب خلف قسم السويس",
+    "user_key": "wn7gtc",
+    "user_image": "avatar_wn7gtc_1771383209851.webp",
+    "is_delivery_eligible": 0,
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:33.688Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:00.907Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "location": "29.9919039, 32.4843518",
+    "featured_items_data": null,
+    "id": 98,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "Koko Shoes Store"
+  },
+  {
+    "_docId": "wtlrmg",
+    "id": 76,
+    "links": {
+      "facebook": [
+        "https://www.facebook.com/groups/594707327402734/?ref=share_group_link&rdid=mg33M6KsfIzw0yTw&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F18t9s52dY4%2F#",
+        "https://www.facebook.com/people/MERO/61571162019120/?rdid=8qtUUmwfSNtBjOdw&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1EBqpNyf7g%2F"
+      ],
+      "website": "https://linktr.ee/MERO.STORE",
+      "instagram": "https://www.instagram.com/mero_makeup_store?igsh=aDMwaGU0eXFhYXVz"
+    },
+    "phone": "+201020638400",
+    "settings": {
+      "ratingMode": "stars_comments",
+      "deliveryProviderKey": "3l6yxe",
+      "limitPackage": 0,
+      "productRatingMode": "stars_comments",
+      "locations": [
+        {
+          "address": "السويس  شارع طلعت حرب",
+          "coords": "29.9685739, 32.5541897",
+          "is_primary": true,
+          "id": "loc_f433cb5b-c2a1-456f-9b2b-2308e79afd5d"
+        }
+      ],
+      "isDelivered": false,
+      "productRatingEnabled": true,
+      "ratingEnabled": true,
+      "deliveryMode": "platform"
+    },
+    "username": "Mariana",
+    "updated_at": "2026-06-04T22:29:43.004Z",
+    "account_type": 33,
+    "user_image": {
+      "covers": [
+        "cover_wtlrmg_1771539549695.webp",
+        "cover_wtlrmg_1_1771625225024.webp",
+        "cover_wtlrmg_2_1771625226191.webp"
+      ],
+      "cover": "cover_wtlrmg_1771539549695.webp",
+      "avatar": "avatar_wtlrmg_1771174719477.webp"
+    },
+    "business_category": {
+      "44": [
+        "1",
+        "2"
+      ]
+    },
+    "system_role": "user",
+    "Address": "السويس  شارع طلعت حرب",
+    "location": "29.9685739, 32.5541897",
+    "featured_items_data": {
+      "featured_ids": [
+        "n3g26k",
+        "y97ht7",
+        "0h7tms",
+        "qavhwq"
+      ]
+    },
+    "business_name": "MERO",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_bio": "products for natural makeup & perfume",
+    "business_whatsapp": "+201020638400",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:25:57.847Z"
+    },
+    "user_key": "wtlrmg",
+    "is_delivery_eligible": 0,
+    "last_login_at": "2026-06-04T22:29:43.004Z",
+    "business_sub_categories": null,
+    "_firestore_id": "wtlrmg",
+    "limitPackage": 0,
+    "Password": "4010"
+  },
+  {
+    "_docId": "y0ks5y",
+    "isDelivered": 0,
+    "limitPackage": 0,
+    "Password": "1111",
+    "Address": "السويس",
+    "phones": [
+      {
+        "number": "+201066666666",
+        "has_whatsapp": true,
+        "is_primary": true,
+        "type": "mobile"
+      }
+    ],
+    "last_login_at": "2026-06-04T22:37:53.746Z",
+    "business_category": "{\"3\":[\"1\",\"2\",\"3\",\"4\",\"7\",\"11\"]}",
+    "_firestore_id": "y0ks5y",
+    "discountPercent": 20,
+    "address": "السويس",
+    "business_bio": "افضل العروض والاسعار",
+    "settings": "{\"locations\":[{\"id\":\"loc_1780601350049_n1bepk\",\"coords\":\"29.9884091, 32.5135941\",\"address\":\"السويس\",\"is_primary\":true}],\"isDelivered\":false,\"deliveryMode\":\"platform\",\"deliveryProviderKey\":\"ft9ti2\",\"limitPackage\":5,\"discountPercent\":20,\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\"}",
+    "phone": "+201066666666",
+    "links": "{}",
+    "username": "Elzeny Bayer",
+    "business_whatsapp": "+201066666666",
+    "account_type": 32,
+    "updated_at": "2026-06-04T22:37:53.746Z",
+    "user_key": "y0ks5y",
+    "user_image": "{\"avatar\":\"avatar_y0ks5y_1780601430411.webp\",\"covers\":[\"cover_y0ks5y_0_1780602139243.webp\",\"cover_y0ks5y_1_1780602140201.webp\"],\"cover\":\"cover_y0ks5y_0_1780602139243.webp\"}",
+    "location": "29.9884091, 32.5135941",
+    "business_name": "Elzeny Bayer",
+    "id": 1780601431460,
+    "created_at": "2026-06-04T19:30:31.460Z"
+  },
+  {
+    "_docId": "y379lz",
+    "Address": "مول السويس الدور الثالث بجوار اتيلية نجلاء",
+    "limitPackage": 0,
+    "system_role": "user",
+    "Password": "1129",
+    "business_category": {
+      "1": [
+        "1"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "user_image": "avatar_y379lz_1771386575897.webp",
+    "user_key": "y379lz",
+    "is_delivery_eligible": 0,
+    "account_type": 33,
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:01.542Z"
+    },
+    "updated_at": "2026-04-06T12:46:34.161Z",
+    "phone": "+201011645028",
+    "links": {
+      "tiktok": "",
+      "x": "",
+      "telegram": "",
+      "website": "",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/share/17TnEEeqia/"
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "username": "M&s brand",
+    "business_whatsapp": "+201011645028",
+    "business_bio": "ملابس نسائية \nالتريندات كلها عندنا باقل الاسعار   واحلي الخامات \nخصم خاص لمستخدم التطبيق",
+    "id": 101,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "M & S Brand",
+    "location": "29.9918987, 32.4843368",
+    "featured_items_data": null
+  },
+  {
+    "_docId": "ylfxs6",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": null,
+    "phone": "+201000798697",
+    "username": "علا امجد حسن",
+    "business_whatsapp": "+201000798697",
+    "business_bio": null,
+    "user_key": "ylfxs6",
+    "user_image": {},
+    "is_delivery_eligible": 0,
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:28.084Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:25:54.769Z"
+    },
+    "location": "29.961400533522177, 32.51679135678687",
+    "featured_items_data": {
+      "featured_ids": [
+        "vgdfth",
+        "68n737"
+      ]
+    },
+    "id": 50,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": null,
+    "limitPackage": 0,
+    "Password": "LOLYloly246810@@",
+    "system_role": "user",
+    "Address": "ابراج السحاب برج الامير 4",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_category": null
+  },
+  {
+    "_docId": "yx4x13",
+    "location": "29.964266753941065, 32.55634104086926",
+    "featured_items_data": {
+      "featured_ids": [
+        "jbiz3t"
+      ]
+    },
+    "id": 68,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "Suez Bazaar",
+    "settings": {
+      "isDelivered": 0
+    },
+    "links": {
+      "facebook": "",
+      "instagram": "",
+      "website": "",
+      "telegram": "",
+      "x": "",
+      "tiktok": ""
+    },
+    "phone": "+201553336363",
+    "username": "Elnagdy-Group",
+    "business_whatsapp": "+201024182175",
+    "business_bio": null,
+    "user_key": "yx4x13",
+    "user_image": {
+      "covers": [],
+      "cover": null,
+      "avatar": null
+    },
+    "is_delivery_eligible": 0,
+    "account_type": 33,
+    "updated_at": "2026-04-07T13:25:20.110Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:25:56.348Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-04-07T13:25:20.110Z",
+    "business_category": {
+      "3": [
+        "1",
+        "3"
+      ]
+    },
+    "limitPackage": 0,
+    "Password": "Abcd@112233",
+    "system_role": "user",
+    "Address": "ميدان الخضر- برج النصر امام معمل المختبر والبنك العربى الافريقى"
+  },
+  {
+    "_docId": "zo0pjv",
+    "business_bio": "لبيليبليبلبيليبلبي\n\nبليبليبلبيليبلبيل",
+    "settings": {
+      "ratingMode": "stars_comments",
+      "productRatingEnabled": true,
+      "ratingEnabled": true,
+      "deliveryProviderKey": "zynpp7",
+      "productRatingMode": "stars_comments",
+      "deliveryMode": "platform",
+      "locations": [
+        {
+          "address": "ليليليليليلي",
+          "is_primary": true,
+          "id": "loc_1777651692923_rmaw41",
+          "coords": "29.965467434432632, 32.548542022705085"
+        }
+      ],
+      "isDelivered": 0
+    },
+    "links": {
+      "facebook": [
+        "https://www.facebook.com/p/%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3%D9%89-%D9%84%D9%84%D8%B5%D9%8A%D8%A7%D9%86%D8%A9-100063737122111/",
+        "https://www.facebook.com/p/%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3%D9%89-%D9%84%D9%84%D8%B5%D9%8A%D8%A7%D9%86%D8%A9-100063737122111/",
+        "https://www.facebook.com/p/%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3%D9%89-%D9%84%D9%84%D8%B5%D9%8A%D8%A7%D9%86%D8%A9-100063737122111/"
+      ]
+    },
+    "phone": "+2415515442221",
+    "username": "فلقثفثقفثقف",
+    "business_whatsapp": "+2415515442221",
+    "account_type": 33,
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:19.103Z",
+      "table": "users",
+      "source": "turso"
+    },
+    "updated_at": "2026-05-01T16:20:30.304Z",
+    "user_image": {
+      "cover": null,
+      "avatar": null,
+      "covers": []
+    },
+    "user_key": "zo0pjv",
+    "is_delivery_eligible": 0,
+    "location": "29.965467434432632, 32.548542022705085",
+    "featured_items_data": null,
+    "business_name": "بليبليبلبيليبل",
+    "id": 326,
+    "created_at": "2026-05-01T16:19:18.875Z",
+    "limitPackage": 100,
+    "Password": "1111",
+    "system_role": "user",
+    "Address": "ليليليليليلي",
+    "last_login_at": "2026-05-01T16:20:30.304Z",
+    "business_sub_categories": null,
+    "business_category": {
+      "2": [
+        "1"
+      ]
+    }
+  },
+  {
+    "_docId": "zp12ir",
+    "system_role": "user",
+    "Password": "1111",
+    "limitPackage": 0,
+    "Address": "اللالالا",
+    "business_sub_categories": null,
+    "last_login_at": "2026-04-11T03:23:38.979Z",
+    "business_category": null,
+    "business_whatsapp": "+201026546557",
+    "username": "لييليل",
+    "settings": {
+      "isDelivered": 0
+    },
+    "phone": "+201026546557",
+    "links": null,
+    "business_bio": null,
+    "is_delivery_eligible": 0,
+    "user_key": "zp12ir",
+    "user_image": {
+      "avatar": "avatar_zp12ir_1775820915660.webp",
+      "cover": null,
+      "covers": []
+    },
+    "updated_at": "2026-04-11T03:23:38.979Z",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:14.785Z",
+      "source": "turso",
+      "table": "users"
+    },
+    "account_type": 1,
+    "featured_items_data": null,
+    "location": "29.965765740008962, 32.55025863647462",
+    "created_at": "2026-04-10T11:35:26.914Z",
+    "id": 157,
+    "business_name": null
+  },
+  {
+    "_docId": "zsgekm",
+    "Address": "المميز",
+    "limitPackage": 0,
+    "Password": "100100",
+    "system_role": "user",
+    "business_category": {
+      "3": [
+        "5",
+        "4"
+      ]
+    },
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "user_key": "zsgekm",
+    "user_image": {
+      "avatar": "avatar_zsgekm_1771626031103.webp",
+      "cover": "cover_zsgekm_1771627911572.webp"
+    },
+    "is_delivery_eligible": 0,
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:38.517Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:08.279Z"
+    },
+    "links": {
+      "telegram": "",
+      "x": "",
+      "tiktok": "",
+      "facebook": "",
+      "instagram": "",
+      "website": ""
+    },
+    "settings": {
+      "isDelivered": 0
+    },
+    "phone": "+20100100100100",
+    "business_whatsapp": "+201024182175",
+    "username": "H & H",
+    "business_bio": "\nنقدم خدمات متكاملة تشمل:\n✅ تصميم وتطوير مواقع إلكترونية احترافية (شركات – متاجر إلكترونية – منصات خدمية)\n✅ برمجة تطبيقات الموبايل (Android & iOS)\n✅ تصميم واجهات المستخدم UI/UX باحترافية عالية\n✅ أنظمة إدارة محتوى ولوحات تحكم مخصصة\n✅ حلول التجارة الإلكترونية وأنظمة الدفع الإلكتروني\n✅ استضافة وتأمين المواقع\n✅ دعم فني وصيانة مستمرة\n✅ تطوير أنظمة خاصة حسب طلب العميل\nنركز في H & H على الجودة، السرعة، الأمان، وتجربة المستخدم المميزة لضمان أفضل أداء رقمي لعملائنا.",
+    "id": 126,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "business_name": "WEB & APP DEVELOPMENT",
+    "location": "29.9918891, 32.4845158",
+    "featured_items_data": null
+  },
+  {
+    "_docId": "zxxu28",
+    "business_category": null,
+    "last_login_at": "2026-02-24T19:12:46.103Z",
+    "business_sub_categories": null,
+    "Address": "المميز 2",
+    "Password": "1111",
+    "system_role": "user",
+    "limitPackage": 500,
+    "business_name": null,
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 49,
+    "featured_items_data": null,
+    "location": "29.970096204524186, 32.542791366577156",
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:27.917Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "users",
+      "migratedAt": "2026-05-21T02:25:54.553Z"
+    },
+    "is_delivery_eligible": 0,
+    "user_image": null,
+    "user_key": "zxxu28",
+    "business_bio": null,
+    "username": "hesham 102",
+    "business_whatsapp": "+201241049090",
+    "phone": "+201241049090",
+    "links": null,
+    "settings": {
+      "isDelivered": 1
+    }
+  },
+  {
+    "_docId": "zynpp7",
+    "username": "Crochet Alley",
+    "business_whatsapp": "+201066243908",
+    "phone": "+201066243908",
+    "links": {
+      "instagram": "https://www.instagram.com/crochet_alley?igsh=MXBhM3B4bHpsMDB4bw==",
+      "website": "",
+      "facebook": "https://www.facebook.com/share/18Don98ppZ/",
+      "x": "",
+      "tiktok": "",
+      "telegram": ""
+    },
+    "settings": {
+      "isDelivered": 0,
+      "productRatingMode": "stars_comments",
+      "ratingEnabled": true,
+      "ratingMode": "stars_comments",
+      "productRatingEnabled": true
+    },
+    "business_bio": "خصم خاص لمستخدم التطبيق",
+    "is_delivery_eligible": 1,
+    "user_key": "zynpp7",
+    "user_image": {
+      "covers": [
+        "cover_zynpp7_0_1771979201546.webp",
+        "cover_zynpp7_1_1771979217436.webp",
+        "cover_zynpp7_2_1771979217896.webp"
+      ],
+      "avatar": "avatar_zynpp7_1771414353332.webp",
+      "cover": "cover_zynpp7_0_1771979201546.webp"
+    },
+    "account_type": 33,
+    "updated_at": "2026-04-06T12:46:40.571Z",
+    "_legacy": {
+      "table": "users",
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:07.811Z"
+    },
+    "featured_items_data": null,
+    "location": "29.9918928, 32.4843369",
+    "created_at": "2026-02-24T19:12:46.102Z",
+    "id": 124,
+    "business_name": "Crochet Alley",
+    "Password": "1152",
+    "system_role": "user",
+    "limitPackage": 0,
+    "Address": "اونلاين",
+    "business_sub_categories": null,
+    "last_login_at": "2026-02-25T00:25:38.240Z",
+    "business_category": {
+      "1": [
+        "5"
+      ],
+      "13": [
+        "3"
+      ],
+      "46": []
+    }
+  }
+]
