@@ -1,587 +1,589 @@
 [
   {
     "_docId": "contact_0080aa06-76ac-459c-aa56-cac1a46f667f",
-    "id": "contact_0080aa06-76ac-459c-aa56-cac1a46f667f",
-    "is_primary": 1,
     "created_at": "2026-04-10T05:53:03.440Z",
+    "phone_number": "+201280936579",
+    "id": "contact_0080aa06-76ac-459c-aa56-cac1a46f667f",
     "user_key": "4dpz993e",
     "_legacy": {
+      "source": "turso",
       "migratedAt": "2026-05-21T02:26:23.603Z",
-      "table": "user_contacts",
-      "source": "turso"
+      "table": "user_contacts"
     },
-    "has_whatsapp": 1,
-    "phone_number": "+201280936579",
+    "is_primary": 1,
     "updated_at": "2026-04-10T05:53:03.440Z",
+    "has_whatsapp": 1,
     "contact_type": "phone"
   },
   {
     "_docId": "contact_0082e459-371a-42d6-89fe-bf0377243fc4",
-    "contact_type": "phone",
     "updated_at": "2026-04-10T05:53:14.404Z",
-    "phone_number": "+201234567899",
     "has_whatsapp": 1,
+    "is_primary": 1,
+    "contact_type": "phone",
+    "created_at": "2026-04-10T05:53:14.404Z",
     "_legacy": {
-      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:31.189Z",
       "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:31.189Z"
+      "source": "turso"
     },
     "user_key": "fc5qrr",
-    "created_at": "2026-04-10T05:53:14.404Z",
-    "is_primary": 1,
-    "id": "contact_0082e459-371a-42d6-89fe-bf0377243fc4"
+    "id": "contact_0082e459-371a-42d6-89fe-bf0377243fc4",
+    "phone_number": "+201234567899"
   },
   {
     "_docId": "contact_04c0d0a5-9f5c-439a-9ef8-ef809dca62b5",
-    "user_key": "cti783",
     "created_at": "2026-04-10T05:53:04.244Z",
-    "is_primary": 1,
-    "id": "contact_04c0d0a5-9f5c-439a-9ef8-ef809dca62b5",
     "_legacy": {
-      "source": "turso",
       "migratedAt": "2026-05-21T02:26:29.648Z",
-      "table": "user_contacts"
-    },
-    "phone_number": "+201067715900",
-    "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:04.244Z"
-  },
-  {
-    "_docId": "contact_07566f7a-9db8-4432-b930-935ac55b7378",
-    "_legacy": {
-      "source": "turso",
       "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:22.146Z"
+      "source": "turso"
     },
-    "is_primary": 1,
-    "id": "contact_07566f7a-9db8-4432-b930-935ac55b7378",
-    "created_at": "2026-04-10T05:53:14.084Z",
-    "user_key": "3hpji2",
-    "updated_at": "2026-04-10T05:53:14.084Z",
-    "contact_type": "phone",
+    "user_key": "cti783",
+    "phone_number": "+201067715900",
+    "id": "contact_04c0d0a5-9f5c-439a-9ef8-ef809dca62b5",
     "has_whatsapp": 1,
-    "phone_number": "+201026599618"
-  },
-  {
-    "_docId": "contact_0a98bd76-9a7b-4c23-8655-f92f42ea7f34",
-    "user_key": "prof_6oUtIjEt",
-    "phone_number": "+201099402697",
-    "created_at": "2026-05-22T03:43:59.004Z",
-    "id": "contact_0a98bd76-9a7b-4c23-8655-f92f42ea7f34",
+    "updated_at": "2026-04-10T05:53:04.244Z",
     "is_primary": 1,
-    "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-05-22T03:43:59.004Z"
-  },
-  {
-    "_docId": "contact_1191b725-3224-431a-b90d-ad481db1f953",
-    "user_key": "wtlrmg",
-    "id": "contact_1191b725-3224-431a-b90d-ad481db1f953",
-    "is_primary": 1,
-    "created_at": "2026-05-08T04:13:38.265Z",
-    "_legacy": {
-      "source": "turso",
-      "migratedAt": "2026-05-21T02:26:46.666Z",
-      "table": "user_contacts"
-    },
-    "has_whatsapp": 1,
-    "phone_number": "+201020638400",
-    "updated_at": "2026-05-08T04:13:38.265Z",
     "contact_type": "phone"
   },
   {
-    "_docId": "contact_11d64c8d-b04c-46d0-83c2-d5decc86a640",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:13.883Z",
-    "phone_number": "+2015555555555",
+    "_docId": "contact_07566f7a-9db8-4432-b930-935ac55b7378",
     "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:14.084Z",
+    "is_primary": 1,
+    "contact_type": "phone",
+    "created_at": "2026-04-10T05:53:14.084Z",
+    "_legacy": {
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:22.146Z",
+      "source": "turso"
+    },
+    "user_key": "3hpji2",
+    "phone_number": "+201026599618",
+    "id": "contact_07566f7a-9db8-4432-b930-935ac55b7378"
+  },
+  {
+    "_docId": "contact_0a98bd76-9a7b-4c23-8655-f92f42ea7f34",
+    "is_primary": 1,
+    "has_whatsapp": 1,
+    "updated_at": "2026-05-22T03:43:59.004Z",
+    "created_at": "2026-05-22T03:43:59.004Z",
+    "phone_number": "+201099402697",
+    "id": "contact_0a98bd76-9a7b-4c23-8655-f92f42ea7f34",
+    "user_key": "prof_6oUtIjEt",
+    "contact_type": "phone"
+  },
+  {
+    "_docId": "contact_1191b725-3224-431a-b90d-ad481db1f953",
+    "contact_type": "phone",
+    "is_primary": 1,
+    "updated_at": "2026-05-08T04:13:38.265Z",
+    "has_whatsapp": 1,
+    "id": "contact_1191b725-3224-431a-b90d-ad481db1f953",
+    "phone_number": "+201020638400",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:46.666Z",
+      "table": "user_contacts",
+      "source": "turso"
+    },
+    "user_key": "wtlrmg",
+    "created_at": "2026-05-08T04:13:38.265Z"
+  },
+  {
+    "_docId": "contact_11d64c8d-b04c-46d0-83c2-d5decc86a640",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:13.883Z",
+    "is_primary": 1,
+    "contact_type": "phone",
+    "created_at": "2026-04-10T05:53:13.883Z",
+    "user_key": "gax4e1",
     "_legacy": {
       "source": "turso",
       "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:32.655Z"
     },
-    "created_at": "2026-04-10T05:53:13.883Z",
-    "id": "contact_11d64c8d-b04c-46d0-83c2-d5decc86a640",
-    "is_primary": 1,
-    "user_key": "gax4e1"
+    "phone_number": "+2015555555555",
+    "id": "contact_11d64c8d-b04c-46d0-83c2-d5decc86a640"
   },
   {
     "_docId": "contact_1280493e-31b7-431f-a347-e2aec1f2ac17",
-    "updated_at": "2026-04-10T05:53:06.552Z",
-    "contact_type": "phone",
     "has_whatsapp": 1,
-    "phone_number": "+201005852443",
+    "updated_at": "2026-04-10T05:53:06.552Z",
+    "is_primary": 1,
+    "contact_type": "phone",
+    "created_at": "2026-04-10T05:53:06.552Z",
+    "user_key": "dp2en5",
     "_legacy": {
       "source": "turso",
       "migratedAt": "2026-05-21T02:26:30.475Z",
       "table": "user_contacts"
     },
-    "is_primary": 1,
-    "id": "contact_1280493e-31b7-431f-a347-e2aec1f2ac17",
-    "created_at": "2026-04-10T05:53:06.552Z",
-    "user_key": "dp2en5"
+    "phone_number": "+201005852443",
+    "id": "contact_1280493e-31b7-431f-a347-e2aec1f2ac17"
   },
   {
     "_docId": "contact_12d2dfe7-22e2-4ca9-8dcb-5daf7c72ef7f",
-    "user_key": "682dri6b",
-    "has_whatsapp": 1,
     "is_primary": 1,
-    "id": "contact_12d2dfe7-22e2-4ca9-8dcb-5daf7c72ef7f",
-    "phone_number": "+201026546550",
-    "created_at": "2026-06-05T02:53:44.379Z",
+    "has_whatsapp": 1,
     "updated_at": "2026-06-05T02:53:44.379Z",
+    "created_at": "2026-06-05T02:53:44.379Z",
+    "phone_number": "+201026546550",
+    "id": "contact_12d2dfe7-22e2-4ca9-8dcb-5daf7c72ef7f",
+    "user_key": "682dri6b",
     "contact_type": "phone"
   },
   {
     "_docId": "contact_13c713d6-b423-49d9-ac68-aaec31adf406",
-    "phone_number": "+201000859724",
-    "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:07.050Z",
     "created_at": "2026-04-10T05:53:07.050Z",
-    "is_primary": 1,
     "id": "contact_13c713d6-b423-49d9-ac68-aaec31adf406",
-    "user_key": "7an5m8",
+    "phone_number": "+201000859724",
     "_legacy": {
-      "source": "turso",
       "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:26.121Z"
-    }
+      "migratedAt": "2026-05-21T02:26:26.121Z",
+      "source": "turso"
+    },
+    "user_key": "7an5m8",
+    "is_primary": 1,
+    "updated_at": "2026-04-10T05:53:07.050Z",
+    "has_whatsapp": 1,
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_15ca05a1-e1b0-4db3-9cb9-8f98b955d6cd",
-    "updated_at": "2026-04-10T05:53:12.379Z",
-    "contact_type": "phone",
     "has_whatsapp": 1,
-    "phone_number": "+201281285883",
-    "_legacy": {
-      "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:21.937Z"
-    },
-    "id": "contact_15ca05a1-e1b0-4db3-9cb9-8f98b955d6cd",
+    "updated_at": "2026-04-10T05:53:12.379Z",
     "is_primary": 1,
+    "contact_type": "phone",
     "created_at": "2026-04-10T05:53:12.379Z",
-    "user_key": "2gj6t8"
+    "_legacy": {
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:21.937Z",
+      "source": "turso"
+    },
+    "user_key": "2gj6t8",
+    "phone_number": "+201281285883",
+    "id": "contact_15ca05a1-e1b0-4db3-9cb9-8f98b955d6cd"
   },
   {
     "_docId": "contact_15e21e7f-80cd-45a8-803e-eaea602bba5b",
-    "created_at": "2026-04-10T05:53:07.140Z",
-    "is_primary": 1,
-    "id": "contact_15e21e7f-80cd-45a8-803e-eaea602bba5b",
-    "user_key": "ow0bj2",
     "_legacy": {
       "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:39.577Z"
+      "migratedAt": "2026-05-21T02:26:39.577Z",
+      "table": "user_contacts"
     },
+    "user_key": "ow0bj2",
+    "id": "contact_15e21e7f-80cd-45a8-803e-eaea602bba5b",
     "phone_number": "+201228976257",
-    "has_whatsapp": 1,
+    "created_at": "2026-04-10T05:53:07.140Z",
     "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:07.140Z"
+    "updated_at": "2026-04-10T05:53:07.140Z",
+    "has_whatsapp": 1,
+    "is_primary": 1
   },
   {
     "_docId": "contact_1779333032579_o3h2b71c",
-    "contact_type": "phone",
-    "updated_at": "2026-05-21T03:10:32.578Z",
-    "phone_number": "+201036987412",
     "created_at": "2026-05-21T03:10:32.578Z",
-    "id": "contact_1779333032579_o3h2b71c",
-    "is_primary": 1,
+    "updated_at": "2026-05-21T03:10:32.578Z",
     "has_whatsapp": 1,
-    "user_key": "9vjh7w"
+    "is_primary": 1,
+    "contact_type": "phone",
+    "user_key": "9vjh7w",
+    "id": "contact_1779333032579_o3h2b71c",
+    "phone_number": "+201036987412"
   },
   {
     "_docId": "contact_1779421413470_hpb3celr",
-    "contact_type": "phone",
-    "updated_at": "2026-05-22T03:43:33.470Z",
     "phone_number": "+201022868649",
-    "created_at": "2026-05-22T03:43:33.470Z",
+    "id": "contact_1779421413470_hpb3celr",
+    "user_key": "9udgon",
+    "contact_type": "phone",
     "is_primary": 1,
     "has_whatsapp": 1,
-    "id": "contact_1779421413470_hpb3celr",
-    "user_key": "9udgon"
+    "updated_at": "2026-05-22T03:43:33.470Z",
+    "created_at": "2026-05-22T03:43:33.470Z"
   },
   {
     "_docId": "contact_1779421426743_z7uoe1di",
-    "updated_at": "2026-05-22T03:43:46.743Z",
-    "contact_type": "phone",
     "has_whatsapp": 1,
-    "is_primary": 1,
-    "id": "contact_1779421426743_z7uoe1di",
-    "phone_number": "+201004489275",
+    "updated_at": "2026-05-22T03:43:46.743Z",
     "created_at": "2026-05-22T03:43:46.743Z",
-    "user_key": "9jqfgx"
+    "is_primary": 1,
+    "user_key": "9jqfgx",
+    "contact_type": "phone",
+    "id": "contact_1779421426743_z7uoe1di",
+    "phone_number": "+201004489275"
   },
   {
     "_docId": "contact_1779421476273_yncd0ixb",
-    "user_key": "prod_seller_1yHcElNf",
     "id": "contact_1779421476273_yncd0ixb",
-    "is_primary": 1,
-    "has_whatsapp": 1,
     "phone_number": "+201064868919",
-    "created_at": "2026-05-22T03:44:36.273Z",
+    "user_key": "prod_seller_1yHcElNf",
+    "contact_type": "phone",
+    "is_primary": 1,
     "updated_at": "2026-05-22T03:44:36.273Z",
-    "contact_type": "phone"
+    "has_whatsapp": 1,
+    "created_at": "2026-05-22T03:44:36.273Z"
   },
   {
     "_docId": "contact_1779421494104_4yd6izs3",
     "user_key": "mxcu1c",
-    "phone_number": "+201061159916",
-    "created_at": "2026-05-22T03:44:54.104Z",
-    "has_whatsapp": 1,
-    "is_primary": 1,
-    "id": "contact_1779421494104_4yd6izs3",
     "contact_type": "phone",
-    "updated_at": "2026-05-22T03:44:54.104Z"
+    "id": "contact_1779421494104_4yd6izs3",
+    "phone_number": "+201061159916",
+    "updated_at": "2026-05-22T03:44:54.104Z",
+    "has_whatsapp": 1,
+    "created_at": "2026-05-22T03:44:54.104Z",
+    "is_primary": 1
   },
   {
     "_docId": "contact_1779421498029_u7uyg8yi",
     "user_key": "prod_seller_ubQaIbs8",
-    "phone_number": "+201000804865",
-    "created_at": "2026-05-22T03:44:58.029Z",
+    "contact_type": "phone",
     "id": "contact_1779421498029_u7uyg8yi",
-    "is_primary": 1,
+    "phone_number": "+201000804865",
+    "updated_at": "2026-05-22T03:44:58.029Z",
     "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-05-22T03:44:58.029Z"
-  },
-  {
-    "_docId": "contact_1779421507467_4uu9xc1s",
-    "user_key": "prof_VCbSn2sL",
-    "has_whatsapp": 1,
-    "is_primary": 1,
-    "id": "contact_1779421507467_4uu9xc1s",
-    "phone_number": "+201048116800",
-    "created_at": "2026-05-22T03:45:07.466Z",
-    "updated_at": "2026-05-22T03:45:07.466Z",
-    "contact_type": "phone"
-  },
-  {
-    "_docId": "contact_1779421515342_65yj1g52",
-    "contact_type": "phone",
-    "updated_at": "2026-05-22T03:45:15.342Z",
-    "user_key": "prod_seller_a46iQxtS",
-    "phone_number": "+201066877665",
-    "created_at": "2026-05-22T03:45:15.342Z",
-    "id": "contact_1779421515342_65yj1g52",
-    "has_whatsapp": 1,
+    "created_at": "2026-05-22T03:44:58.029Z",
     "is_primary": 1
   },
   {
-    "_docId": "contact_1779421532594_sz1a3hfw",
-    "updated_at": "2026-05-22T03:45:32.594Z",
+    "_docId": "contact_1779421507467_4uu9xc1s",
     "contact_type": "phone",
-    "user_key": "t6wman",
+    "user_key": "prof_VCbSn2sL",
+    "id": "contact_1779421507467_4uu9xc1s",
+    "phone_number": "+201048116800",
+    "created_at": "2026-05-22T03:45:07.466Z",
     "has_whatsapp": 1,
+    "updated_at": "2026-05-22T03:45:07.466Z",
+    "is_primary": 1
+  },
+  {
+    "_docId": "contact_1779421515342_65yj1g52",
+    "phone_number": "+201066877665",
+    "id": "contact_1779421515342_65yj1g52",
+    "contact_type": "phone",
+    "user_key": "prod_seller_a46iQxtS",
     "is_primary": 1,
+    "created_at": "2026-05-22T03:45:15.342Z",
+    "has_whatsapp": 1,
+    "updated_at": "2026-05-22T03:45:15.342Z"
+  },
+  {
+    "_docId": "contact_1779421532594_sz1a3hfw",
     "id": "contact_1779421532594_sz1a3hfw",
     "phone_number": "+201081732402",
-    "created_at": "2026-05-22T03:45:32.594Z"
+    "contact_type": "phone",
+    "user_key": "t6wman",
+    "is_primary": 1,
+    "created_at": "2026-05-22T03:45:32.594Z",
+    "updated_at": "2026-05-22T03:45:32.594Z",
+    "has_whatsapp": 1
   },
   {
     "_docId": "contact_1779421540180_6bt4sawo",
     "user_key": "prod_seller_VGnEuMSH",
+    "contact_type": "phone",
     "id": "contact_1779421540180_6bt4sawo",
-    "is_primary": 1,
-    "has_whatsapp": 1,
-    "created_at": "2026-05-22T03:45:40.180Z",
     "phone_number": "+201091549047",
     "updated_at": "2026-05-22T03:45:40.180Z",
-    "contact_type": "phone"
-  },
-  {
-    "_docId": "contact_1a730a33-88b1-4ae3-9e07-8d274e804041",
-    "created_at": "2026-04-10T05:53:15.210Z",
-    "is_primary": 1,
-    "id": "contact_1a730a33-88b1-4ae3-9e07-8d274e804041",
-    "user_key": "aj7g2x",
-    "_legacy": {
-      "migratedAt": "2026-05-21T02:26:28.402Z",
-      "table": "user_contacts",
-      "source": "turso"
-    },
-    "phone_number": "+201210732232",
     "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:15.210Z"
-  },
-  {
-    "_docId": "contact_1c377383-1fb4-4225-855e-e9ad75ab5cd4",
-    "phone_number": "+201023222582",
-    "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:12.198Z",
-    "user_key": "5nn9xn",
-    "created_at": "2026-04-10T05:53:12.198Z",
-    "is_primary": 1,
-    "id": "contact_1c377383-1fb4-4225-855e-e9ad75ab5cd4",
-    "_legacy": {
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:24.637Z",
-      "source": "turso"
-    }
-  },
-  {
-    "_docId": "contact_1cbe3a6d-661f-4915-ab6a-e8601746a51b",
-    "phone_number": "+201025766329",
-    "created_at": "2026-05-22T03:44:48.397Z",
-    "has_whatsapp": 1,
-    "is_primary": 1,
-    "id": "contact_1cbe3a6d-661f-4915-ab6a-e8601746a51b",
-    "user_key": "prof_FMyHwsQ0",
-    "contact_type": "phone",
-    "updated_at": "2026-05-22T03:44:48.397Z"
-  },
-  {
-    "_docId": "contact_20fefdff-ce26-47cd-920f-c275132b5957",
-    "updated_at": "2026-04-10T05:53:12.937Z",
-    "contact_type": "phone",
-    "has_whatsapp": 1,
-    "phone_number": "+201550782176",
-    "_legacy": {
-      "source": "turso",
-      "migratedAt": "2026-05-21T02:26:24.224Z",
-      "table": "user_contacts"
-    },
-    "user_key": "4t1lql",
-    "is_primary": 1,
-    "id": "contact_20fefdff-ce26-47cd-920f-c275132b5957",
-    "created_at": "2026-04-10T05:53:12.937Z"
-  },
-  {
-    "_docId": "contact_24875dc0-4de6-424d-8ac0-60aec943620a",
-    "contact_type": "phone",
-    "updated_at": "2026-06-02T20:22:01.652Z",
-    "phone_number": "+201065753990",
-    "created_at": "2026-06-02T20:22:01.652Z",
-    "id": "contact_24875dc0-4de6-424d-8ac0-60aec943620a",
-    "is_primary": 1,
-    "has_whatsapp": 1,
-    "user_key": "pngukw"
-  },
-  {
-    "_docId": "contact_276564e0-5470-4bef-8419-4b860e57af99",
-    "_legacy": {
-      "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:46.872Z"
-    },
-    "is_primary": 0,
-    "id": "contact_276564e0-5470-4bef-8419-4b860e57af99",
-    "created_at": "2026-05-08T04:13:38.265Z",
-    "user_key": "wtlrmg",
-    "updated_at": "2026-05-08T04:13:38.265Z",
-    "contact_type": "phone",
-    "has_whatsapp": 0,
-    "phone_number": "+201026546550"
-  },
-  {
-    "_docId": "contact_291a0406-6bc1-4846-b4c0-5413dba73295",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:10.958Z",
-    "phone_number": "+201090768282",
-    "has_whatsapp": 1,
-    "_legacy": {
-      "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:29.441Z"
-    },
-    "user_key": "c4jlna",
-    "created_at": "2026-04-10T05:53:10.958Z",
-    "id": "contact_291a0406-6bc1-4846-b4c0-5413dba73295",
+    "created_at": "2026-05-22T03:45:40.180Z",
     "is_primary": 1
   },
   {
-    "_docId": "contact_325f46fd-f825-4295-98fd-f228eec661e0",
-    "created_at": "2026-05-22T03:45:07.323Z",
-    "phone_number": "+201091738540",
-    "id": "contact_325f46fd-f825-4295-98fd-f228eec661e0",
+    "_docId": "contact_1a730a33-88b1-4ae3-9e07-8d274e804041",
     "is_primary": 1,
     "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:15.210Z",
+    "contact_type": "phone",
+    "created_at": "2026-04-10T05:53:15.210Z",
+    "phone_number": "+201210732232",
+    "id": "contact_1a730a33-88b1-4ae3-9e07-8d274e804041",
+    "user_key": "aj7g2x",
+    "_legacy": {
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:28.402Z",
+      "table": "user_contacts"
+    }
+  },
+  {
+    "_docId": "contact_1c377383-1fb4-4225-855e-e9ad75ab5cd4",
+    "contact_type": "phone",
+    "is_primary": 1,
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:12.198Z",
+    "phone_number": "+201023222582",
+    "id": "contact_1c377383-1fb4-4225-855e-e9ad75ab5cd4",
+    "user_key": "5nn9xn",
+    "_legacy": {
+      "source": "turso",
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:24.637Z"
+    },
+    "created_at": "2026-04-10T05:53:12.198Z"
+  },
+  {
+    "_docId": "contact_1cbe3a6d-661f-4915-ab6a-e8601746a51b",
+    "id": "contact_1cbe3a6d-661f-4915-ab6a-e8601746a51b",
+    "phone_number": "+201025766329",
+    "contact_type": "phone",
+    "user_key": "prof_FMyHwsQ0",
+    "is_primary": 1,
+    "created_at": "2026-05-22T03:44:48.397Z",
+    "updated_at": "2026-05-22T03:44:48.397Z",
+    "has_whatsapp": 1
+  },
+  {
+    "_docId": "contact_20fefdff-ce26-47cd-920f-c275132b5957",
+    "phone_number": "+201550782176",
+    "id": "contact_20fefdff-ce26-47cd-920f-c275132b5957",
+    "user_key": "4t1lql",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:24.224Z",
+      "table": "user_contacts",
+      "source": "turso"
+    },
+    "created_at": "2026-04-10T05:53:12.937Z",
+    "contact_type": "phone",
+    "is_primary": 1,
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:12.937Z"
+  },
+  {
+    "_docId": "contact_24875dc0-4de6-424d-8ac0-60aec943620a",
+    "user_key": "pngukw",
+    "contact_type": "phone",
+    "id": "contact_24875dc0-4de6-424d-8ac0-60aec943620a",
+    "phone_number": "+201065753990",
+    "has_whatsapp": 1,
+    "updated_at": "2026-06-02T20:22:01.652Z",
+    "created_at": "2026-06-02T20:22:01.652Z",
+    "is_primary": 1
+  },
+  {
+    "_docId": "contact_276564e0-5470-4bef-8419-4b860e57af99",
+    "contact_type": "phone",
+    "has_whatsapp": 0,
+    "updated_at": "2026-05-08T04:13:38.265Z",
+    "is_primary": 0,
+    "user_key": "wtlrmg",
+    "_legacy": {
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:46.872Z",
+      "table": "user_contacts"
+    },
+    "phone_number": "+201026546550",
+    "id": "contact_276564e0-5470-4bef-8419-4b860e57af99",
+    "created_at": "2026-05-08T04:13:38.265Z"
+  },
+  {
+    "_docId": "contact_291a0406-6bc1-4846-b4c0-5413dba73295",
+    "id": "contact_291a0406-6bc1-4846-b4c0-5413dba73295",
+    "phone_number": "+201090768282",
+    "_legacy": {
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:29.441Z",
+      "table": "user_contacts"
+    },
+    "user_key": "c4jlna",
+    "created_at": "2026-04-10T05:53:10.958Z",
+    "contact_type": "phone",
+    "is_primary": 1,
+    "updated_at": "2026-04-10T05:53:10.958Z",
+    "has_whatsapp": 1
+  },
+  {
+    "_docId": "contact_325f46fd-f825-4295-98fd-f228eec661e0",
+    "id": "contact_325f46fd-f825-4295-98fd-f228eec661e0",
+    "phone_number": "+201091738540",
     "user_key": "prof_Jqc9Sjez",
     "contact_type": "phone",
-    "updated_at": "2026-05-22T03:45:07.323Z"
+    "is_primary": 1,
+    "has_whatsapp": 1,
+    "updated_at": "2026-05-22T03:45:07.323Z",
+    "created_at": "2026-05-22T03:45:07.323Z"
   },
   {
     "_docId": "contact_32648da2-3fc5-4452-b3a9-2fb87c905555",
     "contact_type": "phone",
+    "is_primary": 1,
+    "has_whatsapp": 1,
     "updated_at": "2026-04-10T05:53:06.884Z",
     "phone_number": "+201210101041",
-    "has_whatsapp": 1,
-    "_legacy": {
-      "source": "turso",
-      "migratedAt": "2026-05-21T02:26:45.615Z",
-      "table": "user_contacts"
-    },
-    "created_at": "2026-04-10T05:53:06.884Z",
     "id": "contact_32648da2-3fc5-4452-b3a9-2fb87c905555",
-    "is_primary": 1,
-    "user_key": "w434wx"
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:45.615Z",
+      "table": "user_contacts",
+      "source": "turso"
+    },
+    "user_key": "w434wx",
+    "created_at": "2026-04-10T05:53:06.884Z"
   },
   {
     "_docId": "contact_326b6dff-23ac-4515-b5c2-efe66df22b05",
-    "has_whatsapp": 1,
-    "phone_number": "+2010265465560",
-    "updated_at": "2026-04-10T11:31:52.072Z",
-    "contact_type": "phone",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:27.781Z",
+      "table": "user_contacts",
+      "source": "turso"
+    },
     "user_key": "9k7voc",
     "id": "contact_326b6dff-23ac-4515-b5c2-efe66df22b05",
-    "is_primary": 1,
+    "phone_number": "+2010265465560",
     "created_at": "2026-04-10T11:31:52.072Z",
-    "_legacy": {
-      "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:27.781Z"
-    }
+    "contact_type": "phone",
+    "updated_at": "2026-04-10T11:31:52.072Z",
+    "has_whatsapp": 1,
+    "is_primary": 1
   },
   {
     "_docId": "contact_34696631-d504-4bb1-a2ba-f1ce913638b2",
-    "updated_at": "2026-04-10T05:53:15.132Z",
     "contact_type": "phone",
     "has_whatsapp": 1,
-    "phone_number": "+201033095920",
+    "updated_at": "2026-04-10T05:53:15.132Z",
+    "is_primary": 1,
+    "user_key": "uv8a4o",
     "_legacy": {
-      "migratedAt": "2026-05-21T02:26:44.157Z",
       "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:44.157Z",
       "source": "turso"
     },
-    "is_primary": 1,
+    "phone_number": "+201033095920",
     "id": "contact_34696631-d504-4bb1-a2ba-f1ce913638b2",
-    "created_at": "2026-04-10T05:53:15.132Z",
-    "user_key": "uv8a4o"
+    "created_at": "2026-04-10T05:53:15.132Z"
   },
   {
     "_docId": "contact_34d59237-8da4-4da5-b88f-7325a771a08d",
-    "has_whatsapp": 1,
-    "phone_number": "+201252525252",
-    "updated_at": "2026-05-01T02:50:22.422Z",
     "contact_type": "phone",
-    "user_key": "fsjhoo",
-    "id": "contact_34d59237-8da4-4da5-b88f-7325a771a08d",
+    "has_whatsapp": 1,
+    "updated_at": "2026-05-01T02:50:22.422Z",
     "is_primary": 1,
-    "created_at": "2026-05-01T02:50:22.422Z",
     "_legacy": {
-      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:32.018Z",
+      "table": "user_contacts",
       "source": "turso"
-    }
+    },
+    "user_key": "fsjhoo",
+    "phone_number": "+201252525252",
+    "id": "contact_34d59237-8da4-4da5-b88f-7325a771a08d",
+    "created_at": "2026-05-01T02:50:22.422Z"
   },
   {
     "_docId": "contact_36a80400-00a0-4c4c-bd50-8cb3e4b2eef0",
-    "contact_type": "phone",
-    "updated_at": "2026-05-21T00:21:09.805Z",
+    "created_at": "2026-05-21T00:21:09.805Z",
     "phone_number": "+201030324384",
-    "has_whatsapp": 1,
+    "id": "contact_36a80400-00a0-4c4c-bd50-8cb3e4b2eef0",
+    "user_key": "mwj4y3",
     "_legacy": {
-      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:37.018Z",
+      "table": "user_contacts",
       "source": "turso"
     },
-    "created_at": "2026-05-21T00:21:09.805Z",
     "is_primary": 1,
-    "id": "contact_36a80400-00a0-4c4c-bd50-8cb3e4b2eef0",
-    "user_key": "mwj4y3"
+    "has_whatsapp": 1,
+    "updated_at": "2026-05-21T00:21:09.805Z",
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_385d5fc8-f454-4a79-9fb8-f459be1881a9",
-    "has_whatsapp": 1,
-    "phone_number": "+201281824220",
-    "updated_at": "2026-04-10T05:53:11.647Z",
     "contact_type": "phone",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:11.647Z",
     "is_primary": 1,
-    "id": "contact_385d5fc8-f454-4a79-9fb8-f459be1881a9",
-    "created_at": "2026-04-10T05:53:11.647Z",
-    "user_key": "ek59s9",
     "_legacy": {
-      "migratedAt": "2026-05-21T02:26:30.683Z",
       "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:30.683Z",
       "source": "turso"
-    }
+    },
+    "user_key": "ek59s9",
+    "phone_number": "+201281824220",
+    "id": "contact_385d5fc8-f454-4a79-9fb8-f459be1881a9",
+    "created_at": "2026-04-10T05:53:11.647Z"
   },
   {
     "_docId": "contact_3ca9d611-f3d0-4b59-94f4-bed156036d28",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T11:31:52.072Z",
+    "created_at": "2026-04-10T11:31:52.072Z",
+    "id": "contact_3ca9d611-f3d0-4b59-94f4-bed156036d28",
     "phone_number": "+45545454545",
-    "has_whatsapp": 1,
     "_legacy": {
-      "table": "user_contacts",
+      "source": "turso",
       "migratedAt": "2026-05-21T02:26:27.987Z",
-      "source": "turso"
+      "table": "user_contacts"
     },
     "user_key": "9k7voc",
-    "created_at": "2026-04-10T11:31:52.072Z",
     "is_primary": 0,
-    "id": "contact_3ca9d611-f3d0-4b59-94f4-bed156036d28"
+    "updated_at": "2026-04-10T11:31:52.072Z",
+    "has_whatsapp": 1,
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_3e569ec3-bb89-413a-9d92-d3c13a969665",
-    "is_primary": 1,
     "id": "contact_3e569ec3-bb89-413a-9d92-d3c13a969665",
-    "created_at": "2026-04-10T05:53:05.204Z",
-    "user_key": "a1owql",
+    "phone_number": "+201201353576",
     "_legacy": {
       "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:28.193Z",
       "source": "turso"
     },
-    "has_whatsapp": 1,
-    "phone_number": "+201201353576",
+    "user_key": "a1owql",
+    "created_at": "2026-04-10T05:53:05.204Z",
+    "contact_type": "phone",
+    "is_primary": 1,
     "updated_at": "2026-04-10T05:53:05.204Z",
-    "contact_type": "phone"
+    "has_whatsapp": 1
   },
   {
     "_docId": "contact_3f638754-8e7e-471b-a500-dacb8a1f7df1",
-    "_legacy": {
-      "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:24.431Z"
-    },
-    "is_primary": 1,
-    "id": "contact_3f638754-8e7e-471b-a500-dacb8a1f7df1",
-    "created_at": "2026-04-10T05:53:04.384Z",
-    "user_key": "59dic3",
-    "updated_at": "2026-04-10T05:53:04.384Z",
     "contact_type": "phone",
+    "is_primary": 1,
+    "updated_at": "2026-04-10T05:53:04.384Z",
     "has_whatsapp": 1,
-    "phone_number": "+2010265465500"
+    "id": "contact_3f638754-8e7e-471b-a500-dacb8a1f7df1",
+    "phone_number": "+2010265465500",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:24.431Z",
+      "table": "user_contacts",
+      "source": "turso"
+    },
+    "user_key": "59dic3",
+    "created_at": "2026-04-10T05:53:04.384Z"
   },
   {
     "_docId": "contact_421cf913-b165-4576-9062-c532ae300d02",
-    "phone_number": "+201029202934",
-    "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:09.525Z",
-    "user_key": "sh3raq",
     "created_at": "2026-04-10T05:53:09.525Z",
-    "is_primary": 1,
-    "id": "contact_421cf913-b165-4576-9062-c532ae300d02",
+    "user_key": "sh3raq",
     "_legacy": {
-      "source": "turso",
       "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:42.697Z"
-    }
+      "migratedAt": "2026-05-21T02:26:42.697Z",
+      "source": "turso"
+    },
+    "phone_number": "+201029202934",
+    "id": "contact_421cf913-b165-4576-9062-c532ae300d02",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:09.525Z",
+    "is_primary": 1,
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_42ec15d3-d0ff-492c-ac80-fb38fb85773f",
+    "is_primary": 1,
     "updated_at": "2026-04-10T05:53:04.948Z",
-    "contact_type": "phone",
     "has_whatsapp": 1,
+    "contact_type": "phone",
+    "created_at": "2026-04-10T05:53:04.948Z",
+    "id": "contact_42ec15d3-d0ff-492c-ac80-fb38fb85773f",
     "phone_number": "+201000023586",
     "_legacy": {
       "migratedAt": "2026-05-21T02:26:21.109Z",
       "table": "user_contacts",
       "source": "turso"
     },
-    "user_key": "1t19rx",
-    "is_primary": 1,
-    "id": "contact_42ec15d3-d0ff-492c-ac80-fb38fb85773f",
-    "created_at": "2026-04-10T05:53:04.948Z"
+    "user_key": "1t19rx"
   },
   {
     "_docId": "contact_43b1a228-d361-47ef-9de3-1703aa840654",
+    "phone_number": "+101010101010",
+    "id": "contact_43b1a228-d361-47ef-9de3-1703aa840654",
     "_legacy": {
       "migratedAt": "2026-05-21T02:26:24.017Z",
       "table": "user_contacts",
@@ -589,349 +591,335 @@
     },
     "user_key": "4mzddx",
     "created_at": "2026-04-10T05:53:13.724Z",
-    "id": "contact_43b1a228-d361-47ef-9de3-1703aa840654",
-    "is_primary": 1,
     "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:13.724Z",
-    "phone_number": "+101010101010",
-    "has_whatsapp": 1
+    "is_primary": 1,
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:13.724Z"
   },
   {
     "_docId": "contact_470dfbd1-614f-451b-a89d-3afb695a211c",
-    "has_whatsapp": 1,
-    "phone_number": "+201070093910",
-    "updated_at": "2026-04-26T04:48:02.622Z",
     "contact_type": "phone",
-    "user_key": "prof_YTiiPnHC",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-26T04:48:02.622Z",
     "is_primary": 1,
-    "id": "contact_470dfbd1-614f-451b-a89d-3afb695a211c",
-    "created_at": "2026-04-26T04:48:02.622Z",
     "_legacy": {
-      "migratedAt": "2026-05-21T02:26:40.827Z",
       "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:40.827Z",
       "source": "turso"
-    }
+    },
+    "user_key": "prof_YTiiPnHC",
+    "phone_number": "+201070093910",
+    "id": "contact_470dfbd1-614f-451b-a89d-3afb695a211c",
+    "created_at": "2026-04-26T04:48:02.622Z"
   },
   {
     "_docId": "contact_47919029-ef0d-4ba2-86cc-8a52e285f2d6",
-    "updated_at": "2026-04-10T05:53:15.795Z",
     "contact_type": "phone",
+    "is_primary": 1,
+    "updated_at": "2026-04-10T05:53:15.795Z",
     "has_whatsapp": 1,
+    "id": "contact_47919029-ef0d-4ba2-86cc-8a52e285f2d6",
     "phone_number": "+201060699509",
     "_legacy": {
-      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:31.400Z",
       "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:31.400Z"
+      "source": "turso"
     },
-    "is_primary": 1,
-    "id": "contact_47919029-ef0d-4ba2-86cc-8a52e285f2d6",
-    "created_at": "2026-04-10T05:53:15.795Z",
-    "user_key": "fk7qdh"
+    "user_key": "fk7qdh",
+    "created_at": "2026-04-10T05:53:15.795Z"
   },
   {
     "_docId": "contact_47c53bd5-0ce8-4411-9a5b-b611792b1ece",
-    "_legacy": {
-      "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:28.610Z"
-    },
-    "user_key": "b2u6ks",
     "created_at": "2026-04-10T05:53:08.021Z",
-    "is_primary": 1,
-    "id": "contact_47c53bd5-0ce8-4411-9a5b-b611792b1ece",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:08.021Z",
+    "user_key": "b2u6ks",
+    "_legacy": {
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:28.610Z",
+      "source": "turso"
+    },
     "phone_number": "+201007324432",
-    "has_whatsapp": 1
-  },
-  {
-    "_docId": "contact_480919fb-c639-4023-bf8f-b71d9d3f1df2",
-    "contact_type": "phone",
-    "updated_at": "2026-06-05T03:45:28.879Z",
-    "user_key": "4yku8b",
-    "phone_number": "+201026546551",
-    "created_at": "2026-06-05T03:45:28.879Z",
-    "id": "contact_480919fb-c639-4023-bf8f-b71d9d3f1df2",
+    "id": "contact_47c53bd5-0ce8-4411-9a5b-b611792b1ece",
     "has_whatsapp": 1,
-    "is_primary": 1
+    "updated_at": "2026-04-10T05:53:08.021Z",
+    "is_primary": 1,
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_48f7fa30-7d0b-45b5-922b-a9718fe95092",
     "_legacy": {
-      "migratedAt": "2026-05-21T02:26:40.617Z",
       "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:40.617Z",
       "source": "turso"
     },
-    "created_at": "2026-04-25T19:15:20.909Z",
-    "is_primary": 1,
-    "id": "contact_48f7fa30-7d0b-45b5-922b-a9718fe95092",
     "user_key": "prof_PPg7YUES",
+    "id": "contact_48f7fa30-7d0b-45b5-922b-a9718fe95092",
+    "phone_number": "+201052481037",
+    "created_at": "2026-04-25T19:15:20.909Z",
     "contact_type": "phone",
     "updated_at": "2026-04-25T19:15:20.909Z",
-    "phone_number": "+201052481037",
-    "has_whatsapp": 1
+    "has_whatsapp": 1,
+    "is_primary": 1
   },
   {
     "_docId": "contact_4b16b68d-a5fc-47c3-9b9c-1b5e3aaa0412",
-    "created_at": "2026-04-10T05:53:05.474Z",
-    "is_primary": 1,
+    "phone_number": "+201000798697",
     "id": "contact_4b16b68d-a5fc-47c3-9b9c-1b5e3aaa0412",
-    "user_key": "ylfxs6",
     "_legacy": {
-      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:47.298Z",
+      "table": "user_contacts",
       "source": "turso"
     },
-    "phone_number": "+201000798697",
-    "has_whatsapp": 1,
+    "user_key": "ylfxs6",
+    "created_at": "2026-04-10T05:53:05.474Z",
     "contact_type": "phone",
+    "is_primary": 1,
+    "has_whatsapp": 1,
     "updated_at": "2026-04-10T05:53:05.474Z"
   },
   {
     "_docId": "contact_4c13810d-cdb2-45f6-b07f-99fa4de572db",
-    "id": "contact_4c13810d-cdb2-45f6-b07f-99fa4de572db",
-    "is_primary": 1,
-    "created_at": "2026-04-10T05:53:15.676Z",
     "user_key": "otd7o3",
     "_legacy": {
+      "source": "turso",
       "migratedAt": "2026-05-21T02:26:39.107Z",
-      "table": "user_contacts",
-      "source": "turso"
+      "table": "user_contacts"
     },
-    "has_whatsapp": 1,
     "phone_number": "+201020508085",
+    "id": "contact_4c13810d-cdb2-45f6-b07f-99fa4de572db",
+    "created_at": "2026-04-10T05:53:15.676Z",
+    "contact_type": "phone",
+    "has_whatsapp": 1,
     "updated_at": "2026-04-10T05:53:15.676Z",
-    "contact_type": "phone"
+    "is_primary": 1
   },
   {
     "_docId": "contact_4f047e40-5852-4c3d-bcf9-d49117e04478",
-    "is_primary": 1,
-    "id": "contact_4f047e40-5852-4c3d-bcf9-d49117e04478",
     "created_at": "2026-04-10T05:53:03.348Z",
-    "user_key": "dl14v1k7",
     "_legacy": {
-      "source": "turso",
+      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:30.270Z",
-      "table": "user_contacts"
+      "source": "turso"
     },
-    "has_whatsapp": 1,
+    "user_key": "dl14v1k7",
     "phone_number": "+201024182175",
+    "id": "contact_4f047e40-5852-4c3d-bcf9-d49117e04478",
+    "has_whatsapp": 1,
     "updated_at": "2026-04-10T05:53:03.348Z",
+    "is_primary": 1,
     "contact_type": "phone"
   },
   {
     "_docId": "contact_521dc8c3-28cc-4e8b-b8eb-7f9324f2a92c",
-    "phone_number": "+201050788606",
-    "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:14.482Z",
     "created_at": "2026-04-10T05:53:14.482Z",
-    "is_primary": 1,
-    "id": "contact_521dc8c3-28cc-4e8b-b8eb-7f9324f2a92c",
-    "user_key": "jufqqo",
     "_legacy": {
-      "source": "turso",
+      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:34.526Z",
-      "table": "user_contacts"
-    }
+      "source": "turso"
+    },
+    "user_key": "jufqqo",
+    "phone_number": "+201050788606",
+    "id": "contact_521dc8c3-28cc-4e8b-b8eb-7f9324f2a92c",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:14.482Z",
+    "is_primary": 1,
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_52664eb4-b6ee-4279-a8ef-257f1874812c",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:14.882Z",
-    "phone_number": "+201097779300",
-    "has_whatsapp": 1,
-    "_legacy": {
-      "source": "turso",
-      "migratedAt": "2026-05-21T02:26:38.481Z",
-      "table": "user_contacts"
-    },
     "created_at": "2026-04-10T05:53:14.882Z",
-    "is_primary": 1,
+    "user_key": "okswky",
+    "_legacy": {
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:38.481Z",
+      "source": "turso"
+    },
+    "phone_number": "+201097779300",
     "id": "contact_52664eb4-b6ee-4279-a8ef-257f1874812c",
-    "user_key": "okswky"
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:14.882Z",
+    "is_primary": 1,
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_53bf691e-447a-4ed9-95f6-d8f2ee606292",
-    "has_whatsapp": 1,
-    "phone_number": "+201000601314",
-    "updated_at": "2026-04-10T05:53:12.519Z",
     "contact_type": "phone",
-    "user_key": "u9boqg",
-    "id": "contact_53bf691e-447a-4ed9-95f6-d8f2ee606292",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:12.519Z",
     "is_primary": 1,
-    "created_at": "2026-04-10T05:53:12.519Z",
+    "user_key": "u9boqg",
     "_legacy": {
-      "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:43.534Z"
-    }
-  },
-  {
-    "_docId": "contact_556ebb00-81b6-41e5-9767-80e325ad6b08",
-    "_legacy": {
-      "migratedAt": "2026-05-21T02:26:39.786Z",
+      "migratedAt": "2026-05-21T02:26:43.534Z",
       "table": "user_contacts",
       "source": "turso"
     },
-    "user_key": "oyeggx",
-    "is_primary": 1,
-    "id": "contact_556ebb00-81b6-41e5-9767-80e325ad6b08",
-    "created_at": "2026-05-01T04:19:11.295Z",
-    "updated_at": "2026-05-01T04:19:11.295Z",
+    "phone_number": "+201000601314",
+    "id": "contact_53bf691e-447a-4ed9-95f6-d8f2ee606292",
+    "created_at": "2026-04-10T05:53:12.519Z"
+  },
+  {
+    "_docId": "contact_556ebb00-81b6-41e5-9767-80e325ad6b08",
     "contact_type": "phone",
+    "is_primary": 1,
     "has_whatsapp": 1,
-    "phone_number": "+204252525776"
+    "updated_at": "2026-05-01T04:19:11.295Z",
+    "phone_number": "+204252525776",
+    "id": "contact_556ebb00-81b6-41e5-9767-80e325ad6b08",
+    "user_key": "oyeggx",
+    "_legacy": {
+      "source": "turso",
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:39.786Z"
+    },
+    "created_at": "2026-05-01T04:19:11.295Z"
   },
   {
     "_docId": "contact_5674f531-1443-475e-9e88-7bcdb33d77bd",
     "contact_type": "phone",
+    "is_primary": 1,
+    "has_whatsapp": 1,
     "updated_at": "2026-04-10T05:53:07.942Z",
     "phone_number": "+201022434348",
-    "has_whatsapp": 1,
-    "_legacy": {
-      "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:27.363Z"
-    },
-    "created_at": "2026-04-10T05:53:07.942Z",
-    "is_primary": 1,
     "id": "contact_5674f531-1443-475e-9e88-7bcdb33d77bd",
-    "user_key": "8jrs71"
+    "user_key": "8jrs71",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:27.363Z",
+      "table": "user_contacts",
+      "source": "turso"
+    },
+    "created_at": "2026-04-10T05:53:07.942Z"
   },
   {
     "_docId": "contact_58fff3c0-0de3-4fa1-98a0-d77d4a2a0853",
     "contact_type": "phone",
+    "is_primary": 0,
+    "has_whatsapp": 1,
     "updated_at": "2026-04-10T05:53:09.638Z",
     "phone_number": "+201067668152",
-    "has_whatsapp": 1,
+    "id": "contact_58fff3c0-0de3-4fa1-98a0-d77d4a2a0853",
+    "user_key": "v8p7jb",
     "_legacy": {
       "migratedAt": "2026-05-21T02:26:45.192Z",
       "table": "user_contacts",
       "source": "turso"
     },
-    "user_key": "v8p7jb",
-    "created_at": "2026-04-10T05:53:09.638Z",
-    "is_primary": 0,
-    "id": "contact_58fff3c0-0de3-4fa1-98a0-d77d4a2a0853"
+    "created_at": "2026-04-10T05:53:09.638Z"
   },
   {
     "_docId": "contact_5a9f248f-6a06-4534-abb7-b5e2d0f8cf8b",
-    "user_key": "olxdyf",
-    "created_at": "2026-04-10T05:53:07.526Z",
-    "is_primary": 1,
     "id": "contact_5a9f248f-6a06-4534-abb7-b5e2d0f8cf8b",
+    "phone_number": "+201203154027",
     "_legacy": {
       "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:38.688Z",
       "source": "turso"
     },
-    "phone_number": "+201203154027",
-    "has_whatsapp": 1,
+    "user_key": "olxdyf",
+    "created_at": "2026-04-10T05:53:07.526Z",
     "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:07.526Z"
+    "is_primary": 1,
+    "updated_at": "2026-04-10T05:53:07.526Z",
+    "has_whatsapp": 1
   },
   {
     "_docId": "contact_5c7b4587-a75d-444b-98ae-dbb48293f0c5",
-    "has_whatsapp": 1,
-    "phone_number": "+201285309816",
-    "updated_at": "2026-04-10T05:53:06.283Z",
     "contact_type": "phone",
+    "updated_at": "2026-04-10T05:53:06.283Z",
+    "has_whatsapp": 1,
     "is_primary": 1,
-    "id": "contact_5c7b4587-a75d-444b-98ae-dbb48293f0c5",
-    "created_at": "2026-04-10T05:53:06.283Z",
-    "user_key": "1ehs5b",
     "_legacy": {
-      "migratedAt": "2026-05-21T02:26:20.695Z",
+      "source": "turso",
       "table": "user_contacts",
-      "source": "turso"
-    }
+      "migratedAt": "2026-05-21T02:26:20.695Z"
+    },
+    "user_key": "1ehs5b",
+    "id": "contact_5c7b4587-a75d-444b-98ae-dbb48293f0c5",
+    "phone_number": "+201285309816",
+    "created_at": "2026-04-10T05:53:06.283Z"
   },
   {
     "_docId": "contact_5c8f1a6f-6f72-4901-8d5a-e824224f88f0",
-    "has_whatsapp": 1,
-    "phone_number": "+201018018872",
-    "updated_at": "2026-04-10T05:53:10.226Z",
     "contact_type": "phone",
-    "id": "contact_5c8f1a6f-6f72-4901-8d5a-e824224f88f0",
+    "updated_at": "2026-04-10T05:53:10.226Z",
+    "has_whatsapp": 1,
     "is_primary": 1,
-    "created_at": "2026-04-10T05:53:10.226Z",
-    "user_key": "spmjg8",
     "_legacy": {
       "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:42.903Z",
       "source": "turso"
-    }
+    },
+    "user_key": "spmjg8",
+    "id": "contact_5c8f1a6f-6f72-4901-8d5a-e824224f88f0",
+    "phone_number": "+201018018872",
+    "created_at": "2026-04-10T05:53:10.226Z"
   },
   {
     "_docId": "contact_5ff5f56f-5162-4e9d-afc2-954e2db6e9b4",
-    "_legacy": {
-      "migratedAt": "2026-05-21T02:26:26.327Z",
-      "table": "user_contacts",
-      "source": "turso"
-    },
-    "user_key": "7cmuvz",
-    "created_at": "2026-04-10T05:53:12.792Z",
-    "is_primary": 1,
-    "id": "contact_5ff5f56f-5162-4e9d-afc2-954e2db6e9b4",
     "contact_type": "phone",
+    "is_primary": 1,
     "updated_at": "2026-04-10T05:53:12.792Z",
+    "has_whatsapp": 1,
     "phone_number": "+201005502921",
-    "has_whatsapp": 1
+    "id": "contact_5ff5f56f-5162-4e9d-afc2-954e2db6e9b4",
+    "user_key": "7cmuvz",
+    "_legacy": {
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:26.327Z",
+      "table": "user_contacts"
+    },
+    "created_at": "2026-04-10T05:53:12.792Z"
   },
   {
     "_docId": "contact_6125120e-a762-4cb7-abfc-d38dc07ac710",
-    "updated_at": "2026-04-16T08:57:14.137Z",
-    "contact_type": "phone",
-    "has_whatsapp": 1,
-    "phone_number": "+201026546559",
     "_legacy": {
-      "table": "user_contacts",
+      "source": "turso",
       "migratedAt": "2026-05-21T02:26:33.692Z",
-      "source": "turso"
+      "table": "user_contacts"
     },
     "user_key": "i4g4z7",
+    "phone_number": "+201026546559",
     "id": "contact_6125120e-a762-4cb7-abfc-d38dc07ac710",
-    "is_primary": 1,
-    "created_at": "2026-04-16T08:57:14.137Z"
+    "created_at": "2026-04-16T08:57:14.137Z",
+    "contact_type": "phone",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-16T08:57:14.137Z",
+    "is_primary": 1
   },
   {
     "_docId": "contact_6439af95-400b-448c-920f-db2e3696dbde",
     "updated_at": "2026-04-10T05:53:11.388Z",
-    "contact_type": "phone",
     "has_whatsapp": 1,
-    "phone_number": "+201003292471",
+    "is_primary": 1,
+    "contact_type": "phone",
+    "created_at": "2026-04-10T05:53:11.388Z",
     "_legacy": {
-      "source": "turso",
+      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:22.770Z",
-      "table": "user_contacts"
+      "source": "turso"
     },
     "user_key": "3w2tzf",
     "id": "contact_6439af95-400b-448c-920f-db2e3696dbde",
-    "is_primary": 1,
-    "created_at": "2026-04-10T05:53:11.388Z"
+    "phone_number": "+201003292471"
   },
   {
     "_docId": "contact_679135af-1e97-4a82-b156-c96dc1dc03ed",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:08.530Z",
-    "phone_number": "+201124564023",
     "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:08.530Z",
+    "is_primary": 0,
+    "contact_type": "phone",
+    "created_at": "2026-04-10T05:53:08.530Z",
     "_legacy": {
+      "source": "turso",
       "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:46.241Z",
-      "source": "turso"
+      "migratedAt": "2026-05-21T02:26:46.241Z"
     },
     "user_key": "wjo9v8",
-    "created_at": "2026-04-10T05:53:08.530Z",
-    "id": "contact_679135af-1e97-4a82-b156-c96dc1dc03ed",
-    "is_primary": 0
+    "phone_number": "+201124564023",
+    "id": "contact_679135af-1e97-4a82-b156-c96dc1dc03ed"
   },
   {
     "_docId": "contact_68ac37bf-a2fa-4556-8f9e-ab2905b3f05e",
-    "updated_at": "2026-04-10T05:53:09.943Z",
-    "contact_type": "phone",
-    "has_whatsapp": 1,
+    "created_at": "2026-04-10T05:53:09.943Z",
+    "id": "contact_68ac37bf-a2fa-4556-8f9e-ab2905b3f05e",
     "phone_number": "+201055341221",
     "_legacy": {
       "migratedAt": "2026-05-21T02:26:26.740Z",
@@ -940,78 +928,79 @@
     },
     "user_key": "86zfzu",
     "is_primary": 1,
-    "id": "contact_68ac37bf-a2fa-4556-8f9e-ab2905b3f05e",
-    "created_at": "2026-04-10T05:53:09.943Z"
+    "updated_at": "2026-04-10T05:53:09.943Z",
+    "has_whatsapp": 1,
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_6b8a4a3d-0499-41f6-8e98-f7a08dc5bf49",
-    "_legacy": {
-      "source": "turso",
-      "migratedAt": "2026-05-21T02:26:44.777Z",
-      "table": "user_contacts"
-    },
-    "user_key": "v7iayi",
-    "created_at": "2026-04-19T19:55:35.361Z",
-    "id": "contact_6b8a4a3d-0499-41f6-8e98-f7a08dc5bf49",
     "is_primary": 1,
-    "contact_type": "phone",
+    "has_whatsapp": 1,
     "updated_at": "2026-04-19T19:55:35.361Z",
+    "contact_type": "phone",
+    "created_at": "2026-04-19T19:55:35.361Z",
     "phone_number": "+2010266623232",
-    "has_whatsapp": 1
+    "id": "contact_6b8a4a3d-0499-41f6-8e98-f7a08dc5bf49",
+    "_legacy": {
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:44.777Z",
+      "source": "turso"
+    },
+    "user_key": "v7iayi"
   },
   {
     "_docId": "contact_6cc88666-225f-4443-9c00-a7af67635540",
-    "contact_type": "phone",
     "updated_at": "2026-06-04T18:47:25.770Z",
-    "phone_number": "+201005191322",
-    "created_at": "2026-06-04T18:47:25.770Z",
-    "id": "contact_6cc88666-225f-4443-9c00-a7af67635540",
-    "is_primary": 1,
     "has_whatsapp": 1,
-    "user_key": "9updjg"
+    "created_at": "2026-06-04T18:47:25.770Z",
+    "is_primary": 1,
+    "user_key": "9updjg",
+    "contact_type": "phone",
+    "id": "contact_6cc88666-225f-4443-9c00-a7af67635540",
+    "phone_number": "+201005191322"
   },
   {
     "_docId": "contact_6e00bc44-44bf-44c2-9d4a-ec4c028a3eaf",
     "contact_type": "phone",
-    "updated_at": "2026-06-05T02:53:44.379Z",
     "user_key": "682dri6b",
+    "id": "contact_6e00bc44-44bf-44c2-9d4a-ec4c028a3eaf",
     "phone_number": "+201241049090",
     "created_at": "2026-06-05T02:53:44.379Z",
     "has_whatsapp": 1,
-    "is_primary": 0,
-    "id": "contact_6e00bc44-44bf-44c2-9d4a-ec4c028a3eaf"
+    "updated_at": "2026-06-05T02:53:44.379Z",
+    "is_primary": 0
   },
   {
     "_docId": "contact_6ed035d7-df8e-40a7-94f0-e2252119432b",
-    "has_whatsapp": 1,
-    "phone_number": "+201007047527",
     "updated_at": "2026-04-10T05:53:11.097Z",
-    "contact_type": "phone",
-    "id": "contact_6ed035d7-df8e-40a7-94f0-e2252119432b",
+    "has_whatsapp": 1,
     "is_primary": 1,
+    "contact_type": "phone",
     "created_at": "2026-04-10T05:53:11.097Z",
     "user_key": "6gni7h",
     "_legacy": {
-      "source": "turso",
       "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:25.481Z"
-    }
+      "migratedAt": "2026-05-21T02:26:25.481Z",
+      "source": "turso"
+    },
+    "phone_number": "+201007047527",
+    "id": "contact_6ed035d7-df8e-40a7-94f0-e2252119432b"
   },
   {
     "_docId": "contact_6fa93409-1849-4da9-be91-691aab3afbf3",
+    "contact_type": "phone",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:06.055Z",
     "is_primary": 1,
-    "id": "contact_6fa93409-1849-4da9-be91-691aab3afbf3",
-    "created_at": "2026-04-10T05:53:06.055Z",
     "user_key": "b59c02",
     "_legacy": {
       "source": "turso",
-      "migratedAt": "2026-05-21T02:26:28.822Z",
-      "table": "user_contacts"
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:28.822Z"
     },
-    "has_whatsapp": 1,
     "phone_number": "+201210440495",
-    "updated_at": "2026-04-10T05:53:06.055Z",
-    "contact_type": "phone"
+    "id": "contact_6fa93409-1849-4da9-be91-691aab3afbf3",
+    "created_at": "2026-04-10T05:53:06.055Z"
   },
   {
     "_docId": "contact_708d464d-91fa-4bb9-96a2-13b7957ab5af",
@@ -1020,1124 +1009,1135 @@
       "migratedAt": "2026-05-21T02:26:47.083Z",
       "table": "user_contacts"
     },
-    "id": "contact_708d464d-91fa-4bb9-96a2-13b7957ab5af",
-    "is_primary": 1,
-    "created_at": "2026-04-10T05:53:10.304Z",
     "user_key": "y379lz",
-    "updated_at": "2026-04-10T05:53:10.304Z",
+    "phone_number": "+201011645028",
+    "id": "contact_708d464d-91fa-4bb9-96a2-13b7957ab5af",
+    "created_at": "2026-04-10T05:53:10.304Z",
     "contact_type": "phone",
     "has_whatsapp": 1,
-    "phone_number": "+201011645028"
+    "updated_at": "2026-04-10T05:53:10.304Z",
+    "is_primary": 1
   },
   {
     "_docId": "contact_70f7f70c-e7ca-45d5-b8c1-c4fa1da77cd3",
+    "contact_type": "phone",
+    "is_primary": 1,
+    "updated_at": "2026-04-25T19:16:44.121Z",
+    "has_whatsapp": 1,
+    "id": "contact_70f7f70c-e7ca-45d5-b8c1-c4fa1da77cd3",
+    "phone_number": "+201024343263",
     "_legacy": {
-      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:41.036Z",
+      "table": "user_contacts",
       "source": "turso"
     },
-    "created_at": "2026-04-25T19:16:44.121Z",
-    "is_primary": 1,
-    "id": "contact_70f7f70c-e7ca-45d5-b8c1-c4fa1da77cd3",
     "user_key": "prof_bwQTodtc",
-    "contact_type": "phone",
-    "updated_at": "2026-04-25T19:16:44.121Z",
-    "phone_number": "+201024343263",
-    "has_whatsapp": 1
+    "created_at": "2026-04-25T19:16:44.121Z"
   },
   {
     "_docId": "contact_71f4413f-2946-4a52-9f4f-c4e917c5c67d",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:10.438Z",
+    "is_primary": 1,
+    "contact_type": "phone",
+    "created_at": "2026-04-10T05:53:10.438Z",
     "_legacy": {
       "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:25.273Z",
       "source": "turso"
     },
-    "created_at": "2026-04-10T05:53:10.438Z",
-    "id": "contact_71f4413f-2946-4a52-9f4f-c4e917c5c67d",
-    "is_primary": 1,
     "user_key": "6e1qm3",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:10.438Z",
     "phone_number": "+201012598491",
-    "has_whatsapp": 1
+    "id": "contact_71f4413f-2946-4a52-9f4f-c4e917c5c67d"
   },
   {
     "_docId": "contact_74f1283e-5c75-401c-bf39-64a3191e9946",
-    "created_at": "2026-04-10T05:53:07.441Z",
-    "is_primary": 1,
+    "phone_number": "+201024323794",
     "id": "contact_74f1283e-5c75-401c-bf39-64a3191e9946",
     "user_key": "4hw5su",
     "_legacy": {
       "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:23.812Z"
+      "migratedAt": "2026-05-21T02:26:23.812Z",
+      "table": "user_contacts"
     },
-    "phone_number": "+201024323794",
-    "has_whatsapp": 1,
+    "created_at": "2026-04-10T05:53:07.441Z",
     "contact_type": "phone",
+    "is_primary": 1,
+    "has_whatsapp": 1,
     "updated_at": "2026-04-10T05:53:07.441Z"
   },
   {
     "_docId": "contact_762ee6d1-f332-49d9-8e64-2b085d5e8052",
-    "_legacy": {
-      "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:36.392Z"
-    },
-    "user_key": "m9wzzm",
-    "created_at": "2026-04-15T08:05:23.804Z",
     "is_primary": 1,
-    "id": "contact_762ee6d1-f332-49d9-8e64-2b085d5e8052",
-    "contact_type": "phone",
     "updated_at": "2026-04-15T08:05:23.804Z",
+    "has_whatsapp": 1,
+    "contact_type": "phone",
+    "created_at": "2026-04-15T08:05:23.804Z",
+    "id": "contact_762ee6d1-f332-49d9-8e64-2b085d5e8052",
     "phone_number": "+201121623340",
-    "has_whatsapp": 1
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:36.392Z",
+      "table": "user_contacts",
+      "source": "turso"
+    },
+    "user_key": "m9wzzm"
   },
   {
     "_docId": "contact_780d90a4-9fe7-4ff7-b4ec-29e818ce184a",
-    "user_key": "mf6x0b",
-    "created_at": "2026-04-10T05:53:14.245Z",
-    "id": "contact_780d90a4-9fe7-4ff7-b4ec-29e818ce184a",
-    "is_primary": 1,
     "_legacy": {
       "source": "turso",
       "migratedAt": "2026-05-21T02:26:36.601Z",
       "table": "user_contacts"
     },
+    "user_key": "mf6x0b",
     "phone_number": "+201220626797",
-    "has_whatsapp": 1,
+    "id": "contact_780d90a4-9fe7-4ff7-b4ec-29e818ce184a",
+    "created_at": "2026-04-10T05:53:14.245Z",
     "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:14.245Z"
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:14.245Z",
+    "is_primary": 1
   },
   {
     "_docId": "contact_7843bed7-2f5d-4ab6-9db3-e991f45b8e79",
     "created_at": "2026-04-10T05:53:14.163Z",
     "id": "contact_7843bed7-2f5d-4ab6-9db3-e991f45b8e79",
-    "is_primary": 1,
-    "user_key": "77xuzx",
-    "_legacy": {
-      "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:25.892Z"
-    },
     "phone_number": "+201146726505",
+    "_legacy": {
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:25.892Z",
+      "source": "turso"
+    },
+    "user_key": "77xuzx",
+    "is_primary": 1,
+    "updated_at": "2026-04-10T05:53:14.163Z",
     "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:14.163Z"
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_7f1c58f9-b8dd-4219-9d54-63eba152f615",
-    "created_at": "2026-04-10T05:53:08.452Z",
-    "id": "contact_7f1c58f9-b8dd-4219-9d54-63eba152f615",
+    "contact_type": "phone",
     "is_primary": 1,
-    "user_key": "cu0emh",
+    "updated_at": "2026-04-10T05:53:08.452Z",
+    "has_whatsapp": 1,
+    "id": "contact_7f1c58f9-b8dd-4219-9d54-63eba152f615",
+    "phone_number": "+201224167471",
     "_legacy": {
-      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:29.854Z",
+      "table": "user_contacts",
       "source": "turso"
     },
-    "phone_number": "+201224167471",
-    "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:08.452Z"
+    "user_key": "cu0emh",
+    "created_at": "2026-04-10T05:53:08.452Z"
   },
   {
     "_docId": "contact_813490fe-eba9-46fe-89d3-cab770cfcf8e",
     "_legacy": {
-      "migratedAt": "2026-05-21T02:26:31.814Z",
       "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:31.814Z",
       "source": "turso"
     },
-    "created_at": "2026-04-10T05:53:14.561Z",
-    "is_primary": 1,
-    "id": "contact_813490fe-eba9-46fe-89d3-cab770cfcf8e",
     "user_key": "for2dd",
+    "id": "contact_813490fe-eba9-46fe-89d3-cab770cfcf8e",
+    "phone_number": "+201019771151",
+    "created_at": "2026-04-10T05:53:14.561Z",
     "contact_type": "phone",
     "updated_at": "2026-04-10T05:53:14.561Z",
-    "phone_number": "+201019771151",
-    "has_whatsapp": 1
+    "has_whatsapp": 1,
+    "is_primary": 1
   },
   {
     "_docId": "contact_82239fed-ceb1-4fe5-9d61-abcef2d28d04",
-    "phone_number": "+20100100100100",
-    "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:13.213Z",
     "user_key": "zsgekm",
-    "created_at": "2026-04-10T05:53:13.213Z",
-    "id": "contact_82239fed-ceb1-4fe5-9d61-abcef2d28d04",
-    "is_primary": 1,
     "_legacy": {
       "source": "turso",
       "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:48.340Z"
-    }
+    },
+    "phone_number": "+20100100100100",
+    "id": "contact_82239fed-ceb1-4fe5-9d61-abcef2d28d04",
+    "created_at": "2026-04-10T05:53:13.213Z",
+    "contact_type": "phone",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:13.213Z",
+    "is_primary": 1
   },
   {
     "_docId": "contact_84a8023e-d527-47a7-b67e-d687fb07a2a8",
+    "id": "contact_84a8023e-d527-47a7-b67e-d687fb07a2a8",
+    "phone_number": "+2011120569841",
     "_legacy": {
-      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:29.028Z",
+      "table": "user_contacts",
       "source": "turso"
     },
-    "created_at": "2026-04-10T05:53:13.967Z",
-    "is_primary": 1,
-    "id": "contact_84a8023e-d527-47a7-b67e-d687fb07a2a8",
     "user_key": "c22lew",
+    "created_at": "2026-04-10T05:53:13.967Z",
     "contact_type": "phone",
+    "is_primary": 1,
     "updated_at": "2026-04-10T05:53:13.967Z",
-    "phone_number": "+2011120569841",
     "has_whatsapp": 1
   },
   {
     "_docId": "contact_853b95d1-fa1b-43b9-86fd-f04da651e07f",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:14.646Z",
-    "phone_number": "+201005510834",
-    "has_whatsapp": 1,
-    "_legacy": {
-      "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:26.532Z"
-    },
-    "user_key": "7m7fiy",
     "created_at": "2026-04-10T05:53:14.646Z",
+    "phone_number": "+201005510834",
+    "id": "contact_853b95d1-fa1b-43b9-86fd-f04da651e07f",
+    "user_key": "7m7fiy",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:26.532Z",
+      "table": "user_contacts",
+      "source": "turso"
+    },
     "is_primary": 1,
-    "id": "contact_853b95d1-fa1b-43b9-86fd-f04da651e07f"
+    "updated_at": "2026-04-10T05:53:14.646Z",
+    "has_whatsapp": 1,
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_85b23c7d-6289-4b6a-9b83-b6deae7f3c97",
     "contact_type": "phone",
-    "updated_at": "2026-05-01T16:19:18.919Z",
-    "phone_number": "+2415515442221",
     "has_whatsapp": 1,
+    "updated_at": "2026-05-01T16:19:18.919Z",
+    "is_primary": 1,
     "_legacy": {
-      "migratedAt": "2026-05-21T02:26:47.927Z",
+      "source": "turso",
       "table": "user_contacts",
-      "source": "turso"
+      "migratedAt": "2026-05-21T02:26:47.927Z"
     },
     "user_key": "zo0pjv",
-    "created_at": "2026-05-01T16:19:18.919Z",
+    "phone_number": "+2415515442221",
     "id": "contact_85b23c7d-6289-4b6a-9b83-b6deae7f3c97",
-    "is_primary": 1
+    "created_at": "2026-05-01T16:19:18.919Z"
   },
   {
     "_docId": "contact_88739986-14b4-41c8-8b7f-457a18782a7d",
-    "_legacy": {
-      "migratedAt": "2026-05-21T02:26:48.549Z",
-      "table": "user_contacts",
-      "source": "turso"
-    },
-    "user_key": "zsgekm",
-    "id": "contact_88739986-14b4-41c8-8b7f-457a18782a7d",
-    "is_primary": 0,
     "created_at": "2026-04-10T05:53:13.213Z",
+    "phone_number": "+201024182175",
+    "id": "contact_88739986-14b4-41c8-8b7f-457a18782a7d",
+    "user_key": "zsgekm",
+    "_legacy": {
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:48.549Z",
+      "table": "user_contacts"
+    },
+    "is_primary": 0,
     "updated_at": "2026-04-10T05:53:13.213Z",
-    "contact_type": "phone",
     "has_whatsapp": 1,
-    "phone_number": "+201024182175"
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_8948053f-ad79-4796-a903-05c62f9de313",
+    "created_at": "2026-04-10T05:53:12.283Z",
     "_legacy": {
       "source": "turso",
       "migratedAt": "2026-05-21T02:26:45.824Z",
       "table": "user_contacts"
     },
-    "id": "contact_8948053f-ad79-4796-a903-05c62f9de313",
-    "is_primary": 1,
-    "created_at": "2026-04-10T05:53:12.283Z",
     "user_key": "w9opmy",
-    "updated_at": "2026-04-10T05:53:12.283Z",
-    "contact_type": "phone",
+    "phone_number": "+201019992354",
+    "id": "contact_8948053f-ad79-4796-a903-05c62f9de313",
     "has_whatsapp": 1,
-    "phone_number": "+201019992354"
+    "updated_at": "2026-04-10T05:53:12.283Z",
+    "is_primary": 1,
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_8a2092bb-03e3-40e5-9a51-2e8979cf6eab",
-    "user_key": "uue3t3",
-    "id": "contact_8a2092bb-03e3-40e5-9a51-2e8979cf6eab",
-    "is_primary": 1,
     "created_at": "2026-04-10T05:53:13.132Z",
-    "_legacy": {
-      "source": "turso",
-      "migratedAt": "2026-05-21T02:26:43.950Z",
-      "table": "user_contacts"
-    },
-    "has_whatsapp": 1,
     "phone_number": "+201124288001",
+    "id": "contact_8a2092bb-03e3-40e5-9a51-2e8979cf6eab",
+    "user_key": "uue3t3",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:43.950Z",
+      "table": "user_contacts",
+      "source": "turso"
+    },
+    "is_primary": 1,
     "updated_at": "2026-04-10T05:53:13.132Z",
+    "has_whatsapp": 1,
     "contact_type": "phone"
   },
   {
     "_docId": "contact_8b27d398-6f52-4aa2-a1e2-78e8111329ff",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:13.967Z",
     "phone_number": "+201120569841",
-    "has_whatsapp": 1,
-    "_legacy": {
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:29.234Z",
-      "source": "turso"
-    },
-    "user_key": "c22lew",
-    "created_at": "2026-04-10T05:53:13.967Z",
     "id": "contact_8b27d398-6f52-4aa2-a1e2-78e8111329ff",
-    "is_primary": 0
+    "user_key": "c22lew",
+    "_legacy": {
+      "source": "turso",
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:29.234Z"
+    },
+    "created_at": "2026-04-10T05:53:13.967Z",
+    "contact_type": "phone",
+    "is_primary": 0,
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:13.967Z"
   },
   {
     "_docId": "contact_8f617639-a820-44dd-9e02-4c4e3e796629",
-    "has_whatsapp": 1,
-    "phone_number": "+201055659223",
-    "updated_at": "2026-04-10T05:53:12.044Z",
     "contact_type": "phone",
-    "user_key": "tdeggy",
-    "id": "contact_8f617639-a820-44dd-9e02-4c4e3e796629",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:12.044Z",
     "is_primary": 1,
-    "created_at": "2026-04-10T05:53:12.044Z",
     "_legacy": {
-      "source": "turso",
+      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:43.326Z",
-      "table": "user_contacts"
-    }
+      "source": "turso"
+    },
+    "user_key": "tdeggy",
+    "phone_number": "+201055659223",
+    "id": "contact_8f617639-a820-44dd-9e02-4c4e3e796629",
+    "created_at": "2026-04-10T05:53:12.044Z"
   },
   {
     "_docId": "contact_92aabcd3-aef7-4126-a324-f87dce943888",
-    "id": "contact_92aabcd3-aef7-4126-a324-f87dce943888",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:05.069Z",
     "is_primary": 1,
+    "contact_type": "phone",
     "created_at": "2026-04-10T05:53:05.069Z",
     "user_key": "1wv5xk",
     "_legacy": {
-      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:21.524Z",
+      "table": "user_contacts",
       "source": "turso"
     },
-    "has_whatsapp": 1,
     "phone_number": "+201234567890",
-    "updated_at": "2026-04-10T05:53:05.069Z",
-    "contact_type": "phone"
+    "id": "contact_92aabcd3-aef7-4126-a324-f87dce943888"
   },
   {
     "_docId": "contact_93bb9634-2366-4586-8465-3238237c94c3",
-    "has_whatsapp": 1,
-    "phone_number": "+201126492913",
-    "updated_at": "2026-04-10T05:53:11.482Z",
-    "contact_type": "phone",
-    "is_primary": 1,
-    "id": "contact_93bb9634-2366-4586-8465-3238237c94c3",
     "created_at": "2026-04-10T05:53:11.482Z",
+    "phone_number": "+201126492913",
+    "id": "contact_93bb9634-2366-4586-8465-3238237c94c3",
     "user_key": "j0cggl",
     "_legacy": {
-      "migratedAt": "2026-05-21T02:26:34.112Z",
       "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:34.112Z",
       "source": "turso"
-    }
+    },
+    "is_primary": 1,
+    "updated_at": "2026-04-10T05:53:11.482Z",
+    "has_whatsapp": 1,
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_93c12508-f291-4b31-9634-26fc35184e00",
-    "_legacy": {
-      "migratedAt": "2026-05-21T02:26:48.133Z",
-      "table": "user_contacts",
-      "source": "turso"
-    },
-    "id": "contact_93c12508-f291-4b31-9634-26fc35184e00",
+    "updated_at": "2026-04-10T11:35:27.007Z",
+    "has_whatsapp": 1,
     "is_primary": 1,
+    "contact_type": "phone",
     "created_at": "2026-04-10T11:35:27.007Z",
     "user_key": "zp12ir",
-    "updated_at": "2026-04-10T11:35:27.007Z",
-    "contact_type": "phone",
-    "has_whatsapp": 1,
-    "phone_number": "+201026546557"
+    "_legacy": {
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:48.133Z",
+      "source": "turso"
+    },
+    "phone_number": "+201026546557",
+    "id": "contact_93c12508-f291-4b31-9634-26fc35184e00"
   },
   {
     "_docId": "contact_943ee0a8-e257-45f2-86a1-029ae3521797",
+    "id": "contact_943ee0a8-e257-45f2-86a1-029ae3521797",
+    "phone_number": "+2010555555555",
     "_legacy": {
-      "migratedAt": "2026-05-21T02:26:38.063Z",
+      "source": "turso",
       "table": "user_contacts",
-      "source": "turso"
+      "migratedAt": "2026-05-21T02:26:38.063Z"
     },
     "user_key": "o11ihj",
-    "id": "contact_943ee0a8-e257-45f2-86a1-029ae3521797",
-    "is_primary": 1,
     "created_at": "2026-04-17T20:01:16.605Z",
-    "updated_at": "2026-04-17T20:01:16.605Z",
     "contact_type": "phone",
-    "has_whatsapp": 1,
-    "phone_number": "+2010555555555"
+    "is_primary": 1,
+    "updated_at": "2026-04-17T20:01:16.605Z",
+    "has_whatsapp": 1
   },
   {
     "_docId": "contact_9478a6ad-c1a4-4274-ada4-b8e155648778",
+    "is_primary": 1,
+    "has_whatsapp": 1,
     "updated_at": "2026-04-10T05:53:11.560Z",
     "contact_type": "phone",
-    "has_whatsapp": 1,
+    "created_at": "2026-04-10T05:53:11.560Z",
     "phone_number": "+201001981491",
+    "id": "contact_9478a6ad-c1a4-4274-ada4-b8e155648778",
+    "user_key": "nwo9hn",
     "_legacy": {
       "migratedAt": "2026-05-21T02:26:37.856Z",
       "table": "user_contacts",
       "source": "turso"
-    },
-    "id": "contact_9478a6ad-c1a4-4274-ada4-b8e155648778",
-    "is_primary": 1,
-    "created_at": "2026-04-10T05:53:11.560Z",
-    "user_key": "nwo9hn"
-  },
-  {
-    "_docId": "contact_9a24f588-078d-47f2-95a3-729444c1eceb",
-    "has_whatsapp": 1,
-    "phone_number": "+201241049090",
-    "updated_at": "2026-04-10T05:53:05.331Z",
-    "contact_type": "phone",
-    "id": "contact_9a24f588-078d-47f2-95a3-729444c1eceb",
-    "is_primary": 1,
-    "created_at": "2026-04-10T05:53:05.331Z",
-    "user_key": "zxxu28",
-    "_legacy": {
-      "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:48.755Z"
     }
   },
   {
-    "_docId": "contact_9a350855-96c6-41eb-ab01-0ba6643ba534",
-    "user_key": "sub1zi",
-    "id": "contact_9a350855-96c6-41eb-ab01-0ba6643ba534",
+    "_docId": "contact_9a24f588-078d-47f2-95a3-729444c1eceb",
+    "contact_type": "phone",
+    "updated_at": "2026-04-10T05:53:05.331Z",
+    "has_whatsapp": 1,
     "is_primary": 1,
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:48.755Z",
+      "table": "user_contacts",
+      "source": "turso"
+    },
+    "user_key": "zxxu28",
+    "id": "contact_9a24f588-078d-47f2-95a3-729444c1eceb",
+    "phone_number": "+201241049090",
+    "created_at": "2026-04-10T05:53:05.331Z"
+  },
+  {
+    "_docId": "contact_9a350855-96c6-41eb-ab01-0ba6643ba534",
     "created_at": "2026-04-30T17:18:44.908Z",
+    "id": "contact_9a350855-96c6-41eb-ab01-0ba6643ba534",
+    "phone_number": "+2012525252525",
     "_legacy": {
       "source": "turso",
       "migratedAt": "2026-05-21T02:26:43.115Z",
       "table": "user_contacts"
     },
-    "has_whatsapp": 1,
-    "phone_number": "+2012525252525",
+    "user_key": "sub1zi",
+    "is_primary": 1,
     "updated_at": "2026-04-30T17:18:44.908Z",
+    "has_whatsapp": 1,
     "contact_type": "phone"
   },
   {
     "_docId": "contact_9ab3518c-f90f-4574-98b7-db0809de3825",
     "created_at": "2026-05-02T15:42:27.958Z",
-    "is_primary": 1,
-    "id": "contact_9ab3518c-f90f-4574-98b7-db0809de3825",
-    "user_key": "q62uuv",
     "_legacy": {
       "source": "turso",
-      "migratedAt": "2026-05-21T02:26:41.453Z",
-      "table": "user_contacts"
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:41.453Z"
     },
+    "user_key": "q62uuv",
     "phone_number": "+201090944055",
+    "id": "contact_9ab3518c-f90f-4574-98b7-db0809de3825",
     "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-05-02T15:42:27.958Z"
+    "updated_at": "2026-05-02T15:42:27.958Z",
+    "is_primary": 1,
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_a454561d-2a7b-4ffe-8809-7597cece404d",
-    "phone_number": "+201011111111",
-    "has_whatsapp": 1,
     "contact_type": "phone",
     "updated_at": "2026-04-20T02:50:41.776Z",
-    "created_at": "2026-04-20T02:50:41.776Z",
-    "id": "contact_a454561d-2a7b-4ffe-8809-7597cece404d",
+    "has_whatsapp": 1,
     "is_primary": 1,
-    "user_key": "nskjkj",
     "_legacy": {
       "source": "turso",
       "migratedAt": "2026-05-21T02:26:37.639Z",
       "table": "user_contacts"
-    }
+    },
+    "user_key": "nskjkj",
+    "id": "contact_a454561d-2a7b-4ffe-8809-7597cece404d",
+    "phone_number": "+201011111111",
+    "created_at": "2026-04-20T02:50:41.776Z"
   },
   {
     "_docId": "contact_a486d9a4-c14c-434b-afa6-1768b23ed02a",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:09.638Z",
     "phone_number": "+201009118411",
-    "has_whatsapp": 1,
+    "id": "contact_a486d9a4-c14c-434b-afa6-1768b23ed02a",
+    "user_key": "v8p7jb",
     "_legacy": {
       "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:44.985Z"
+      "migratedAt": "2026-05-21T02:26:44.985Z",
+      "table": "user_contacts"
     },
-    "user_key": "v8p7jb",
     "created_at": "2026-04-10T05:53:09.638Z",
+    "contact_type": "phone",
     "is_primary": 1,
-    "id": "contact_a486d9a4-c14c-434b-afa6-1768b23ed02a"
+    "updated_at": "2026-04-10T05:53:09.638Z",
+    "has_whatsapp": 1
   },
   {
     "_docId": "contact_a951638a-a241-474d-85bc-ff8f14ae2b51",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:12.691Z",
-    "phone_number": "+201030706536",
+    "is_primary": 1,
     "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:12.691Z",
+    "contact_type": "phone",
+    "created_at": "2026-04-10T05:53:12.691Z",
+    "phone_number": "+201030706536",
+    "id": "contact_a951638a-a241-474d-85bc-ff8f14ae2b51",
+    "user_key": "qgrlqy",
     "_legacy": {
       "source": "turso",
       "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:42.077Z"
-    },
-    "created_at": "2026-04-10T05:53:12.691Z",
-    "is_primary": 1,
-    "id": "contact_a951638a-a241-474d-85bc-ff8f14ae2b51",
-    "user_key": "qgrlqy"
+    }
   },
   {
     "_docId": "contact_a9a767df-2798-47e7-9046-4f78be2459f3",
-    "user_key": "cv7yiz",
-    "id": "contact_a9a767df-2798-47e7-9046-4f78be2459f3",
+    "contact_type": "phone",
     "is_primary": 1,
-    "created_at": "2026-04-15T20:54:42.249Z",
+    "updated_at": "2026-04-15T20:54:42.249Z",
+    "has_whatsapp": 1,
+    "id": "contact_a9a767df-2798-47e7-9046-4f78be2459f3",
+    "phone_number": "+201270374052",
     "_legacy": {
       "source": "turso",
       "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:30.063Z"
     },
-    "has_whatsapp": 1,
-    "phone_number": "+201270374052",
-    "updated_at": "2026-04-15T20:54:42.249Z",
-    "contact_type": "phone"
+    "user_key": "cv7yiz",
+    "created_at": "2026-04-15T20:54:42.249Z"
   },
   {
     "_docId": "contact_aa34ac77-b4de-4c22-bc3a-e650ad426a83",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:08.356Z",
+    "created_at": "2026-04-10T05:53:08.356Z",
     "phone_number": "+201111154062",
-    "has_whatsapp": 1,
+    "id": "contact_aa34ac77-b4de-4c22-bc3a-e650ad426a83",
     "_legacy": {
       "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:42.285Z",
       "source": "turso"
     },
     "user_key": "qpfdyp",
-    "created_at": "2026-04-10T05:53:08.356Z",
-    "id": "contact_aa34ac77-b4de-4c22-bc3a-e650ad426a83",
-    "is_primary": 1
+    "is_primary": 1,
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:08.356Z",
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_aad13c80-0dbd-4899-9660-17a7981f71a5",
+    "contact_type": "phone",
+    "user_key": "y0ks5y",
     "id": "contact_aad13c80-0dbd-4899-9660-17a7981f71a5",
-    "has_whatsapp": 1,
-    "is_primary": 1,
     "phone_number": "+201066666666",
     "created_at": "2026-06-04T19:55:38.973Z",
-    "user_key": "y0ks5y",
+    "has_whatsapp": 1,
     "updated_at": "2026-06-04T19:55:38.973Z",
-    "contact_type": "phone"
+    "is_primary": 1
   },
   {
     "_docId": "contact_acb4a82b-577e-480f-85f0-24209b32e73c",
     "phone_number": "+2010265589620",
-    "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-17T14:35:38.841Z",
-    "user_key": "lwsedz",
-    "created_at": "2026-04-17T14:35:38.841Z",
     "id": "contact_acb4a82b-577e-480f-85f0-24209b32e73c",
-    "is_primary": 1,
+    "user_key": "lwsedz",
     "_legacy": {
-      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:35.769Z",
-      "source": "turso"
-    }
-  },
-  {
-    "_docId": "contact_ad7e04ce-e4d5-4fed-a7f3-90356aecbd38",
-    "user_key": "uaugvf",
-    "created_at": "2026-05-21T00:16:05.320Z",
-    "is_primary": 1,
-    "id": "contact_ad7e04ce-e4d5-4fed-a7f3-90356aecbd38",
-    "_legacy": {
-      "migratedAt": "2026-05-21T02:26:43.741Z",
       "table": "user_contacts",
       "source": "turso"
     },
-    "phone_number": "+201012677267",
+    "created_at": "2026-04-17T14:35:38.841Z",
+    "contact_type": "phone",
+    "is_primary": 1,
+    "updated_at": "2026-04-17T14:35:38.841Z",
+    "has_whatsapp": 1
+  },
+  {
+    "_docId": "contact_ad7e04ce-e4d5-4fed-a7f3-90356aecbd38",
+    "is_primary": 1,
+    "updated_at": "2026-05-21T00:16:05.320Z",
     "has_whatsapp": 1,
     "contact_type": "phone",
-    "updated_at": "2026-05-21T00:16:05.320Z"
+    "created_at": "2026-05-21T00:16:05.320Z",
+    "id": "contact_ad7e04ce-e4d5-4fed-a7f3-90356aecbd38",
+    "phone_number": "+201012677267",
+    "_legacy": {
+      "source": "turso",
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:43.741Z"
+    },
+    "user_key": "uaugvf"
   },
   {
     "_docId": "contact_ae2c5008-6bbb-4522-bfac-60a94b7f3c18",
-    "phone_number": "+201068800672",
-    "has_whatsapp": 1,
     "contact_type": "phone",
     "updated_at": "2026-04-10T05:53:08.275Z",
-    "created_at": "2026-04-10T05:53:08.275Z",
-    "id": "contact_ae2c5008-6bbb-4522-bfac-60a94b7f3c18",
+    "has_whatsapp": 1,
     "is_primary": 1,
-    "user_key": "48yerm",
     "_legacy": {
-      "migratedAt": "2026-05-21T02:26:22.976Z",
       "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:22.976Z",
       "source": "turso"
-    }
+    },
+    "user_key": "48yerm",
+    "id": "contact_ae2c5008-6bbb-4522-bfac-60a94b7f3c18",
+    "phone_number": "+201068800672",
+    "created_at": "2026-04-10T05:53:08.275Z"
   },
   {
     "_docId": "contact_afed8d83-bdb8-4155-ab82-15d808d4962f",
+    "contact_type": "phone",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-17T05:37:16.035Z",
+    "is_primary": 1,
+    "user_key": "99rrqq",
     "_legacy": {
       "migratedAt": "2026-05-21T02:26:27.571Z",
       "table": "user_contacts",
       "source": "turso"
     },
-    "created_at": "2026-04-17T05:37:16.035Z",
-    "id": "contact_afed8d83-bdb8-4155-ab82-15d808d4962f",
-    "is_primary": 1,
-    "user_key": "99rrqq",
-    "contact_type": "phone",
-    "updated_at": "2026-04-17T05:37:16.035Z",
     "phone_number": "+201026546558",
-    "has_whatsapp": 1
+    "id": "contact_afed8d83-bdb8-4155-ab82-15d808d4962f",
+    "created_at": "2026-04-17T05:37:16.035Z"
   },
   {
     "_docId": "contact_b3fa5ae9-1526-4b33-a56e-90afcd311d48",
+    "user_key": "prof_iUtv1Md0",
     "contact_type": "phone",
-    "updated_at": "2026-05-22T03:45:00.294Z",
-    "phone_number": "+201018649733",
-    "created_at": "2026-05-22T03:45:00.294Z",
     "id": "contact_b3fa5ae9-1526-4b33-a56e-90afcd311d48",
-    "is_primary": 1,
+    "phone_number": "+201018649733",
+    "updated_at": "2026-05-22T03:45:00.294Z",
     "has_whatsapp": 1,
-    "user_key": "prof_iUtv1Md0"
+    "created_at": "2026-05-22T03:45:00.294Z",
+    "is_primary": 1
   },
   {
     "_docId": "contact_b55f0ac3-509f-4641-8c15-92c3fa689e08",
+    "is_primary": 1,
+    "has_whatsapp": 1,
     "updated_at": "2026-04-10T05:53:10.858Z",
     "contact_type": "phone",
-    "has_whatsapp": 1,
+    "created_at": "2026-04-10T05:53:10.858Z",
     "phone_number": "+201050982376",
+    "id": "contact_b55f0ac3-509f-4641-8c15-92c3fa689e08",
     "_legacy": {
       "migratedAt": "2026-05-21T02:26:33.484Z",
       "table": "user_contacts",
       "source": "turso"
     },
-    "user_key": "hdeh3x",
-    "id": "contact_b55f0ac3-509f-4641-8c15-92c3fa689e08",
-    "is_primary": 1,
-    "created_at": "2026-04-10T05:53:10.858Z"
+    "user_key": "hdeh3x"
   },
   {
     "_docId": "contact_b60e38c9-c4b2-40f0-8254-9932da7b0837",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:14.960Z",
-    "phone_number": "+201005337695",
-    "has_whatsapp": 1,
+    "user_key": "23ekhz",
     "_legacy": {
-      "migratedAt": "2026-05-21T02:26:21.731Z",
       "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:21.731Z",
       "source": "turso"
     },
-    "created_at": "2026-04-10T05:53:14.960Z",
-    "is_primary": 1,
+    "phone_number": "+201005337695",
     "id": "contact_b60e38c9-c4b2-40f0-8254-9932da7b0837",
-    "user_key": "23ekhz"
+    "created_at": "2026-04-10T05:53:14.960Z",
+    "contact_type": "phone",
+    "updated_at": "2026-04-10T05:53:14.960Z",
+    "has_whatsapp": 1,
+    "is_primary": 1
   },
   {
     "_docId": "contact_b7831ee6-b5f0-40e1-9930-5d82ca754915",
-    "has_whatsapp": 1,
-    "phone_number": "+201036525887",
-    "updated_at": "2026-04-25T05:55:40.494Z",
-    "contact_type": "phone",
-    "user_key": "iws87w",
-    "id": "contact_b7831ee6-b5f0-40e1-9930-5d82ca754915",
-    "is_primary": 1,
     "created_at": "2026-04-25T05:55:40.494Z",
+    "id": "contact_b7831ee6-b5f0-40e1-9930-5d82ca754915",
+    "phone_number": "+201036525887",
     "_legacy": {
+      "source": "turso",
       "migratedAt": "2026-05-21T02:26:33.902Z",
-      "table": "user_contacts",
-      "source": "turso"
-    }
+      "table": "user_contacts"
+    },
+    "user_key": "iws87w",
+    "is_primary": 1,
+    "updated_at": "2026-04-25T05:55:40.494Z",
+    "has_whatsapp": 1,
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_bab0c7cf-0956-4b70-9bd3-64146c213477",
-    "phone_number": "+201024560626",
-    "has_whatsapp": 1,
     "contact_type": "phone",
     "updated_at": "2026-04-10T05:53:08.841Z",
-    "user_key": "ektvax",
-    "created_at": "2026-04-10T05:53:08.841Z",
+    "has_whatsapp": 1,
     "is_primary": 1,
-    "id": "contact_bab0c7cf-0956-4b70-9bd3-64146c213477",
     "_legacy": {
-      "source": "turso",
+      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:30.894Z",
-      "table": "user_contacts"
-    }
+      "source": "turso"
+    },
+    "user_key": "ektvax",
+    "id": "contact_bab0c7cf-0956-4b70-9bd3-64146c213477",
+    "phone_number": "+201024560626",
+    "created_at": "2026-04-10T05:53:08.841Z"
   },
   {
     "_docId": "contact_bbb10590-91c3-48d4-a0c1-e0e8110330ea",
-    "id": "contact_bbb10590-91c3-48d4-a0c1-e0e8110330ea",
-    "is_primary": 1,
     "created_at": "2026-04-25T05:56:32.293Z",
-    "user_key": "kdw15e",
     "_legacy": {
       "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:34.943Z",
       "source": "turso"
     },
-    "has_whatsapp": 1,
+    "user_key": "kdw15e",
+    "id": "contact_bbb10590-91c3-48d4-a0c1-e0e8110330ea",
     "phone_number": "+201085164453",
     "updated_at": "2026-04-25T05:56:32.293Z",
+    "has_whatsapp": 1,
+    "is_primary": 1,
     "contact_type": "phone"
   },
   {
     "_docId": "contact_bcc636e8-f69f-47bc-8e6c-db78a4098e69",
-    "created_at": "2026-04-10T05:53:06.283Z",
     "is_primary": 0,
-    "id": "contact_bcc636e8-f69f-47bc-8e6c-db78a4098e69",
-    "user_key": "1ehs5b",
-    "_legacy": {
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:20.901Z",
-      "source": "turso"
-    },
-    "phone_number": "+201228976257",
+    "updated_at": "2026-04-10T05:53:06.283Z",
     "has_whatsapp": 1,
     "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:06.283Z"
+    "created_at": "2026-04-10T05:53:06.283Z",
+    "id": "contact_bcc636e8-f69f-47bc-8e6c-db78a4098e69",
+    "phone_number": "+201228976257",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:20.901Z",
+      "table": "user_contacts",
+      "source": "turso"
+    },
+    "user_key": "1ehs5b"
   },
   {
     "_docId": "contact_bd2324c5-ad81-4538-be26-1ed57d89c83b",
+    "created_at": "2026-04-25T19:15:14.715Z",
+    "id": "contact_bd2324c5-ad81-4538-be26-1ed57d89c83b",
+    "phone_number": "+201092696678",
     "_legacy": {
+      "source": "turso",
       "migratedAt": "2026-05-21T02:26:40.410Z",
-      "table": "user_contacts",
-      "source": "turso"
+      "table": "user_contacts"
     },
     "user_key": "prof_FxpsJYoU",
-    "created_at": "2026-04-25T19:15:14.715Z",
     "is_primary": 1,
-    "id": "contact_bd2324c5-ad81-4538-be26-1ed57d89c83b",
-    "contact_type": "phone",
     "updated_at": "2026-04-25T19:15:14.715Z",
-    "phone_number": "+201092696678",
-    "has_whatsapp": 1
+    "has_whatsapp": 1,
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_bdfacf30-9687-4023-a2a1-8d8582e3a1e9",
-    "phone_number": "+201030039179",
-    "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:11.303Z",
-    "user_key": "1v376q",
-    "created_at": "2026-04-10T05:53:11.303Z",
-    "id": "contact_bdfacf30-9687-4023-a2a1-8d8582e3a1e9",
-    "is_primary": 1,
     "_legacy": {
-      "table": "user_contacts",
+      "source": "turso",
       "migratedAt": "2026-05-21T02:26:21.318Z",
-      "source": "turso"
-    }
+      "table": "user_contacts"
+    },
+    "user_key": "1v376q",
+    "phone_number": "+201030039179",
+    "id": "contact_bdfacf30-9687-4023-a2a1-8d8582e3a1e9",
+    "created_at": "2026-04-10T05:53:11.303Z",
+    "contact_type": "phone",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:11.303Z",
+    "is_primary": 1
+  },
+  {
+    "_docId": "contact_be284bce-e7e2-4b0d-8840-aa84b695051f",
+    "contact_type": "phone",
+    "user_key": "4yku8b",
+    "id": "contact_be284bce-e7e2-4b0d-8840-aa84b695051f",
+    "phone_number": "+201026546551",
+    "created_at": "2026-06-06T03:55:28.718Z",
+    "updated_at": "2026-06-06T03:55:28.718Z",
+    "has_whatsapp": 1,
+    "is_primary": 1
   },
   {
     "_docId": "contact_c0208d4b-fa23-47cc-b187-4181f84b7a72",
+    "created_at": "2026-04-10T05:53:15.417Z",
+    "user_key": "q7uz7a",
     "_legacy": {
       "source": "turso",
       "migratedAt": "2026-05-21T02:26:41.869Z",
       "table": "user_contacts"
     },
-    "user_key": "q7uz7a",
-    "created_at": "2026-04-10T05:53:15.417Z",
-    "is_primary": 0,
-    "id": "contact_c0208d4b-fa23-47cc-b187-4181f84b7a72",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:15.417Z",
     "phone_number": "+201554830166",
-    "has_whatsapp": 1
+    "id": "contact_c0208d4b-fa23-47cc-b187-4181f84b7a72",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:15.417Z",
+    "is_primary": 0,
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_c22cddbd-99b4-4edc-9b09-4f70a9bc8452",
-    "updated_at": "2026-04-10T05:53:11.943Z",
-    "contact_type": "phone",
-    "has_whatsapp": 1,
-    "phone_number": "+201283163023",
+    "created_at": "2026-04-10T05:53:11.943Z",
     "_legacy": {
       "source": "turso",
       "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:24.843Z"
     },
+    "user_key": "62y8vm",
+    "phone_number": "+201283163023",
     "id": "contact_c22cddbd-99b4-4edc-9b09-4f70a9bc8452",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:11.943Z",
     "is_primary": 1,
-    "created_at": "2026-04-10T05:53:11.943Z",
-    "user_key": "62y8vm"
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_c4ce7181-a7e5-43e5-9446-98ebc925c2fd",
-    "has_whatsapp": 1,
-    "phone_number": "+201004446705",
-    "updated_at": "2026-04-10T05:53:08.102Z",
     "contact_type": "phone",
-    "user_key": "3iztcc",
-    "id": "contact_c4ce7181-a7e5-43e5-9446-98ebc925c2fd",
+    "updated_at": "2026-04-10T05:53:08.102Z",
+    "has_whatsapp": 1,
     "is_primary": 1,
-    "created_at": "2026-04-10T05:53:08.102Z",
+    "user_key": "3iztcc",
     "_legacy": {
       "source": "turso",
-      "migratedAt": "2026-05-21T02:26:22.355Z",
-      "table": "user_contacts"
-    }
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:22.355Z"
+    },
+    "phone_number": "+201004446705",
+    "id": "contact_c4ce7181-a7e5-43e5-9446-98ebc925c2fd",
+    "created_at": "2026-04-10T05:53:08.102Z"
   },
   {
     "_docId": "contact_c7018c9b-4a0c-4a78-a6fa-ba1e3cf02c82",
-    "created_at": "2026-04-10T05:53:13.044Z",
-    "is_primary": 1,
-    "id": "contact_c7018c9b-4a0c-4a78-a6fa-ba1e3cf02c82",
-    "user_key": "zynpp7",
     "_legacy": {
+      "source": "turso",
       "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:48.961Z",
-      "source": "turso"
+      "migratedAt": "2026-05-21T02:26:48.961Z"
     },
+    "user_key": "zynpp7",
+    "id": "contact_c7018c9b-4a0c-4a78-a6fa-ba1e3cf02c82",
     "phone_number": "+201066243908",
-    "has_whatsapp": 1,
+    "created_at": "2026-04-10T05:53:13.044Z",
     "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:13.044Z"
+    "updated_at": "2026-04-10T05:53:13.044Z",
+    "has_whatsapp": 1,
+    "is_primary": 1
   },
   {
     "_docId": "contact_c8345c98-402d-4427-a10d-c2b5976d8556",
-    "user_key": "8ga4jn",
-    "created_at": "2026-04-10T05:53:15.291Z",
-    "id": "contact_c8345c98-402d-4427-a10d-c2b5976d8556",
     "is_primary": 0,
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:15.291Z",
+    "contact_type": "phone",
+    "created_at": "2026-04-10T05:53:15.291Z",
+    "phone_number": "+201124288001",
+    "id": "contact_c8345c98-402d-4427-a10d-c2b5976d8556",
+    "user_key": "8ga4jn",
     "_legacy": {
       "source": "turso",
       "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:27.154Z"
-    },
-    "phone_number": "+201124288001",
-    "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:15.291Z"
+    }
   },
   {
     "_docId": "contact_c8767ade-960a-4842-abd3-2828fa907e98",
-    "phone_number": "+201026546556",
-    "has_whatsapp": 1,
     "contact_type": "phone",
-    "updated_at": "2026-04-10T11:25:02.122Z",
-    "user_key": "4bej4a",
-    "created_at": "2026-04-10T11:25:02.122Z",
     "is_primary": 1,
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T11:25:02.122Z",
+    "phone_number": "+201026546556",
     "id": "contact_c8767ade-960a-4842-abd3-2828fa907e98",
+    "user_key": "4bej4a",
     "_legacy": {
       "source": "turso",
       "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:23.182Z"
-    }
+    },
+    "created_at": "2026-04-10T11:25:02.122Z"
   },
   {
     "_docId": "contact_ca1c929f-4c25-4865-b497-f8fac0a510cf",
+    "created_at": "2026-04-10T05:53:03.518Z",
+    "id": "contact_ca1c929f-4c25-4865-b497-f8fac0a510cf",
+    "phone_number": "+201208761619",
     "_legacy": {
       "source": "turso",
-      "migratedAt": "2026-05-21T02:26:25.686Z",
-      "table": "user_contacts"
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:25.686Z"
     },
     "user_key": "6np115hz",
     "is_primary": 1,
-    "id": "contact_ca1c929f-4c25-4865-b497-f8fac0a510cf",
-    "created_at": "2026-04-10T05:53:03.518Z",
     "updated_at": "2026-04-10T05:53:03.518Z",
-    "contact_type": "phone",
     "has_whatsapp": 1,
-    "phone_number": "+201208761619"
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_cacca4bb-70d4-4b54-a840-e11f04fd92ed",
-    "phone_number": "+20102326226535",
     "has_whatsapp": 1,
-    "contact_type": "phone",
     "updated_at": "2026-04-19T20:00:13.833Z",
-    "created_at": "2026-04-19T20:00:13.833Z",
-    "id": "contact_cacca4bb-70d4-4b54-a840-e11f04fd92ed",
     "is_primary": 1,
-    "user_key": "my2okf",
+    "contact_type": "phone",
+    "created_at": "2026-04-19T20:00:13.833Z",
     "_legacy": {
       "migratedAt": "2026-05-21T02:26:37.223Z",
       "table": "user_contacts",
       "source": "turso"
-    }
+    },
+    "user_key": "my2okf",
+    "phone_number": "+20102326226535",
+    "id": "contact_cacca4bb-70d4-4b54-a840-e11f04fd92ed"
   },
   {
     "_docId": "contact_cbbf2a10-f9e3-4249-91ac-f586a2d910f2",
-    "_legacy": {
-      "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:32.446Z"
-    },
-    "is_primary": 1,
-    "id": "contact_cbbf2a10-f9e3-4249-91ac-f586a2d910f2",
-    "created_at": "2026-04-10T05:53:07.863Z",
-    "user_key": "fyrknc",
-    "updated_at": "2026-04-10T05:53:07.863Z",
     "contact_type": "phone",
+    "is_primary": 1,
     "has_whatsapp": 1,
-    "phone_number": "+201026917107"
+    "updated_at": "2026-04-10T05:53:07.863Z",
+    "phone_number": "+201026917107",
+    "id": "contact_cbbf2a10-f9e3-4249-91ac-f586a2d910f2",
+    "_legacy": {
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:32.446Z",
+      "source": "turso"
+    },
+    "user_key": "fyrknc",
+    "created_at": "2026-04-10T05:53:07.863Z"
   },
   {
     "_docId": "contact_cbff6a69-e211-4606-9a8e-53c9cd0a8c4a",
-    "has_whatsapp": 1,
-    "phone_number": "+201012260103",
-    "updated_at": "2026-04-10T05:53:11.840Z",
-    "contact_type": "phone",
-    "user_key": "on0cj9",
-    "is_primary": 1,
-    "id": "contact_cbff6a69-e211-4606-9a8e-53c9cd0a8c4a",
-    "created_at": "2026-04-10T05:53:11.840Z",
     "_legacy": {
-      "source": "turso",
       "migratedAt": "2026-05-21T02:26:38.898Z",
-      "table": "user_contacts"
-    }
+      "table": "user_contacts",
+      "source": "turso"
+    },
+    "user_key": "on0cj9",
+    "id": "contact_cbff6a69-e211-4606-9a8e-53c9cd0a8c4a",
+    "phone_number": "+201012260103",
+    "created_at": "2026-04-10T05:53:11.840Z",
+    "contact_type": "phone",
+    "updated_at": "2026-04-10T05:53:11.840Z",
+    "has_whatsapp": 1,
+    "is_primary": 1
   },
   {
     "_docId": "contact_cc2aaa05-ef0c-4719-bab0-5b69f35ebed6",
+    "is_primary": 1,
+    "updated_at": "2026-04-10T05:53:04.075Z",
+    "has_whatsapp": 1,
+    "contact_type": "phone",
+    "created_at": "2026-04-10T05:53:04.075Z",
+    "id": "contact_cc2aaa05-ef0c-4719-bab0-5b69f35ebed6",
+    "phone_number": "+201050161661",
     "_legacy": {
       "source": "turso",
       "migratedAt": "2026-05-21T02:26:45.403Z",
       "table": "user_contacts"
     },
-    "user_key": "vw8m8t",
-    "created_at": "2026-04-10T05:53:04.075Z",
-    "is_primary": 1,
-    "id": "contact_cc2aaa05-ef0c-4719-bab0-5b69f35ebed6",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:04.075Z",
-    "phone_number": "+201050161661",
-    "has_whatsapp": 1
+    "user_key": "vw8m8t"
   },
   {
     "_docId": "contact_cd4a0992-fa75-4094-aab3-3eb80b46b163",
-    "has_whatsapp": 1,
-    "phone_number": "+201024182175",
-    "updated_at": "2026-04-10T05:53:06.659Z",
-    "contact_type": "phone",
-    "is_primary": 0,
-    "id": "contact_cd4a0992-fa75-4094-aab3-3eb80b46b163",
-    "created_at": "2026-04-10T05:53:06.659Z",
-    "user_key": "yx4x13",
     "_legacy": {
-      "source": "turso",
       "migratedAt": "2026-05-21T02:26:47.716Z",
-      "table": "user_contacts"
-    }
-  },
-  {
-    "_docId": "contact_d292aaa7-3f3c-4af0-be5e-7930207d3e68",
-    "_legacy": {
-      "migratedAt": "2026-05-21T02:26:35.150Z",
       "table": "user_contacts",
       "source": "turso"
     },
-    "user_key": "l48ta4",
-    "created_at": "2026-04-10T05:53:13.638Z",
-    "is_primary": 1,
-    "id": "contact_d292aaa7-3f3c-4af0-be5e-7930207d3e68",
+    "user_key": "yx4x13",
+    "phone_number": "+201024182175",
+    "id": "contact_cd4a0992-fa75-4094-aab3-3eb80b46b163",
+    "created_at": "2026-04-10T05:53:06.659Z",
     "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:13.638Z",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:06.659Z",
+    "is_primary": 0
+  },
+  {
+    "_docId": "contact_d292aaa7-3f3c-4af0-be5e-7930207d3e68",
+    "created_at": "2026-04-10T05:53:13.638Z",
+    "_legacy": {
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:35.150Z",
+      "table": "user_contacts"
+    },
+    "user_key": "l48ta4",
+    "id": "contact_d292aaa7-3f3c-4af0-be5e-7930207d3e68",
     "phone_number": "+201286751951",
-    "has_whatsapp": 1
+    "updated_at": "2026-04-10T05:53:13.638Z",
+    "has_whatsapp": 1,
+    "is_primary": 1,
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_d29faa5a-4c27-4b45-be63-9dbf96860d2e",
-    "contact_type": "phone",
     "updated_at": "2026-04-10T05:53:07.764Z",
-    "phone_number": "+201001639707",
     "has_whatsapp": 1,
+    "is_primary": 1,
+    "contact_type": "phone",
+    "created_at": "2026-04-10T05:53:07.764Z",
     "_legacy": {
-      "source": "turso",
+      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:35.358Z",
-      "table": "user_contacts"
+      "source": "turso"
     },
     "user_key": "laji9w",
-    "created_at": "2026-04-10T05:53:07.764Z",
-    "is_primary": 1,
-    "id": "contact_d29faa5a-4c27-4b45-be63-9dbf96860d2e"
+    "id": "contact_d29faa5a-4c27-4b45-be63-9dbf96860d2e",
+    "phone_number": "+201001639707"
   },
   {
     "_docId": "contact_d3e9cec3-e685-47f0-9adc-536077c94f21",
     "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:15.676Z",
-    "phone_number": "+201024182175",
-    "has_whatsapp": 1,
-    "_legacy": {
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:39.313Z",
-      "source": "turso"
-    },
-    "created_at": "2026-04-10T05:53:15.676Z",
-    "id": "contact_d3e9cec3-e685-47f0-9adc-536077c94f21",
     "is_primary": 0,
-    "user_key": "otd7o3"
-  },
-  {
-    "_docId": "contact_d8c87b4a-0903-4378-928e-895fd62f3595",
+    "updated_at": "2026-04-10T05:53:15.676Z",
+    "has_whatsapp": 1,
+    "id": "contact_d3e9cec3-e685-47f0-9adc-536077c94f21",
+    "phone_number": "+201024182175",
     "_legacy": {
       "source": "turso",
       "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:32.239Z"
+      "migratedAt": "2026-05-21T02:26:39.313Z"
     },
-    "created_at": "2026-04-10T05:53:07.607Z",
+    "user_key": "otd7o3",
+    "created_at": "2026-04-10T05:53:15.676Z"
+  },
+  {
+    "_docId": "contact_d8c87b4a-0903-4378-928e-895fd62f3595",
     "id": "contact_d8c87b4a-0903-4378-928e-895fd62f3595",
-    "is_primary": 1,
-    "user_key": "ft9ti2",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:07.607Z",
     "phone_number": "+201055555555",
+    "_legacy": {
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:32.239Z",
+      "source": "turso"
+    },
+    "user_key": "ft9ti2",
+    "created_at": "2026-04-10T05:53:07.607Z",
+    "contact_type": "phone",
+    "is_primary": 1,
+    "updated_at": "2026-04-10T05:53:07.607Z",
     "has_whatsapp": 1
   },
   {
     "_docId": "contact_dd4e22c2-d26d-4581-a221-25b0c6958170",
-    "phone_number": "+201141464546",
+    "is_primary": 1,
+    "updated_at": "2026-04-10T05:53:15.417Z",
     "has_whatsapp": 1,
     "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:15.417Z",
     "created_at": "2026-04-10T05:53:15.417Z",
-    "is_primary": 1,
     "id": "contact_dd4e22c2-d26d-4581-a221-25b0c6958170",
-    "user_key": "q7uz7a",
+    "phone_number": "+201141464546",
     "_legacy": {
       "source": "turso",
       "migratedAt": "2026-05-21T02:26:41.662Z",
       "table": "user_contacts"
-    }
+    },
+    "user_key": "q7uz7a"
   },
   {
     "_docId": "contact_dd4f4310-8b35-4320-8f0d-0d91488e5410",
     "created_at": "2026-04-10T05:53:03.902Z",
-    "is_primary": 1,
+    "phone_number": "+201229952679",
     "id": "contact_dd4f4310-8b35-4320-8f0d-0d91488e5410",
     "user_key": "h149hi9e",
     "_legacy": {
+      "source": "turso",
       "migratedAt": "2026-05-21T02:26:32.862Z",
-      "table": "user_contacts",
-      "source": "turso"
+      "table": "user_contacts"
     },
-    "phone_number": "+201229952679",
+    "is_primary": 1,
     "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:03.902Z"
+    "updated_at": "2026-04-10T05:53:03.902Z",
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_de681330-b258-4d10-937a-d8b8e32ce33d",
-    "user_key": "p7qfix",
-    "id": "contact_de681330-b258-4d10-937a-d8b8e32ce33d",
-    "is_primary": 1,
     "created_at": "2026-04-10T05:53:04.714Z",
     "_legacy": {
       "source": "turso",
       "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:39.992Z"
     },
-    "has_whatsapp": 1,
+    "user_key": "p7qfix",
     "phone_number": "+2012222222222",
+    "id": "contact_de681330-b258-4d10-937a-d8b8e32ce33d",
+    "has_whatsapp": 1,
     "updated_at": "2026-04-10T05:53:04.714Z",
+    "is_primary": 1,
     "contact_type": "phone"
   },
   {
     "_docId": "contact_df4c4795-a11b-4bc0-984d-729a6e31c7a9",
     "contact_type": "phone",
     "updated_at": "2026-04-10T11:25:02.122Z",
-    "phone_number": "+2010265465599",
     "has_whatsapp": 1,
+    "is_primary": 0,
+    "user_key": "4bej4a",
     "_legacy": {
       "source": "turso",
       "migratedAt": "2026-05-21T02:26:23.390Z",
       "table": "user_contacts"
     },
-    "user_key": "4bej4a",
-    "created_at": "2026-04-10T11:25:02.122Z",
-    "is_primary": 0,
-    "id": "contact_df4c4795-a11b-4bc0-984d-729a6e31c7a9"
+    "phone_number": "+2010265465599",
+    "id": "contact_df4c4795-a11b-4bc0-984d-729a6e31c7a9",
+    "created_at": "2026-04-10T11:25:02.122Z"
   },
   {
     "_docId": "contact_dfca6a95-fedf-4ca8-90ba-064e323546f6",
-    "phone_number": "+1010265465509",
-    "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:05.681Z",
-    "user_key": "fkpzkp",
     "created_at": "2026-04-10T05:53:05.681Z",
+    "phone_number": "+1010265465509",
     "id": "contact_dfca6a95-fedf-4ca8-90ba-064e323546f6",
-    "is_primary": 1,
+    "user_key": "fkpzkp",
     "_legacy": {
       "source": "turso",
       "migratedAt": "2026-05-21T02:26:31.608Z",
       "table": "user_contacts"
-    }
+    },
+    "is_primary": 1,
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:05.681Z",
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_e142a248-e27e-4d17-88e3-0f0e906e2394",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:09.864Z",
-    "phone_number": "+201222991149",
-    "has_whatsapp": 1,
-    "_legacy": {
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:46.450Z",
-      "source": "turso"
-    },
-    "created_at": "2026-04-10T05:53:09.864Z",
     "is_primary": 1,
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:09.864Z",
+    "contact_type": "phone",
+    "created_at": "2026-04-10T05:53:09.864Z",
+    "phone_number": "+201222991149",
     "id": "contact_e142a248-e27e-4d17-88e3-0f0e906e2394",
+    "_legacy": {
+      "source": "turso",
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:46.450Z"
+    },
     "user_key": "wn7gtc"
   },
   {
     "_docId": "contact_e17125cf-414a-45ea-b586-6e25f0a7628a",
-    "phone_number": "+201118491826",
-    "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:10.692Z",
-    "user_key": "m4y6bx",
     "created_at": "2026-04-10T05:53:10.692Z",
-    "is_primary": 1,
+    "phone_number": "+201118491826",
     "id": "contact_e17125cf-414a-45ea-b586-6e25f0a7628a",
     "_legacy": {
-      "source": "turso",
+      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:36.184Z",
-      "table": "user_contacts"
-    }
+      "source": "turso"
+    },
+    "user_key": "m4y6bx",
+    "is_primary": 1,
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:10.692Z",
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_e53590f7-f611-4d4a-98f2-77498ab375f4",
-    "user_key": "011vw3",
+    "contact_type": "phone",
+    "updated_at": "2026-04-10T05:53:15.052Z",
+    "has_whatsapp": 1,
     "is_primary": 1,
-    "id": "contact_e53590f7-f611-4d4a-98f2-77498ab375f4",
-    "created_at": "2026-04-10T05:53:15.052Z",
+    "user_key": "011vw3",
     "_legacy": {
       "source": "turso",
       "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:20.278Z"
     },
-    "has_whatsapp": 1,
     "phone_number": "+201000565489",
-    "updated_at": "2026-04-10T05:53:15.052Z",
-    "contact_type": "phone"
+    "id": "contact_e53590f7-f611-4d4a-98f2-77498ab375f4",
+    "created_at": "2026-04-10T05:53:15.052Z"
   },
   {
     "_docId": "contact_e8d34641-3c78-431e-90c5-fbff29526468",
     "has_whatsapp": 1,
-    "phone_number": "+201251913222",
     "updated_at": "2026-04-10T05:53:15.545Z",
-    "contact_type": "phone",
-    "user_key": "liyjr3",
-    "id": "contact_e8d34641-3c78-431e-90c5-fbff29526468",
     "is_primary": 1,
+    "contact_type": "phone",
     "created_at": "2026-04-10T05:53:15.545Z",
     "_legacy": {
       "source": "turso",
-      "migratedAt": "2026-05-21T02:26:35.563Z",
-      "table": "user_contacts"
-    }
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:35.563Z"
+    },
+    "user_key": "liyjr3",
+    "phone_number": "+201251913222",
+    "id": "contact_e8d34641-3c78-431e-90c5-fbff29526468"
   },
   {
     "_docId": "contact_eb9f3d8c-d5f1-41a0-af49-0e5ca1a6bccc",
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:05.958Z",
+    "id": "contact_eb9f3d8c-d5f1-41a0-af49-0e5ca1a6bccc",
     "phone_number": "+201884855455488",
-    "has_whatsapp": 1,
     "_legacy": {
-      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:41.244Z",
+      "table": "user_contacts",
       "source": "turso"
     },
+    "user_key": "q2pnmi",
     "created_at": "2026-04-10T05:53:05.958Z",
-    "id": "contact_eb9f3d8c-d5f1-41a0-af49-0e5ca1a6bccc",
+    "contact_type": "phone",
     "is_primary": 1,
-    "user_key": "q2pnmi"
+    "updated_at": "2026-04-10T05:53:05.958Z",
+    "has_whatsapp": 1
   },
   {
     "_docId": "contact_ec6347fd-3237-4c81-8fb9-5ddd9d2a7d2b",
@@ -2146,46 +2146,46 @@
       "migratedAt": "2026-05-21T02:26:38.273Z",
       "table": "user_contacts"
     },
-    "created_at": "2026-04-10T05:53:13.804Z",
-    "is_primary": 1,
-    "id": "contact_ec6347fd-3237-4c81-8fb9-5ddd9d2a7d2b",
     "user_key": "o69jdw",
+    "id": "contact_ec6347fd-3237-4c81-8fb9-5ddd9d2a7d2b",
+    "phone_number": "+201010582488",
+    "created_at": "2026-04-10T05:53:13.804Z",
     "contact_type": "phone",
     "updated_at": "2026-04-10T05:53:13.804Z",
-    "phone_number": "+201010582488",
-    "has_whatsapp": 1
+    "has_whatsapp": 1,
+    "is_primary": 1
   },
   {
     "_docId": "contact_ed2137eb-d033-47ca-9693-3118498b80fe",
-    "user_key": "k1902fmw",
-    "created_at": "2026-04-10T05:53:03.823Z",
+    "phone_number": "+201070606712",
     "id": "contact_ed2137eb-d033-47ca-9693-3118498b80fe",
-    "is_primary": 1,
     "_legacy": {
       "source": "turso",
-      "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:34.733Z"
+      "migratedAt": "2026-05-21T02:26:34.733Z",
+      "table": "user_contacts"
     },
-    "phone_number": "+201070606712",
-    "has_whatsapp": 1,
+    "user_key": "k1902fmw",
+    "created_at": "2026-04-10T05:53:03.823Z",
     "contact_type": "phone",
+    "is_primary": 1,
+    "has_whatsapp": 1,
     "updated_at": "2026-04-10T05:53:03.823Z"
   },
   {
     "_docId": "contact_ed2a8a6b-4bbb-4cbf-8444-e0f9683125c8",
+    "contact_type": "phone",
+    "updated_at": "2026-04-10T05:53:14.322Z",
+    "has_whatsapp": 1,
+    "is_primary": 1,
+    "user_key": "uy9kwv",
     "_legacy": {
       "migratedAt": "2026-05-21T02:26:44.362Z",
       "table": "user_contacts",
       "source": "turso"
     },
+    "phone_number": "+201144472245",
     "id": "contact_ed2a8a6b-4bbb-4cbf-8444-e0f9683125c8",
-    "is_primary": 1,
-    "created_at": "2026-04-10T05:53:14.322Z",
-    "user_key": "uy9kwv",
-    "updated_at": "2026-04-10T05:53:14.322Z",
-    "contact_type": "phone",
-    "has_whatsapp": 1,
-    "phone_number": "+201144472245"
+    "created_at": "2026-04-10T05:53:14.322Z"
   },
   {
     "_docId": "contact_ed902f1b-133c-4516-aace-ab061bc87d23",
@@ -2194,189 +2194,189 @@
       "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:42.490Z"
     },
-    "is_primary": 1,
+    "user_key": "qy79r49s",
+    "phone_number": "+201277760715",
     "id": "contact_ed902f1b-133c-4516-aace-ab061bc87d23",
     "created_at": "2026-04-10T05:53:03.994Z",
-    "user_key": "qy79r49s",
-    "updated_at": "2026-04-10T05:53:03.994Z",
     "contact_type": "phone",
     "has_whatsapp": 1,
-    "phone_number": "+201277760715"
+    "updated_at": "2026-04-10T05:53:03.994Z",
+    "is_primary": 1
   },
   {
     "_docId": "contact_f4b32051-d3f4-4900-b8ec-524f24827c2a",
-    "user_key": "wjo9v8",
-    "created_at": "2026-04-10T05:53:08.530Z",
-    "is_primary": 1,
+    "phone_number": "+201015071223",
     "id": "contact_f4b32051-d3f4-4900-b8ec-524f24827c2a",
     "_legacy": {
       "source": "turso",
-      "migratedAt": "2026-05-21T02:26:46.032Z",
-      "table": "user_contacts"
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:46.032Z"
     },
-    "phone_number": "+201015071223",
-    "has_whatsapp": 1,
+    "user_key": "wjo9v8",
+    "created_at": "2026-04-10T05:53:08.530Z",
     "contact_type": "phone",
+    "is_primary": 1,
+    "has_whatsapp": 1,
     "updated_at": "2026-04-10T05:53:08.530Z"
   },
   {
     "_docId": "contact_f4d3a26b-a7d2-4b3e-9bde-3b671afdec51",
-    "updated_at": "2026-04-10T05:53:04.512Z",
-    "contact_type": "phone",
-    "has_whatsapp": 1,
-    "phone_number": "+201051913222",
-    "_legacy": {
-      "migratedAt": "2026-05-21T02:26:36.807Z",
-      "table": "user_contacts",
-      "source": "turso"
-    },
-    "is_primary": 1,
-    "id": "contact_f4d3a26b-a7d2-4b3e-9bde-3b671afdec51",
     "created_at": "2026-04-10T05:53:04.512Z",
-    "user_key": "mre5av"
+    "user_key": "mre5av",
+    "_legacy": {
+      "source": "turso",
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:36.807Z"
+    },
+    "phone_number": "+201051913222",
+    "id": "contact_f4d3a26b-a7d2-4b3e-9bde-3b671afdec51",
+    "updated_at": "2026-04-10T05:53:04.512Z",
+    "has_whatsapp": 1,
+    "is_primary": 1,
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_f553c207-50aa-4c1d-bb75-f4380585c278",
+    "created_at": "2026-04-10T05:53:04.162Z",
+    "phone_number": "+20122222222222",
+    "id": "contact_f553c207-50aa-4c1d-bb75-f4380585c278",
     "_legacy": {
-      "source": "turso",
+      "table": "user_contacts",
       "migratedAt": "2026-05-21T02:26:22.561Z",
-      "table": "user_contacts"
+      "source": "turso"
     },
     "user_key": "3l6yxe",
     "is_primary": 1,
-    "id": "contact_f553c207-50aa-4c1d-bb75-f4380585c278",
-    "created_at": "2026-04-10T05:53:04.162Z",
-    "updated_at": "2026-04-10T05:53:04.162Z",
-    "contact_type": "phone",
     "has_whatsapp": 1,
-    "phone_number": "+20122222222222"
+    "updated_at": "2026-04-10T05:53:04.162Z",
+    "contact_type": "phone"
   },
   {
     "_docId": "contact_f7b459cf-303b-4d2e-9649-a9fe103b8e9b",
-    "updated_at": "2026-04-10T05:53:12.602Z",
-    "contact_type": "phone",
-    "has_whatsapp": 1,
-    "phone_number": "+201080800631",
-    "_legacy": {
-      "source": "turso",
-      "migratedAt": "2026-05-21T02:26:34.320Z",
-      "table": "user_contacts"
-    },
-    "user_key": "jiyevi",
-    "is_primary": 1,
-    "id": "contact_f7b459cf-303b-4d2e-9649-a9fe103b8e9b",
-    "created_at": "2026-04-10T05:53:12.602Z"
-  },
-  {
-    "_docId": "contact_f8fab20f-d01b-4189-b531-26688761e01e",
-    "has_whatsapp": 1,
-    "phone_number": "+201553336363",
-    "updated_at": "2026-04-10T05:53:06.659Z",
-    "contact_type": "phone",
-    "id": "contact_f8fab20f-d01b-4189-b531-26688761e01e",
-    "is_primary": 1,
-    "created_at": "2026-04-10T05:53:06.659Z",
-    "user_key": "yx4x13",
     "_legacy": {
       "source": "turso",
       "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:47.507Z"
+      "migratedAt": "2026-05-21T02:26:34.320Z"
+    },
+    "user_key": "jiyevi",
+    "id": "contact_f7b459cf-303b-4d2e-9649-a9fe103b8e9b",
+    "phone_number": "+201080800631",
+    "created_at": "2026-04-10T05:53:12.602Z",
+    "contact_type": "phone",
+    "updated_at": "2026-04-10T05:53:12.602Z",
+    "has_whatsapp": 1,
+    "is_primary": 1
+  },
+  {
+    "_docId": "contact_f8fab20f-d01b-4189-b531-26688761e01e",
+    "is_primary": 1,
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:06.659Z",
+    "contact_type": "phone",
+    "created_at": "2026-04-10T05:53:06.659Z",
+    "phone_number": "+201553336363",
+    "id": "contact_f8fab20f-d01b-4189-b531-26688761e01e",
+    "user_key": "yx4x13",
+    "_legacy": {
+      "migratedAt": "2026-05-21T02:26:47.507Z",
+      "table": "user_contacts",
+      "source": "turso"
     }
   },
   {
     "_docId": "contact_f962e450-b03f-4bbf-ba8f-eab264ceb0c9",
-    "phone_number": "+201016215132",
-    "has_whatsapp": 1,
-    "contact_type": "phone",
     "updated_at": "2026-04-10T05:53:13.336Z",
-    "created_at": "2026-04-10T05:53:13.336Z",
-    "id": "contact_f962e450-b03f-4bbf-ba8f-eab264ceb0c9",
-    "is_primary": 1,
-    "user_key": "10vj2l",
-    "_legacy": {
-      "migratedAt": "2026-05-21T02:26:20.486Z",
-      "table": "user_contacts",
-      "source": "turso"
-    }
-  },
-  {
-    "_docId": "contact_fa581b99-7bb7-4b18-9621-949cf2880839",
-    "phone_number": "+201000656565",
     "has_whatsapp": 1,
+    "is_primary": 1,
     "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:04.867Z",
-    "created_at": "2026-04-10T05:53:04.867Z",
-    "id": "contact_fa581b99-7bb7-4b18-9621-949cf2880839",
-    "is_primary": 1,
-    "user_key": "h3pfg0",
-    "_legacy": {
-      "migratedAt": "2026-05-21T02:26:33.070Z",
-      "table": "user_contacts",
-      "source": "turso"
-    }
-  },
-  {
-    "_docId": "contact_fb28411c-a995-4225-a66e-eb1856aef39a",
-    "created_at": "2026-04-10T05:53:13.556Z",
-    "id": "contact_fb28411c-a995-4225-a66e-eb1856aef39a",
-    "is_primary": 1,
-    "user_key": "lzl9vm",
+    "created_at": "2026-04-10T05:53:13.336Z",
     "_legacy": {
       "source": "turso",
       "table": "user_contacts",
-      "migratedAt": "2026-05-21T02:26:35.977Z"
+      "migratedAt": "2026-05-21T02:26:20.486Z"
     },
-    "phone_number": "+201000000000",
+    "user_key": "10vj2l",
+    "id": "contact_f962e450-b03f-4bbf-ba8f-eab264ceb0c9",
+    "phone_number": "+201016215132"
+  },
+  {
+    "_docId": "contact_fa581b99-7bb7-4b18-9621-949cf2880839",
+    "created_at": "2026-04-10T05:53:04.867Z",
+    "_legacy": {
+      "source": "turso",
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:33.070Z"
+    },
+    "user_key": "h3pfg0",
+    "id": "contact_fa581b99-7bb7-4b18-9621-949cf2880839",
+    "phone_number": "+201000656565",
+    "updated_at": "2026-04-10T05:53:04.867Z",
     "has_whatsapp": 1,
+    "is_primary": 1,
+    "contact_type": "phone"
+  },
+  {
+    "_docId": "contact_fb28411c-a995-4225-a66e-eb1856aef39a",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:13.556Z",
+    "is_primary": 1,
     "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:13.556Z"
+    "created_at": "2026-04-10T05:53:13.556Z",
+    "_legacy": {
+      "table": "user_contacts",
+      "migratedAt": "2026-05-21T02:26:35.977Z",
+      "source": "turso"
+    },
+    "user_key": "lzl9vm",
+    "phone_number": "+201000000000",
+    "id": "contact_fb28411c-a995-4225-a66e-eb1856aef39a"
   },
   {
     "_docId": "contact_fc309f68-261a-4e61-b427-e42006eebefd",
-    "contact_type": "phone",
-    "updated_at": "2026-04-17T20:25:32.750Z",
-    "phone_number": "+201033333333",
-    "has_whatsapp": 1,
-    "_legacy": {
-      "migratedAt": "2026-05-21T02:26:33.278Z",
-      "table": "user_contacts",
-      "source": "turso"
-    },
-    "created_at": "2026-04-17T20:25:32.750Z",
-    "id": "contact_fc309f68-261a-4e61-b427-e42006eebefd",
     "is_primary": 1,
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-17T20:25:32.750Z",
+    "contact_type": "phone",
+    "created_at": "2026-04-17T20:25:32.750Z",
+    "phone_number": "+201033333333",
+    "id": "contact_fc309f68-261a-4e61-b427-e42006eebefd",
+    "_legacy": {
+      "source": "turso",
+      "migratedAt": "2026-05-21T02:26:33.278Z",
+      "table": "user_contacts"
+    },
     "user_key": "haxnnu"
   },
   {
     "_docId": "contact_fcb32ef9-98ee-47b4-a681-6f9b6785dc03",
-    "phone_number": "+201003451188",
-    "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:11.204Z",
-    "created_at": "2026-04-10T05:53:11.204Z",
-    "id": "contact_fcb32ef9-98ee-47b4-a681-6f9b6785dc03",
-    "is_primary": 1,
-    "user_key": "nnhoch",
     "_legacy": {
-      "migratedAt": "2026-05-21T02:26:37.430Z",
+      "source": "turso",
       "table": "user_contacts",
-      "source": "turso"
-    }
+      "migratedAt": "2026-05-21T02:26:37.430Z"
+    },
+    "user_key": "nnhoch",
+    "phone_number": "+201003451188",
+    "id": "contact_fcb32ef9-98ee-47b4-a681-6f9b6785dc03",
+    "created_at": "2026-04-10T05:53:11.204Z",
+    "contact_type": "phone",
+    "has_whatsapp": 1,
+    "updated_at": "2026-04-10T05:53:11.204Z",
+    "is_primary": 1
   },
   {
     "_docId": "contact_ff12680e-3b2c-4b25-9e8a-90ddc490409c",
-    "created_at": "2026-04-10T05:53:15.291Z",
-    "id": "contact_ff12680e-3b2c-4b25-9e8a-90ddc490409c",
+    "contact_type": "phone",
     "is_primary": 1,
+    "updated_at": "2026-04-10T05:53:15.291Z",
+    "has_whatsapp": 1,
+    "phone_number": "+201061652396",
+    "id": "contact_ff12680e-3b2c-4b25-9e8a-90ddc490409c",
     "user_key": "8ga4jn",
     "_legacy": {
+      "source": "turso",
       "migratedAt": "2026-05-21T02:26:26.947Z",
-      "table": "user_contacts",
-      "source": "turso"
+      "table": "user_contacts"
     },
-    "phone_number": "+201061652396",
-    "has_whatsapp": 1,
-    "contact_type": "phone",
-    "updated_at": "2026-04-10T05:53:15.291Z"
+    "created_at": "2026-04-10T05:53:15.291Z"
   }
 ]
