@@ -9,7 +9,8 @@
     "indexes:deploy:cli": "npx firebase-tools deploy --only firestore:indexes --project users-baad9",
     "rules:deploy":       "npx firebase-tools deploy --only firestore:rules  --project users-baad9",
     "firestore:deploy":   "npx firebase-tools deploy --only firestore --project users-baad9",
-    "firebase:login":     "npx firebase-tools login"
+    "firebase:login":     "npx firebase-tools login",
+    "firebase:logout":    "npx firebase-tools logout"
   },
   "dependencies": {
     "firebase": "^12.13.0"

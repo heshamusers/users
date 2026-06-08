@@ -4,6 +4,16 @@ https://github.com/heshamusers/users.git
 جرب ssh -T git@github-hesham
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPLmJCfWXvoaD287k90jKjMelBnZA9wZJmeB2WFIJNTm heshamusers
 
+Firebase Account: doitnow.hgh@gmail.com
+Firebase Project: users-baad9
+
+Firebase Commands:
+- npm run firebase:login    # Login with doitnow.hgh@gmail.com
+- npm run firebase:logout   # Logout from current account
+- npm run indexes:deploy     # Deploy Firestore indexes
+- npm run indexes:list       # List current indexes
+- npm run db:backup          # Backup database to local_db/
+
 
 
 
