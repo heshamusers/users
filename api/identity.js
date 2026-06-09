@@ -141,7 +141,9 @@ export default async function handler(req, res) {
     }
 
     if (req.method === "POST") {
+      console.log(`[identity] POST: action="${payload.action}", collectionName="${payload.collectionName}"`);
       if (payload.action === "query") {
+        console.log(`[identity] Processing query action...`);
         if (!payload.collectionName) {
           return res.status(400).json({ error: "collectionName is required" });
         }
@@ -150,7 +152,9 @@ export default async function handler(req, res) {
         const limit = Number.isInteger(payload.limit) ? payload.limit : (payload.limit ? Number(payload.limit) : null);
         const offset = Number.isInteger(payload.offset) ? payload.offset : (payload.offset ? Number(payload.offset) : 0);
         
+        console.log(`[identity] Calling queryCollection("${payload.collectionName}") with where=${where ? 'yes' : 'no'}...`);
         const rows = await queryCollection(payload.collectionName, where, orderBy, limit, offset);
+        console.log(`[identity] queryCollection returned ${rows.length} rows`);
         const docs = rows.map((row) => encodeDocument(payload.collectionName, row));
         return res.status(200).json(docs);
       }
