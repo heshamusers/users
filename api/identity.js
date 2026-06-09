@@ -43,6 +43,7 @@ async function readBody(req) {
     req.on('end', () => {
       try {
         const data = Buffer.concat(chunks).toString('utf-8');
+        console.log(`[readBody] Received ${chunks.length} chunks, total size: ${size}, data length: ${data.length}`);
         resolve(data);
       } catch (e) {
         reject(e);
@@ -118,8 +119,10 @@ export default async function handler(req, res) {
     if (req.method === 'POST' || req.method === 'PUT') {
       try {
         const rawBody = await readBody(req);
+        console.log(`[identity] Raw body received (length: ${rawBody.length}): ${rawBody.substring(0, 100)}...`);
         if (rawBody && rawBody.trim()) {
           bodyData = JSON.parse(rawBody);
+          console.log(`[identity] Parsed bodyData (action: ${bodyData.action}, collectionName: ${bodyData.collectionName})`);
         }
       } catch (e) {
         console.error(`[identity] Error parsing body: ${e.message}`);
