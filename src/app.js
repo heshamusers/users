@@ -1,23 +1,5 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-app.js";
-import {
-  collection,
-  getDocs,
-  getFirestore,
-  orderBy,
-  query,
-} from "https://www.gstatic.com/firebasejs/12.13.0/firebase-firestore.js";
+// Connected to Turso DB through Vercel API
 
-const firebaseConfig = {
-  apiKey: "AIzaSyCAqgZgcpd9hEQjs5J0VwjVcUVeTnZJcZo",
-  authDomain: "users-baad9.firebaseapp.com",
-  projectId: "users-baad9",
-  storageBucket: "users-baad9.firebasestorage.app",
-  messagingSenderId: "582900180281",
-  appId: "1:582900180281:web:4c06c2efb7b7b11939b4e8",
-};
-
-const app = initializeApp(firebaseConfig);
-const db = getFirestore(app);
 
 const state = {
   users: [],
@@ -128,12 +110,6 @@ function groupBy(rows, key) {
   return map;
 }
 
-async function readCollection(name, sortField) {
-  const ref = collection(db, name);
-  const snap = await getDocs(sortField ? query(ref, orderBy(sortField)) : ref);
-  return snap.docs.map((doc) => ({ ...doc.data(), _docId: doc.id }));
-}
-
 async function loadData() {
   setLoading(true);
   els.usersTable.innerHTML = "";
@@ -141,13 +117,12 @@ async function loadData() {
   els.emptyDetails.hidden = false;
 
   try {
-    const [users, contacts, tokens, capabilities, specialties] = await Promise.all([
-      readCollection("users", "username"),
-      readCollection("user_contacts", "user_key"),
-      readCollection("user_tokens", "user_key"),
-      readCollection("user_capabilities", "user_key"),
-      readCollection("user_specialties", "user_key"),
-    ]);
+    const res = await fetch("/api/data");
+    if (!res.ok) {
+      throw new Error(`HTTP error! status: ${res.status}`);
+    }
+    const data = await res.json();
+    const { users, contacts, tokens, capabilities, specialties } = data;
 
     state.users = users;
     state.contactsByUser = groupBy(contacts, "user_key");

@@ -1,20 +1,21 @@
 {
   "name": "users-baad9",
   "version": "1.0.0",
+  "type": "module",
   "description": "إدارة قاعدة بيانات Firestore لمشروع users-baad9 — نسخ احتياطية وإدارة فهارس",
   "scripts": {
-    "db:backup":          "node backup.js",
-    "indexes:deploy":     "node deploy-indexes.js",
-    "indexes:list":       "node deploy-indexes.js --list",
+    "db:backup": "node backup.js",
+    "indexes:deploy": "node deploy-indexes.js",
+    "indexes:list": "node deploy-indexes.js --list",
     "indexes:deploy:cli": "npx firebase-tools deploy --only firestore:indexes --project users-baad9",
-    "rules:deploy":       "npx firebase-tools deploy --only firestore:rules  --project users-baad9",
-    "firestore:deploy":   "npx firebase-tools deploy --only firestore --project users-baad9",
-    "firebase:login":     "npx firebase-tools login",
-    "firebase:logout":    "npx firebase-tools logout"
+    "rules:deploy": "npx firebase-tools deploy --only firestore:rules  --project users-baad9",
+    "firestore:deploy": "npx firebase-tools deploy --only firestore --project users-baad9",
+    "firebase:login": "npx firebase-tools login",
+    "firebase:logout": "npx firebase-tools logout"
   },
   "dependencies": {
+    "@libsql/client": "^0.17.3",
+    "dotenv": "^17.4.2",
     "firebase": "^12.13.0"
   }
 }
-
-
