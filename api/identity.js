@@ -19,6 +19,15 @@ function setCorsHeaders(res) {
   res.setHeader("Access-Control-Allow-Headers", "Content-Type");
 }
 
+async function readBody(req) {
+  return new Promise((resolve, reject) => {
+    let data = '';
+    req.on('data', chunk => data += chunk);
+    req.on('end', () => resolve(data));
+    req.on('error', reject);
+  });
+}
+
 export default async function handler(req, res) {
   setCorsHeaders(res);
   if (req.method === "OPTIONS") {
@@ -75,7 +84,16 @@ export default async function handler(req, res) {
       return res.status(200).json(docs);
     }
 
-    const payload = parseIncomingPayload(await req.json().catch(() => ({})));
+    let bodyData = {};
+    if (req.method === 'POST' || req.method === 'PUT') {
+      try {
+        const rawBody = await readBody(req);
+        bodyData = rawBody ? JSON.parse(rawBody) : {};
+      } catch (e) {
+        bodyData = {};
+      }
+    }
+    const payload = parseIncomingPayload(bodyData);
 
     if (req.method === "POST") {
       if (payload.action === "query") {
