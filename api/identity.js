@@ -104,9 +104,14 @@ export default async function handler(req, res) {
         const orderBy = Array.isArray(payload.orderBy) ? payload.orderBy : null;
         const limit = Number.isInteger(payload.limit) ? payload.limit : (payload.limit ? Number(payload.limit) : null);
         const offset = Number.isInteger(payload.offset) ? payload.offset : (payload.offset ? Number(payload.offset) : 0);
+        
+        console.log(`[identity] POST query: collection=${payload.collectionName}, limit=${limit}, offset=${offset}`);
+        
         const rows = await queryCollection(payload.collectionName, where, orderBy, limit, offset);
         const docs = rows.map((row) => encodeDocument(payload.collectionName, row));
-        return res.status(200).json({ docs });
+        
+        console.log(`[identity] POST query result: found ${docs.length} documents`);
+        return res.status(200).json(docs);
       }
       const collectionName = payload.collection || collection;
       if (!collectionName) {
