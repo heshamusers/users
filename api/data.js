@@ -20,7 +20,7 @@ function parseAccountLabels(user, capability) {
 
 function matchesAccountFilter(user, capability, accountFilter) {
   if (!accountFilter || accountFilter === "all") return true;
-
+ 
   const labels = parseAccountLabels(user, capability);
   const map = {
     buyer: "مشتري",
