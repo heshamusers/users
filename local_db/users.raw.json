@@ -17,7 +17,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "011vw3"
       },
       "business_category": {
@@ -240,7 +240,7 @@
           }
         }
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "10vj2l"
       },
       "account_type": {
@@ -616,7 +616,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "1ehs5b"
       },
       "settings": {
@@ -689,7 +689,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "1t19rx"
       },
       "username": {
@@ -960,7 +960,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "1v376q"
       },
       "username": {
@@ -1108,7 +1108,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "1wv5xk"
       },
       "username": {
@@ -1190,7 +1190,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "23ekhz"
       },
       "featured_items_data": {
@@ -1398,7 +1398,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "2gj6t8"
       },
       "location": {
@@ -1684,7 +1684,7 @@
       "read_model_version": {
         "integerValue": "1"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "3hpji2"
       },
       "account_type": {
@@ -1922,7 +1922,7 @@
           }
         }
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "3iztcc"
       },
       "account_type": {
@@ -2088,7 +2088,7 @@
       "username": {
         "stringValue": "Hال"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "3l6yxe"
       },
       "account_type": {
@@ -2236,7 +2236,7 @@
       "user_key": {
         "stringValue": "3w2tzf"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "3w2tzf"
       },
       "account_type": {
@@ -2351,7 +2351,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "48yerm"
       },
       "username": {
@@ -2658,7 +2658,7 @@
       "limitPackage": {
         "integerValue": "0"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "4bej4a"
       },
       "account_type": {
@@ -2779,7 +2779,7 @@
       "username": {
         "stringValue": "mira hossam"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "4dpz993e"
       },
       "account_type": {
@@ -2942,7 +2942,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "4hw5su"
       },
       "featured_items_data": {
@@ -3090,7 +3090,7 @@
       "account_type": {
         "integerValue": "1"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "4mzddx"
       },
       "settings": {
@@ -3262,7 +3262,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "4t1lql"
       },
       "username": {
@@ -3383,7 +3383,7 @@
       "account_type": {
         "integerValue": "1"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "4yku8b"
       },
       "read_model_version": {
@@ -3498,7 +3498,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "59dic3"
       },
       "username": {
@@ -3658,7 +3658,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "5nn9xn"
       },
       "username": {
@@ -3824,7 +3824,7 @@
       "location": {
         "stringValue": "29.9919012, 32.4843326"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "62y8vm"
       },
       "account_type": {
@@ -4152,7 +4152,7 @@
       "phone_link": {
         "stringValue": "tel:+201026546550"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "682dri6b"
       },
       "account_type": {
@@ -4717,7 +4717,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "6e1qm3"
       },
       "username": {
@@ -4823,7 +4823,7 @@
           }
         }
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "6gni7h"
       },
       "account_type": {
@@ -5106,7 +5106,7 @@
       "featured_items_data": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "6np115hz"
       },
       "account_type": {
@@ -5347,7 +5347,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "77xuzx"
       },
       "Address": {
@@ -5504,7 +5504,7 @@
       "business_category": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "7an5m8"
       },
       "account_type": {
@@ -5736,7 +5736,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "7cmuvz"
       }
     },
@@ -5794,7 +5794,7 @@
       "featured_items_data": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "7m7fiy"
       },
       "account_type": {
@@ -6071,7 +6071,7 @@
       "read_model_version": {
         "integerValue": "1"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "86zfzu"
       },
       "account_type": {
@@ -6144,7 +6144,7 @@
   {
     "name": "projects/users-baad9/databases/(default)/documents/users/8ga4jn",
     "fields": {
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "8ga4jn"
       },
       "account_type": {
@@ -6478,7 +6478,7 @@
       "user_key": {
         "stringValue": "8jrs71"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "8jrs71"
       },
       "account_type": {
@@ -6620,7 +6620,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "99rrqq"
       },
       "read_model_version": {
@@ -6762,7 +6762,7 @@
       "account_type": {
         "integerValue": "1"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "9jqfgx"
       },
       "business_category": {
@@ -6979,7 +6979,7 @@
       "business_category": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "9k7voc"
       },
       "account_type": {
@@ -7058,7 +7058,7 @@
       "account_type": {
         "integerValue": "1"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "9udgon"
       },
       "business_category": {
@@ -7227,7 +7227,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "9updjg"
       },
       "business_category": {
@@ -7321,7 +7321,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "9vjh7w"
       },
       "business_category": {
@@ -7433,7 +7433,7 @@
       "business_category": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "a1owql"
       },
       "account_type": {
@@ -7608,7 +7608,7 @@
       "featured_items_data": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "aj7g2x"
       },
       "account_type": {
@@ -7813,7 +7813,7 @@
       "limitPackage": {
         "integerValue": "0"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "b2u6ks"
       },
       "account_type": {
@@ -8030,7 +8030,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "b59c02"
       },
       "username": {
@@ -8271,7 +8271,7 @@
       "featured_items_data": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "c22lew"
       },
       "account_type": {
@@ -8365,7 +8365,7 @@
       "username": {
         "stringValue": "صضصضصضص"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "c3c2rx"
       },
       "account_type": {
@@ -8651,7 +8651,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "c4jlna"
       },
       "user_key": {
@@ -8787,7 +8787,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "cti783"
       },
       "featured_items_data": {
@@ -8848,7 +8848,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "cu0emh"
       },
       "business_category": {
@@ -9050,7 +9050,7 @@
       "account_type": {
         "integerValue": "1"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "cv7yiz"
       },
       "is_delivery_eligible": {
@@ -9228,7 +9228,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "dl14v1k7"
       },
       "limitPackage": {
@@ -9430,7 +9430,7 @@
       "username": {
         "stringValue": "مؤسسه الفتح القانونيه"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "dp2en5"
       },
       "account_type": {
@@ -9704,7 +9704,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "ek59s9"
       },
       "settings": {
@@ -9774,7 +9774,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "ektvax"
       },
       "location": {
@@ -9946,7 +9946,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "fc5qrr"
       },
       "business_category": {
@@ -10262,7 +10262,7 @@
       "account_type": {
         "integerValue": "1"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "fk7qdh"
       },
       "business_category": {
@@ -10428,7 +10428,7 @@
       "username": {
         "stringValue": "hesham `105"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "fkpzkp"
       },
       "account_type": {
@@ -10603,7 +10603,7 @@
       "username": {
         "stringValue": "صيدلية النجار"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "for2dd"
       },
       "account_type": {
@@ -10850,7 +10850,7 @@
       "username": {
         "stringValue": "اليسليلؤ"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "fsjhoo"
       },
       "account_type": {
@@ -10971,7 +10971,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "ft9ti2"
       },
       "Address": {
@@ -11131,7 +11131,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "fyrknc"
       },
       "read_model_version": {
@@ -11408,7 +11408,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "gax4e1"
       }
     },
@@ -11430,7 +11430,7 @@
       "Address": {
         "stringValue": "السويس الملاحه القديمه بيوتي سنتر سلمي"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "h149hi9e"
       },
       "account_type": {
@@ -11593,7 +11593,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "h3pfg0"
       },
       "username": {
@@ -11798,7 +11798,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "haxnnu"
       },
       "Address": {
@@ -12036,7 +12036,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "hdeh3x"
       },
       "username": {
@@ -12151,7 +12151,7 @@
       "username": {
         "stringValue": "صثصثصث"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "i4g4z7"
       },
       "account_type": {
@@ -12317,7 +12317,7 @@
       "account_type": {
         "integerValue": "1"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "iws87w"
       },
       "username": {
@@ -12600,7 +12600,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "j0cggl"
       },
       "business_category": {
@@ -12646,7 +12646,7 @@
   {
     "name": "projects/users-baad9/databases/(default)/documents/users/jiyevi",
     "fields": {
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "jiyevi"
       },
       "account_type": {
@@ -13001,7 +13001,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "jufqqo"
       },
       "username": {
@@ -13089,7 +13089,7 @@
       "business_category": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "k1902fmw"
       },
       "account_type": {
@@ -13240,7 +13240,7 @@
       "featured_items_data": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "kdw15e"
       },
       "account_type": {
@@ -13550,7 +13550,7 @@
       "username": {
         "stringValue": "ZAD"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "l48ta4"
       },
       "account_type": {
@@ -13686,7 +13686,7 @@
       "business_category": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "laji9w"
       },
       "account_type": {
@@ -13852,7 +13852,7 @@
       "account_type": {
         "integerValue": "1"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "liyjr3"
       },
       "business_category": {
@@ -13907,7 +13907,7 @@
       "Address": {
         "stringValue": "يسيسيسيثثصث"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "lwsedz"
       },
       "account_type": {
@@ -14142,7 +14142,7 @@
       "username": {
         "stringValue": "Messi Store"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "lzl9vm"
       },
       "account_type": {
@@ -14395,7 +14395,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "m4y6bx"
       },
       "is_delivery_eligible": {
@@ -14540,7 +14540,7 @@
       "featured_items_data": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "m9wzzm"
       },
       "account_type": {
@@ -14712,7 +14712,7 @@
       "featured_items_data": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "mf6x0b"
       },
       "account_type": {
@@ -14917,7 +14917,7 @@
       "business_category": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "mre5av"
       },
       "account_type": {
@@ -15104,7 +15104,7 @@
       "featured_items_data": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "mwj4y3"
       },
       "account_type": {
@@ -15237,7 +15237,7 @@
       "username": {
         "stringValue": "register_user_vd0d5J"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "mxcu1c"
       },
       "account_type": {
@@ -15484,7 +15484,7 @@
           }
         }
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "my2okf"
       },
       "account_type": {
@@ -15683,7 +15683,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "nnhoch"
       },
       "username": {
@@ -15843,7 +15843,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "nskjkj"
       },
       "Address": {
@@ -16018,7 +16018,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "nwo9hn"
       },
       "username": {
@@ -16367,7 +16367,7 @@
       "featured_items_data": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "o11ihj"
       },
       "account_type": {
@@ -16602,7 +16602,7 @@
           }
         }
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "o69jdw"
       },
       "account_type": {
@@ -16762,7 +16762,7 @@
       "Address": {
         "stringValue": "السويس مول السويس"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "okswky"
       },
       "account_type": {
@@ -16958,7 +16958,7 @@
       "featured_items_data": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "olxdyf"
       },
       "account_type": {
@@ -17118,7 +17118,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "on0cj9"
       },
       "username": {
@@ -17353,7 +17353,7 @@
       "username": {
         "stringValue": "حسام"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "otd7o3"
       },
       "account_type": {
@@ -17489,7 +17489,7 @@
       "username": {
         "stringValue": "عطاره الغريب"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "ow0bj2"
       },
       "account_type": {
@@ -17607,7 +17607,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "oyeggx"
       },
       "business_category": {
@@ -17779,7 +17779,7 @@
       "business_category": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "p7qfix"
       },
       "account_type": {
@@ -17957,7 +17957,7 @@
       "username": {
         "stringValue": "Mohamed Elzeny"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "pngukw"
       },
       "account_type": {
@@ -18162,7 +18162,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "prod_seller_1yHcElNf"
       },
       "Address": {
@@ -18265,7 +18265,7 @@
       "business_category": {
         "stringValue": "{\"1\":[\"1\",\"2\"],\"3\":[\"5\",\"8\"],\"6\":[\"4\",\"7\"],\"46\":[\"1\"]}"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "prod_seller_VGnEuMSH"
       },
       "account_type": {
@@ -18320,7 +18320,7 @@
       "location": {
         "stringValue": "29.9668, 32.5498"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "prod_seller_a46iQxtS"
       },
       "account_type": {
@@ -18516,7 +18516,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "prod_seller_ubQaIbs8"
       },
       "username": {
@@ -18637,7 +18637,7 @@
       "featured_items_data": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "prof_6oUtIjEt"
       },
       "account_type": {
@@ -18809,7 +18809,7 @@
       "account_type": {
         "integerValue": "32"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "prof_FMyHwsQ0"
       },
       "business_category": {
@@ -19026,7 +19026,7 @@
       "featured_items_data": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "prof_FxpsJYoU"
       },
       "account_type": {
@@ -19153,7 +19153,7 @@
       "business_category": {
         "stringValue": "{}"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "prof_Jqc9Sjez"
       },
       "account_type": {
@@ -19358,7 +19358,7 @@
       "featured_items_data": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "prof_PPg7YUES"
       },
       "account_type": {
@@ -19389,7 +19389,7 @@
       "business_category": {
         "stringValue": "{}"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "prof_VCbSn2sL"
       },
       "account_type": {
@@ -19624,7 +19624,7 @@
       "is_delivery_eligible": {
         "integerValue": "0"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "prof_YTiiPnHC"
       },
       "account_type": {
@@ -19850,7 +19850,7 @@
       "account_type": {
         "integerValue": "1"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "prof_bwQTodtc"
       },
       "username": {
@@ -20043,7 +20043,7 @@
       "account_type": {
         "integerValue": "32"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "prof_iUtv1Md0"
       },
       "username": {
@@ -20179,7 +20179,7 @@
       "location": {
         "stringValue": "29.9668, 32.5498"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "prof_lu9SSJll"
       },
       "account_type": {
@@ -20327,7 +20327,7 @@
       "featured_items_data": {
         "nullValue": null
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "q2pnmi"
       },
       "account_type": {
@@ -20451,7 +20451,7 @@
       "read_model_version": {
         "integerValue": "1"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "q62uuv"
       },
       "account_type": {
@@ -20626,7 +20626,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "q7uz7a"
       },
       "business_category": {
@@ -20885,7 +20885,7 @@
           }
         }
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "qgrlqy"
       },
       "account_type": {
@@ -21159,7 +21159,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "qpfdyp"
       },
       "business_category": {
@@ -21241,7 +21241,7 @@
       "username": {
         "stringValue": "Malika hossam"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "qy79r49s"
       },
       "account_type": {
@@ -21488,7 +21488,7 @@
           }
         }
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "sh3raq"
       },
       "account_type": {
@@ -21540,7 +21540,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "spmjg8"
       },
       "business_category": {
@@ -21796,7 +21796,7 @@
       "location": {
         "stringValue": "29.96412710451809, 32.55317687988282"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "sub1zi"
       },
       "account_type": {
@@ -22013,7 +22013,7 @@
       "business_category": {
         "stringValue": "{\"services\":[\"repair\"]}"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "t6wman"
       },
       "account_type": {
@@ -22191,7 +22191,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "tdeggy"
       },
       "limitPackage": {
@@ -22387,7 +22387,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "u9boqg"
       },
       "business_category": {
@@ -22460,7 +22460,7 @@
       "limitPackage": {
         "integerValue": "0"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "uaugvf"
       },
       "account_type": {
@@ -22623,7 +22623,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "uue3t3"
       },
       "username": {
@@ -22912,7 +22912,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "uv8a4o"
       },
       "username": {
@@ -23144,7 +23144,7 @@
           }
         }
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "uy9kwv"
       },
       "account_type": {
@@ -23256,7 +23256,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "v7iayi"
       },
       "username": {
@@ -23557,7 +23557,7 @@
           }
         }
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "v8p7jb"
       },
       "account_type": {
@@ -23618,7 +23618,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "vw8m8t"
       },
       "location": {
@@ -23847,7 +23847,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "w434wx"
       },
       "username": {
@@ -24076,7 +24076,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "w9opmy"
       }
     },
@@ -24119,7 +24119,7 @@
           }
         }
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "wjo9v8"
       },
       "account_type": {
@@ -24342,7 +24342,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "wn7gtc"
       },
       "read_model_version": {
@@ -24475,7 +24475,7 @@
       "Address": {
         "stringValue": "السويس  شارع طلعت حرب"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "wtlrmg"
       },
       "account_type": {
@@ -24761,7 +24761,7 @@
       "business_category": {
         "stringValue": "{\"3\":[\"1\",\"2\",\"3\",\"4\",\"7\",\"11\"]}"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "y0ks5y"
       },
       "account_type": {
@@ -25047,7 +25047,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "y379lz"
       },
       "settings": {
@@ -25195,7 +25195,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "ylfxs6"
       },
       "limitPackage": {
@@ -25406,7 +25406,7 @@
           }
         }
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "yx4x13"
       },
       "account_type": {
@@ -25590,7 +25590,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "zo0pjv"
       },
       "username": {
@@ -25699,7 +25699,7 @@
   {
     "name": "projects/users-baad9/databases/(default)/documents/users/zp12ir",
     "fields": {
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "zp12ir"
       },
       "account_type": {
@@ -26030,7 +26030,7 @@
           }
         }
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "zsgekm"
       },
       "account_type": {
@@ -26172,7 +26172,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "zxxu28"
       },
       "username": {
@@ -26287,7 +26287,7 @@
       "account_type": {
         "integerValue": "33"
       },
-      "_firestore_id": {
+      "_legacy_id": {
         "stringValue": "zynpp7"
       },
       "Address": {

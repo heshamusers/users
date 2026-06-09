@@ -6,7 +6,7 @@
     "Address": "ش الجيش بجوار ميدان الترعه امام اول السور",
     "user_key": "011vw3",
     "account_type": 33,
-    "_firestore_id": "011vw3",
+    "_legacy_id": "011vw3",
     "business_category": {
       "5": [
         "1",
@@ -81,7 +81,7 @@
         "2"
       ]
     },
-    "_firestore_id": "10vj2l",
+    "_legacy_id": "10vj2l",
     "account_type": 33,
     "limitPackage": 0,
     "settings": {
@@ -207,7 +207,7 @@
     },
     "Password": "158158ar",
     "account_type": 33,
-    "_firestore_id": "1ehs5b",
+    "_legacy_id": "1ehs5b",
     "settings": {
       "productRatingMode": "stars_comments",
       "isDelivered": 0,
@@ -232,7 +232,7 @@
     "Address": "Hfnxnx",
     "user_key": "1t19rx",
     "account_type": 33,
-    "_firestore_id": "1t19rx",
+    "_legacy_id": "1t19rx",
     "username": "تجارة درويش للجملة",
     "business_category": null,
     "Password": "1111",
@@ -323,7 +323,7 @@
     "location": "29.9919022, 32.4843418",
     "limitPackage": 0,
     "account_type": 33,
-    "_firestore_id": "1v376q",
+    "_legacy_id": "1v376q",
     "username": "Dona",
     "business_category": {
       "1": [
@@ -373,7 +373,7 @@
     "user_key": "1wv5xk",
     "Address": "Gggggg",
     "account_type": 33,
-    "_firestore_id": "1wv5xk",
+    "_legacy_id": "1wv5xk",
     "username": "Ggg",
     "business_category": null,
     "Password": "5555",
@@ -401,7 +401,7 @@
     },
     "Password": "1169",
     "account_type": 33,
-    "_firestore_id": "23ekhz",
+    "_legacy_id": "23ekhz",
     "featured_items_data": null,
     "business_sub_categories": null,
     "location": "29.9918998, 32.484356",
@@ -471,7 +471,7 @@
     },
     "Password": "1146",
     "account_type": 33,
-    "_firestore_id": "2gj6t8",
+    "_legacy_id": "2gj6t8",
     "location": "29.9924704, 32.4844036",
     "limitPackage": 0,
     "settings": {
@@ -567,7 +567,7 @@
     "is_delivery_eligible": 0,
     "business_name": "مامت نغم للمنتجات المغربيه والسودانيه",
     "read_model_version": 1,
-    "_firestore_id": "3hpji2",
+    "_legacy_id": "3hpji2",
     "account_type": 33,
     "Password": "1160",
     "username": "مامت نغم",
@@ -647,7 +647,7 @@
         "2"
       ]
     },
-    "_firestore_id": "3iztcc",
+    "_legacy_id": "3iztcc",
     "account_type": 33,
     "limitPackage": 0,
     "location": "29.9649125, 32.5500864",
@@ -703,7 +703,7 @@
       "46": []
     },
     "username": "Hال",
-    "_firestore_id": "3l6yxe",
+    "_legacy_id": "3l6yxe",
     "account_type": 33,
     "Address": "السلام",
     "user_key": "3l6yxe",
@@ -753,7 +753,7 @@
     "created_at": "2026-02-24T19:12:46.102Z",
     "Address": "اول شارع النيل فوق كازيون",
     "user_key": "3w2tzf",
-    "_firestore_id": "3w2tzf",
+    "_legacy_id": "3w2tzf",
     "account_type": 33,
     "Password": "1137",
     "business_category": {
@@ -792,7 +792,7 @@
       "isDelivered": 1
     },
     "account_type": 33,
-    "_firestore_id": "48yerm",
+    "_legacy_id": "48yerm",
     "username": "Elmarwa elg",
     "business_category": {
       "3": [
@@ -895,7 +895,7 @@
     },
     "location": "29.964127969535635, 32.548542022705085",
     "limitPackage": 0,
-    "_firestore_id": "4bej4a",
+    "_legacy_id": "4bej4a",
     "account_type": 1,
     "Password": "1111",
     "business_category": null,
@@ -936,7 +936,7 @@
     "Password": "1111",
     "business_category": null,
     "username": "mira hossam",
-    "_firestore_id": "4dpz993e",
+    "_legacy_id": "4dpz993e",
     "account_type": 33,
     "limitPackage": 1000,
     "location": "29.9918726, 32.4845646",
@@ -991,7 +991,7 @@
     "username": "محمود ناصر",
     "Password": "2003",
     "account_type": 33,
-    "_firestore_id": "4hw5su",
+    "_legacy_id": "4hw5su",
     "featured_items_data": null,
     "business_sub_categories": null,
     "settings": {
@@ -1041,7 +1041,7 @@
     "username": "Gdfvcc",
     "Password": "1111",
     "account_type": 1,
-    "_firestore_id": "4mzddx",
+    "_legacy_id": "4mzddx",
     "settings": {
       "isDelivered": 0
     },
@@ -1099,7 +1099,7 @@
     "user_key": "4t1lql",
     "Address": "اونلاين",
     "account_type": 33,
-    "_firestore_id": "4t1lql",
+    "_legacy_id": "4t1lql",
     "username": "Nanosa mody",
     "business_category": {
       "1": [
@@ -1140,7 +1140,7 @@
     "username": "١٢ 12",
     "Password": "1111",
     "account_type": 1,
-    "_firestore_id": "4yku8b",
+    "_legacy_id": "4yku8b",
     "read_model_version": 1,
     "business_name": "",
     "discountPercent": 0,
@@ -1179,7 +1179,7 @@
     "featured_items_data": null,
     "business_sub_categories": null,
     "account_type": 33,
-    "_firestore_id": "59dic3",
+    "_legacy_id": "59dic3",
     "username": "Hesham101",
     "business_category": null,
     "Password": "1111",
@@ -1233,7 +1233,7 @@
       "isDelivered": 0
     },
     "account_type": 33,
-    "_firestore_id": "5nn9xn",
+    "_legacy_id": "5nn9xn",
     "username": "Carizma Accessories",
     "business_category": {
       "1": [
@@ -1289,7 +1289,7 @@
     },
     "limitPackage": 0,
     "location": "29.9919012, 32.4843326",
-    "_firestore_id": "62y8vm",
+    "_legacy_id": "62y8vm",
     "account_type": 33,
     "Password": "1142",
     "username": "Bery",
@@ -1399,7 +1399,7 @@
     "settings": "{\"locations\":[{\"id\":\"loc_1776741667906_nyiihz\",\"coords\":\"29.98346433381288, 32.54219055175782\",\"address\":\"بجوار بتروجت\",\"is_primary\":true},{\"id\":\"loc_1779332791919_mwwatf\",\"coords\":\"29.97589181524426, 32.5492286682129\",\"address\":\"ابياي\",\"is_primary\":false}],\"isDelivered\":false,\"deliveryMode\":\"platform\",\"deliveryProviderKey\":\"pngukw\",\"limitPackage\":1000,\"discountPercent\":0,\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\"}",
     "limitPackage": 0,
     "phone_link": "tel:+201026546550",
-    "_firestore_id": "682dri6b",
+    "_legacy_id": "682dri6b",
     "account_type": 32,
     "ratings": [],
     "Password": "1111",
@@ -1588,7 +1588,7 @@
     "location": "29.9919051, 32.4843479",
     "limitPackage": 0,
     "account_type": 33,
-    "_firestore_id": "6e1qm3",
+    "_legacy_id": "6e1qm3",
     "username": "Dr Gehad Alasra",
     "business_category": {
       "12": [
@@ -1624,7 +1624,7 @@
         "4"
       ]
     },
-    "_firestore_id": "6gni7h",
+    "_legacy_id": "6gni7h",
     "account_type": 33,
     "is_delivery_eligible": 0,
     "business_name": "Abari perfume Store",
@@ -1719,7 +1719,7 @@
     "location": "29.9923386, 32.4839204",
     "business_sub_categories": null,
     "featured_items_data": null,
-    "_firestore_id": "6np115hz",
+    "_legacy_id": "6np115hz",
     "account_type": 33,
     "Password": "00000",
     "business_category": {
@@ -1800,7 +1800,7 @@
     "username": "Dr Hadeer",
     "Password": "1161",
     "account_type": 33,
-    "_firestore_id": "77xuzx",
+    "_legacy_id": "77xuzx",
     "Address": "اونلاين",
     "user_key": "77xuzx",
     "created_at": "2026-02-24T19:12:46.102Z",
@@ -1853,7 +1853,7 @@
     "Password": "chusco2020",
     "username": "Chusco trade",
     "business_category": null,
-    "_firestore_id": "7an5m8",
+    "_legacy_id": "7an5m8",
     "account_type": 33
   },
   {
@@ -1931,7 +1931,7 @@
     "username": "Sherif el adl",
     "Password": "1150",
     "account_type": 33,
-    "_firestore_id": "7cmuvz"
+    "_legacy_id": "7cmuvz"
   },
   {
     "_docId": "7m7fiy",
@@ -1951,7 +1951,7 @@
     },
     "business_sub_categories": null,
     "featured_items_data": null,
-    "_firestore_id": "7m7fiy",
+    "_legacy_id": "7m7fiy",
     "account_type": 33,
     "Password": "1167",
     "business_category": {
@@ -2044,7 +2044,7 @@
     "is_delivery_eligible": 0,
     "business_name": "كشخة للملابس والازياء الخليجى",
     "read_model_version": 1,
-    "_firestore_id": "86zfzu",
+    "_legacy_id": "86zfzu",
     "account_type": 33,
     "Password": "1128",
     "business_category": {
@@ -2069,7 +2069,7 @@
   },
   {
     "_docId": "8ga4jn",
-    "_firestore_id": "8ga4jn",
+    "_legacy_id": "8ga4jn",
     "account_type": 33,
     "Password": "1173",
     "username": "Koky Brand",
@@ -2181,7 +2181,7 @@
     "created_at": "2026-02-24T19:12:46.102Z",
     "Address": "السويس شارع المحافظة إشارة كاستلو",
     "user_key": "8jrs71",
-    "_firestore_id": "8jrs71",
+    "_legacy_id": "8jrs71",
     "account_type": 33,
     "Password": "fares",
     "business_category": null,
@@ -2229,7 +2229,7 @@
     },
     "Password": "1111",
     "account_type": 33,
-    "_firestore_id": "99rrqq",
+    "_legacy_id": "99rrqq",
     "read_model_version": 1,
     "business_name": "سايسايبسا",
     "is_delivery_eligible": 0,
@@ -2277,7 +2277,7 @@
     "location": null,
     "limitPackage": 0,
     "account_type": 1,
-    "_firestore_id": "9jqfgx",
+    "_legacy_id": "9jqfgx",
     "business_category": null,
     "username": "register_user_gbI3UR",
     "Password": "P@ss_dWP8m8HB",
@@ -2350,7 +2350,7 @@
     "Password": "1111",
     "username": "ثقثقثق",
     "business_category": null,
-    "_firestore_id": "9k7voc",
+    "_legacy_id": "9k7voc",
     "account_type": 1,
     "business_sub_categories": null,
     "featured_items_data": null,
@@ -2377,7 +2377,7 @@
     "limitPackage": 0,
     "location": "31.2001, 29.9187",
     "account_type": 1,
-    "_firestore_id": "9udgon",
+    "_legacy_id": "9udgon",
     "business_category": null,
     "username": "register_user_c5EmEc",
     "Password": "P@ss_BovDwgiH",
@@ -2434,7 +2434,7 @@
     "discountPercent": 25,
     "business_name": "ام منه",
     "account_type": 33,
-    "_firestore_id": "9updjg",
+    "_legacy_id": "9updjg",
     "business_category": "{\"46\":[]}",
     "username": "hossam",
     "Password": "1111",
@@ -2466,7 +2466,7 @@
     "location": "29.957216890090063, 32.48382568359376",
     "settings": "{\"isDelivered\":0,\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\",\"locations\":[{\"id\":\"loc_1779332996129_vczcje\",\"coords\":\"29.957216890090063, 32.48382568359376\",\"address\":\"لاءؤلاءؤلا\",\"is_primary\":true}],\"deliveryMode\":\"platform\",\"deliveryProviderKey\":\"682dri6b\"}",
     "account_type": 33,
-    "_firestore_id": "9vjh7w",
+    "_legacy_id": "9vjh7w",
     "business_category": "{\"1\":[\"13\"]}",
     "username": "ليسيلسيل",
     "Password": "1111",
@@ -2504,7 +2504,7 @@
     "Password": "2025",
     "username": "Radwa Esmail",
     "business_category": null,
-    "_firestore_id": "a1owql",
+    "_legacy_id": "a1owql",
     "account_type": 33,
     "business_sub_categories": null,
     "featured_items_data": null,
@@ -2563,7 +2563,7 @@
     "location": "29.9918961, 32.4843612",
     "business_sub_categories": null,
     "featured_items_data": null,
-    "_firestore_id": "aj7g2x",
+    "_legacy_id": "aj7g2x",
     "account_type": 33,
     "Password": "1172",
     "business_category": {
@@ -2632,7 +2632,7 @@
     },
     "location": "29.9714231, 32.5177356",
     "limitPackage": 0,
-    "_firestore_id": "b2u6ks",
+    "_legacy_id": "b2u6ks",
     "account_type": 33,
     "Password": "1234",
     "username": "هند",
@@ -2705,7 +2705,7 @@
     "read_model_version": 1,
     "business_name": null,
     "account_type": 33,
-    "_firestore_id": "b59c02",
+    "_legacy_id": "b59c02",
     "username": "Khaled hassan",
     "business_category": null,
     "Password": "khaled",
@@ -2786,7 +2786,7 @@
     "location": "29.9918981, 32.4843587",
     "business_sub_categories": null,
     "featured_items_data": null,
-    "_firestore_id": "c22lew",
+    "_legacy_id": "c22lew",
     "account_type": 33,
     "Password": "1159",
     "business_category": {
@@ -2818,7 +2818,7 @@
     "Password": "1111",
     "business_category": null,
     "username": "صضصضصضص",
-    "_firestore_id": "c3c2rx",
+    "_legacy_id": "c3c2rx",
     "account_type": 33,
     "is_delivery_eligible": 0,
     "business_name": null,
@@ -2914,7 +2914,7 @@
     "username": "Girly Store",
     "Password": "1133",
     "account_type": 33,
-    "_firestore_id": "c4jlna",
+    "_legacy_id": "c4jlna",
     "user_key": "c4jlna",
     "Address": "الصباح بجوار مدرسة الصباح التجارية بنات خلف مسجد حمزة",
     "created_at": "2026-02-24T19:12:46.102Z",
@@ -2960,7 +2960,7 @@
     "business_category": null,
     "Password": "hyyh",
     "account_type": 33,
-    "_firestore_id": "cti783",
+    "_legacy_id": "cti783",
     "featured_items_data": null,
     "business_sub_categories": null,
     "settings": {
@@ -2981,7 +2981,7 @@
     "featured_items_data": null,
     "business_sub_categories": null,
     "account_type": 33,
-    "_firestore_id": "cu0emh",
+    "_legacy_id": "cu0emh",
     "business_category": {
       "20": [
         "203"
@@ -3049,7 +3049,7 @@
     "username": "روفيدا",
     "Password": "12345",
     "account_type": 1,
-    "_firestore_id": "cv7yiz",
+    "_legacy_id": "cv7yiz",
     "is_delivery_eligible": 0,
     "read_model_version": 1,
     "business_name": null,
@@ -3109,7 +3109,7 @@
     "username": "Hossam darwish",
     "Password": "1111",
     "account_type": 33,
-    "_firestore_id": "dl14v1k7",
+    "_legacy_id": "dl14v1k7",
     "limitPackage": 0,
     "settings": {
       "isDelivered": 0
@@ -3177,7 +3177,7 @@
     "Password": "AbdallaFathi2233",
     "business_category": null,
     "username": "مؤسسه الفتح القانونيه",
-    "_firestore_id": "dp2en5",
+    "_legacy_id": "dp2en5",
     "account_type": 33,
     "settings": {
       "isDelivered": 0
@@ -3269,7 +3269,7 @@
     "username": "Almomen",
     "Password": "1140",
     "account_type": 33,
-    "_firestore_id": "ek59s9",
+    "_legacy_id": "ek59s9",
     "settings": {
       "isDelivered": 0
     },
@@ -3293,7 +3293,7 @@
     "username": "Sama Scan",
     "Password": "1119",
     "account_type": 33,
-    "_firestore_id": "ektvax",
+    "_legacy_id": "ektvax",
     "location": "29.9918425, 32.4846654",
     "limitPackage": 0,
     "settings": {
@@ -3351,7 +3351,7 @@
     "featured_items_data": null,
     "business_sub_categories": null,
     "account_type": 33,
-    "_firestore_id": "fc5qrr",
+    "_legacy_id": "fc5qrr",
     "business_category": {
       "4": [
         "1",
@@ -3457,7 +3457,7 @@
     },
     "limitPackage": null,
     "account_type": 1,
-    "_firestore_id": "fk7qdh",
+    "_legacy_id": "fk7qdh",
     "business_category": null,
     "username": "هويدا غريب سعد الدين",
     "Password": "111797",
@@ -3513,7 +3513,7 @@
     "Password": "1111",
     "business_category": null,
     "username": "hesham `105",
-    "_firestore_id": "fkpzkp",
+    "_legacy_id": "fkpzkp",
     "account_type": 33
   },
   {
@@ -3572,7 +3572,7 @@
       ]
     },
     "username": "صيدلية النجار",
-    "_firestore_id": "for2dd",
+    "_legacy_id": "for2dd",
     "account_type": 33,
     "business_sub_categories": null,
     "featured_items_data": {
@@ -3655,7 +3655,7 @@
       ]
     },
     "username": "اليسليلؤ",
-    "_firestore_id": "fsjhoo",
+    "_legacy_id": "fsjhoo",
     "account_type": 33,
     "business_sub_categories": null,
     "featured_items_data": null,
@@ -3696,7 +3696,7 @@
     "username": "Elzeny Delivery",
     "Password": "123456",
     "account_type": 33,
-    "_firestore_id": "ft9ti2",
+    "_legacy_id": "ft9ti2",
     "Address": "العب ابايت العب",
     "user_key": "ft9ti2",
     "created_at": "2026-02-24T19:12:46.102Z",
@@ -3750,7 +3750,7 @@
     "username": "هاف مليون",
     "Password": "Mohamed7111",
     "account_type": 33,
-    "_firestore_id": "fyrknc",
+    "_legacy_id": "fyrknc",
     "read_model_version": 1,
     "business_name": null,
     "is_delivery_eligible": 0,
@@ -3843,7 +3843,7 @@
     "username": "Elzeny test 2",
     "Password": "00000000",
     "account_type": 33,
-    "_firestore_id": "gax4e1"
+    "_legacy_id": "gax4e1"
   },
   {
     "_docId": "h149hi9e",
@@ -3851,7 +3851,7 @@
     "created_at": "2026-02-24T19:12:46.102Z",
     "user_key": "h149hi9e",
     "Address": "السويس الملاحه القديمه بيوتي سنتر سلمي",
-    "_firestore_id": "h149hi9e",
+    "_legacy_id": "h149hi9e",
     "account_type": 33,
     "Password": "25663",
     "business_category": null,
@@ -3906,7 +3906,7 @@
     "featured_items_data": null,
     "business_sub_categories": null,
     "account_type": 33,
-    "_firestore_id": "h3pfg0",
+    "_legacy_id": "h3pfg0",
     "username": "تجارة درويش للجملة",
     "business_category": null,
     "Password": "1111",
@@ -3975,7 +3975,7 @@
     "username": "بؤيببب",
     "Password": "1111",
     "account_type": 33,
-    "_firestore_id": "haxnnu",
+    "_legacy_id": "haxnnu",
     "Address": "يبيبيب",
     "user_key": "haxnnu",
     "created_at": "2026-04-17T20:25:32.667Z",
@@ -4055,7 +4055,7 @@
     "read_model_version": 1,
     "business_name": null,
     "account_type": 33,
-    "_firestore_id": "hdeh3x",
+    "_legacy_id": "hdeh3x",
     "username": "Candy online shop",
     "business_category": {
       "2": [
@@ -4094,7 +4094,7 @@
     "Password": "1111",
     "business_category": null,
     "username": "صثصثصث",
-    "_firestore_id": "i4g4z7",
+    "_legacy_id": "i4g4z7",
     "account_type": 1,
     "is_delivery_eligible": 0,
     "business_name": null,
@@ -4150,7 +4150,7 @@
     "featured_items_data": null,
     "business_sub_categories": null,
     "account_type": 1,
-    "_firestore_id": "iws87w",
+    "_legacy_id": "iws87w",
     "username": "register_user_30Eox3",
     "business_category": null,
     "Password": "P@ss_GxsyUXl6",
@@ -4245,7 +4245,7 @@
     "limitPackage": 0,
     "location": "29.9919051, 32.4843355",
     "account_type": 33,
-    "_firestore_id": "j0cggl",
+    "_legacy_id": "j0cggl",
     "business_category": {
       "1": [
         "1",
@@ -4261,7 +4261,7 @@
   },
   {
     "_docId": "jiyevi",
-    "_firestore_id": "jiyevi",
+    "_legacy_id": "jiyevi",
     "account_type": 33,
     "Password": "1148",
     "business_category": {
@@ -4380,7 +4380,7 @@
       "productRatingMode": "stars_comments"
     },
     "account_type": 33,
-    "_firestore_id": "jufqqo",
+    "_legacy_id": "jufqqo",
     "username": "Grand House قاعة",
     "business_category": {
       "17": [
@@ -4410,7 +4410,7 @@
     "Password": "121982",
     "username": "Reda elmasry",
     "business_category": null,
-    "_firestore_id": "k1902fmw",
+    "_legacy_id": "k1902fmw",
     "account_type": 33,
     "is_delivery_eligible": 0,
     "business_name": null,
@@ -4461,7 +4461,7 @@
     "location": "29.9668, 32.5498",
     "business_sub_categories": null,
     "featured_items_data": null,
-    "_firestore_id": "kdw15e",
+    "_legacy_id": "kdw15e",
     "account_type": 1,
     "Password": "P@ss_9tmpIes6",
     "business_category": null,
@@ -4565,7 +4565,7 @@
       ]
     },
     "username": "ZAD",
-    "_firestore_id": "l48ta4",
+    "_legacy_id": "l48ta4",
     "account_type": 33,
     "settings": {
       "isDelivered": 0
@@ -4611,7 +4611,7 @@
     "Password": "0109090455",
     "username": "ابو عابد للسيارات",
     "business_category": null,
-    "_firestore_id": "laji9w",
+    "_legacy_id": "laji9w",
     "account_type": 33,
     "business_sub_categories": null,
     "featured_items_data": null,
@@ -4667,7 +4667,7 @@
     "user_key": "liyjr3",
     "Address": "Hhhhhhhhh",
     "account_type": 1,
-    "_firestore_id": "liyjr3",
+    "_legacy_id": "liyjr3",
     "business_category": null,
     "username": "Hhh",
     "Password": "1111",
@@ -4686,7 +4686,7 @@
     "created_at": "2026-04-17T14:35:38.779Z",
     "user_key": "lwsedz",
     "Address": "يسيسيسيثثصث",
-    "_firestore_id": "lwsedz",
+    "_legacy_id": "lwsedz",
     "account_type": 33,
     "Password": "1111",
     "username": "يسبيسبيسبيسب",
@@ -4765,7 +4765,7 @@
       ]
     },
     "username": "Messi Store",
-    "_firestore_id": "lzl9vm",
+    "_legacy_id": "lzl9vm",
     "account_type": 33,
     "business_sub_categories": null,
     "featured_items_data": null,
@@ -4850,7 +4850,7 @@
     "username": "Nora Eccoway",
     "Password": "1131",
     "account_type": 33,
-    "_firestore_id": "m4y6bx",
+    "_legacy_id": "m4y6bx",
     "is_delivery_eligible": 0,
     "read_model_version": 1,
     "business_name": "Eco Kaizen منتجات يابانية",
@@ -4899,7 +4899,7 @@
     },
     "business_sub_categories": null,
     "featured_items_data": null,
-    "_firestore_id": "m9wzzm",
+    "_legacy_id": "m9wzzm",
     "account_type": 1,
     "Password": "Hesham0000",
     "business_category": null,
@@ -4957,7 +4957,7 @@
     },
     "business_sub_categories": null,
     "featured_items_data": null,
-    "_firestore_id": "mf6x0b",
+    "_legacy_id": "mf6x0b",
     "account_type": 33,
     "Password": "1162",
     "username": "قطفة و عصرة",
@@ -5026,7 +5026,7 @@
     "Password": "1111",
     "username": "الوو",
     "business_category": null,
-    "_firestore_id": "mre5av",
+    "_legacy_id": "mre5av",
     "account_type": 33,
     "settings": {
       "isDelivered": 0
@@ -5089,7 +5089,7 @@
     "location": "29.9798418, 32.5489627",
     "business_sub_categories": null,
     "featured_items_data": null,
-    "_firestore_id": "mwj4y3",
+    "_legacy_id": "mwj4y3",
     "account_type": 1,
     "Password": "2762001",
     "username": "israa Sayed",
@@ -5134,7 +5134,7 @@
     "Password": "ServicePass123",
     "business_category": "{\"services\":[\"repair\"]}",
     "username": "register_user_vd0d5J",
-    "_firestore_id": "mxcu1c",
+    "_legacy_id": "mxcu1c",
     "account_type": 33,
     "settings": "{\"isDelivered\":1,\"ratingEnabled\":true,\"ratingMode\":\"stars_only\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_only\",\"locations\":[{\"id\":\"loc_1779421470703_3nucnd\",\"coords\":\"31.2001, 29.9187\",\"address\":\"عنوان مُعدل jV8ENUXXhJ\",\"is_primary\":true},{\"id\":\"loc_1779421471769_8rtcgw\",\"coords\":\"30.0444, 31.2357\",\"address\":\"العنوان الثاني Us1FQieX71\",\"is_primary\":false}],\"deliveryMode\":\"self\",\"deliveryProviderKey\":\"\"}",
     "limitPackage": 150,
@@ -5217,7 +5217,7 @@
         "1"
       ]
     },
-    "_firestore_id": "my2okf",
+    "_legacy_id": "my2okf",
     "account_type": 33,
     "settings": {
       "productRatingMode": "stars_comments",
@@ -5284,7 +5284,7 @@
     "business_name": "البغدادى للادوات المنزليه الحديثة",
     "is_delivery_eligible": 0,
     "account_type": 33,
-    "_firestore_id": "nnhoch",
+    "_legacy_id": "nnhoch",
     "username": "البغدادى",
     "business_category": {
       "4": [],
@@ -5338,7 +5338,7 @@
     "username": "aaaa",
     "Password": "1111",
     "account_type": 33,
-    "_firestore_id": "nskjkj",
+    "_legacy_id": "nskjkj",
     "Address": "اكتب العنوان",
     "user_key": "nskjkj",
     "created_at": "2026-04-20T02:50:41.733Z",
@@ -5397,7 +5397,7 @@
     "location": "29.9918983, 32.4843308",
     "limitPackage": 0,
     "account_type": 33,
-    "_firestore_id": "nwo9hn",
+    "_legacy_id": "nwo9hn",
     "username": "Black and Rose",
     "business_category": {
       "4": [
@@ -5514,7 +5514,7 @@
     "location": "29.972018430252213, 32.55283355712891",
     "business_sub_categories": null,
     "featured_items_data": null,
-    "_firestore_id": "o11ihj",
+    "_legacy_id": "o11ihj",
     "account_type": 33,
     "Password": "1111",
     "business_category": {
@@ -5593,7 +5593,7 @@
         "8"
       ]
     },
-    "_firestore_id": "o69jdw",
+    "_legacy_id": "o69jdw",
     "account_type": 33
   },
   {
@@ -5647,7 +5647,7 @@
     "created_at": "2026-02-24T23:14:54.649Z",
     "user_key": "okswky",
     "Address": "السويس مول السويس",
-    "_firestore_id": "okswky",
+    "_legacy_id": "okswky",
     "account_type": 33,
     "Password": "1168",
     "username": "Ahmed Darak",
@@ -5713,7 +5713,7 @@
     "limitPackage": 0,
     "business_sub_categories": null,
     "featured_items_data": null,
-    "_firestore_id": "olxdyf",
+    "_legacy_id": "olxdyf",
     "account_type": 33,
     "Password": "S33h77@00",
     "business_category": null,
@@ -5767,7 +5767,7 @@
     "limitPackage": 0,
     "location": "29.991899, 32.4843257",
     "account_type": 33,
-    "_firestore_id": "on0cj9",
+    "_legacy_id": "on0cj9",
     "username": "Mascara",
     "business_category": {
       "4": [
@@ -5846,7 +5846,7 @@
       ]
     },
     "username": "حسام",
-    "_firestore_id": "otd7o3",
+    "_legacy_id": "otd7o3",
     "account_type": 1,
     "Address": "السلام",
     "user_key": "otd7o3",
@@ -5892,7 +5892,7 @@
     "Password": "158158ar",
     "business_category": null,
     "username": "عطاره الغريب",
-    "_firestore_id": "ow0bj2",
+    "_legacy_id": "ow0bj2",
     "account_type": 33,
     "business_sub_categories": null,
     "featured_items_data": null,
@@ -5932,7 +5932,7 @@
     "location": "29.966063130814355, 32.556781768798835",
     "limitPackage": 100,
     "account_type": 33,
-    "_firestore_id": "oyeggx",
+    "_legacy_id": "oyeggx",
     "business_category": {
       "1": [
         "1"
@@ -5990,7 +5990,7 @@
     "Password": "1111",
     "username": "Hhhh",
     "business_category": null,
-    "_firestore_id": "p7qfix",
+    "_legacy_id": "p7qfix",
     "account_type": 33,
     "user_key": "p7qfix",
     "Address": "السلام",
@@ -6050,7 +6050,7 @@
     "Password": "1111",
     "business_category": "{\"3\":[\"2\",\"4\",\"5\",\"11\"]}",
     "username": "Mohamed Elzeny",
-    "_firestore_id": "pngukw",
+    "_legacy_id": "pngukw",
     "account_type": 32,
     "business_name": "الزيني",
     "read_model_version": 1,
@@ -6119,7 +6119,7 @@
     "username": "product_seller_ea5zyJ",
     "Password": "ProductPass123",
     "account_type": 33,
-    "_firestore_id": "prod_seller_1yHcElNf",
+    "_legacy_id": "prod_seller_1yHcElNf",
     "Address": "Product live address EP6CJC",
     "user_key": "prod_seller_1yHcElNf",
     "created_at": "2026-05-22T03:44:35.383Z",
@@ -6154,7 +6154,7 @@
     "Password": "ProductPass123",
     "username": "product_seller_KKE1ra",
     "business_category": "{\"1\":[\"1\",\"2\"],\"3\":[\"5\",\"8\"],\"6\":[\"4\",\"7\"],\"46\":[\"1\"]}",
-    "_firestore_id": "prod_seller_VGnEuMSH",
+    "_legacy_id": "prod_seller_VGnEuMSH",
     "account_type": 33,
     "featured_items_data": null,
     "location": "29.9668, 32.5498",
@@ -6173,7 +6173,7 @@
     "limitPackage": 100,
     "settings": "{\"locations\":[{\"id\":\"loc_qLqk96UD\",\"coords\":\"29.9668, 32.5498\",\"address\":\"Product live address q6LHiO\",\"is_primary\":true}],\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\",\"isDelivered\":1}",
     "location": "29.9668, 32.5498",
-    "_firestore_id": "prod_seller_a46iQxtS",
+    "_legacy_id": "prod_seller_a46iQxtS",
     "account_type": 33,
     "Password": "ProductPass123",
     "business_category": "{\"1\":[\"1\",\"2\"],\"3\":[\"5\",\"8\"],\"6\":[\"4\",\"7\"],\"46\":[\"1\"]}",
@@ -6239,7 +6239,7 @@
     "limitPackage": 100,
     "featured_items_data": null,
     "account_type": 33,
-    "_firestore_id": "prod_seller_ubQaIbs8",
+    "_legacy_id": "prod_seller_ubQaIbs8",
     "username": "product_seller_80z5QM",
     "business_category": "{\"1\":[\"1\",\"2\"],\"3\":[\"5\",\"8\"],\"6\":[\"4\",\"7\"],\"46\":[\"1\"]}",
     "Password": "ProductPass123",
@@ -6280,7 +6280,7 @@
     "location": "31.2001, 29.9187",
     "limitPackage": 0,
     "featured_items_data": null,
-    "_firestore_id": "prof_6oUtIjEt",
+    "_legacy_id": "prof_6oUtIjEt",
     "account_type": 1,
     "Password": "BuyerProfilePass123",
     "username": "profile_buyer_5AUm9x_edited",
@@ -6338,7 +6338,7 @@
     "Address": "عنوان خدمة 3sq6k7",
     "user_key": "prof_FMyHwsQ0",
     "account_type": 32,
-    "_firestore_id": "prof_FMyHwsQ0",
+    "_legacy_id": "prof_FMyHwsQ0",
     "business_category": "{\"services\":[\"repair\"]}",
     "username": "profile_service_sFLtUG_edited",
     "Password": "ServiceProfilePass123",
@@ -6411,7 +6411,7 @@
     },
     "business_sub_categories": null,
     "featured_items_data": null,
-    "_firestore_id": "prof_FxpsJYoU",
+    "_legacy_id": "prof_FxpsJYoU",
     "account_type": 1,
     "Password": "BuyerProfilePass123",
     "business_category": {},
@@ -6454,7 +6454,7 @@
     "Password": "ProfilePass123",
     "username": "profile_buyer_z4x4BL",
     "business_category": "{}",
-    "_firestore_id": "prof_Jqc9Sjez",
+    "_legacy_id": "prof_Jqc9Sjez",
     "account_type": 1,
     "featured_items_data": null,
     "settings": "{\"locations\":[{\"id\":\"loc_odeHH4SH\",\"coords\":\"29.9668, 32.5498\",\"address\":\"عنوان مشتري uzySkm\",\"is_primary\":true}],\"isDelivered\":0,\"limitPackage\":0,\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\"}",
@@ -6523,7 +6523,7 @@
     },
     "business_sub_categories": null,
     "featured_items_data": null,
-    "_firestore_id": "prof_PPg7YUES",
+    "_legacy_id": "prof_PPg7YUES",
     "account_type": 1,
     "Password": "ProfilePass123",
     "business_category": {},
@@ -6534,7 +6534,7 @@
     "Password": "ProfilePass123",
     "username": "profile_buyer_LisR6Z",
     "business_category": "{}",
-    "_firestore_id": "prof_VCbSn2sL",
+    "_legacy_id": "prof_VCbSn2sL",
     "account_type": 1,
     "featured_items_data": null,
     "settings": "{\"locations\":[{\"id\":\"loc_pbaMaGSi\",\"coords\":\"29.9668, 32.5498\",\"address\":\"عنوان مشتري yAqI8V\",\"is_primary\":true}],\"isDelivered\":0,\"limitPackage\":0,\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\"}",
@@ -6613,7 +6613,7 @@
     "business_name": "Baseline Biz nkCYC",
     "read_model_version": 1,
     "is_delivery_eligible": 0,
-    "_firestore_id": "prof_YTiiPnHC",
+    "_legacy_id": "prof_YTiiPnHC",
     "account_type": 33,
     "Password": "ProfilePass123",
     "username": "profile_service_akeZDO",
@@ -6689,7 +6689,7 @@
     "Address": "العنوان الثاني PkBqFhT7cq",
     "user_key": "prof_bwQTodtc",
     "account_type": 1,
-    "_firestore_id": "prof_bwQTodtc",
+    "_legacy_id": "prof_bwQTodtc",
     "username": "profile_buyer_jRBGvC_edited",
     "business_category": {},
     "Password": "BuyerProfilePass123",
@@ -6754,7 +6754,7 @@
     "location": "29.9668, 32.5498",
     "featured_items_data": null,
     "account_type": 32,
-    "_firestore_id": "prof_iUtv1Md0",
+    "_legacy_id": "prof_iUtv1Md0",
     "username": "profile_service_O5WiNw",
     "business_category": "{\"services\":[\"repair\"]}",
     "Password": "ProfilePass123",
@@ -6800,7 +6800,7 @@
     "settings": "{\"locations\":[{\"id\":\"loc_8KKath3T\",\"coords\":\"29.9668, 32.5498\",\"address\":\"عنوان مشتري jPlpTV\",\"is_primary\":true}],\"isDelivered\":0,\"limitPackage\":0,\"ratingEnabled\":true,\"ratingMode\":\"stars_comments\",\"productRatingEnabled\":true,\"productRatingMode\":\"stars_comments\"}",
     "limitPackage": 0,
     "location": "29.9668, 32.5498",
-    "_firestore_id": "prof_lu9SSJll",
+    "_legacy_id": "prof_lu9SSJll",
     "account_type": 1,
     "Password": "ProfilePass123",
     "username": "profile_buyer_7ANhP5",
@@ -6850,7 +6850,7 @@
     },
     "business_sub_categories": null,
     "featured_items_data": null,
-    "_firestore_id": "q2pnmi",
+    "_legacy_id": "q2pnmi",
     "account_type": 33,
     "Password": "1111",
     "username": "Gdd ddsc",
@@ -6892,7 +6892,7 @@
     "is_delivery_eligible": 0,
     "business_name": "صيدلية دكتور محمد حمدي عيسى",
     "read_model_version": 1,
-    "_firestore_id": "q62uuv",
+    "_legacy_id": "q62uuv",
     "account_type": 33,
     "Password": "Essa2002",
     "username": "صيدلية محمد حمدي عيسى",
@@ -6951,7 +6951,7 @@
     },
     "limitPackage": null,
     "account_type": 33,
-    "_firestore_id": "q7uz7a",
+    "_legacy_id": "q7uz7a",
     "business_category": {
       "12": [
         "4",
@@ -7038,7 +7038,7 @@
         "3"
       ]
     },
-    "_firestore_id": "qgrlqy",
+    "_legacy_id": "qgrlqy",
     "account_type": 33,
     "business_name": "هاند ميد تيسير الصاوى",
     "read_model_version": 1,
@@ -7130,7 +7130,7 @@
     "featured_items_data": null,
     "business_sub_categories": null,
     "account_type": 33,
-    "_firestore_id": "qpfdyp",
+    "_legacy_id": "qpfdyp",
     "business_category": {
       "3": [
         "8"
@@ -7158,7 +7158,7 @@
     "Password": "1111",
     "business_category": null,
     "username": "Malika hossam",
-    "_firestore_id": "qy79r49s",
+    "_legacy_id": "qy79r49s",
     "account_type": 33,
     "user_key": "qy79r49s",
     "Address": "السلام 2 شارع المركز الطبى بجوار كازيون",
@@ -7241,7 +7241,7 @@
         "1"
       ]
     },
-    "_firestore_id": "sh3raq",
+    "_legacy_id": "sh3raq",
     "account_type": 33,
     "business_sub_categories": null,
     "featured_items_data": null,
@@ -7259,7 +7259,7 @@
   {
     "_docId": "spmjg8",
     "account_type": 33,
-    "_firestore_id": "spmjg8",
+    "_legacy_id": "spmjg8",
     "business_category": {
       "2": [
         "7"
@@ -7345,7 +7345,7 @@
     },
     "limitPackage": 0,
     "location": "29.96412710451809, 32.55317687988282",
-    "_firestore_id": "sub1zi",
+    "_legacy_id": "sub1zi",
     "account_type": 33,
     "Password": "1111",
     "username": "اليسليليل",
@@ -7418,7 +7418,7 @@
     "Password": "ServicePass123",
     "username": "register_user_k3ElbV",
     "business_category": "{\"services\":[\"repair\"]}",
-    "_firestore_id": "t6wman",
+    "_legacy_id": "t6wman",
     "account_type": 33,
     "featured_items_data": null,
     "limitPackage": 0,
@@ -7478,7 +7478,7 @@
     },
     "Password": "1143",
     "account_type": 33,
-    "_firestore_id": "tdeggy",
+    "_legacy_id": "tdeggy",
     "limitPackage": 0,
     "location": "29.9919039, 32.4843364",
     "settings": {
@@ -7544,7 +7544,7 @@
       "isDelivered": 0
     },
     "account_type": 33,
-    "_firestore_id": "u9boqg",
+    "_legacy_id": "u9boqg",
     "business_category": {
       "20": [
         "202",
@@ -7569,7 +7569,7 @@
     },
     "location": null,
     "limitPackage": 0,
-    "_firestore_id": "uaugvf",
+    "_legacy_id": "uaugvf",
     "account_type": 1,
     "Password": "2762001",
     "username": "israa Sayed",
@@ -7624,7 +7624,7 @@
     "featured_items_data": null,
     "business_sub_categories": null,
     "account_type": 33,
-    "_firestore_id": "uue3t3",
+    "_legacy_id": "uue3t3",
     "username": "Koky Brand",
     "business_category": {
       "1": [
@@ -7721,7 +7721,7 @@
     "Address": "اونلاين",
     "user_key": "uv8a4o",
     "account_type": 33,
-    "_firestore_id": "uv8a4o",
+    "_legacy_id": "uv8a4o",
     "username": "Mona",
     "business_category": {
       "3": [
@@ -7799,7 +7799,7 @@
         "4"
       ]
     },
-    "_firestore_id": "uy9kwv",
+    "_legacy_id": "uy9kwv",
     "account_type": 33,
     "business_sub_categories": null,
     "featured_items_data": null,
@@ -7837,7 +7837,7 @@
     },
     "location": "29.954280057056348, 32.52227783203126",
     "account_type": 33,
-    "_firestore_id": "v7iayi",
+    "_legacy_id": "v7iayi",
     "username": "+201026546550",
     "business_category": {
       "2": [
@@ -7938,7 +7938,7 @@
         "8"
       ]
     },
-    "_firestore_id": "v8p7jb",
+    "_legacy_id": "v8p7jb",
     "account_type": 33,
     "location": "29.9919037, 32.4843419",
     "limitPackage": 0,
@@ -7959,7 +7959,7 @@
     "business_category": null,
     "Password": "Mohamednsreen@292021",
     "account_type": 33,
-    "_firestore_id": "vw8m8t",
+    "_legacy_id": "vw8m8t",
     "location": null,
     "limitPackage": null,
     "settings": {
@@ -8036,7 +8036,7 @@
     "read_model_version": 1,
     "business_name": null,
     "account_type": 33,
-    "_firestore_id": "w434wx",
+    "_legacy_id": "w434wx",
     "username": "Chusco suez",
     "business_category": null,
     "Password": "chusco12345",
@@ -8113,7 +8113,7 @@
     },
     "Password": "1145",
     "account_type": 33,
-    "_firestore_id": "w9opmy"
+    "_legacy_id": "w9opmy"
   },
   {
     "_docId": "wjo9v8",
@@ -8128,7 +8128,7 @@
         "203"
       ]
     },
-    "_firestore_id": "wjo9v8",
+    "_legacy_id": "wjo9v8",
     "account_type": 33,
     "settings": {
       "isDelivered": 0
@@ -8203,7 +8203,7 @@
     "username": "Koko shoes store",
     "Password": "1127",
     "account_type": 33,
-    "_firestore_id": "wn7gtc",
+    "_legacy_id": "wn7gtc",
     "read_model_version": 1,
     "business_name": "Koko Shoes Store",
     "is_delivery_eligible": 0,
@@ -8248,7 +8248,7 @@
     "created_at": "2026-02-24T19:12:46.102Z",
     "user_key": "wtlrmg",
     "Address": "السويس  شارع طلعت حرب",
-    "_firestore_id": "wtlrmg",
+    "_legacy_id": "wtlrmg",
     "account_type": 33,
     "Password": "4010",
     "business_category": {
@@ -8344,7 +8344,7 @@
     "Password": "1111",
     "username": "Elzeny Bayer",
     "business_category": "{\"3\":[\"1\",\"2\",\"3\",\"4\",\"7\",\"11\"]}",
-    "_firestore_id": "y0ks5y",
+    "_legacy_id": "y0ks5y",
     "account_type": 32,
     "location": "29.9884091, 32.5135941",
     "limitPackage": 0,
@@ -8440,7 +8440,7 @@
     "username": "M&s brand",
     "Password": "1129",
     "account_type": 33,
-    "_firestore_id": "y379lz",
+    "_legacy_id": "y379lz",
     "settings": {
       "isDelivered": 0
     },
@@ -8490,7 +8490,7 @@
     "business_category": null,
     "Password": "LOLYloly246810@@",
     "account_type": 33,
-    "_firestore_id": "ylfxs6",
+    "_legacy_id": "ylfxs6",
     "limitPackage": 0,
     "location": "29.961400533522177, 32.51679135678687",
     "settings": {
@@ -8561,7 +8561,7 @@
         "3"
       ]
     },
-    "_firestore_id": "yx4x13",
+    "_legacy_id": "yx4x13",
     "account_type": 33,
     "location": "29.964266753941065, 32.55634104086926",
     "limitPackage": 0,
@@ -8623,7 +8623,7 @@
     "read_model_version": 1,
     "business_name": "بليبليبلبيليبل",
     "account_type": 33,
-    "_firestore_id": "zo0pjv",
+    "_legacy_id": "zo0pjv",
     "username": "فلقثفثقفثقف",
     "business_category": {
       "2": [
@@ -8660,7 +8660,7 @@
   },
   {
     "_docId": "zp12ir",
-    "_firestore_id": "zp12ir",
+    "_legacy_id": "zp12ir",
     "account_type": 1,
     "Password": "1111",
     "username": "لييليل",
@@ -8771,7 +8771,7 @@
     "settings": {
       "isDelivered": 0
     },
-    "_firestore_id": "zsgekm",
+    "_legacy_id": "zsgekm",
     "account_type": 33,
     "Password": "100100",
     "business_category": {
@@ -8819,7 +8819,7 @@
     "user_key": "zxxu28",
     "Address": "المميز 2",
     "account_type": 33,
-    "_firestore_id": "zxxu28",
+    "_legacy_id": "zxxu28",
     "username": "hesham 102",
     "business_category": null,
     "Password": "1111",
@@ -8858,7 +8858,7 @@
     },
     "Password": "1152",
     "account_type": 33,
-    "_firestore_id": "zynpp7",
+    "_legacy_id": "zynpp7",
     "Address": "اونلاين",
     "user_key": "zynpp7",
     "created_at": "2026-02-24T19:12:46.102Z",

@@ -5,7 +5,7 @@
 import {
   PRIMARY_KEYS,
   parseIncomingPayload,
-  encodeFirestoreDoc,
+  encodeDocument,
   getDocById,
   queryCollection,
   upsertDoc,
@@ -37,7 +37,7 @@ export default async function handler(req, res) {
       const id = params.get("id");
       if (id) {
         const row = await getDocById(collection, id);
-        const doc = row ? encodeFirestoreDoc(collection, row) : null;
+        const doc = row ? encodeDocument(collection, row) : null;
         return res.status(200).json(doc);
       }
 
@@ -53,7 +53,7 @@ export default async function handler(req, res) {
           },
         };
         const rows = await queryCollection(collection, where, null, Number(params.get("limit") || 500), Number(params.get("offset") || 0));
-        const docs = rows.map((row) => encodeFirestoreDoc(collection, row));
+        const docs = rows.map((row) => encodeDocument(collection, row));
         return res.status(200).json(docs);
       }
       if (field && values) {
@@ -66,12 +66,12 @@ export default async function handler(req, res) {
           },
         };
         const rows = await queryCollection(collection, where, null, Number(params.get("limit") || 500), Number(params.get("offset") || 0));
-        const docs = rows.map((row) => encodeFirestoreDoc(collection, row));
+        const docs = rows.map((row) => encodeDocument(collection, row));
         return res.status(200).json(docs);
       }
 
       const rows = await queryCollection(collection, null, null, Number(params.get("limit") || 500), Number(params.get("offset") || 0));
-      const docs = rows.map((row) => encodeFirestoreDoc(collection, row));
+      const docs = rows.map((row) => encodeDocument(collection, row));
       return res.status(200).json(docs);
     }
 
@@ -87,7 +87,7 @@ export default async function handler(req, res) {
         const limit = Number.isInteger(payload.limit) ? payload.limit : (payload.limit ? Number(payload.limit) : null);
         const offset = Number.isInteger(payload.offset) ? payload.offset : (payload.offset ? Number(payload.offset) : 0);
         const rows = await queryCollection(payload.collectionName, where, orderBy, limit, offset);
-        const docs = rows.map((row) => encodeFirestoreDoc(payload.collectionName, row));
+        const docs = rows.map((row) => encodeDocument(payload.collectionName, row));
         return res.status(200).json({ docs });
       }
       const collectionName = payload.collection || collection;
@@ -96,7 +96,7 @@ export default async function handler(req, res) {
       }
       const docId = payload.id || payload[PRIMARY_KEYS[collectionName]];
       const doc = await upsertDoc(collectionName, docId, payload);
-      return res.status(200).json(encodeFirestoreDoc(collectionName, doc));
+      return res.status(200).json(encodeDocument(collectionName, doc));
     }
 
     if (req.method === "PUT") {
@@ -106,7 +106,7 @@ export default async function handler(req, res) {
       const body = payload;
       const docId = params.get("id") || body.id || body[PRIMARY_KEYS[collection]];
       const doc = await upsertDoc(collection, docId, body);
-      return res.status(200).json(encodeFirestoreDoc(collection, doc));
+      return res.status(200).json(encodeDocument(collection, doc));
     }
 
     if (req.method === "DELETE") {

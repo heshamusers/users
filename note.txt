@@ -4,8 +4,8 @@ https://github.com/heshamusers/users.git
 جرب ssh -T git@github-hesham
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPLmJCfWXvoaD287k90jKjMelBnZA9wZJmeB2WFIJNTm heshamusers
 
-هذا المشروع يستخدم Turso وواجهات HTTP للهوية بدلاً من Firestore.
+هذا المشروع يستخدم Turso وواجهات HTTP للهوية.
 
 ملاحظات:
-- لا يوجد دعم Firestore نشط في هذا المشروع.
+- لا توجد تبعيات أو دعم لمصادر بيانات قديمة في هذا المشروع.
 - البيانات تُقرأ عبر `api/identity.js` من قواعد Turso.

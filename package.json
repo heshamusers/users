@@ -2,7 +2,7 @@
   "name": "users-baad9",
   "version": "1.0.0",
   "type": "module",
-  "description": "مشروع المستخدمين مبني على Turso وواجهة HTTP للهوية بدل Firestore",
+  "description": "مشروع المستخدمين مبني على Turso وواجهة HTTP للهوية.",
   "scripts": {
   },
   "dependencies": {
