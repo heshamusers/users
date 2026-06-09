@@ -14,9 +14,4 @@ Firebase Commands:
 - npm run indexes:list       # List current indexes
 - npm run db:backup          # Backup database to local_db/
 
-
-
-
-
 npm run db:backup
-
