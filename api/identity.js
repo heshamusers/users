@@ -153,17 +153,24 @@ export default async function handler(req, res) {
         const offset = Number.isInteger(payload.offset) ? payload.offset : (payload.offset ? Number(payload.offset) : 0);
         
         console.log(`[identity] Calling queryCollection("${payload.collectionName}") with where=${where ? 'yes' : 'no'}...`);
+        
+        // Enable debug info collection
+        const debugMode = new URL(`http://localhost${req.url}`).searchParams.get("debug") === "1";
+        if (debugMode) {
+          global._queryDebug = { sql: null, params: null };
+        }
+        
         const rows = await queryCollection(payload.collectionName, where, orderBy, limit, offset);
         console.log(`[identity] queryCollection returned ${rows.length} rows`);
         const docs = rows.map((row) => encodeDocument(payload.collectionName, row));
         
-        // Debug mode: if empty results and debug param present, return debug info
-        const isDebug = new URL(`http://localhost${req.url}`).searchParams.get("debug") === "1";
-        if (docs.length === 0 && isDebug) {
+        // Return with debug info if requested and empty
+        if (debugMode && docs.length === 0) {
           return res.status(200).json({
             debug: true,
             docs: [],
             where: where,
+            debugInfo: global._queryDebug,
             message: "No results found"
           });
         }
