@@ -14,14 +14,18 @@ function setCorsHeaders(res) {
   res.setHeader("Access-Control-Allow-Headers", "Content-Type");
 }
 
-async function fieldFilter(fieldPath, op, value) {
+function fieldFilter(fieldPath, op, value) {
+  const encodeValue = (v) => {
+    if (v === null || v === undefined) return { nullValue: null };
+    if (typeof v === "number") return { integerValue: String(v) };
+    return { stringValue: String(v) };
+  };
+  
   return {
     fieldFilter: {
       field: { fieldPath },
       op,
-      value: typeof value === 'string' ? { stringValue: value } : 
-             typeof value === 'number' ? { integerValue: String(value) } :
-             { stringValue: String(value) }
+      value: encodeValue(value)
     },
   };
 }
@@ -57,8 +61,8 @@ export default async function handler(req, res) {
       if (mode === "category_search" && (mainId || subId)) {
         // Query user_specialties for matching categories
         const specialtyFilters = [];
-        if (mainId) specialtyFilters.push(await fieldFilter("main_category_id", "EQUAL", mainId));
-        if (subId) specialtyFilters.push(await fieldFilter("sub_category_id", "EQUAL", subId));
+        if (mainId) specialtyFilters.push(fieldFilter("main_category_id", "EQUAL", mainId));
+        if (subId) specialtyFilters.push(fieldFilter("sub_category_id", "EQUAL", subId));
 
         const where = compositeFilter(specialtyFilters);
         const specialtyRows = await queryCollection("user_specialties", where, null, 10000, 0);
@@ -73,6 +77,12 @@ export default async function handler(req, res) {
         }
 
         // Query users by user_keys
+        const encodeValue = (v) => {
+          if (v === null || v === undefined) return { nullValue: null };
+          if (typeof v === "number") return { integerValue: String(v) };
+          return { stringValue: String(v) };
+        };
+        
         const userWhere = {
           fieldFilter: {
             field: { fieldPath: "user_key" },
