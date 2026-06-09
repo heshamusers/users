@@ -156,6 +156,18 @@ export default async function handler(req, res) {
         const rows = await queryCollection(payload.collectionName, where, orderBy, limit, offset);
         console.log(`[identity] queryCollection returned ${rows.length} rows`);
         const docs = rows.map((row) => encodeDocument(payload.collectionName, row));
+        
+        // Debug mode: if empty results and debug param present, return debug info
+        const isDebug = new URL(`http://localhost${req.url}`).searchParams.get("debug") === "1";
+        if (docs.length === 0 && isDebug) {
+          return res.status(200).json({
+            debug: true,
+            docs: [],
+            where: where,
+            message: "No results found"
+          });
+        }
+        
         return res.status(200).json(docs);
       }
       
