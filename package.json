@@ -4,6 +4,7 @@
   "type": "module",
   "description": "مشروع المستخدمين مبني على Turso وواجهة HTTP للهوية.",
   "scripts": {
+    "dev": "vercel dev"
   },
   "dependencies": {
     "@libsql/client": "^0.17.3",
