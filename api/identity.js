@@ -122,14 +122,19 @@ export default async function handler(req, res) {
         }
       } catch (e) {
         console.error(`[identity] Error parsing body: ${e.message}`);
-        if (req.method === 'POST' && req.url.includes('action=')) {
-          // Query action requires valid JSON
+        if (req.method === 'POST') {
           return res.status(400).json({ error: `Invalid JSON body: ${e.message}` });
         }
         bodyData = {};
       }
     }
-    const payload = parseIncomingPayload(bodyData);
+    
+    // For POST with query action, bodyData is already the payload
+    // For other requests, use parseIncomingPayload for backwards compatibility
+    let payload = bodyData;
+    if (payload && payload.action !== 'query' && !payload.collectionName) {
+      payload = parseIncomingPayload(bodyData);
+    }
 
     if (req.method === "POST") {
       if (payload.action === "query") {
