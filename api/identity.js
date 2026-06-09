@@ -1,6 +1,7 @@
 /**
  * @file api/identity.js
  * @description Generic Turso-backed identity endpoint for users project.
+ * Version: 2.0 - Fixed req.json() incompatibility with Vercel serverless
  */
 import {
   PRIMARY_KEYS,
