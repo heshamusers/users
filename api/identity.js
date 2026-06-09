@@ -22,8 +22,19 @@ function setCorsHeaders(res) {
 async function readBody(req) {
   return new Promise((resolve, reject) => {
     let data = '';
-    req.on('data', chunk => data += chunk);
-    req.on('end', () => resolve(data));
+    req.on('data', chunk => {
+      data += chunk;
+      if (data.length > 1e6) {
+        reject(new Error('Payload too large'));
+      }
+    });
+    req.on('end', () => {
+      try {
+        resolve(data);
+      } catch (e) {
+        reject(e);
+      }
+    });
     req.on('error', reject);
   });
 }
@@ -88,16 +99,22 @@ export default async function handler(req, res) {
     if (req.method === 'POST' || req.method === 'PUT') {
       try {
         const rawBody = await readBody(req);
+        console.log(`[identity] Raw body received (length: ${rawBody.length}):`, rawBody.substring(0, 200));
         bodyData = rawBody ? JSON.parse(rawBody) : {};
+        console.log(`[identity] Parsed bodyData:`, bodyData);
       } catch (e) {
+        console.error(`[identity] Error parsing body:`, e.message);
         bodyData = {};
       }
     }
     const payload = parseIncomingPayload(bodyData);
+    console.log(`[identity] After parseIncomingPayload, payload:`, payload);
 
     if (req.method === "POST") {
+      console.log(`[identity] POST request, checking action: ${payload.action}`);
       if (payload.action === "query") {
         if (!payload.collectionName) {
+          console.error(`[identity] Missing collectionName in query action`);
           return res.status(400).json({ error: "collectionName is required" });
         }
         const where = payload.where || null;
@@ -113,8 +130,11 @@ export default async function handler(req, res) {
         console.log(`[identity] POST query result: found ${docs.length} documents`);
         return res.status(200).json(docs);
       }
+      
+      console.log(`[identity] POST action not query, treating as upsert. collection=${payload.collection}, url collection param=${collection}`);
       const collectionName = payload.collection || collection;
       if (!collectionName) {
+        console.error(`[identity] Missing collectionName for upsert`);
         return res.status(400).json({ error: "collection is required" });
       }
       const docId = payload.id || payload[PRIMARY_KEYS[collectionName]];
