@@ -188,6 +188,13 @@ export default async function handler(req, res) {
         }
         // Prefer explicit id query param when present (clients often PUT the id in the URL for POST requests)
         const docId = params.get("id") || payload.id || payload[PRIMARY_KEYS[collectionName]];
+
+        // Remove internal-only fields that should not be persisted to SQL tables
+        if (payload && Object.prototype.hasOwnProperty.call(payload, '_firestore_id')) {
+          console.log('[identity] Removing internal field _firestore_id from payload before upsert');
+          delete payload._firestore_id;
+        }
+
         const doc = await upsertDoc(collectionName, docId, payload);
       return res.status(200).json(encodeDocument(collectionName, doc));
     }
