@@ -2,7 +2,7 @@
  * @file get-schema.js
  * @description جلب شيما قاعدة البيانات من Turso
  */
-import { db } from "./lib/db.js";
+import { db } from "../lib/db.js";
 import dotenv from "dotenv";
 
 dotenv.config();
