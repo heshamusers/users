@@ -183,11 +183,12 @@ export default async function handler(req, res) {
       }
       
       const collectionName = payload.collection || collection;
-      if (!collectionName) {
-        return res.status(400).json({ error: "collection is required" });
-      }
-      const docId = payload.id || payload[PRIMARY_KEYS[collectionName]];
-      const doc = await upsertDoc(collectionName, docId, payload);
+        if (!collectionName) {
+          return res.status(400).json({ error: "collection is required" });
+        }
+        // Prefer explicit id query param when present (clients often PUT the id in the URL for POST requests)
+        const docId = params.get("id") || payload.id || payload[PRIMARY_KEYS[collectionName]];
+        const doc = await upsertDoc(collectionName, docId, payload);
       return res.status(200).json(encodeDocument(collectionName, doc));
     }
 
