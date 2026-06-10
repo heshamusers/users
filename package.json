@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "@libsql/client": "^0.17.3",
-    "dotenv": "^17.4.2"
+    "better-sqlite3": "^12.10.0",
+    "dotenv": "^17.4.2",
+    "sqlite3": "^6.0.1"
   },
   "devDependencies": {
     "vercel": "^54.10.3"
