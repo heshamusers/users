@@ -1,0 +1,6610 @@
+[
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/682dri6b_1_1",
+    "fields": {
+      "user_key": {
+        "stringValue": "682dri6b"
+      },
+      "created_at": {
+        "stringValue": "2026-06-05T02:53:45.082Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "source": {
+        "stringValue": "browser_update"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-05T02:53:45.082Z"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "682dri6b_1_1"
+      }
+    },
+    "createTime": "2026-06-05T02:53:44.815845Z",
+    "updateTime": "2026-06-05T02:53:44.815845Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/682dri6b_1_13",
+    "fields": {
+      "user_key": {
+        "stringValue": "682dri6b"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-06-05T02:53:45.082Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-05T02:53:45.082Z"
+      },
+      "source": {
+        "stringValue": "browser_update"
+      },
+      "id": {
+        "stringValue": "682dri6b_1_13"
+      },
+      "sub_category_id": {
+        "stringValue": "13"
+      }
+    },
+    "createTime": "2026-06-05T02:53:44.818057Z",
+    "updateTime": "2026-06-05T02:53:44.818057Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/682dri6b_1_2",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-06-05T02:53:45.082Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "682dri6b"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "682dri6b_1_2"
+      },
+      "source": {
+        "stringValue": "browser_update"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-05T02:53:45.082Z"
+      }
+    },
+    "createTime": "2026-06-05T02:53:44.821090Z",
+    "updateTime": "2026-06-05T02:53:44.821090Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/682dri6b_20_302",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "20"
+      },
+      "created_at": {
+        "stringValue": "2026-06-05T02:53:45.082Z"
+      },
+      "user_key": {
+        "stringValue": "682dri6b"
+      },
+      "id": {
+        "stringValue": "682dri6b_20_302"
+      },
+      "sub_category_id": {
+        "stringValue": "302"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-05T02:53:45.082Z"
+      },
+      "source": {
+        "stringValue": "browser_update"
+      }
+    },
+    "createTime": "2026-06-05T02:53:44.822724Z",
+    "updateTime": "2026-06-05T02:53:44.822724Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/682dri6b_44_1",
+    "fields": {
+      "id": {
+        "stringValue": "682dri6b_44_1"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-05T02:53:45.082Z"
+      },
+      "source": {
+        "stringValue": "browser_update"
+      },
+      "main_category_id": {
+        "stringValue": "44"
+      },
+      "created_at": {
+        "stringValue": "2026-06-05T02:53:45.082Z"
+      },
+      "user_key": {
+        "stringValue": "682dri6b"
+      }
+    },
+    "createTime": "2026-06-05T02:53:44.834811Z",
+    "updateTime": "2026-06-05T02:53:44.834811Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/682dri6b_7_1",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "7"
+      },
+      "created_at": {
+        "stringValue": "2026-06-05T02:53:45.082Z"
+      },
+      "user_key": {
+        "stringValue": "682dri6b"
+      },
+      "id": {
+        "stringValue": "682dri6b_7_1"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-05T02:53:45.082Z"
+      },
+      "source": {
+        "stringValue": "browser_update"
+      }
+    },
+    "createTime": "2026-06-05T02:53:44.827476Z",
+    "updateTime": "2026-06-05T02:53:44.827476Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/9updjg_46_root",
+    "fields": {
+      "sub_category_id": {
+        "nullValue": null
+      },
+      "id": {
+        "stringValue": "9updjg_46_root"
+      },
+      "source": {
+        "stringValue": "browser_create"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T18:47:26.290Z"
+      },
+      "created_at": {
+        "stringValue": "2026-06-04T18:47:26.290Z"
+      },
+      "main_category_id": {
+        "stringValue": "46"
+      },
+      "user_key": {
+        "stringValue": "9updjg"
+      }
+    },
+    "createTime": "2026-06-04T18:47:26.957375Z",
+    "updateTime": "2026-06-04T18:47:26.957375Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/9vjh7w_1_13",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T03:10:31.671Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "9vjh7w"
+      },
+      "sub_category_id": {
+        "stringValue": "13"
+      },
+      "id": {
+        "stringValue": "9vjh7w_1_13"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T03:10:31.671Z"
+      }
+    },
+    "createTime": "2026-05-21T03:10:33.049431Z",
+    "updateTime": "2026-05-21T03:10:33.049431Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/mxcu1c_services_repair",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-22T03:44:53.776Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "id": {
+        "stringValue": "mxcu1c_services_repair"
+      },
+      "sub_category_id": {
+        "stringValue": "repair"
+      },
+      "user_key": {
+        "stringValue": "mxcu1c"
+      },
+      "main_category_id": {
+        "stringValue": "services"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:44:53.776Z"
+      }
+    },
+    "createTime": "2026-05-22T03:44:54.508490Z",
+    "updateTime": "2026-05-22T03:44:54.508490Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/pngukw_3_11",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-06-02T20:22:02.782Z"
+      },
+      "source": {
+        "stringValue": "browser_update"
+      },
+      "id": {
+        "stringValue": "pngukw_3_11"
+      },
+      "sub_category_id": {
+        "stringValue": "11"
+      },
+      "user_key": {
+        "stringValue": "pngukw"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "created_at": {
+        "stringValue": "2026-06-02T20:22:02.782Z"
+      }
+    },
+    "createTime": "2026-06-02T20:22:03.533758Z",
+    "updateTime": "2026-06-02T20:22:03.533758Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/pngukw_3_2",
+    "fields": {
+      "user_key": {
+        "stringValue": "pngukw"
+      },
+      "created_at": {
+        "stringValue": "2026-06-02T20:22:02.782Z"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "source": {
+        "stringValue": "browser_update"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-02T20:22:02.782Z"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "pngukw_3_2"
+      }
+    },
+    "createTime": "2026-06-02T20:22:03.536724Z",
+    "updateTime": "2026-06-02T20:22:03.536724Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/pngukw_3_4",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "created_at": {
+        "stringValue": "2026-06-02T20:22:02.782Z"
+      },
+      "user_key": {
+        "stringValue": "pngukw"
+      },
+      "id": {
+        "stringValue": "pngukw_3_4"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-02T20:22:02.782Z"
+      },
+      "source": {
+        "stringValue": "browser_update"
+      }
+    },
+    "createTime": "2026-06-02T20:22:03.545871Z",
+    "updateTime": "2026-06-02T20:22:03.545871Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/pngukw_3_5",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-06-02T20:22:02.782Z"
+      },
+      "source": {
+        "stringValue": "browser_update"
+      },
+      "id": {
+        "stringValue": "pngukw_3_5"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "user_key": {
+        "stringValue": "pngukw"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "created_at": {
+        "stringValue": "2026-06-02T20:22:02.782Z"
+      }
+    },
+    "createTime": "2026-06-02T20:22:03.540909Z",
+    "updateTime": "2026-06-02T20:22:03.540909Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_1yHcElNf_1_1",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-22T03:44:35.383Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "id": {
+        "stringValue": "prod_seller_1yHcElNf_1_1"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_1yHcElNf"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:44:35.383Z"
+      }
+    },
+    "createTime": "2026-05-22T03:44:36.689855Z",
+    "updateTime": "2026-05-22T03:44:36.689855Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_1yHcElNf_1_2",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "prod_seller_1yHcElNf_1_2"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:44:35.383Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:44:35.383Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_1yHcElNf"
+      }
+    },
+    "createTime": "2026-05-22T03:44:37.436460Z",
+    "updateTime": "2026-05-22T03:44:37.436460Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_1yHcElNf_3_5",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:44:35.383Z"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_1yHcElNf"
+      },
+      "id": {
+        "stringValue": "prod_seller_1yHcElNf_3_5"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:44:35.383Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      }
+    },
+    "createTime": "2026-05-22T03:44:37.444921Z",
+    "updateTime": "2026-05-22T03:44:37.444921Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_1yHcElNf_3_8",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-22T03:44:35.383Z"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_1yHcElNf"
+      },
+      "sub_category_id": {
+        "stringValue": "8"
+      },
+      "id": {
+        "stringValue": "prod_seller_1yHcElNf_3_8"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:44:35.383Z"
+      }
+    },
+    "createTime": "2026-05-22T03:44:37.440701Z",
+    "updateTime": "2026-05-22T03:44:37.440701Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_1yHcElNf_46_1",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "46"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:44:35.383Z"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_1yHcElNf"
+      },
+      "id": {
+        "stringValue": "prod_seller_1yHcElNf_46_1"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:44:35.383Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      }
+    },
+    "createTime": "2026-05-22T03:44:37.446476Z",
+    "updateTime": "2026-05-22T03:44:37.446476Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_1yHcElNf_6_4",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-22T03:44:35.383Z"
+      },
+      "main_category_id": {
+        "stringValue": "6"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_1yHcElNf"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "id": {
+        "stringValue": "prod_seller_1yHcElNf_6_4"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:44:35.383Z"
+      }
+    },
+    "createTime": "2026-05-22T03:44:37.443499Z",
+    "updateTime": "2026-05-22T03:44:37.443499Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_1yHcElNf_6_7",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "7"
+      },
+      "id": {
+        "stringValue": "prod_seller_1yHcElNf_6_7"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:44:35.383Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:44:35.383Z"
+      },
+      "main_category_id": {
+        "stringValue": "6"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_1yHcElNf"
+      }
+    },
+    "createTime": "2026-05-22T03:44:37.439210Z",
+    "updateTime": "2026-05-22T03:44:37.439210Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_VGnEuMSH_1_1",
+    "fields": {
+      "user_key": {
+        "stringValue": "prod_seller_VGnEuMSH"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:45:39.868Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:45:39.868Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "id": {
+        "stringValue": "prod_seller_VGnEuMSH_1_1"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      }
+    },
+    "createTime": "2026-05-22T03:45:40.576220Z",
+    "updateTime": "2026-05-22T03:45:40.576220Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_VGnEuMSH_1_2",
+    "fields": {
+      "id": {
+        "stringValue": "prod_seller_VGnEuMSH_1_2"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:45:39.868Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:45:39.868Z"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_VGnEuMSH"
+      }
+    },
+    "createTime": "2026-05-22T03:45:40.577716Z",
+    "updateTime": "2026-05-22T03:45:40.577716Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_VGnEuMSH_3_5",
+    "fields": {
+      "user_key": {
+        "stringValue": "prod_seller_VGnEuMSH"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:45:39.868Z"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:45:39.868Z"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "id": {
+        "stringValue": "prod_seller_VGnEuMSH_3_5"
+      }
+    },
+    "createTime": "2026-05-22T03:45:40.575626Z",
+    "updateTime": "2026-05-22T03:45:40.575626Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_VGnEuMSH_3_8",
+    "fields": {
+      "user_key": {
+        "stringValue": "prod_seller_VGnEuMSH"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:45:39.868Z"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:45:39.868Z"
+      },
+      "sub_category_id": {
+        "stringValue": "8"
+      },
+      "id": {
+        "stringValue": "prod_seller_VGnEuMSH_3_8"
+      }
+    },
+    "createTime": "2026-05-22T03:45:41.316821Z",
+    "updateTime": "2026-05-22T03:45:41.316821Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_VGnEuMSH_46_1",
+    "fields": {
+      "user_key": {
+        "stringValue": "prod_seller_VGnEuMSH"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:45:39.868Z"
+      },
+      "main_category_id": {
+        "stringValue": "46"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:45:39.868Z"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "prod_seller_VGnEuMSH_46_1"
+      }
+    },
+    "createTime": "2026-05-22T03:45:41.309786Z",
+    "updateTime": "2026-05-22T03:45:41.309786Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_VGnEuMSH_6_4",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-22T03:45:39.868Z"
+      },
+      "main_category_id": {
+        "stringValue": "6"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_VGnEuMSH"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "id": {
+        "stringValue": "prod_seller_VGnEuMSH_6_4"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:45:39.868Z"
+      }
+    },
+    "createTime": "2026-05-22T03:45:41.309539Z",
+    "updateTime": "2026-05-22T03:45:41.309539Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_VGnEuMSH_6_7",
+    "fields": {
+      "id": {
+        "stringValue": "prod_seller_VGnEuMSH_6_7"
+      },
+      "sub_category_id": {
+        "stringValue": "7"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:45:39.868Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "main_category_id": {
+        "stringValue": "6"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:45:39.868Z"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_VGnEuMSH"
+      }
+    },
+    "createTime": "2026-05-22T03:45:41.309785Z",
+    "updateTime": "2026-05-22T03:45:41.309785Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_a46iQxtS_1_1",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:45:15.020Z"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_a46iQxtS"
+      },
+      "id": {
+        "stringValue": "prod_seller_a46iQxtS_1_1"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:45:15.020Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      }
+    },
+    "createTime": "2026-05-22T03:45:15.742482Z",
+    "updateTime": "2026-05-22T03:45:15.742482Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_a46iQxtS_1_2",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "prod_seller_a46iQxtS_1_2"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:45:15.020Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:45:15.020Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_a46iQxtS"
+      }
+    },
+    "createTime": "2026-05-22T03:45:16.490489Z",
+    "updateTime": "2026-05-22T03:45:16.490489Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_a46iQxtS_3_5",
+    "fields": {
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:45:15.020Z"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "id": {
+        "stringValue": "prod_seller_a46iQxtS_3_5"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_a46iQxtS"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:45:15.020Z"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      }
+    },
+    "createTime": "2026-05-22T03:45:16.493148Z",
+    "updateTime": "2026-05-22T03:45:16.493148Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_a46iQxtS_3_8",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-22T03:45:15.020Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "id": {
+        "stringValue": "prod_seller_a46iQxtS_3_8"
+      },
+      "sub_category_id": {
+        "stringValue": "8"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_a46iQxtS"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:45:15.020Z"
+      }
+    },
+    "createTime": "2026-05-22T03:45:16.496877Z",
+    "updateTime": "2026-05-22T03:45:16.496877Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_a46iQxtS_46_1",
+    "fields": {
+      "user_key": {
+        "stringValue": "prod_seller_a46iQxtS"
+      },
+      "main_category_id": {
+        "stringValue": "46"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:45:15.020Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:45:15.020Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "id": {
+        "stringValue": "prod_seller_a46iQxtS_46_1"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      }
+    },
+    "createTime": "2026-05-22T03:45:16.501325Z",
+    "updateTime": "2026-05-22T03:45:16.501325Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_a46iQxtS_6_4",
+    "fields": {
+      "id": {
+        "stringValue": "prod_seller_a46iQxtS_6_4"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:45:15.020Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "main_category_id": {
+        "stringValue": "6"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:45:15.020Z"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_a46iQxtS"
+      }
+    },
+    "createTime": "2026-05-22T03:45:16.498294Z",
+    "updateTime": "2026-05-22T03:45:16.498294Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_a46iQxtS_6_7",
+    "fields": {
+      "user_key": {
+        "stringValue": "prod_seller_a46iQxtS"
+      },
+      "main_category_id": {
+        "stringValue": "6"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:45:15.020Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:45:15.020Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "id": {
+        "stringValue": "prod_seller_a46iQxtS_6_7"
+      },
+      "sub_category_id": {
+        "stringValue": "7"
+      }
+    },
+    "createTime": "2026-05-22T03:45:16.497318Z",
+    "updateTime": "2026-05-22T03:45:16.497318Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_ubQaIbs8_1_1",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-22T03:44:57.708Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_ubQaIbs8"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "prod_seller_ubQaIbs8_1_1"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:44:57.708Z"
+      }
+    },
+    "createTime": "2026-05-22T03:44:58.429202Z",
+    "updateTime": "2026-05-22T03:44:58.429202Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_ubQaIbs8_1_2",
+    "fields": {
+      "user_key": {
+        "stringValue": "prod_seller_ubQaIbs8"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:44:57.708Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:44:57.708Z"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "prod_seller_ubQaIbs8_1_2"
+      }
+    },
+    "createTime": "2026-05-22T03:44:58.432088Z",
+    "updateTime": "2026-05-22T03:44:58.432088Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_ubQaIbs8_3_5",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-22T03:44:57.708Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "id": {
+        "stringValue": "prod_seller_ubQaIbs8_3_5"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_ubQaIbs8"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:44:57.708Z"
+      }
+    },
+    "createTime": "2026-05-22T03:44:58.428722Z",
+    "updateTime": "2026-05-22T03:44:58.428722Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_ubQaIbs8_3_8",
+    "fields": {
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:44:57.708Z"
+      },
+      "sub_category_id": {
+        "stringValue": "8"
+      },
+      "id": {
+        "stringValue": "prod_seller_ubQaIbs8_3_8"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_ubQaIbs8"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:44:57.708Z"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      }
+    },
+    "createTime": "2026-05-22T03:44:58.434620Z",
+    "updateTime": "2026-05-22T03:44:58.434620Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_ubQaIbs8_46_1",
+    "fields": {
+      "user_key": {
+        "stringValue": "prod_seller_ubQaIbs8"
+      },
+      "main_category_id": {
+        "stringValue": "46"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:44:57.708Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:44:57.708Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "id": {
+        "stringValue": "prod_seller_ubQaIbs8_46_1"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      }
+    },
+    "createTime": "2026-05-22T03:44:59.186057Z",
+    "updateTime": "2026-05-22T03:44:59.186057Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_ubQaIbs8_6_4",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "6"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:44:57.708Z"
+      },
+      "user_key": {
+        "stringValue": "prod_seller_ubQaIbs8"
+      },
+      "id": {
+        "stringValue": "prod_seller_ubQaIbs8_6_4"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:44:57.708Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      }
+    },
+    "createTime": "2026-05-22T03:44:59.180321Z",
+    "updateTime": "2026-05-22T03:44:59.180321Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prod_seller_ubQaIbs8_6_7",
+    "fields": {
+      "user_key": {
+        "stringValue": "prod_seller_ubQaIbs8"
+      },
+      "main_category_id": {
+        "stringValue": "6"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:44:57.708Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:44:57.708Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "id": {
+        "stringValue": "prod_seller_ubQaIbs8_6_7"
+      },
+      "sub_category_id": {
+        "stringValue": "7"
+      }
+    },
+    "createTime": "2026-05-22T03:44:59.179824Z",
+    "updateTime": "2026-05-22T03:44:59.179824Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/prof_FMyHwsQ0_services_repair",
+    "fields": {
+      "id": {
+        "stringValue": "prof_FMyHwsQ0_services_repair"
+      },
+      "sub_category_id": {
+        "stringValue": "repair"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:44:48.987Z"
+      },
+      "source": {
+        "stringValue": "browser_update"
+      },
+      "main_category_id": {
+        "stringValue": "services"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:44:48.987Z"
+      },
+      "user_key": {
+        "stringValue": "prof_FMyHwsQ0"
+      }
+    },
+    "createTime": "2026-05-22T03:44:49.126788Z",
+    "updateTime": "2026-05-22T03:44:49.126788Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330676903_yvitrckw",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330676903_yvitrckw"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:15.611Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:15.611Z"
+      },
+      "user_key": {
+        "stringValue": "011vw3"
+      }
+    },
+    "createTime": "2026-05-21T02:31:17.075252Z",
+    "updateTime": "2026-05-21T02:31:17.075252Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330676904_oh4dma7b",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:15.611Z"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "specialty_1779330676904_oh4dma7b"
+      },
+      "user_key": {
+        "stringValue": "011vw3"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:15.611Z"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      }
+    },
+    "createTime": "2026-05-21T02:31:17.088989Z",
+    "updateTime": "2026-05-21T02:31:17.088989Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330678173_psuub8ux",
+    "fields": {
+      "user_key": {
+        "stringValue": "10vj2l"
+      },
+      "main_category_id": {
+        "stringValue": "2"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:17.708Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:17.708Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330678173_psuub8ux"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      }
+    },
+    "createTime": "2026-05-21T02:31:18.328475Z",
+    "updateTime": "2026-05-21T02:31:18.328475Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330678173_vjexgnj7",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330678173_vjexgnj7"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:17.708Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "2"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:17.708Z"
+      },
+      "user_key": {
+        "stringValue": "10vj2l"
+      }
+    },
+    "createTime": "2026-05-21T02:31:18.823096Z",
+    "updateTime": "2026-05-21T02:31:18.823096Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330680549_9tnrcbm0",
+    "fields": {
+      "user_key": {
+        "stringValue": "1ehs5b"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:19.286Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:19.286Z"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "id": {
+        "stringValue": "specialty_1779330680549_9tnrcbm0"
+      }
+    },
+    "createTime": "2026-05-21T02:31:20.708236Z",
+    "updateTime": "2026-05-21T02:31:20.708236Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330680549_agwgy8rh",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330680549_agwgy8rh"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:19.286Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:19.286Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "1ehs5b"
+      }
+    },
+    "createTime": "2026-05-21T02:31:20.705782Z",
+    "updateTime": "2026-05-21T02:31:20.705782Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330680550_5mi42v05",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "6"
+      },
+      "id": {
+        "stringValue": "specialty_1779330680550_5mi42v05"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:19.286Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:19.286Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "1ehs5b"
+      }
+    },
+    "createTime": "2026-05-21T02:31:20.710014Z",
+    "updateTime": "2026-05-21T02:31:20.710014Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330680550_71ddt4ab",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "id": {
+        "stringValue": "specialty_1779330680550_71ddt4ab"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:19.286Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:19.286Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "1ehs5b"
+      }
+    },
+    "createTime": "2026-05-21T02:31:20.710962Z",
+    "updateTime": "2026-05-21T02:31:20.710962Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330680550_8vf9c8j3",
+    "fields": {
+      "user_key": {
+        "stringValue": "1ehs5b"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:19.286Z"
+      },
+      "main_category_id": {
+        "stringValue": "46"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:19.286Z"
+      },
+      "sub_category_id": {
+        "nullValue": null
+      },
+      "id": {
+        "stringValue": "specialty_1779330680550_8vf9c8j3"
+      }
+    },
+    "createTime": "2026-05-21T02:31:20.713755Z",
+    "updateTime": "2026-05-21T02:31:20.713755Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330682231_buuvlozo",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:21.822Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330682231_buuvlozo"
+      },
+      "sub_category_id": {
+        "stringValue": "6"
+      },
+      "user_key": {
+        "stringValue": "1v376q"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:21.822Z"
+      }
+    },
+    "createTime": "2026-05-21T02:31:22.386907Z",
+    "updateTime": "2026-05-21T02:31:22.386907Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330683883_k60sfaxf",
+    "fields": {
+      "user_key": {
+        "stringValue": "23ekhz"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:23.470Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:23.470Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330683883_k60sfaxf"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      }
+    },
+    "createTime": "2026-05-21T02:31:24.039488Z",
+    "updateTime": "2026-05-21T02:31:24.039488Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330683884_cgj7jc44",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:23.470Z"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "specialty_1779330683884_cgj7jc44"
+      },
+      "user_key": {
+        "stringValue": "23ekhz"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:23.470Z"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      }
+    },
+    "createTime": "2026-05-21T02:31:24.043403Z",
+    "updateTime": "2026-05-21T02:31:24.043403Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330684927_pekjbxa9",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330684927_pekjbxa9"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:24.507Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:24.507Z"
+      },
+      "main_category_id": {
+        "stringValue": "17"
+      },
+      "user_key": {
+        "stringValue": "2gj6t8"
+      }
+    },
+    "createTime": "2026-05-21T02:31:25.085412Z",
+    "updateTime": "2026-05-21T02:31:25.085412Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330684928_j15yoy3l",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330684928_j15yoy3l"
+      },
+      "sub_category_id": {
+        "stringValue": "8"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:24.507Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "17"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:24.507Z"
+      },
+      "user_key": {
+        "stringValue": "2gj6t8"
+      }
+    },
+    "createTime": "2026-05-21T02:31:25.581924Z",
+    "updateTime": "2026-05-21T02:31:25.581924Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330684928_weia4iv2",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "specialty_1779330684928_weia4iv2"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:24.507Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:24.507Z"
+      },
+      "main_category_id": {
+        "stringValue": "17"
+      },
+      "user_key": {
+        "stringValue": "2gj6t8"
+      }
+    },
+    "createTime": "2026-05-21T02:31:25.083515Z",
+    "updateTime": "2026-05-21T02:31:25.083515Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330687290_8ad6egti",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:26.036Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "user_key": {
+        "stringValue": "3hpji2"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330687290_8ad6egti"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:26.036Z"
+      }
+    },
+    "createTime": "2026-05-21T02:31:27.445977Z",
+    "updateTime": "2026-05-21T02:31:27.445977Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330687290_pbxrev4j",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:26.036Z"
+      },
+      "user_key": {
+        "stringValue": "3hpji2"
+      },
+      "id": {
+        "stringValue": "specialty_1779330687290_pbxrev4j"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:26.036Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:31:27.453178Z",
+    "updateTime": "2026-05-21T02:31:27.453178Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330687291_6dfxpl2r",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:26.036Z"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "id": {
+        "stringValue": "specialty_1779330687291_6dfxpl2r"
+      },
+      "user_key": {
+        "stringValue": "3hpji2"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:26.036Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      }
+    },
+    "createTime": "2026-05-21T02:31:27.448581Z",
+    "updateTime": "2026-05-21T02:31:27.448581Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330687291_dxhcxxk5",
+    "fields": {
+      "user_key": {
+        "stringValue": "3hpji2"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:26.036Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:26.036Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330687291_dxhcxxk5"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      }
+    },
+    "createTime": "2026-05-21T02:31:27.452777Z",
+    "updateTime": "2026-05-21T02:31:27.452777Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330687291_lzakpdq1",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:26.036Z"
+      },
+      "user_key": {
+        "stringValue": "3hpji2"
+      },
+      "id": {
+        "stringValue": "specialty_1779330687291_lzakpdq1"
+      },
+      "sub_category_id": {
+        "stringValue": "8"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:26.036Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:31:27.454363Z",
+    "updateTime": "2026-05-21T02:31:27.454363Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330687291_r6n1z45c",
+    "fields": {
+      "user_key": {
+        "stringValue": "3hpji2"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:26.036Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:26.036Z"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "id": {
+        "stringValue": "specialty_1779330687291_r6n1z45c"
+      }
+    },
+    "createTime": "2026-05-21T02:31:27.449931Z",
+    "updateTime": "2026-05-21T02:31:27.449931Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330688331_81gxvrl8",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:27.917Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330688331_81gxvrl8"
+      },
+      "sub_category_id": {
+        "stringValue": "6"
+      },
+      "user_key": {
+        "stringValue": "3iztcc"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:27.917Z"
+      }
+    },
+    "createTime": "2026-05-21T02:31:28.483989Z",
+    "updateTime": "2026-05-21T02:31:28.483989Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330688331_kcqearmi",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:27.917Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330688331_kcqearmi"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "user_key": {
+        "stringValue": "3iztcc"
+      },
+      "main_category_id": {
+        "stringValue": "13"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:27.917Z"
+      }
+    },
+    "createTime": "2026-05-21T02:31:28.491762Z",
+    "updateTime": "2026-05-21T02:31:28.491762Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330689361_y3a1tjmg",
+    "fields": {
+      "user_key": {
+        "stringValue": "3l6yxe"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:28.956Z"
+      },
+      "main_category_id": {
+        "stringValue": "46"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:28.956Z"
+      },
+      "sub_category_id": {
+        "nullValue": null
+      },
+      "id": {
+        "stringValue": "specialty_1779330689361_y3a1tjmg"
+      }
+    },
+    "createTime": "2026-05-21T02:31:29.512538Z",
+    "updateTime": "2026-05-21T02:31:29.512538Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330691210_378dn5m9",
+    "fields": {
+      "user_key": {
+        "stringValue": "3w2tzf"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:29.967Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:29.967Z"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330691210_378dn5m9"
+      }
+    },
+    "createTime": "2026-05-21T02:31:32.081678Z",
+    "updateTime": "2026-05-21T02:31:32.081678Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330691210_3t2ogl32",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330691210_3t2ogl32"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:29.967Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:29.967Z"
+      },
+      "user_key": {
+        "stringValue": "3w2tzf"
+      }
+    },
+    "createTime": "2026-05-21T02:31:32.095621Z",
+    "updateTime": "2026-05-21T02:31:32.095621Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330691210_b631qu2l",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:29.967Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "3w2tzf"
+      },
+      "sub_category_id": {
+        "stringValue": "6"
+      },
+      "id": {
+        "stringValue": "specialty_1779330691210_b631qu2l"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:29.967Z"
+      }
+    },
+    "createTime": "2026-05-21T02:31:31.371214Z",
+    "updateTime": "2026-05-21T02:31:31.371214Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330691210_d1ktqkq9",
+    "fields": {
+      "user_key": {
+        "stringValue": "3w2tzf"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:29.967Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:29.967Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330691210_d1ktqkq9"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      }
+    },
+    "createTime": "2026-05-21T02:31:31.388047Z",
+    "updateTime": "2026-05-21T02:31:31.388047Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330691211_52inw24i",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:29.967Z"
+      },
+      "user_key": {
+        "stringValue": "3w2tzf"
+      },
+      "id": {
+        "stringValue": "specialty_1779330691211_52inw24i"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:29.967Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:31:32.090934Z",
+    "updateTime": "2026-05-21T02:31:32.090934Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330691211_6qhdbh8v",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:29.967Z"
+      },
+      "sub_category_id": {
+        "stringValue": "7"
+      },
+      "id": {
+        "stringValue": "specialty_1779330691211_6qhdbh8v"
+      },
+      "user_key": {
+        "stringValue": "3w2tzf"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:29.967Z"
+      },
+      "main_category_id": {
+        "stringValue": "6"
+      }
+    },
+    "createTime": "2026-05-21T02:31:31.380036Z",
+    "updateTime": "2026-05-21T02:31:31.380036Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330691211_f4h8cl5v",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:29.967Z"
+      },
+      "user_key": {
+        "stringValue": "3w2tzf"
+      },
+      "id": {
+        "stringValue": "specialty_1779330691211_f4h8cl5v"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:29.967Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:31:31.385857Z",
+    "updateTime": "2026-05-21T02:31:31.385857Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330693487_ny1f1xdz",
+    "fields": {
+      "user_key": {
+        "stringValue": "48yerm"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:33.067Z"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:33.067Z"
+      },
+      "sub_category_id": {
+        "stringValue": "8"
+      },
+      "id": {
+        "stringValue": "specialty_1779330693487_ny1f1xdz"
+      }
+    },
+    "createTime": "2026-05-21T02:31:33.638136Z",
+    "updateTime": "2026-05-21T02:31:33.638136Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330697771_e2gefds1",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:36.532Z"
+      },
+      "user_key": {
+        "stringValue": "4t1lql"
+      },
+      "id": {
+        "stringValue": "specialty_1779330697771_e2gefds1"
+      },
+      "sub_category_id": {
+        "stringValue": "6"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:36.532Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:31:37.926674Z",
+    "updateTime": "2026-05-21T02:31:37.926674Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330697771_fcu2z9zj",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "id": {
+        "stringValue": "specialty_1779330697771_fcu2z9zj"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:36.532Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:36.532Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "4t1lql"
+      }
+    },
+    "createTime": "2026-05-21T02:31:37.925640Z",
+    "updateTime": "2026-05-21T02:31:37.925640Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330697771_o41uhpev",
+    "fields": {
+      "user_key": {
+        "stringValue": "4t1lql"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:36.532Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:36.532Z"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330697771_o41uhpev"
+      }
+    },
+    "createTime": "2026-05-21T02:31:37.922387Z",
+    "updateTime": "2026-05-21T02:31:37.922387Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330699403_gocp939c",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "6"
+      },
+      "id": {
+        "stringValue": "specialty_1779330699403_gocp939c"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:38.993Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:38.993Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "5nn9xn"
+      }
+    },
+    "createTime": "2026-05-21T02:31:39.558057Z",
+    "updateTime": "2026-05-21T02:31:39.558057Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330701259_n8k7ywfg",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "id": {
+        "stringValue": "specialty_1779330701259_n8k7ywfg"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:40.030Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:40.030Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "62y8vm"
+      }
+    },
+    "createTime": "2026-05-21T02:31:41.413434Z",
+    "updateTime": "2026-05-21T02:31:41.413434Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330701260_497bfg1r",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "8"
+      },
+      "id": {
+        "stringValue": "specialty_1779330701260_497bfg1r"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:40.030Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:40.030Z"
+      },
+      "main_category_id": {
+        "stringValue": "2"
+      },
+      "user_key": {
+        "stringValue": "62y8vm"
+      }
+    },
+    "createTime": "2026-05-21T02:31:41.422348Z",
+    "updateTime": "2026-05-21T02:31:41.422348Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330701260_tvssqdve",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "2"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:40.030Z"
+      },
+      "user_key": {
+        "stringValue": "62y8vm"
+      },
+      "id": {
+        "stringValue": "specialty_1779330701260_tvssqdve"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:40.030Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:31:41.418233Z",
+    "updateTime": "2026-05-21T02:31:41.418233Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330701260_uvtnsqet",
+    "fields": {
+      "user_key": {
+        "stringValue": "62y8vm"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:40.030Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:40.030Z"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "id": {
+        "stringValue": "specialty_1779330701260_uvtnsqet"
+      }
+    },
+    "createTime": "2026-05-21T02:31:41.423357Z",
+    "updateTime": "2026-05-21T02:31:41.423357Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330704223_sm7lq3y1",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330704223_sm7lq3y1"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:43.814Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "12"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:43.814Z"
+      },
+      "user_key": {
+        "stringValue": "6e1qm3"
+      }
+    },
+    "createTime": "2026-05-21T02:31:44.379548Z",
+    "updateTime": "2026-05-21T02:31:44.379548Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330704223_xtfpse7i",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:43.814Z"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330704223_xtfpse7i"
+      },
+      "user_key": {
+        "stringValue": "6e1qm3"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:43.814Z"
+      },
+      "main_category_id": {
+        "stringValue": "12"
+      }
+    },
+    "createTime": "2026-05-21T02:31:44.380898Z",
+    "updateTime": "2026-05-21T02:31:44.380898Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330704224_wjcwdock",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:43.814Z"
+      },
+      "main_category_id": {
+        "stringValue": "12"
+      },
+      "user_key": {
+        "stringValue": "6e1qm3"
+      },
+      "sub_category_id": {
+        "stringValue": "7"
+      },
+      "id": {
+        "stringValue": "specialty_1779330704224_wjcwdock"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:43.814Z"
+      }
+    },
+    "createTime": "2026-05-21T02:31:44.382206Z",
+    "updateTime": "2026-05-21T02:31:44.382206Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330705251_h5lb7vm8",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "id": {
+        "stringValue": "specialty_1779330705251_h5lb7vm8"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:44.841Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:44.841Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "user_key": {
+        "stringValue": "6gni7h"
+      }
+    },
+    "createTime": "2026-05-21T02:31:45.406391Z",
+    "updateTime": "2026-05-21T02:31:45.406391Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330706283_3xrwxt76",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:45.863Z"
+      },
+      "sub_category_id": {
+        "stringValue": "10"
+      },
+      "id": {
+        "stringValue": "specialty_1779330706283_3xrwxt76"
+      },
+      "user_key": {
+        "stringValue": "6np115hz"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:45.863Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      }
+    },
+    "createTime": "2026-05-21T02:31:46.438Z",
+    "updateTime": "2026-05-21T02:31:46.438Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330706284_iggb9k52",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330706284_iggb9k52"
+      },
+      "sub_category_id": {
+        "stringValue": "7"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:45.863Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "6"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:45.863Z"
+      },
+      "user_key": {
+        "stringValue": "6np115hz"
+      }
+    },
+    "createTime": "2026-05-21T02:31:46.439625Z",
+    "updateTime": "2026-05-21T02:31:46.439625Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330706284_jrwmsnxe",
+    "fields": {
+      "user_key": {
+        "stringValue": "6np115hz"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:45.863Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:45.863Z"
+      },
+      "sub_category_id": {
+        "stringValue": "11"
+      },
+      "id": {
+        "stringValue": "specialty_1779330706284_jrwmsnxe"
+      }
+    },
+    "createTime": "2026-05-21T02:31:46.438265Z",
+    "updateTime": "2026-05-21T02:31:46.438265Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330707324_be0mt429",
+    "fields": {
+      "user_key": {
+        "stringValue": "77xuzx"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:46.902Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:46.902Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330707324_be0mt429"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      }
+    },
+    "createTime": "2026-05-21T02:31:47.477437Z",
+    "updateTime": "2026-05-21T02:31:47.477437Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330707324_pwr8pyef",
+    "fields": {
+      "user_key": {
+        "stringValue": "77xuzx"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:46.902Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:46.902Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330707324_pwr8pyef"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      }
+    },
+    "createTime": "2026-05-21T02:31:47.478924Z",
+    "updateTime": "2026-05-21T02:31:47.478924Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330707325_hc0zvgzk",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:46.902Z"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "id": {
+        "stringValue": "specialty_1779330707325_hc0zvgzk"
+      },
+      "user_key": {
+        "stringValue": "77xuzx"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:46.902Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      }
+    },
+    "createTime": "2026-05-21T02:31:47.480640Z",
+    "updateTime": "2026-05-21T02:31:47.480640Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330707325_j53sp50t",
+    "fields": {
+      "user_key": {
+        "stringValue": "77xuzx"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:46.902Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:46.902Z"
+      },
+      "sub_category_id": {
+        "stringValue": "8"
+      },
+      "id": {
+        "stringValue": "specialty_1779330707325_j53sp50t"
+      }
+    },
+    "createTime": "2026-05-21T02:31:47.976140Z",
+    "updateTime": "2026-05-21T02:31:47.976140Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330707325_w0f85kxs",
+    "fields": {
+      "user_key": {
+        "stringValue": "77xuzx"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:46.902Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:46.902Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330707325_w0f85kxs"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      }
+    },
+    "createTime": "2026-05-21T02:31:47.484304Z",
+    "updateTime": "2026-05-21T02:31:47.484304Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330709458_6s89lbyr",
+    "fields": {
+      "user_key": {
+        "stringValue": "7cmuvz"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:49.046Z"
+      },
+      "main_category_id": {
+        "stringValue": "13"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:49.046Z"
+      },
+      "sub_category_id": {
+        "stringValue": "6"
+      },
+      "id": {
+        "stringValue": "specialty_1779330709458_6s89lbyr"
+      }
+    },
+    "createTime": "2026-05-21T02:31:49.613611Z",
+    "updateTime": "2026-05-21T02:31:49.613611Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330709458_bq3m8nya",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330709458_bq3m8nya"
+      },
+      "sub_category_id": {
+        "stringValue": "7"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:49.046Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:49.046Z"
+      },
+      "user_key": {
+        "stringValue": "7cmuvz"
+      }
+    },
+    "createTime": "2026-05-21T02:31:49.615972Z",
+    "updateTime": "2026-05-21T02:31:49.615972Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330709459_vofg7o84",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:49.046Z"
+      },
+      "main_category_id": {
+        "stringValue": "46"
+      },
+      "user_key": {
+        "stringValue": "7cmuvz"
+      },
+      "sub_category_id": {
+        "nullValue": null
+      },
+      "id": {
+        "stringValue": "specialty_1779330709459_vofg7o84"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:49.046Z"
+      }
+    },
+    "createTime": "2026-05-21T02:31:49.620082Z",
+    "updateTime": "2026-05-21T02:31:49.620082Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330710510_nrbhjeqh",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330710510_nrbhjeqh"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:50.085Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:50.085Z"
+      },
+      "user_key": {
+        "stringValue": "7m7fiy"
+      }
+    },
+    "createTime": "2026-05-21T02:31:50.666463Z",
+    "updateTime": "2026-05-21T02:31:50.666463Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330710511_t6zu6aj9",
+    "fields": {
+      "user_key": {
+        "stringValue": "7m7fiy"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:50.085Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:50.085Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330710511_t6zu6aj9"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      }
+    },
+    "createTime": "2026-05-21T02:31:50.665371Z",
+    "updateTime": "2026-05-21T02:31:50.665371Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330711548_5w5pdnp1",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330711548_5w5pdnp1"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:51.130Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:51.130Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "86zfzu"
+      }
+    },
+    "createTime": "2026-05-21T02:31:51.702478Z",
+    "updateTime": "2026-05-21T02:31:51.702478Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330711549_l9i6ukpf",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:51.130Z"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "id": {
+        "stringValue": "specialty_1779330711549_l9i6ukpf"
+      },
+      "user_key": {
+        "stringValue": "86zfzu"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:51.130Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      }
+    },
+    "createTime": "2026-05-21T02:31:51.703224Z",
+    "updateTime": "2026-05-21T02:31:51.703224Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330712578_1tsopsbb",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:52.163Z"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330712578_1tsopsbb"
+      },
+      "user_key": {
+        "stringValue": "8ga4jn"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:52.163Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      }
+    },
+    "createTime": "2026-05-21T02:31:52.733557Z",
+    "updateTime": "2026-05-21T02:31:52.733557Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330712579_1yvpdumy",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330712579_1yvpdumy"
+      },
+      "sub_category_id": {
+        "stringValue": "12"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:52.163Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:52.163Z"
+      },
+      "user_key": {
+        "stringValue": "8ga4jn"
+      }
+    },
+    "createTime": "2026-05-21T02:31:52.735649Z",
+    "updateTime": "2026-05-21T02:31:52.735649Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330712579_vy2slfux",
+    "fields": {
+      "user_key": {
+        "stringValue": "8ga4jn"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:52.163Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:52.163Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330712579_vy2slfux"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      }
+    },
+    "createTime": "2026-05-21T02:31:52.735859Z",
+    "updateTime": "2026-05-21T02:31:52.735859Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330714229_s0v8bn6j",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:53.823Z"
+      },
+      "user_key": {
+        "stringValue": "99rrqq"
+      },
+      "id": {
+        "stringValue": "specialty_1779330714229_s0v8bn6j"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:53.823Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:31:54.382528Z",
+    "updateTime": "2026-05-21T02:31:54.382528Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330716467_5ig429cv",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:56.051Z"
+      },
+      "main_category_id": {
+        "stringValue": "13"
+      },
+      "user_key": {
+        "stringValue": "aj7g2x"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "id": {
+        "stringValue": "specialty_1779330716467_5ig429cv"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:56.051Z"
+      }
+    },
+    "createTime": "2026-05-21T02:31:56.621875Z",
+    "updateTime": "2026-05-21T02:31:56.621875Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330716468_3ewd1eba",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "13"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:56.051Z"
+      },
+      "user_key": {
+        "stringValue": "aj7g2x"
+      },
+      "id": {
+        "stringValue": "specialty_1779330716468_3ewd1eba"
+      },
+      "sub_category_id": {
+        "stringValue": "8"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:56.051Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:31:56.627248Z",
+    "updateTime": "2026-05-21T02:31:56.627248Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330716468_ewgq16sr",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330716468_ewgq16sr"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:56.051Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:56.051Z"
+      },
+      "main_category_id": {
+        "stringValue": "17"
+      },
+      "user_key": {
+        "stringValue": "aj7g2x"
+      }
+    },
+    "createTime": "2026-05-21T02:31:56.626037Z",
+    "updateTime": "2026-05-21T02:31:56.626037Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330719545_3v175904",
+    "fields": {
+      "user_key": {
+        "stringValue": "c22lew"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:58.305Z"
+      },
+      "main_category_id": {
+        "stringValue": "13"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:58.305Z"
+      },
+      "sub_category_id": {
+        "stringValue": "8"
+      },
+      "id": {
+        "stringValue": "specialty_1779330719545_3v175904"
+      }
+    },
+    "createTime": "2026-05-21T02:31:59.702984Z",
+    "updateTime": "2026-05-21T02:31:59.702984Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330719545_822p9zg2",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330719545_822p9zg2"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:58.305Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "13"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:58.305Z"
+      },
+      "user_key": {
+        "stringValue": "c22lew"
+      }
+    },
+    "createTime": "2026-05-21T02:31:59.702601Z",
+    "updateTime": "2026-05-21T02:31:59.702601Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330719545_ptawzpz4",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "12"
+      },
+      "id": {
+        "stringValue": "specialty_1779330719545_ptawzpz4"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:58.305Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:58.305Z"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      },
+      "user_key": {
+        "stringValue": "c22lew"
+      }
+    },
+    "createTime": "2026-05-21T02:31:59.699825Z",
+    "updateTime": "2026-05-21T02:31:59.699825Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330719545_uoa9hym4",
+    "fields": {
+      "user_key": {
+        "stringValue": "c22lew"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:31:58.305Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:31:58.305Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330719545_uoa9hym4"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      }
+    },
+    "createTime": "2026-05-21T02:31:59.697707Z",
+    "updateTime": "2026-05-21T02:31:59.697707Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330721192_4bjtxqas",
+    "fields": {
+      "sub_category_id": {
+        "nullValue": null
+      },
+      "id": {
+        "stringValue": "specialty_1779330721192_4bjtxqas"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:00.780Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:00.780Z"
+      },
+      "main_category_id": {
+        "stringValue": "46"
+      },
+      "user_key": {
+        "stringValue": "c4jlna"
+      }
+    },
+    "createTime": "2026-05-21T02:32:01.348445Z",
+    "updateTime": "2026-05-21T02:32:01.348445Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330721192_admxfu9x",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:00.780Z"
+      },
+      "user_key": {
+        "stringValue": "c4jlna"
+      },
+      "id": {
+        "stringValue": "specialty_1779330721192_admxfu9x"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:00.780Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:32:01.348716Z",
+    "updateTime": "2026-05-21T02:32:01.348716Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330721192_iyae34cx",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:00.780Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "c4jlna"
+      },
+      "sub_category_id": {
+        "stringValue": "6"
+      },
+      "id": {
+        "stringValue": "specialty_1779330721192_iyae34cx"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:00.780Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:01.350144Z",
+    "updateTime": "2026-05-21T02:32:01.350144Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330722842_wqp4too7",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330722842_wqp4too7"
+      },
+      "sub_category_id": {
+        "stringValue": "203"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:02.432Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "20"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:02.432Z"
+      },
+      "user_key": {
+        "stringValue": "cu0emh"
+      }
+    },
+    "createTime": "2026-05-21T02:32:02.996815Z",
+    "updateTime": "2026-05-21T02:32:02.996815Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330725320_gtchydby",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "7"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      },
+      "id": {
+        "stringValue": "specialty_1779330725320_gtchydby"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:32:05.477982Z",
+    "updateTime": "2026-05-21T02:32:05.477982Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330725320_shl6orpl",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330725320_shl6orpl"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      },
+      "main_category_id": {
+        "stringValue": "16"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:05.484484Z",
+    "updateTime": "2026-05-21T02:32:05.484484Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330725320_u0sivs6g",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "16"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      },
+      "id": {
+        "stringValue": "specialty_1779330725320_u0sivs6g"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:32:05.488762Z",
+    "updateTime": "2026-05-21T02:32:05.488762Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330725320_udtx6hh6",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330725320_udtx6hh6"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "16"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      }
+    },
+    "createTime": "2026-05-21T02:32:05.480652Z",
+    "updateTime": "2026-05-21T02:32:05.480652Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330725321_6ozyegap",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "specialty_1779330725321_6ozyegap"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "main_category_id": {
+        "stringValue": "44"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      }
+    },
+    "createTime": "2026-05-21T02:32:05.491794Z",
+    "updateTime": "2026-05-21T02:32:05.491794Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330725321_85l7owq5",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330725321_85l7owq5"
+      },
+      "sub_category_id": {
+        "stringValue": "6"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      },
+      "main_category_id": {
+        "stringValue": "16"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:05.489108Z",
+    "updateTime": "2026-05-21T02:32:05.489108Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330725321_aoasethr",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330725321_aoasethr"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "16"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      }
+    },
+    "createTime": "2026-05-21T02:32:05.485571Z",
+    "updateTime": "2026-05-21T02:32:05.485571Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330725321_dmwpps2g",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330725321_dmwpps2g"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "44"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      }
+    },
+    "createTime": "2026-05-21T02:32:05.489833Z",
+    "updateTime": "2026-05-21T02:32:05.489833Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330725321_tku98aj1",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330725321_tku98aj1"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "44"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      }
+    },
+    "createTime": "2026-05-21T02:32:05.493510Z",
+    "updateTime": "2026-05-21T02:32:05.493510Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330725321_xdintg27",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "main_category_id": {
+        "stringValue": "16"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      },
+      "sub_category_id": {
+        "stringValue": "7"
+      },
+      "id": {
+        "stringValue": "specialty_1779330725321_xdintg27"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:05.486727Z",
+    "updateTime": "2026-05-21T02:32:05.486727Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330725322_g5f3zmfp",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "id": {
+        "stringValue": "specialty_1779330725322_g5f3zmfp"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:04.060Z"
+      },
+      "main_category_id": {
+        "stringValue": "44"
+      },
+      "user_key": {
+        "stringValue": "dl14v1k7"
+      }
+    },
+    "createTime": "2026-05-21T02:32:05.499278Z",
+    "updateTime": "2026-05-21T02:32:05.499278Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330726980_4xj000ae",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:06.571Z"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      },
+      "user_key": {
+        "stringValue": "ek59s9"
+      },
+      "sub_category_id": {
+        "stringValue": "12"
+      },
+      "id": {
+        "stringValue": "specialty_1779330726980_4xj000ae"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:06.571Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:07.133954Z",
+    "updateTime": "2026-05-21T02:32:07.133954Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330728004_njftpw4t",
+    "fields": {
+      "user_key": {
+        "stringValue": "ektvax"
+      },
+      "main_category_id": {
+        "stringValue": "20"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:07.588Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:07.588Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330728004_njftpw4t"
+      },
+      "sub_category_id": {
+        "stringValue": "202"
+      }
+    },
+    "createTime": "2026-05-21T02:32:08.156558Z",
+    "updateTime": "2026-05-21T02:32:08.156558Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330729025_58qmetse",
+    "fields": {
+      "user_key": {
+        "stringValue": "fc5qrr"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:08.612Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:08.612Z"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330729025_58qmetse"
+      }
+    },
+    "createTime": "2026-05-21T02:32:09.178957Z",
+    "updateTime": "2026-05-21T02:32:09.178957Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330729025_inef7kx9",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "specialty_1779330729025_inef7kx9"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:08.612Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:08.612Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "user_key": {
+        "stringValue": "fc5qrr"
+      }
+    },
+    "createTime": "2026-05-21T02:32:09.193273Z",
+    "updateTime": "2026-05-21T02:32:09.193273Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330729025_yh0cvw1v",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:08.612Z"
+      },
+      "main_category_id": {
+        "stringValue": "6"
+      },
+      "user_key": {
+        "stringValue": "fc5qrr"
+      },
+      "sub_category_id": {
+        "stringValue": "7"
+      },
+      "id": {
+        "stringValue": "specialty_1779330729025_yh0cvw1v"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:08.612Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:09.183070Z",
+    "updateTime": "2026-05-21T02:32:09.183070Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330731276_ny9xzh5t",
+    "fields": {
+      "user_key": {
+        "stringValue": "for2dd"
+      },
+      "main_category_id": {
+        "stringValue": "20"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:10.868Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:10.868Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330731276_ny9xzh5t"
+      },
+      "sub_category_id": {
+        "stringValue": "204"
+      }
+    },
+    "createTime": "2026-05-21T02:32:11.429059Z",
+    "updateTime": "2026-05-21T02:32:11.429059Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330732304_3kh8geoh",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:11.894Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "fsjhoo"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330732304_3kh8geoh"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:11.894Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:12.463581Z",
+    "updateTime": "2026-05-21T02:32:12.463581Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330733338_z2vynnju",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:12.928Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330733338_z2vynnju"
+      },
+      "sub_category_id": {
+        "nullValue": null
+      },
+      "user_key": {
+        "stringValue": "ft9ti2"
+      },
+      "main_category_id": {
+        "stringValue": "46"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:12.928Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:13.493868Z",
+    "updateTime": "2026-05-21T02:32:13.493868Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330734967_1awkcdwk",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:14.556Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330734967_1awkcdwk"
+      },
+      "sub_category_id": {
+        "nullValue": null
+      },
+      "user_key": {
+        "stringValue": "gax4e1"
+      },
+      "main_category_id": {
+        "stringValue": "46"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:14.556Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:15.121952Z",
+    "updateTime": "2026-05-21T02:32:15.121952Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330737203_j7v30dt2",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "2"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:16.794Z"
+      },
+      "user_key": {
+        "stringValue": "haxnnu"
+      },
+      "id": {
+        "stringValue": "specialty_1779330737203_j7v30dt2"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:16.794Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:32:17.358413Z",
+    "updateTime": "2026-05-21T02:32:17.358413Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330738226_p8ep330g",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:17.817Z"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "id": {
+        "stringValue": "specialty_1779330738226_p8ep330g"
+      },
+      "user_key": {
+        "stringValue": "hdeh3x"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:17.817Z"
+      },
+      "main_category_id": {
+        "stringValue": "2"
+      }
+    },
+    "createTime": "2026-05-21T02:32:18.380554Z",
+    "updateTime": "2026-05-21T02:32:18.380554Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330741297_jd5e03tb",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:20.054Z"
+      },
+      "user_key": {
+        "stringValue": "j0cggl"
+      },
+      "id": {
+        "stringValue": "specialty_1779330741297_jd5e03tb"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:20.054Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:32:21.457115Z",
+    "updateTime": "2026-05-21T02:32:21.457115Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330741297_yphx6pw2",
+    "fields": {
+      "user_key": {
+        "stringValue": "j0cggl"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:20.054Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:20.054Z"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330741297_yphx6pw2"
+      }
+    },
+    "createTime": "2026-05-21T02:32:21.453002Z",
+    "updateTime": "2026-05-21T02:32:21.453002Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330741298_kcuqqqxn",
+    "fields": {
+      "user_key": {
+        "stringValue": "j0cggl"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:20.054Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:20.054Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330741298_kcuqqqxn"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      }
+    },
+    "createTime": "2026-05-21T02:32:21.459633Z",
+    "updateTime": "2026-05-21T02:32:21.459633Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330741298_kzvf9hwc",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:20.054Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "j0cggl"
+      },
+      "sub_category_id": {
+        "stringValue": "9"
+      },
+      "id": {
+        "stringValue": "specialty_1779330741298_kzvf9hwc"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:20.054Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:21.453749Z",
+    "updateTime": "2026-05-21T02:32:21.453749Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330742336_9ojabd1q",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:21.920Z"
+      },
+      "user_key": {
+        "stringValue": "jiyevi"
+      },
+      "id": {
+        "stringValue": "specialty_1779330742336_9ojabd1q"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:21.920Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:32:22.495257Z",
+    "updateTime": "2026-05-21T02:32:22.495257Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330742336_kitvtncr",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330742336_kitvtncr"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:21.920Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:21.920Z"
+      },
+      "user_key": {
+        "stringValue": "jiyevi"
+      }
+    },
+    "createTime": "2026-05-21T02:32:22.987797Z",
+    "updateTime": "2026-05-21T02:32:22.987797Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330742337_1wn3pdhi",
+    "fields": {
+      "user_key": {
+        "stringValue": "jiyevi"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:21.920Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:21.920Z"
+      },
+      "sub_category_id": {
+        "stringValue": "6"
+      },
+      "id": {
+        "stringValue": "specialty_1779330742337_1wn3pdhi"
+      }
+    },
+    "createTime": "2026-05-21T02:32:22.991798Z",
+    "updateTime": "2026-05-21T02:32:22.991798Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330743861_v4jfkq5x",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:23.454Z"
+      },
+      "main_category_id": {
+        "stringValue": "17"
+      },
+      "user_key": {
+        "stringValue": "jufqqo"
+      },
+      "sub_category_id": {
+        "stringValue": "8"
+      },
+      "id": {
+        "stringValue": "specialty_1779330743861_v4jfkq5x"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:23.454Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:24.018086Z",
+    "updateTime": "2026-05-21T02:32:24.018086Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330746933_ij2qa6po",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:25.694Z"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "specialty_1779330746933_ij2qa6po"
+      },
+      "user_key": {
+        "stringValue": "l48ta4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:25.694Z"
+      },
+      "main_category_id": {
+        "stringValue": "2"
+      }
+    },
+    "createTime": "2026-05-21T02:32:27.099197Z",
+    "updateTime": "2026-05-21T02:32:27.099197Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330746933_la19x143",
+    "fields": {
+      "user_key": {
+        "stringValue": "l48ta4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:25.694Z"
+      },
+      "main_category_id": {
+        "stringValue": "2"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:25.694Z"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "id": {
+        "stringValue": "specialty_1779330746933_la19x143"
+      }
+    },
+    "createTime": "2026-05-21T02:32:27.092740Z",
+    "updateTime": "2026-05-21T02:32:27.092740Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330746933_mq5d77hl",
+    "fields": {
+      "user_key": {
+        "stringValue": "l48ta4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:25.694Z"
+      },
+      "main_category_id": {
+        "stringValue": "2"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:25.694Z"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330746933_mq5d77hl"
+      }
+    },
+    "createTime": "2026-05-21T02:32:27.088911Z",
+    "updateTime": "2026-05-21T02:32:27.088911Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330746933_zgxli4bz",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:25.694Z"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "id": {
+        "stringValue": "specialty_1779330746933_zgxli4bz"
+      },
+      "user_key": {
+        "stringValue": "l48ta4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:25.694Z"
+      },
+      "main_category_id": {
+        "stringValue": "2"
+      }
+    },
+    "createTime": "2026-05-21T02:32:27.089577Z",
+    "updateTime": "2026-05-21T02:32:27.089577Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330749177_1p8lzuo9",
+    "fields": {
+      "user_key": {
+        "stringValue": "lwsedz"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:28.767Z"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:28.767Z"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330749177_1p8lzuo9"
+      }
+    },
+    "createTime": "2026-05-21T02:32:29.332744Z",
+    "updateTime": "2026-05-21T02:32:29.332744Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330751050_610xr7ed",
+    "fields": {
+      "user_key": {
+        "stringValue": "lzl9vm"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:29.798Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:29.798Z"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "id": {
+        "stringValue": "specialty_1779330751050_610xr7ed"
+      }
+    },
+    "createTime": "2026-05-21T02:32:31.226404Z",
+    "updateTime": "2026-05-21T02:32:31.226404Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330751050_bf52bato",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330751050_bf52bato"
+      },
+      "sub_category_id": {
+        "stringValue": "7"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:29.798Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:29.798Z"
+      },
+      "user_key": {
+        "stringValue": "lzl9vm"
+      }
+    },
+    "createTime": "2026-05-21T02:32:31.214318Z",
+    "updateTime": "2026-05-21T02:32:31.214318Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330751050_g7vuvyw1",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:29.798Z"
+      },
+      "user_key": {
+        "stringValue": "lzl9vm"
+      },
+      "id": {
+        "stringValue": "specialty_1779330751050_g7vuvyw1"
+      },
+      "sub_category_id": {
+        "stringValue": "9"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:29.798Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:32:31.217001Z",
+    "updateTime": "2026-05-21T02:32:31.217001Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330751050_hmifuwoo",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:29.798Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330751050_hmifuwoo"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "user_key": {
+        "stringValue": "lzl9vm"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:29.798Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:31.207791Z",
+    "updateTime": "2026-05-21T02:32:31.207791Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330751050_oqsgxodj",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:29.798Z"
+      },
+      "user_key": {
+        "stringValue": "lzl9vm"
+      },
+      "id": {
+        "stringValue": "specialty_1779330751050_oqsgxodj"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:29.798Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:32:31.205427Z",
+    "updateTime": "2026-05-21T02:32:31.205427Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330751050_slv9t3r8",
+    "fields": {
+      "user_key": {
+        "stringValue": "lzl9vm"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:29.798Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:29.798Z"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "id": {
+        "stringValue": "specialty_1779330751050_slv9t3r8"
+      }
+    },
+    "createTime": "2026-05-21T02:32:31.206527Z",
+    "updateTime": "2026-05-21T02:32:31.206527Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330751051_9skp1sjd",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:29.798Z"
+      },
+      "user_key": {
+        "stringValue": "lzl9vm"
+      },
+      "id": {
+        "stringValue": "specialty_1779330751051_9skp1sjd"
+      },
+      "sub_category_id": {
+        "stringValue": "12"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:29.798Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:32:31.217318Z",
+    "updateTime": "2026-05-21T02:32:31.217318Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330752112_41xtygl3",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:31.689Z"
+      },
+      "user_key": {
+        "stringValue": "m4y6bx"
+      },
+      "id": {
+        "stringValue": "specialty_1779330752112_41xtygl3"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:31.689Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:32:32.267755Z",
+    "updateTime": "2026-05-21T02:32:32.267755Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330752112_sre6k853",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330752112_sre6k853"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:31.689Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:31.689Z"
+      },
+      "user_key": {
+        "stringValue": "m4y6bx"
+      }
+    },
+    "createTime": "2026-05-21T02:32:32.270031Z",
+    "updateTime": "2026-05-21T02:32:32.270031Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330752113_geif3w37",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:31.689Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330752113_geif3w37"
+      },
+      "sub_category_id": {
+        "stringValue": "9"
+      },
+      "user_key": {
+        "stringValue": "m4y6bx"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:31.689Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:32.272837Z",
+    "updateTime": "2026-05-21T02:32:32.272837Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330752113_lnr0t65x",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "10"
+      },
+      "id": {
+        "stringValue": "specialty_1779330752113_lnr0t65x"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:31.689Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:31.689Z"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      },
+      "user_key": {
+        "stringValue": "m4y6bx"
+      }
+    },
+    "createTime": "2026-05-21T02:32:32.273648Z",
+    "updateTime": "2026-05-21T02:32:32.273648Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330753761_k1hdhitm",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:33.341Z"
+      },
+      "main_category_id": {
+        "stringValue": "2"
+      },
+      "user_key": {
+        "stringValue": "mf6x0b"
+      },
+      "sub_category_id": {
+        "stringValue": "9"
+      },
+      "id": {
+        "stringValue": "specialty_1779330753761_k1hdhitm"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:33.341Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:33.915012Z",
+    "updateTime": "2026-05-21T02:32:33.915012Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330753761_ndhecy54",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330753761_ndhecy54"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:33.341Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:33.341Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "user_key": {
+        "stringValue": "mf6x0b"
+      }
+    },
+    "createTime": "2026-05-21T02:32:33.919381Z",
+    "updateTime": "2026-05-21T02:32:33.919381Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330753761_u6jw8rfq",
+    "fields": {
+      "user_key": {
+        "stringValue": "mf6x0b"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:33.341Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:33.341Z"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "specialty_1779330753761_u6jw8rfq"
+      }
+    },
+    "createTime": "2026-05-21T02:32:33.918922Z",
+    "updateTime": "2026-05-21T02:32:33.918922Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330753762_8joqtc99",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330753762_8joqtc99"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:33.341Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:33.341Z"
+      },
+      "user_key": {
+        "stringValue": "mf6x0b"
+      }
+    },
+    "createTime": "2026-05-21T02:32:33.922167Z",
+    "updateTime": "2026-05-21T02:32:33.922167Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330756006_b1cxk52q",
+    "fields": {
+      "user_key": {
+        "stringValue": "my2okf"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:35.597Z"
+      },
+      "main_category_id": {
+        "stringValue": "2"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:35.597Z"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330756006_b1cxk52q"
+      }
+    },
+    "createTime": "2026-05-21T02:32:36.159236Z",
+    "updateTime": "2026-05-21T02:32:36.159236Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330757042_pdjji8t1",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:36.626Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "user_key": {
+        "stringValue": "nnhoch"
+      },
+      "sub_category_id": {
+        "nullValue": null
+      },
+      "id": {
+        "stringValue": "specialty_1779330757042_pdjji8t1"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:36.626Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:37.206839Z",
+    "updateTime": "2026-05-21T02:32:37.206839Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330757043_n3db0y7y",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:36.626Z"
+      },
+      "sub_category_id": {
+        "stringValue": "8"
+      },
+      "id": {
+        "stringValue": "specialty_1779330757043_n3db0y7y"
+      },
+      "user_key": {
+        "stringValue": "nnhoch"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:36.626Z"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      }
+    },
+    "createTime": "2026-05-21T02:32:37.199300Z",
+    "updateTime": "2026-05-21T02:32:37.199300Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330757043_vvmiqi4q",
+    "fields": {
+      "user_key": {
+        "stringValue": "nnhoch"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:36.626Z"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:36.626Z"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "id": {
+        "stringValue": "specialty_1779330757043_vvmiqi4q"
+      }
+    },
+    "createTime": "2026-05-21T02:32:37.203237Z",
+    "updateTime": "2026-05-21T02:32:37.203237Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330757044_i1hmj6cy",
+    "fields": {
+      "user_key": {
+        "stringValue": "nnhoch"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:36.626Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:36.626Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330757044_i1hmj6cy"
+      },
+      "sub_category_id": {
+        "stringValue": "9"
+      }
+    },
+    "createTime": "2026-05-21T02:32:37.204935Z",
+    "updateTime": "2026-05-21T02:32:37.204935Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330758073_288rq84a",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:37.663Z"
+      },
+      "user_key": {
+        "stringValue": "nskjkj"
+      },
+      "id": {
+        "stringValue": "specialty_1779330758073_288rq84a"
+      },
+      "sub_category_id": {
+        "stringValue": "13"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:37.663Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:32:38.227936Z",
+    "updateTime": "2026-05-21T02:32:38.227936Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330759111_0cdk7a2v",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:38.697Z"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330759111_0cdk7a2v"
+      },
+      "user_key": {
+        "stringValue": "nwo9hn"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:38.697Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      }
+    },
+    "createTime": "2026-05-21T02:32:39.263433Z",
+    "updateTime": "2026-05-21T02:32:39.263433Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330759112_5ss7x5ha",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330759112_5ss7x5ha"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:38.697Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:38.697Z"
+      },
+      "user_key": {
+        "stringValue": "nwo9hn"
+      }
+    },
+    "createTime": "2026-05-21T02:32:39.269190Z",
+    "updateTime": "2026-05-21T02:32:39.269190Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330759112_iygka354",
+    "fields": {
+      "user_key": {
+        "stringValue": "nwo9hn"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:38.697Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:38.697Z"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "specialty_1779330759112_iygka354"
+      }
+    },
+    "createTime": "2026-05-21T02:32:39.268442Z",
+    "updateTime": "2026-05-21T02:32:39.268442Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330760146_c75wbzl6",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330760146_c75wbzl6"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:39.730Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:39.730Z"
+      },
+      "user_key": {
+        "stringValue": "o11ihj"
+      }
+    },
+    "createTime": "2026-05-21T02:32:40.304985Z",
+    "updateTime": "2026-05-21T02:32:40.304985Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330762001_kubtqwka",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "id": {
+        "stringValue": "specialty_1779330762001_kubtqwka"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:40.767Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:40.767Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "user_key": {
+        "stringValue": "o69jdw"
+      }
+    },
+    "createTime": "2026-05-21T02:32:42.160294Z",
+    "updateTime": "2026-05-21T02:32:42.160294Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330762001_oa1ylfdk",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330762001_oa1ylfdk"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:40.767Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:40.767Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "user_key": {
+        "stringValue": "o69jdw"
+      }
+    },
+    "createTime": "2026-05-21T02:32:42.155480Z",
+    "updateTime": "2026-05-21T02:32:42.155480Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330762001_vst0ews5",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:40.767Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "user_key": {
+        "stringValue": "o69jdw"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "specialty_1779330762001_vst0ews5"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:40.767Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:42.161875Z",
+    "updateTime": "2026-05-21T02:32:42.161875Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330762002_uxlewx6t",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:40.767Z"
+      },
+      "user_key": {
+        "stringValue": "o69jdw"
+      },
+      "id": {
+        "stringValue": "specialty_1779330762002_uxlewx6t"
+      },
+      "sub_category_id": {
+        "stringValue": "8"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:40.767Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:32:42.164739Z",
+    "updateTime": "2026-05-21T02:32:42.164739Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330762002_zb2720qu",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:40.767Z"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "id": {
+        "stringValue": "specialty_1779330762002_zb2720qu"
+      },
+      "user_key": {
+        "stringValue": "o69jdw"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:40.767Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      }
+    },
+    "createTime": "2026-05-21T02:32:42.160527Z",
+    "updateTime": "2026-05-21T02:32:42.160527Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330763032_nj0y889a",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:42.623Z"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      },
+      "user_key": {
+        "stringValue": "okswky"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "id": {
+        "stringValue": "specialty_1779330763032_nj0y889a"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:42.623Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:43.185764Z",
+    "updateTime": "2026-05-21T02:32:43.185764Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330764667_688k1cyt",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330764667_688k1cyt"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:44.254Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:44.254Z"
+      },
+      "user_key": {
+        "stringValue": "on0cj9"
+      }
+    },
+    "createTime": "2026-05-21T02:32:44.823081Z",
+    "updateTime": "2026-05-21T02:32:44.823081Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330764667_xyv5lcdu",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:44.254Z"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "user_key": {
+        "stringValue": "on0cj9"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "specialty_1779330764667_xyv5lcdu"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:44.254Z"
+      }
+    },
+    "createTime": "2026-05-21T02:32:44.824883Z",
+    "updateTime": "2026-05-21T02:32:44.824883Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330764668_3sttczsy",
+    "fields": {
+      "user_key": {
+        "stringValue": "on0cj9"
+      },
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:44.254Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:44.254Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330764668_3sttczsy"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      }
+    },
+    "createTime": "2026-05-21T02:32:44.828746Z",
+    "updateTime": "2026-05-21T02:32:44.828746Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330765702_mvxs8azp",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:45.291Z"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330765702_mvxs8azp"
+      },
+      "user_key": {
+        "stringValue": "otd7o3"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:45.291Z"
+      },
+      "main_category_id": {
+        "stringValue": "2"
+      }
+    },
+    "createTime": "2026-05-21T02:32:45.854777Z",
+    "updateTime": "2026-05-21T02:32:45.854777Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330765703_4kq3wipe",
+    "fields": {
+      "user_key": {
+        "stringValue": "otd7o3"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:45.291Z"
+      },
+      "main_category_id": {
+        "stringValue": "2"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:45.291Z"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "specialty_1779330765703_4kq3wipe"
+      }
+    },
+    "createTime": "2026-05-21T02:32:45.857260Z",
+    "updateTime": "2026-05-21T02:32:45.857260Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330767319_r6e0lb1y",
+    "fields": {
+      "user_key": {
+        "stringValue": "oyeggx"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:46.913Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:46.913Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330767319_r6e0lb1y"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      }
+    },
+    "createTime": "2026-05-21T02:32:47.473256Z",
+    "updateTime": "2026-05-21T02:32:47.473256Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330772035_pylbxjef",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "services"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:51.625Z"
+      },
+      "user_key": {
+        "stringValue": "prof_YTiiPnHC"
+      },
+      "id": {
+        "stringValue": "specialty_1779330772035_pylbxjef"
+      },
+      "sub_category_id": {
+        "stringValue": "repair"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:51.625Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:32:52.189405Z",
+    "updateTime": "2026-05-21T02:32:52.189405Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330774282_6dg0m8cn",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330774282_6dg0m8cn"
+      },
+      "sub_category_id": {
+        "stringValue": "204"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:53.870Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "20"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:53.870Z"
+      },
+      "user_key": {
+        "stringValue": "q62uuv"
+      }
+    },
+    "createTime": "2026-05-21T02:32:54.435503Z",
+    "updateTime": "2026-05-21T02:32:54.435503Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330776147_fsmiy5y4",
+    "fields": {
+      "user_key": {
+        "stringValue": "q7uz7a"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:54.896Z"
+      },
+      "main_category_id": {
+        "stringValue": "12"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:54.896Z"
+      },
+      "sub_category_id": {
+        "stringValue": "6"
+      },
+      "id": {
+        "stringValue": "specialty_1779330776147_fsmiy5y4"
+      }
+    },
+    "createTime": "2026-05-21T02:32:56.306248Z",
+    "updateTime": "2026-05-21T02:32:56.306248Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330776147_g73hdvnj",
+    "fields": {
+      "user_key": {
+        "stringValue": "q7uz7a"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:54.896Z"
+      },
+      "main_category_id": {
+        "stringValue": "12"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:54.896Z"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "id": {
+        "stringValue": "specialty_1779330776147_g73hdvnj"
+      }
+    },
+    "createTime": "2026-05-21T02:32:56.306597Z",
+    "updateTime": "2026-05-21T02:32:56.306597Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330776147_vfgxipgh",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330776147_vfgxipgh"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:54.896Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "12"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:54.896Z"
+      },
+      "user_key": {
+        "stringValue": "q7uz7a"
+      }
+    },
+    "createTime": "2026-05-21T02:32:56.304385Z",
+    "updateTime": "2026-05-21T02:32:56.304385Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330776147_w6uom60e",
+    "fields": {
+      "user_key": {
+        "stringValue": "q7uz7a"
+      },
+      "main_category_id": {
+        "stringValue": "12"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:54.896Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:54.896Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330776147_w6uom60e"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      }
+    },
+    "createTime": "2026-05-21T02:32:56.302149Z",
+    "updateTime": "2026-05-21T02:32:56.302149Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330776148_0m9kco51",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "12"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:54.896Z"
+      },
+      "user_key": {
+        "stringValue": "q7uz7a"
+      },
+      "id": {
+        "stringValue": "specialty_1779330776148_0m9kco51"
+      },
+      "sub_category_id": {
+        "stringValue": "7"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:54.896Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:32:56.309846Z",
+    "updateTime": "2026-05-21T02:32:56.309846Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330777188_0j5x3ulm",
+    "fields": {
+      "user_key": {
+        "stringValue": "qgrlqy"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:56.776Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:56.776Z"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "id": {
+        "stringValue": "specialty_1779330777188_0j5x3ulm"
+      }
+    },
+    "createTime": "2026-05-21T02:32:57.348050Z",
+    "updateTime": "2026-05-21T02:32:57.348050Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330777188_84j692j5",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "id": {
+        "stringValue": "specialty_1779330777188_84j692j5"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:56.776Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:56.776Z"
+      },
+      "main_category_id": {
+        "stringValue": "13"
+      },
+      "user_key": {
+        "stringValue": "qgrlqy"
+      }
+    },
+    "createTime": "2026-05-21T02:32:57.844533Z",
+    "updateTime": "2026-05-21T02:32:57.844533Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330778707_dxnzdamj",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:58.301Z"
+      },
+      "user_key": {
+        "stringValue": "qpfdyp"
+      },
+      "id": {
+        "stringValue": "specialty_1779330778707_dxnzdamj"
+      },
+      "sub_category_id": {
+        "stringValue": "8"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:58.301Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:32:58.860064Z",
+    "updateTime": "2026-05-21T02:32:58.860064Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330780338_7psxyi2i",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-21T02:32:59.928Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330780338_7psxyi2i"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "sh3raq"
+      },
+      "main_category_id": {
+        "stringValue": "13"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:32:59.928Z"
+      }
+    },
+    "createTime": "2026-05-21T02:33:00.496119Z",
+    "updateTime": "2026-05-21T02:33:00.496119Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330781367_tq1fm24n",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330781367_tq1fm24n"
+      },
+      "sub_category_id": {
+        "stringValue": "7"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:00.958Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "2"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:00.958Z"
+      },
+      "user_key": {
+        "stringValue": "spmjg8"
+      }
+    },
+    "createTime": "2026-05-21T02:33:01.519671Z",
+    "updateTime": "2026-05-21T02:33:01.519671Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330782382_oql1g84k",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "2"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:01.976Z"
+      },
+      "user_key": {
+        "stringValue": "sub1zi"
+      },
+      "id": {
+        "stringValue": "specialty_1779330782382_oql1g84k"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:01.976Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:33:02.533083Z",
+    "updateTime": "2026-05-21T02:33:02.533083Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330784212_f1ev0kli",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330784212_f1ev0kli"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:02.994Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:02.994Z"
+      },
+      "user_key": {
+        "stringValue": "tdeggy"
+      }
+    },
+    "createTime": "2026-05-21T02:33:04.364747Z",
+    "updateTime": "2026-05-21T02:33:04.364747Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330784212_zjzamn1e",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:02.994Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330784212_zjzamn1e"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "user_key": {
+        "stringValue": "tdeggy"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:02.994Z"
+      }
+    },
+    "createTime": "2026-05-21T02:33:04.367754Z",
+    "updateTime": "2026-05-21T02:33:04.367754Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330785244_cxh1ctrn",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "202"
+      },
+      "id": {
+        "stringValue": "specialty_1779330785244_cxh1ctrn"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:04.831Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:04.831Z"
+      },
+      "main_category_id": {
+        "stringValue": "20"
+      },
+      "user_key": {
+        "stringValue": "u9boqg"
+      }
+    },
+    "createTime": "2026-05-21T02:33:05.418059Z",
+    "updateTime": "2026-05-21T02:33:05.418059Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330785244_fvflukjp",
+    "fields": {
+      "user_key": {
+        "stringValue": "u9boqg"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:04.831Z"
+      },
+      "main_category_id": {
+        "stringValue": "20"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:04.831Z"
+      },
+      "sub_category_id": {
+        "stringValue": "203"
+      },
+      "id": {
+        "stringValue": "specialty_1779330785244_fvflukjp"
+      }
+    },
+    "createTime": "2026-05-21T02:33:05.895482Z",
+    "updateTime": "2026-05-21T02:33:05.895482Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330787364_9kj4hj6w",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:06.956Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330787364_9kj4hj6w"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "user_key": {
+        "stringValue": "uue3t3"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:06.956Z"
+      }
+    },
+    "createTime": "2026-05-21T02:33:07.521810Z",
+    "updateTime": "2026-05-21T02:33:07.521810Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330787364_c2o1nyk3",
+    "fields": {
+      "user_key": {
+        "stringValue": "uue3t3"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:06.956Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:06.956Z"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330787364_c2o1nyk3"
+      }
+    },
+    "createTime": "2026-05-21T02:33:07.520498Z",
+    "updateTime": "2026-05-21T02:33:07.520498Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330788407_4ttqq62k",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:07.995Z"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "user_key": {
+        "stringValue": "uv8a4o"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "id": {
+        "stringValue": "specialty_1779330788407_4ttqq62k"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:07.995Z"
+      }
+    },
+    "createTime": "2026-05-21T02:33:08.560059Z",
+    "updateTime": "2026-05-21T02:33:08.560059Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330789426_4w3rvctx",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "4"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:09.019Z"
+      },
+      "user_key": {
+        "stringValue": "uy9kwv"
+      },
+      "id": {
+        "stringValue": "specialty_1779330789426_4w3rvctx"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:09.019Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:33:09.583389Z",
+    "updateTime": "2026-05-21T02:33:09.583389Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330791067_oqspfvf2",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "2"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:10.653Z"
+      },
+      "user_key": {
+        "stringValue": "v7iayi"
+      },
+      "id": {
+        "stringValue": "specialty_1779330791067_oqspfvf2"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:10.653Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:33:11.219147Z",
+    "updateTime": "2026-05-21T02:33:11.219147Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330792917_110zc9hh",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:11.675Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330792917_110zc9hh"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "user_key": {
+        "stringValue": "v8p7jb"
+      },
+      "main_category_id": {
+        "stringValue": "13"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:11.675Z"
+      }
+    },
+    "createTime": "2026-05-21T02:33:13.075672Z",
+    "updateTime": "2026-05-21T02:33:13.075672Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330792917_1c9hp277",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330792917_1c9hp277"
+      },
+      "sub_category_id": {
+        "stringValue": "12"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:11.675Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:11.675Z"
+      },
+      "user_key": {
+        "stringValue": "v8p7jb"
+      }
+    },
+    "createTime": "2026-05-21T02:33:13.078495Z",
+    "updateTime": "2026-05-21T02:33:13.078495Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330792917_3ue3lwom",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:11.675Z"
+      },
+      "main_category_id": {
+        "stringValue": "5"
+      },
+      "user_key": {
+        "stringValue": "v8p7jb"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "id": {
+        "stringValue": "specialty_1779330792917_3ue3lwom"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:11.675Z"
+      }
+    },
+    "createTime": "2026-05-21T02:33:13.073711Z",
+    "updateTime": "2026-05-21T02:33:13.073711Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330792917_wtb2xjxd",
+    "fields": {
+      "user_key": {
+        "stringValue": "v8p7jb"
+      },
+      "main_category_id": {
+        "stringValue": "13"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:11.675Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:11.675Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330792917_wtb2xjxd"
+      },
+      "sub_category_id": {
+        "stringValue": "8"
+      }
+    },
+    "createTime": "2026-05-21T02:33:13.076574Z",
+    "updateTime": "2026-05-21T02:33:13.076574Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330795170_j33lpp5z",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "6"
+      },
+      "id": {
+        "stringValue": "specialty_1779330795170_j33lpp5z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:14.753Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:14.753Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "w9opmy"
+      }
+    },
+    "createTime": "2026-05-21T02:33:15.826403Z",
+    "updateTime": "2026-05-21T02:33:15.826403Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330795170_mspwbtg6",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:14.753Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "user_key": {
+        "stringValue": "w9opmy"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "id": {
+        "stringValue": "specialty_1779330795170_mspwbtg6"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:14.753Z"
+      }
+    },
+    "createTime": "2026-05-21T02:33:15.325320Z",
+    "updateTime": "2026-05-21T02:33:15.325320Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330796696_g8cu8l55",
+    "fields": {
+      "user_key": {
+        "stringValue": "wjo9v8"
+      },
+      "main_category_id": {
+        "stringValue": "20"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:16.288Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:16.288Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330796696_g8cu8l55"
+      },
+      "sub_category_id": {
+        "stringValue": "203"
+      }
+    },
+    "createTime": "2026-05-21T02:33:16.853203Z",
+    "updateTime": "2026-05-21T02:33:16.853203Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330797713_1kk5vilr",
+    "fields": {
+      "id": {
+        "stringValue": "specialty_1779330797713_1kk5vilr"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:17.308Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:17.308Z"
+      },
+      "user_key": {
+        "stringValue": "wn7gtc"
+      }
+    },
+    "createTime": "2026-05-21T02:33:17.864825Z",
+    "updateTime": "2026-05-21T02:33:17.864825Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330798733_cnug9e1n",
+    "fields": {
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:18.321Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330798733_cnug9e1n"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "user_key": {
+        "stringValue": "wtlrmg"
+      },
+      "main_category_id": {
+        "stringValue": "44"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:18.321Z"
+      }
+    },
+    "createTime": "2026-05-21T02:33:18.887078Z",
+    "updateTime": "2026-05-21T02:33:18.887078Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330798733_re1926pp",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330798733_re1926pp"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:18.321Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:18.321Z"
+      },
+      "main_category_id": {
+        "stringValue": "44"
+      },
+      "user_key": {
+        "stringValue": "wtlrmg"
+      }
+    },
+    "createTime": "2026-05-21T02:33:18.886545Z",
+    "updateTime": "2026-05-21T02:33:18.886545Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330799760_nwixkkao",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:19.353Z"
+      },
+      "user_key": {
+        "stringValue": "y379lz"
+      },
+      "id": {
+        "stringValue": "specialty_1779330799760_nwixkkao"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:19.353Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:33:19.912716Z",
+    "updateTime": "2026-05-21T02:33:19.912716Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330801395_ig1cj3lt",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:20.980Z"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "user_key": {
+        "stringValue": "yx4x13"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330801395_ig1cj3lt"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:20.980Z"
+      }
+    },
+    "createTime": "2026-05-21T02:33:21.553547Z",
+    "updateTime": "2026-05-21T02:33:21.553547Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330801395_x1ejqhoy",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "id": {
+        "stringValue": "specialty_1779330801395_x1ejqhoy"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:20.980Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:20.980Z"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "user_key": {
+        "stringValue": "yx4x13"
+      }
+    },
+    "createTime": "2026-05-21T02:33:21.552005Z",
+    "updateTime": "2026-05-21T02:33:21.552005Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330802421_wnsbkydi",
+    "fields": {
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:22.015Z"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "specialty_1779330802421_wnsbkydi"
+      },
+      "user_key": {
+        "stringValue": "zo0pjv"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:22.015Z"
+      },
+      "main_category_id": {
+        "stringValue": "2"
+      }
+    },
+    "createTime": "2026-05-21T02:33:22.577442Z",
+    "updateTime": "2026-05-21T02:33:22.577442Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330804062_4gjspb5x",
+    "fields": {
+      "user_key": {
+        "stringValue": "zsgekm"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:23.652Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:23.652Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "id": {
+        "stringValue": "specialty_1779330804062_4gjspb5x"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      }
+    },
+    "createTime": "2026-05-21T02:33:24.216407Z",
+    "updateTime": "2026-05-21T02:33:24.216407Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330804063_a1o77czw",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:23.652Z"
+      },
+      "user_key": {
+        "stringValue": "zsgekm"
+      },
+      "id": {
+        "stringValue": "specialty_1779330804063_a1o77czw"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:23.652Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:33:24.217602Z",
+    "updateTime": "2026-05-21T02:33:24.217602Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330805811_rwmgt7rb",
+    "fields": {
+      "user_key": {
+        "stringValue": "zynpp7"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:25.284Z"
+      },
+      "main_category_id": {
+        "stringValue": "1"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:25.284Z"
+      },
+      "sub_category_id": {
+        "stringValue": "5"
+      },
+      "id": {
+        "stringValue": "specialty_1779330805811_rwmgt7rb"
+      }
+    },
+    "createTime": "2026-05-21T02:33:25.967029Z",
+    "updateTime": "2026-05-21T02:33:25.967029Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330805812_67oo3opr",
+    "fields": {
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "id": {
+        "stringValue": "specialty_1779330805812_67oo3opr"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:25.284Z"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:25.284Z"
+      },
+      "main_category_id": {
+        "stringValue": "13"
+      },
+      "user_key": {
+        "stringValue": "zynpp7"
+      }
+    },
+    "createTime": "2026-05-21T02:33:25.969812Z",
+    "updateTime": "2026-05-21T02:33:25.969812Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/specialty_1779330805812_94ducbhg",
+    "fields": {
+      "main_category_id": {
+        "stringValue": "46"
+      },
+      "created_at": {
+        "stringValue": "2026-05-21T02:33:25.284Z"
+      },
+      "user_key": {
+        "stringValue": "zynpp7"
+      },
+      "id": {
+        "stringValue": "specialty_1779330805812_94ducbhg"
+      },
+      "sub_category_id": {
+        "nullValue": null
+      },
+      "updated_at": {
+        "stringValue": "2026-05-21T02:33:25.284Z"
+      },
+      "source": {
+        "stringValue": "role_cleanup"
+      }
+    },
+    "createTime": "2026-05-21T02:33:25.972543Z",
+    "updateTime": "2026-05-21T02:33:25.972543Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/t6wman_services_repair",
+    "fields": {
+      "id": {
+        "stringValue": "t6wman_services_repair"
+      },
+      "sub_category_id": {
+        "stringValue": "repair"
+      },
+      "updated_at": {
+        "stringValue": "2026-05-22T03:45:31.723Z"
+      },
+      "source": {
+        "stringValue": "register_v2"
+      },
+      "main_category_id": {
+        "stringValue": "services"
+      },
+      "created_at": {
+        "stringValue": "2026-05-22T03:45:31.723Z"
+      },
+      "user_key": {
+        "stringValue": "t6wman"
+      }
+    },
+    "createTime": "2026-05-22T03:45:32.988907Z",
+    "updateTime": "2026-05-22T03:45:32.988907Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/y0ks5y_3_1",
+    "fields": {
+      "source": {
+        "stringValue": "browser_update"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T19:55:39.676Z"
+      },
+      "sub_category_id": {
+        "stringValue": "1"
+      },
+      "id": {
+        "stringValue": "y0ks5y_3_1"
+      },
+      "user_key": {
+        "stringValue": "y0ks5y"
+      },
+      "created_at": {
+        "stringValue": "2026-06-04T19:55:39.676Z"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      }
+    },
+    "createTime": "2026-06-04T19:55:40.402893Z",
+    "updateTime": "2026-06-04T19:55:40.402893Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/y0ks5y_3_11",
+    "fields": {
+      "user_key": {
+        "stringValue": "y0ks5y"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "created_at": {
+        "stringValue": "2026-06-04T19:55:39.676Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T19:55:39.676Z"
+      },
+      "source": {
+        "stringValue": "browser_update"
+      },
+      "id": {
+        "stringValue": "y0ks5y_3_11"
+      },
+      "sub_category_id": {
+        "stringValue": "11"
+      }
+    },
+    "createTime": "2026-06-04T19:55:40.408271Z",
+    "updateTime": "2026-06-04T19:55:40.408271Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/y0ks5y_3_2",
+    "fields": {
+      "created_at": {
+        "stringValue": "2026-06-04T19:55:39.676Z"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "user_key": {
+        "stringValue": "y0ks5y"
+      },
+      "sub_category_id": {
+        "stringValue": "2"
+      },
+      "id": {
+        "stringValue": "y0ks5y_3_2"
+      },
+      "source": {
+        "stringValue": "browser_update"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T19:55:39.676Z"
+      }
+    },
+    "createTime": "2026-06-04T19:55:40.406433Z",
+    "updateTime": "2026-06-04T19:55:40.406433Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/y0ks5y_3_3",
+    "fields": {
+      "id": {
+        "stringValue": "y0ks5y_3_3"
+      },
+      "sub_category_id": {
+        "stringValue": "3"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T19:55:39.676Z"
+      },
+      "source": {
+        "stringValue": "browser_update"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "created_at": {
+        "stringValue": "2026-06-04T19:55:39.676Z"
+      },
+      "user_key": {
+        "stringValue": "y0ks5y"
+      }
+    },
+    "createTime": "2026-06-04T19:55:40.409279Z",
+    "updateTime": "2026-06-04T19:55:40.409279Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/y0ks5y_3_4",
+    "fields": {
+      "source": {
+        "stringValue": "browser_update"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T19:55:39.676Z"
+      },
+      "sub_category_id": {
+        "stringValue": "4"
+      },
+      "id": {
+        "stringValue": "y0ks5y_3_4"
+      },
+      "user_key": {
+        "stringValue": "y0ks5y"
+      },
+      "created_at": {
+        "stringValue": "2026-06-04T19:55:39.676Z"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      }
+    },
+    "createTime": "2026-06-04T19:55:40.409632Z",
+    "updateTime": "2026-06-04T19:55:40.409632Z"
+  },
+  {
+    "name": "projects/users-baad9/databases/(default)/documents/user_specialties/y0ks5y_3_7",
+    "fields": {
+      "user_key": {
+        "stringValue": "y0ks5y"
+      },
+      "main_category_id": {
+        "stringValue": "3"
+      },
+      "created_at": {
+        "stringValue": "2026-06-04T19:55:39.676Z"
+      },
+      "updated_at": {
+        "stringValue": "2026-06-04T19:55:39.676Z"
+      },
+      "source": {
+        "stringValue": "browser_update"
+      },
+      "id": {
+        "stringValue": "y0ks5y_3_7"
+      },
+      "sub_category_id": {
+        "stringValue": "7"
+      }
+    },
+    "createTime": "2026-06-04T19:55:40.404565Z",
+    "updateTime": "2026-06-04T19:55:40.404565Z"
+  }
+]
