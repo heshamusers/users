@@ -4,7 +4,6 @@
  */
 import {
   PRIMARY_KEYS,
-  encodeDocument,
   queryCollection,
 } from "../lib/identity-store.js";
 
@@ -95,16 +94,14 @@ export default async function handler(req, res) {
           }
         };
 
+        // Return flat row objects (parsed JSON columns) so frontend gets fields like `user_image` directly.
         const userRows = await queryCollection("users", userWhere, null, limit, offset);
-        const users = userRows.map(row => encodeDocument("users", row));
-        
-        return res.status(200).json(users);
+        return res.status(200).json(userRows);
       }
 
       // Default: list all users
       const userRows = await queryCollection("users", null, null, limit, offset);
-      const users = userRows.map(row => encodeDocument("users", row));
-      return res.status(200).json(users);
+      return res.status(200).json(userRows);
     }
 
     res.status(405).json({ error: "Method not allowed" });
