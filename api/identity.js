@@ -16,8 +16,9 @@ import {
 
 function setCorsHeaders(res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
-  res.setHeader("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE, OPTIONS");
-  res.setHeader("Access-Control-Allow-Headers", "Content-Type, X-API-Key, Authorization");
+  res.setHeader("Access-Control-Allow-Methods", "*");
+  res.setHeader("Access-Control-Allow-Headers", "*");
+  res.setHeader("Access-Control-Max-Age", "86400");
 }
 
 async function readBody(req) {
@@ -64,6 +65,9 @@ export default async function handler(req, res) {
   if (req.method === "OPTIONS") {
     return res.status(200).end();
   }
+
+  console.log(`[identity] request=${req.method} url=${req.url} host=${req.headers.host || 'unknown'} content-type=${req.headers['content-type'] || 'unknown'}`);
+  console.log(`[identity] env USE_LOCAL_DB=${process.env.USE_LOCAL_DB || 'false'} TURSO_DATABASE_URL=${process.env.TURSO_DATABASE_URL ? 'set' : 'unset'} TURSO_AUTH_TOKEN=${process.env.TURSO_AUTH_TOKEN ? 'set' : 'unset'}`);
 
   try {
     const url = new URL(req.url, "http://localhost");
@@ -217,7 +221,17 @@ export default async function handler(req, res) {
 
     res.status(405).json({ error: "Method not allowed" });
   } catch (error) {
-    console.error("[identity]", error);
+    console.error("[identity] CATCH", {
+      message: error?.message || String(error),
+      method: req.method,
+      url: req.url,
+      headers: {
+        host: req.headers?.host,
+        origin: req.headers?.origin,
+        referer: req.headers?.referer,
+        "content-type": req.headers?.['content-type'],
+      },
+    });
     res.status(500).json({ error: error.message || "Server error" });
   }
 }
